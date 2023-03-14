@@ -1,0 +1,86 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+108;Art der hoheitlichen Maßnahme;Art der hoheitlichen Maßnahme;ZIR;V1.7;20210203
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+108_1;Platzverweis;0;1;0;NULL;;;;;
+108_10;erkennungsdienstliche Maßnahme;0;1;0;NULL;;;;;
+108_11;Vorladung;0;1;0;NULL;;;;;
+108_12;Vernehmung;0;1;0;NULL;;;;;
+108_13;Befragung;0;1;0;NULL;;;;;
+108_14;Annäherungsverbot;0;1;0;NULL;;;;;
+108_15;Betreten einer Wohnung;0;1;0;NULL;;;;;
+108_16;Fahndung;0;1;0;NULL;;;;;
+108_17;polizeiliche Beobachtung;0;1;0;NULL;;;;;
+108_18;Observation;0;1;0;NULL;;;;;
+108_2;Wohnungsverweis;0;1;0;NULL;;;;;
+108_20;Rechtshilfe;0;1;0;NULL;;;;;
+108_21;ausländerrechtliche Maßnahme;0;1;0;NULL;;;;;
+108_22;polizeiliche Maßnahme;0;1;0;NULL;;;;;
+108_23;Abschiebung;0;1;0;NULL;;Eine Abschiebung ist die zwangsweise Durchsetzung der vollziehbaren Ausreisepflicht eines Ausländers.;;;
+108_24;Asylbegehren;0;1;0;NULL;;;;;
+108_25;Auslieferung;0;1;0;NULL;;;;;
+108_26;Ausreiseüberwachung;0;1;0;NULL;;;;;
+108_27;Ausreiseuntersagung;0;1;0;NULL;;;;;
+108_28;Ausweisung;0;1;0;NULL;;;;;
+108_29;Durchbeförderung;0;1;0;NULL;;;;;
+108_3;Aufenthaltsverbot;0;1;0;NULL;;;;;
+108_30;Durchlieferung;0;1;0;NULL;;;;;
+108_32;Einreisebefragung;0;1;0;NULL;;;;;
+108_33;Überstellung;0;1;0;NULL;;;;;
+108_35;Zurückschiebung;0;1;0;NULL;;Die Zurückschiebung ist eine aufenthaltsbeendende Maßnahme gegen einen Ausländer, der bereits unerlaubt eingereist ist.;;;
+108_36;Zurückweisung;0;1;0;NULL;;Bei der Zurückweisung handelt es sich um eine grenzpolizeiliche Maßnahme zur Verweigerung der Einreise.;;;
+108_38;freiheitsentziehende Maßnahme;0;1;0;NULL;;;;;
+108_39;Gefährderansprache;0;1;0;NULL;;;;;
+108_4;Rückkehrverbot;0;1;0;NULL;;;;;
+108_40;Gefährdetenansprache;0;1;0;NULL;;;;;
+108_41;Kontrolle;0;1;0;NULL;;;;;
+108_42;kriminaltechnische Untersuchung;0;1;0;NULL;;;;;
+108_43;freiheitsbeschränkende Maßnahme;0;1;0;NULL;;;;;Sistierung
+108_44;körperliche Untersuchung;0;1;0;NULL;;;;;
+108_45;Telekommunikationsüberwachung;0;1;0;NULL;;;;;
+108_46;Lauschangriff;0;1;0;NULL;;;;;
+108_47;Verkehrsdatenerhebung;0;1;0;NULL;;;;;
+108_48;Einsatz technischer Mittel;0;1;0;NULL;;;;;
+108_49;VE-Einsatz;0;1;0;NULL;;;;;
+108_5;Ingewahrsamnahme;0;1;0;NULL;;;;;
+108_50;VP-Einsatz;0;1;0;NULL;;;;;
+108_51;Gegenüberstellung;0;1;0;NULL;;;;;
+108_52;Anzeigenaufnahme;0;1;0;NULL;;;;;
+108_53;Bestandsdatenerhebung;0;1;0;NULL;;;;;
+108_54;Durchsicht;0;1;0;NULL;;;;;
+108_55;Gerichtsbeschluss;0;1;0;NULL;;;;;
+108_56;Einstellung;0;1;0;NULL;;;;;
+108_57;Freispruch;0;1;0;NULL;;;;;
+108_58;Verurteilung;0;1;0;NULL;;;;;
+108_59;Eingriff in informationstechnische Systeme;0;1;0;NULL;;;;;Online-Durchsuchung
+108_6;Durchsuchung;0;1;0;NULL;;;;;
+108_60;Häftlingsüberwachung;0;1;0;NULL;;;;;
+108_61;Todesfallermittlung;0;1;0;NULL;;;;;
+108_62;Ausschreibung;0;1;0;NULL;;;;;
+108_63;elektronische Aufenthaltsüberwachung;0;1;0;NULL;;;;;
+108_64;Erhebung personenbezogener Daten;0;1;0;NULL;;;;;
+108_65;Kontaktverbot;0;1;0;NULL;;;;;
+108_66;Prüfung von Berechtigungsscheinen;0;1;0;NULL;;;;;
+108_67;Sicherheitsleistung;0;1;0;NULL;;;;;
+108_68;Sicherheitsüberprüfung;0;1;0;NULL;;;;;
+108_69;Vorführung;0;1;0;NULL;;;;;
+108_7;Identitätsfeststellung;0;1;0;NULL;;;;;
+108_70;Zeugenschutz;0;1;0;NULL;;;;;
+108_71;Gefährdungsbewertung;0;1;0;NULL;;;;;
+108_72;Schutzmaßnahme;0;1;0;NULL;;;;;
+108_73;gezielte Kontrolle;NULL;1;0;NULL;;;;;
+108_74;Rückführung (begleitet);NULL;1;0;NULL;;Unter begleiteter Rückführung im Sinne der BestRückLuft (Bestimmungen über die Rückführung ausländischer Staatsangehöriger auf dem Luftweg) versteht man das begleitete Verbringen eines Ausländers bis in den Zielstaat.;;;
+108_75;Rückführung (unbegleitet);NULL;1;0;NULL;;Unter unbegleiteter Rückführung im Sinne der BestRückLuft (Bestimmungen über die Rückführung ausländischer Staatsangehöriger auf dem Luftweg) versteht man das unbegleitete Verbringen eines Ausländers bis in den Zielstaat.;;;
+108_76;Versagung;NULL;1;0;NULL;;Die Erteilung eines Aufenthaltstitels oder eines Passes kann im Sinne des Gesetzes (AufenthG, PassG) versagt werden, wenn die Erteilungsvoraussetzung nicht komplett erfüllt ist bzw. vorliegt.;;;
+108_77;Einreiseverweigerung;NULL;1;0;NULL;;Liegen für eine Person nicht alle Einreisevoraussetzungen vor, wird die Einreise verweigert, um den Aufenthalt zu verhindern. Die Grundlage für die Maßnahme ergibt sich aus den verschiedensten Gesetzen z. B. § 15 AufenthG, § 18 AsylG sowie dem Schengener Grenzcodex.;;;
+108_78;Einreisekontrolle;NULL;1;0;NULL;;Kontrolle im Zuge der Einreise in das Bundesgebiet. Die gesetzliche Grundlage für eine Kontrolle ist vielfältig. Insofern ist nachfolgende Aufzählung nur beispielhaft: Kontrolle des grenzüberschreitenden Verkehrs aus § 2 BPolG i. V. m. den §§ 21, 22, 23 BPolG Überwachung des Verbringens und der Mitnahme von Waffen und Munition aus § 33 WaffG i. V. m. § 12 BPolG;;;
+108_79;Ausreisekontrolle;NULL;1;0;NULL;;Kontrolle im Zuge der Ausreise aus dem Bundesgebiet. Die gesetzliche Grundlage für eine Kontrolle ist vielfältig. Insofern ist nachfolgende Aufzählung nur beispielhaft: Kontrolle des grenzüberschreitenden Verkehrs aus § 2 BPolG i. V. m. den §§ 21, 22, 23 BPolG Überwachung des Verbringens und der Mitnahme von Waffen und Munition aus § 33 WaffG i. V. m. § 12 BPolG;;;
+108_8;Sicherstellung;0;1;0;NULL;;;;;
+108_80;Erhebung objektbezogener Daten;NULL;1;0;NULL;;;;;
+108_9;Beschlagnahme;0;1;0;NULL;;;;;

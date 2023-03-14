@@ -1,0 +1,30 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+294;Art des Waffenzubehörs / -teils;Art des Waffenzubehörs / -teils;ZIR;V1.1;20181019
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+294_1;Handschutz;0;1;0;NULL;;;;;
+294_10;feststehende Kimme;0;1;0;NULL;;;;;
+294_11;verstellbare Kimme;0;1;0;NULL;;;;;
+294_12;Korn;0;1;0;NULL;;;;;
+294_13;Leuchtpunktzielgerät (Reflexvisier);0;1;0;NULL;;;;;
+294_14;Nachtsichtzielhilfe;0;1;0;NULL;;;;;
+294_15;Nachtsichtgerät / -zielgerät mit Bildwandler oder elektronischer Verstärkung und Montagevorrichtung für Schusswaffen;0;1;0;NULL;;;;;
+294_16;Nachtsichtvorsatz / -aufsatz mit Bildwandler oder elektronischer Verstärkung und Montagevorrichtung für Schusswaffen;0;1;0;NULL;;;;;
+294_17;Zielscheinwerfer;0;1;0;NULL;;;;;
+294_18;Zielpunktprojektor;0;1;0;NULL;;;;;
+294_19;Zielfernrohr;0;1;0;NULL;;;;;
+294_2;Magazin;0;1;0;NULL;;;;;
+294_20;Zweibein;0;1;0;NULL;;;;;
+294_3;Munitionsgurt;0;1;0;NULL;;;;;
+294_4;Schaft;0;1;0;NULL;;;;;
+294_5;Schulterstütze;0;1;0;NULL;;;;;
+294_6;Trageriemen;0;1;0;NULL;;;;;
+294_7;Visiereinrichtung;0;1;0;NULL;;;;;
+294_8;Diopter;0;1;0;NULL;;;;;
+294_9;Kimme;0;1;0;NULL;;;;;

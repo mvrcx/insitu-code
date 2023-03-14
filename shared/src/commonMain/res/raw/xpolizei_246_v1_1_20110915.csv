@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+246;Auflösungsgrund einer Organisation;Auflösungsgrund einer Organisation;ZIR;V1.1;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+246_1;Verbotsbeschluss;0;1;0;NULL;;;
+246_2;Insolvenz;0;1;0;NULL;;;
+246_3;Tod des Inhabers;0;1;0;NULL;;;
+246_4;Selbstauflösung;0;1;0;NULL;;;

@@ -1,0 +1,39 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+329;Kaliber;Kaliber;ZIR;V1.1;20210817
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+329_1;2 - 5 mm;0;1;0;NULL;;;;;
+329_10;.410/;0;1;0;NULL;;;;;
+329_11;.10 - .219 Zoll;0;1;0;NULL;;;;;
+329_12;.22 - .239 Zoll;0;1;0;NULL;;;;;
+329_13;.24 - 259 Zoll;0;1;0;NULL;;;;;
+329_14;.26 - .279 Zoll;0;1;0;NULL;;;;;
+329_15;.28 - .299 Zoll;0;1;0;NULL;;;;;
+329_16;.30 - .309 Zoll;0;1;0;NULL;;;;;
+329_17;.31 - .329 Zoll;0;1;0;NULL;;;;;
+329_18;.33 - .349 Zoll;0;1;0;NULL;;;;;
+329_19;.35 - .369 Zoll;0;1;0;NULL;;;;;
+329_2;6 mm;0;1;0;NULL;;;;;
+329_20;.37 - .399 Zoll;0;1;0;NULL;;;;;
+329_21;.40 - .409 Zoll;0;1;0;NULL;;;;;
+329_22;.41 - .439 Zoll;0;1;0;NULL;;;;;
+329_23;.44 - .459 Zoll;0;1;0;NULL;;;;;
+329_24;.46 - .499 Zoll;0;1;0;NULL;;;;;
+329_25;.50 - .509 Zoll;0;1;0;NULL;;;;;
+329_26;.51 - .599 Zoll;0;1;0;NULL;;;;;
+329_27;> .60 Zoll;0;1;0;NULL;;;;;
+329_28;Flinten;0;1;0;NULL;;;;;
+329_29;Signalwaffenkaliber;NULL;1;0;NULL;;;;;
+329_3;7 mm;0;1;0;NULL;;;;;
+329_4;8 mm;0;1;0;NULL;;;;;
+329_5;9 mm;0;1;0;NULL;;;;;
+329_6;10 mm;0;1;0;NULL;;;;;
+329_7;11 mm;0;1;0;NULL;;;;;
+329_8;12 - 16 mm;0;1;0;NULL;;;;;
+329_9;17 - 45 mm;0;1;0;NULL;;;;;

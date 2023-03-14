@@ -1,0 +1,120 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+001;Rollenwerte;Rollenwerte;ZIR;V1.11;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+001_1;Abfluss;0;1;0;NULL;;;;;
+001_10;benutzt bei;0;1;0;NULL;;;;;
+001_100;Sprecher;0;1;0;NULL;;;;;
+001_101;Akteur;NULL;1;0;NULL;;;;;
+001_102;Führungsperson;NULL;1;0;NULL;;;;;
+001_103;Unterstützer / Logistiker;NULL;1;0;NULL;;;;;
+001_109;angegriffenes Objekt;NULL;1;0;NULL;;Wirkt eine beschuldigte Person auf ein Objekt ein, ohne sich dieses anzueignen, so ist dieses als angegriffenes Objekt abzubilden.;;;
+001_11;Besitzer;0;1;0;NULL;;;;;
+001_110;Probengeber;NULL;1;0;NULL;;;;;
+001_111;Tatobjekt;NULL;1;0;NULL;;Gemäß § 74 StGB sind Tatobjekte „Gegenstände, auf die sich eine Straftat bezieht“. Kein Werkzeug (Tatmittel) für oder Produkt / Ergebnis (Tatprodukt) einer Straftat.;;;
+001_112;Tatprodukt;NULL;1;0;NULL;;Gemäß § 74 StGB sind Tatprodukte „Gegenstände, die durch eine vorsätzliche Tat hervorgebracht“ wurden.;;;
+001_113;Feststellungsort;NULL;1;0;NULL;;Örtlichkeit, an dem ein allgemeines Ereignis, eine Straftat oder eine Ordnungswidrigkeit entdeckt bzw. festgestellt wird.;;;
+001_114;Ereignisort;NULL;1;0;NULL;;Örtlichkeit, an dem ein allgemeines Ereignis stattgefunden hat.;;;
+001_115;Unfallort;NULL;1;0;NULL;;Örtlichkeit, an dem ein Verkehrsunfall stattgefunden hat.;;;
+001_116;Auftraggeber;NULL;1;0;NULL;;;;;
+001_117;Begünstigter;NULL;1;0;NULL;;;;;
+001_12;Bestandteil;0;1;0;NULL;;;;;
+001_13;Dritter;0;1;0;NULL;;;;;
+001_14;Eigentümer;0;1;0;NULL;;;;;
+001_15;in eingetragener Lebenspartnerschaft;0;1;0;NULL;;;;;
+001_16;Elternteil / Kind;0;1;0;NULL;;;;;
+001_17;erhält;0;1;0;NULL;;;;;
+001_18;Erreichbarkeit;0;1;0;NULL;;;;;
+001_19;erstrebtes / erlangtes Gut;0;1;0;NULL;;„Erstrebte / erlangte Güter“ sind immer Tatobjekte, z. B. die fremde, bewegliche Sache beim Diebstahl. Beispiel: Der Diebstahl einer Sache ist weder Tatprodukt noch Tatmittel, sondern Tatobjekt im Sinne des § 74 StGB. Dafür existiert der fachlich spezifischere Begriff „erstrebtes / erlangtes Gut“.;;;
+001_2;Anschlussinhaber;0;1;0;NULL;;;;;
+001_20;Finanzier;0;1;0;NULL;;;;;
+001_21;Freundschaft;0;1;0;NULL;;;;;
+001_22;führt durch;0;1;0;NULL;;;;;
+001_23;Führungsebene;0;1;0;NULL;;;;;Rädelsführer
+001_24;Gegenstand der Maßnahme;0;1;0;NULL;;;;;
+001_25;Gegner;0;1;0;NULL;;;;;
+001_26;gehört zu;0;1;0;NULL;;;;;
+001_27;Geschädigter;0;1;0;NULL;;;;;
+001_28;Geschäftsbeziehung;0;1;0;NULL;;;;;
+001_29;geschieden;0;1;0;NULL;;;;;
+001_3;Anschrift;0;1;0;NULL;;;;;
+001_30;Geschwister;0;1;0;NULL;;;;;
+001_31;getrennt lebend;0;1;0;NULL;;;;;
+001_32;gibt;0;1;0;NULL;;;;;
+001_33;Halter;0;1;0;NULL;;;;;
+001_34;Hinweisgeber;0;1;0;NULL;;;;;
+001_35;Hinweiszuordnung;0;1;0;NULL;;;;;
+001_36;Inhaber;0;1;0;NULL;;;;;
+001_37;Initiator;0;1;0;NULL;;;;;
+001_38;Kommunikationsgegenstand;0;1;0;NULL;;;;;
+001_39;Konkurrenz;0;1;0;NULL;;;;;
+001_4;Arbeitgeber für;0;1;0;NULL;;;;;
+001_40;Kontrollebene;0;1;0;NULL;;;;;
+001_41;Kooperation;0;1;0;NULL;;;;;
+001_42;Kunde;0;1;0;NULL;;;;;
+001_43;Lebensgemeinschaft;0;1;0;NULL;;;;;
+001_44;Lieferant;0;1;0;NULL;;;;;
+001_45;Liegeplatz;0;1;0;NULL;;;;;
+001_46;Mitwirkender;0;1;0;NULL;;;;;
+001_47;Nachfolgeorganisation;0;1;0;NULL;;;;;
+001_48;Nutzer;0;1;0;NULL;;;;;
+001_49;Ort der Maßnahme;0;1;0;NULL;;;;;
+001_5;Aufenthaltsort;0;1;0;NULL;;;;;
+001_50;Personzuordnung;0;1;0;NULL;;;;;
+001_51;Sitz;0;1;0;NULL;;;;;
+001_52;Spurenträger;0;1;0;NULL;;Spuren sind sichtbare oder latente materielle Veränderungen, die im Zusammenhang mit einem kriminalistisch relevanten Ereignis (Straftat) entstanden sind und zu dessen Aufklärung beitragen können. „Spurenträger“ sind also Gegenstände, die Spuren einer Straftat aufweisen. Beispiel: Brandstiftung an einem Kfz - hier ist das Fahrzeug weder Tatprodukt noch Tatmittel, sondern Tatobjekt im Sinne des § 74 StGB und gleichzeitig fachlich spezifischer „Spurenträger“.;;;
+001_53;Sympathisant;0;1;0;NULL;;;;;
+001_54;Tatmittel;0;1;0;NULL;;Tatmittel sind die Gegenstände / Mittel, die unmittelbar zur Begehung oder Vorbereitung einer Straftat verwendet wurden oder dazu bestimmt waren. Darüber hinaus sind als Tatmittel die Gegenstände zu verstehen, deren Mitführen gem. Versammlungsrecht / WaffG mit Strafe bedroht ist.;;;
+001_55;Tatort;0;1;0;NULL;;;;;
+001_56;Beschuldigter / Tatverdächtiger;0;1;0;NULL;;;;;
+001_57;Teilhaber;0;1;0;NULL;;;;;
+001_58;Teilnehmer;0;1;0;NULL;;;;;
+001_6;aufgezeichnet;0;1;0;NULL;;;;;
+001_60;Treugut;0;1;0;NULL;;;;;
+001_61;Treuhänder;0;1;0;NULL;;;;;
+001_62;übt aus;0;1;0;NULL;;;;;
+001_63;Unterstützungsebene;0;1;0;NULL;;;;;
+001_64;Verantwortlicher;0;1;0;NULL;;;;;
+001_65;Verfasser;0;1;0;NULL;;;;;
+001_66;Verfügungsberechtigter;0;1;0;NULL;;;;;
+001_67;verheiratet;0;1;0;NULL;;;;;
+001_68;verlobt;0;1;0;NULL;;;;;
+001_69;verschwägert;0;1;0;NULL;;;;;
+001_7;ausgefertigt in;0;1;0;NULL;;;;;
+001_71;Wohnsitz;0;1;0;NULL;;;;;
+001_72;Zeichnungsberechtigter;0;1;0;NULL;;;;;
+001_73;Zeuge;0;1;0;NULL;;;;;
+001_74;Zufluss;0;1;0;NULL;;;;;
+001_75;Zusammenhang;0;1;0;NULL;;;;;
+001_76;Verwandtschaft;0;1;0;NULL;;;;;
+001_77;Ausführungsebene;0;1;0;NULL;;;;;Mitläufer
+001_78;Mitglied;0;1;0;NULL;;;;;
+001_79;Kontakt;0;1;0;NULL;;;;;
+001_8;befindet sich;0;1;0;NULL;;;;;
+001_80;Vormund;0;1;0;NULL;;;;;
+001_81;Betreuer;0;1;0;NULL;;;;;
+001_82;Pfleger;0;1;0;NULL;;;;;
+001_83;Bewährungshelfer;0;1;0;NULL;;;;;
+001_84;angebracht;0;1;0;NULL;;;;;
+001_85;Gegenstand der Aufzeichnung;0;1;0;NULL;;;;;
+001_86;Verpackung;0;1;0;NULL;;;;;
+001_87;Tatzusammenhang;0;1;0;NULL;;;;;
+001_88;Gefährder;0;1;0;NULL;;;;;
+001_89;relevante Person;0;1;0;NULL;;;;;
+001_9;beinhaltet;0;1;0;NULL;;;;;
+001_90;Betroffener;0;1;0;NULL;;;;;
+001_91;Beteiligter;0;1;0;NULL;;;;;
+001_92;Ergebnis der Maßnahme;0;1;0;NULL;;;;;
+001_93;Spurenverursacher;0;1;0;NULL;;;;;
+001_94;Mitfahrer;0;1;0;NULL;;;;;
+001_95;Führer;0;1;0;NULL;;;;;
+001_96;Weiterleitung;0;1;0;NULL;;;;;
+001_97;Kontoeröffner;0;1;0;NULL;;;;;
+001_98;Gründer;0;1;0;NULL;;;;;
+001_99;mitgeführt;0;1;0;NULL;;;;;

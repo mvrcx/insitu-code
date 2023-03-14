@@ -1,0 +1,40 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+388;Art des Dokuments;Art des Dokuments;ZIR;V1.2;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+388_1;Beschluss;0;1;0;NULL;;;;;
+388_10;frontal (Porträtaufnahme);0;1;0;NULL;;;;;
+388_11;Profil links (90° linkes Ohr sichtbar);0;1;0;NULL;;;;;
+388_12;Profil rechts (90° rechtes Ohr sichtbar);0;1;0;NULL;;;;;
+388_13;Halbprofil links (45° linkes Ohr sichtbar);0;1;0;NULL;;;;;
+388_14;Halbprofil rechts (45° rechtes Ohr sichtbar);0;1;0;NULL;;;;;
+388_15;Ganzaufnahme;0;1;0;NULL;;;;;
+388_16;Nacktaufnahme - Frontansicht;0;1;0;NULL;;;;;
+388_17;Nacktaufnahme - Kopf-Brust-Bauch;0;1;0;NULL;;;;;
+388_18;Nacktaufnahme - Kopf-Schulter-Rücken;0;1;0;NULL;;;;;
+388_19;Nacktaufnahme - Brust (Nabel bis Kinn);0;1;0;NULL;;;;;
+388_2;europäischer Haftbefehl;0;1;0;NULL;;;;;
+388_20;Nacktaufnahme - Rücken;0;1;0;NULL;;;;;
+388_21;Nacktaufnahme - Handaußenflächen;0;1;0;NULL;;;;;
+388_22;Nacktaufnahme - Handinnenflächen;0;1;0;NULL;;;;;
+388_23;Nacktaufnahme - Genitalien / Hüfte;0;1;0;NULL;;;;;
+388_24;Nacktaufnahme - Gesäß;0;1;0;NULL;;;;;
+388_25;Nacktaufnahme - Füße;0;1;0;NULL;;;;;
+388_26;Nacktaufnahme - sonstige;0;1;0;NULL;;;;;
+388_27;sonstiges Bild (Tätowierungen etc.);0;1;0;NULL;;;;;
+388_28;Verkehrsunfallskizze;NULL;1;0;NULL;;;;;
+388_29;Tonaufzeichnung;NULL;1;0;NULL;;;;;Audioaufnahme
+388_3;nationaler Haftbefehl;0;1;0;NULL;;;;;
+388_30;Bildaufzeichnung;NULL;1;0;NULL;;;;;Videoaufnahme
+388_4;Verfügung;0;1;0;NULL;;;;;
+388_5;Zehnfingerabdruck;0;1;0;NULL;;;;;
+388_6;Zehnfinger- und Handflächenabdruck;0;1;0;NULL;;;;;
+388_7;unbefangenes Handschriftenmaterial;0;1;0;NULL;;;;;
+388_8;befangenes Handschriftenmaterial;0;1;0;NULL;;;;;
+388_9;Lichtbild;0;1;0;NULL;;;;;

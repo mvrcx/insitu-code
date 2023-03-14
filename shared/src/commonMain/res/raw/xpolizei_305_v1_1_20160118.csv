@@ -1,0 +1,24 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+305;Kategorisierung der Schusswaffe;Kategorisierung der Schusswaffe;ZIR;V1.1;20160118
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+305_1;Komplette Schusswaffe;0;1;0;NULL;;;;;
+305_10;Trommel;0;1;0;NULL;;Die Trommel ist ein rundes Magazin, das in einem Revolver zur Aufnahme der Munition installiert ist. Durch eine mechanische Drehbewegung um jeweils eine Patronenkammer wird der Repetiervorgang für das Verschießen der nächsten Patrone durchgeführt.;;;
+305_11;Wechseltrommel;0;1;0;NULL;;Die Wechseltrommel kann gegen die ursprünglich in einem Revolver installierte Trommel ausgetauscht werden. Sie dient zum Verschießen anderer als der eigentlich für den  Revolver vorgesehenen Munition. So kann z.B. mit Hlfe einer Wechseltrommel Munition mit Pistolenkaliber in einem Revolver verschossen werden;;;
+305_12;Verschluss;0;1;0;NULL;;Der Verschluss ist der hintere Laufabschluss und dient als Gegenlager für die Patrone;;;
+305_13;Schalldämpfer;0;1;0;NULL;;;;;
+305_14;Wechselsystem;0;1;0;NULL;;Das Wechselsystem besteht aus dem kompletten Schlitten (Lauf, Patronenlager, Verschluss, Feder, Visier) und dazugehörigem Magazin. Es bietet - vornehmlich bei halbautomatischen Faustfeuerwaffen - die Möglichkeit der Adaptierung eines weiteren Kalibers zur Verwendung mit der Basiswaffe, oder der Verwendung einer Waffe gleichen Kalibers für unterschiedliche sportliche Disziplinen.;;;
+305_2;Einstecksystem;0;1;0;NULL;;Das Einstecksystem (Reduziersystem) besteht aus einem Einstecklauf mit Feststellschraube sowie Reduzierhülsen (Patronenadapter) für die Verwendung kleinkalibriger Munition in einer großkalibrigen Hand- bzw. Faustfeuerwaffe.;;;
+305_3;Einstecklauf;0;1;0;NULL;;Der Einstecklauf ist ein Rohr, das in einen großkalibrigen Lauf eingeschoben wird. Er dient zur Verwendung kleinkalibriger Munition in einer großkalibrigen Hand- bzw. Faustfeuerwaffe.;;;
+305_4;Einsatz / Patronenadapter;0;1;0;NULL;;Ein Einsatz (Patronenadapter) ist ein Reduzierstück, welches in das Patronenlager oder die Trommel einer großkalibrigen Hand- bzw. Faustfeuerwaffe eingeschoben wird. Er dient zusammen mit einem passenden Einstecklauf der Verwendung kleinkalibriger Munition in einer großkalibrigen Waffe.;;;
+305_5;Griffstück;0;1;0;NULL;;;;;
+305_6;Lauf;0;1;0;NULL;;Der Lauf ist das in einer Hand- bzw. Faustfeuerwaffe installierte Rohr, durch das das Geschoss beim Abschuss einer Patrone getrieben wird.;;;
+305_7;Austauschlauf;0;1;0;NULL;;Der Austauschlauf ist ein Lauf für ein bestimmtes Waffenmodell oder -system, der ohne Nacharbeit ausgetauscht werden kann. Daneben gibt es auch Sets für Sportpistolen mit besonderen Eigenschaften. Ebenso sind für verschiedene Schrotflinten Austauschläufe gebräuchlich. Für ein Verschlussstück kann es hier vier bis fünf verschiedene Läufe und Kaliber geben. Austauschläufe werden auch oft bei vollautomatischen Waffen (insbes. Maschinengewehren) benutzt.;;;
+305_8;Patronenlager;0;1;0;NULL;;Das Patronenlager (auch "Kammer" genannt) ist i.d.R. der hinterste Teil der Laufbohrung einer Schusswaffe und dient der Aufnahme bzw. dem Bereithalten einer Patrone zum Verschießen.;;;
+305_9;Wechsellauf;0;1;0;NULL;;Der Wechsellauf ist ein Lauf, der für eine bestimmte Waffe zum Austausch des vorhandenen Laufes vorgefertigt ist und noch eingepasst werden muss.Wechselläufe werden als endgültiger Ersatz für beschädigte oder abgenutzte Läufe in die betreffenden Waffen eingesetzt.;;;

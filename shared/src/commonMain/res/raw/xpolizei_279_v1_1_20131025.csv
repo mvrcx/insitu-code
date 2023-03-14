@@ -1,0 +1,17 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+279;Datenschutzklausel;Datenschutzklausel;ZIR;V1.1;20131025
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+279_1;Keine Verwendungsbeschränkung;0;1;0;NULL;;;
+279_2;Nur zur Abwehr einer unmittelbaren und ernsthaften Gefahr für die öffentliche Sicherheit;0;1;0;NULL;;;
+279_3;Nur ohne Nennung desjenigen, der die Information zur Verfügung gestellt hat;0;1;0;NULL;;;
+279_4;Für Zwecke der Verhütung oder Verfolgung von Straftaten;0;1;0;NULL;;;
+279_5;Nicht als Beweis im gerichtlichen Verfahren;0;1;0;NULL;;;
+279_6;Nur nach Genehmigung desjenigen, der Informationen zur Verfügung gestellt hat;0;1;0;NULL;;;
+279_7;Keine anderweitige Verwendung der Informationen gestattet;0;1;0;NULL;;;

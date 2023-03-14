@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+403;Gefährdungsstufe;Gefährdungsstufe;ZIR;V1.0;20200408
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+403_1;1;0;1;0;NULL;GS 1;Die Person / das Objekt ist erheblich gefährdet, mit einem Anschlag ist zu rechnen;;;
+403_2;2;0;1;0;NULL;GS 2;Die Person / das Objekt ist gefährdet, ein Anschlag ist nicht auszuschließen;;;
+403_3;3;0;1;0;NULL;GS 3;Anhaltspunkte für eine Gefährdung der Person / des Objekts liegen vor;;;
+403_4;keine Gefährdung;0;1;0;NULL;GS 0;Anhaltspunkte für eine Gefährdung der Person / des Objekts liegen nicht vor;;;

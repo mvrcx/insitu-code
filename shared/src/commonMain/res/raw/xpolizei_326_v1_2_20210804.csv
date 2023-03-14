@@ -1,0 +1,154 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+326;Art der verbotenen Substanz;Art der verbotenen Substanz;ZIR;V1.2;20210804
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+326_1;S0 nicht zugelassene Substanzen;0;1;0;NULL;S0;;;;
+326_10;1-Testosteron;0;1;0;NULL;;;;;
+326_100;Stamulumab;0;1;0;NULL;;;;;
+326_101;Stanozolol;0;1;0;NULL;;;;;
+326_102;Stenbolon;0;1;0;NULL;;;;;
+326_103;Stoffwechsel-Modulatoren;0;1;0;NULL;;;;;
+326_104;Tamoxifen;0;1;0;NULL;;;;;
+326_105;Testolacton;0;1;0;NULL;;;;;
+326_106;Testosteron;0;1;0;NULL;;;;;
+326_107;Tetracosactid;0;1;0;NULL;;;;;
+326_108;Tetrahydrogestrinon;0;1;0;NULL;;;;;
+326_109;Tibolon;0;1;0;NULL;;;;;
+326_11;4-Androsten-3, 6, 17-trion (6-oxo);0;1;0;NULL;;;;;
+326_110;Toremifen;0;1;0;NULL;;;;;
+326_111;Trenbolon;0;1;0;NULL;;;;;
+326_112;Wachstumshormon, Releasingfaktoren, Releasingpeptide und Wachstumsfaktoren;0;1;0;NULL;;;;2020-07-03;
+326_113;Wachstumshormon-Releasingfaktoren;0;1;0;NULL;GHRH;;;;Growth Hormone Releasing Hormones
+326_114;Wachstumshormon-Releasingpeptide;0;1;0;NULL;GHRP;;;;Growth Hormone Releasing Peptides
+326_115;Zeranol;0;1;0;NULL;;;;;
+326_116;Zilpaterol;0;1;0;NULL;;;;;
+326_117;1-Androsteron;NULL;1;0;NULL;;;;;
+326_118;Anamorelin;NULL;1;0;NULL;;;;;
+326_119;Buserelin;NULL;1;0;NULL;;;;;
+326_12;4-Hydroxytestosteron;0;1;0;NULL;;;;;
+326_120;Daprodustat;NULL;1;0;NULL;GSK 1278863;;;;
+326_121;Deslorelin;NULL;1;0;NULL;;;;;
+326_122;Follistatin und seine Derivate;NULL;1;0;NULL;;;;;
+326_123;Gonadorelin;NULL;1;0;NULL;;;;;
+326_124;Goserelin;NULL;1;0;NULL;;;;;
+326_125;Hypoxie-induzierbarer-Faktor (HIF)-Aktivatoren;NULL;1;0;NULL;;;;;
+326_126;Ibutamoren;NULL;1;0;NULL;MK-677;;;;
+326_127;Ipamorelin;NULL;1;0;NULL;;;;;
+326_128;Lenomorelin;NULL;1;0;NULL;Ghrelin;;;;
+326_129;Leuprorelin;NULL;1;0;NULL;;;;;
+326_13;AICAR;0;1;0;NULL;;;;;
+326_130;Macimorelin;NULL;1;0;NULL;;;;;
+326_131;Mechano Growth Factor und MGF-Varianten;NULL;1;0;NULL;MGF;;;;
+326_132;Molidustat;NULL;1;0;NULL;BAY 85-3934;;;;
+326_133;Nafarelin;NULL;1;0;NULL;;;;;
+326_134;Roxadustat;NULL;1;0;NULL;FG-4592;;;;
+326_135;SR9009;NULL;1;0;NULL;;;;;
+326_136;Tabimorelin;NULL;1;0;NULL;;;;;
+326_137;Tesamorelin;NULL;1;0;NULL;;;;;
+326_138;Thymosin-beta-4 und seine Derivate;NULL;1;0;NULL;;;;;
+326_139;Triptorelin;NULL;1;0;NULL;;;;;
+326_14;Aminoglutethimid;0;1;0;NULL;;;;;
+326_140;Vadadustat;NULL;1;0;NULL;AKB-6548;;;;
+326_141;Wachstumsfaktoren und Wachstumsfaktor-Modulatoren;NULL;1;0;NULL;;;;;
+326_142;Wachstumshormon (-Fragmente), Releasingfaktoren und Releasingpeptide;NULL;1;0;NULL;;;;;
+326_143;Wachstumshormon-Fragmente z. B. AOD-9604, hGH-Fragment 176-191;NULL;1;0;NULL;;;;;
+326_144;Wachstumshormon-Sekretagoge und ihre Mimetika;NULL;1;0;NULL;GHS;;;;
+326_15;AMPK (PPARd-AMP-activated protein kinase)-Axis-Agonisten;0;1;0;NULL;;;;;
+326_16;anabol-androgene Steroide;0;1;0;NULL;;;;;
+326_17;Anastrozol;0;1;0;NULL;;;;;
+326_18;andere anabole Stoffe;0;1;0;NULL;;;;;
+326_19;andere antiestrogen wirkende Stoffe;0;1;0;NULL;;;;;
+326_2;S1 anabole Substanzen;0;1;0;NULL;S1;;;;
+326_20;andere exogene mit anabol-androgenen Steroiden verwandte Stoffe;0;1;0;NULL;;;;;
+326_21;Androsta-1, 4, 6-trien-3, 17-dion;0;1;0;NULL;;;;;Androstatriendion
+326_22;Androstanolon;0;1;0;NULL;;;;;Dihydrotestosteron
+326_23;Androstendiol;0;1;0;NULL;;;;;
+326_24;Androstendion;0;1;0;NULL;;;;;
+326_25;Aromatasehemmer;0;1;0;NULL;;;;;
+326_26;Bolandiol;0;1;0;NULL;;;;2020-07-03;
+326_27;Bolasteron;0;1;0;NULL;;;;;
+326_28;Boldenon;0;1;0;NULL;;;;;
+326_29;Boldion;0;1;0;NULL;;;;;
+326_3;S2 Peptidhormone, Wachstumsfaktoren, Verwandte Substanzen und Mimetika;0;1;0;NULL;S2;;;;
+326_30;Calusteron;0;1;0;NULL;;;;;
+326_31;Choriogonadotropin alfa;0;1;0;NULL;;;;;
+326_32;Choriongonadotropin;0;1;0;NULL;HCG;;;;
+326_33;Choriongonadotropin und Luteinisierendes Hormon sowie ihre Releasingfaktoren;0;1;0;NULL;'CG; LH';;;;
+326_34;Clenbuterol;0;1;0;NULL;;;;;
+326_35;Clomifen;0;1;0;NULL;;;;;
+326_36;Clostebol;0;1;0;NULL;;;;;
+326_37;Corticotropin;0;1;0;NULL;;;;;
+326_38;Corticotropine;0;1;0;NULL;;;;;
+326_39;Cyclofenil;0;1;0;NULL;;;;;
+326_4;S3 Beta-2-Agonisten;0;1;0;NULL;S3;;;;
+326_40;Danazol;0;1;0;NULL;;;;;
+326_41;Darbepoetin alfa;0;1;0;NULL;dEPO;;;;
+326_42;Dehydrochlormethyltestosteron;0;1;0;NULL;;;;;
+326_43;Desoxymethyltestosteron;0;1;0;NULL;;;;;
+326_44;Drostanolon;0;1;0;NULL;;;;;
+326_45;endogene anabol-androgene Steroide;0;1;0;NULL;;;;2020-07-03;
+326_46;Epoetin alfa, beta, delta, omega, theta, zeta und analoge rekombinante humane Erythropoetine;0;1;0;NULL;;;;;
+326_47;Erythropoese stimulierende Stoffe;0;1;0;NULL;;;;;
+326_48;Erythropoetin human;0;1;0;NULL;EPO;;;;
+326_49;Ethylestrenol;0;1;0;NULL;;;;;
+326_5;S4 Hormone und Stoffwechsel-Modulatoren;0;1;0;NULL;S4;;;;
+326_50;Exemestan;0;1;0;NULL;;;;;
+326_51;exogene anabol-androgene Steroide;0;1;0;NULL;;;;2020-07-03;
+326_52;Fluoxymesteron;0;1;0;NULL;;;;;
+326_53;Formebolon;0;1;0;NULL;;;;;
+326_54;Formestan;0;1;0;NULL;;;;;
+326_55;Fulvestrant;0;1;0;NULL;;;;;
+326_56;Furazabol;0;1;0;NULL;;;;;
+326_57;Gestrinon;0;1;0;NULL;;;;;
+326_58;GW051516;0;1;0;NULL;;;;;GW 1516
+326_59;IGF-1-Analoga;0;1;0;NULL;;;;;
+326_6;S5 Diuretika und Maskierungsmittel;0;1;0;NULL;S5;;;;
+326_60;Insulin;0;1;0;NULL;;;;;
+326_61;Letrozol;0;1;0;NULL;;;;;
+326_62;Lutropin alfa;0;1;0;NULL;;;;;
+326_63;Mecasermin;0;1;0;NULL;IGF-1;;;;'Insulin-ähnlicher Wachstumsfaktor 1; Insulin-like Growth Factor-1'
+326_64;Meldonium;0;1;0;NULL;;;;;
+326_65;Mestanolon;0;1;0;NULL;;;;;
+326_66;Mesterolon;0;1;0;NULL;;;;;
+326_67;Metandienon;0;1;0;NULL;;;;;
+326_68;Metenolon;0;1;0;NULL;;;;;
+326_69;Methandriol;0;1;0;NULL;;;;;
+326_7;19-Norandrostendion;0;1;0;NULL;;;;;
+326_70;Methasteron;0;1;0;NULL;;;;;
+326_71;Methoxy-Polyethylenglycol-Epoetin beta;0;1;0;NULL;CERA;;;;'PEG-Epoetin beta; Continuous Erythropoiesis Receptor Activator'
+326_72;Methyl-1-testosteron;0;1;0;NULL;;;;;
+326_73;Methyldienolon;0;1;0;NULL;;;;;
+326_74;Methylnortestosteron;0;1;0;NULL;;;;;
+326_75;Methyltestosteron;0;1;0;NULL;;;;;
+326_76;Metribolon;0;1;0;NULL;;;;;Methyltrienolon
+326_77;Miboleron;0;1;0;NULL;;;;;
+326_78;Myostatinfunktionen verändernde Stoffe;0;1;0;NULL;;;;;
+326_79;Myostatinhemmer;0;1;0;NULL;;;;2020-07-03;
+326_8;1-Androstendiol;0;1;0;NULL;;;;;
+326_80;Nandrolon;0;1;0;NULL;;;;;
+326_81;Norboleton;0;1;0;NULL;;;;;
+326_82;Norclostebol;0;1;0;NULL;;;;;
+326_83;Norethandrolon;0;1;0;NULL;;;;;
+326_84;Oxabolon;0;1;0;NULL;;;;;
+326_85;Oxandrolon;0;1;0;NULL;;;;;
+326_86;Oxymesteron;0;1;0;NULL;;;;;
+326_87;Oxymetholon;0;1;0;NULL;;;;;
+326_88;Peginesatid;0;1;0;NULL;;;;;Hematid
+326_89;PPARd (Peroxisome Proliferator Activated Receptor Delta)-Agonisten;0;1;0;NULL;;;;;PPAR-delta-Agonisten
+326_9;1-Androstendion;0;1;0;NULL;;;;;
+326_90;Prasteron;0;1;0;NULL;DHEA;;;;Dehydroepiandrosteron
+326_91;Prostanozol;0;1;0;NULL;;;;;
+326_92;Quinbolon;0;1;0;NULL;;;;;
+326_93;Raloxifen;0;1;0;NULL;;;;;
+326_94;Selektive Androgen-Rezeptor-Modulatoren;0;1;0;NULL;SARMs;;;;
+326_95;Selektive Estrogen-Rezeptor-Modulatoren;0;1;0;NULL;SERMs;;;;
+326_96;Sermorelin;0;1;0;NULL;;;;;
+326_97;Somatorelin;0;1;0;NULL;;;;;
+326_98;Somatrem;0;1;0;NULL;;;;;Somatotropin (methionyl), human
+326_99;Somatropin;0;1;0;NULL;GH;;;;'Wachstumshormon human; Growth Hormone'

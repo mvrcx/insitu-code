@@ -1,0 +1,25 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+387;Rechtsgrundlage gem. sonstigem Gesetz;Rechtsgrundlage gem. sonstigem Gesetz;ZIR;V1.1;20210804
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+387_1;§ 16 AsylG;0;1;0;NULL;;Sicherung, Feststellung und Überprüfung der Identität;;;
+387_10;§ 49 Abs. 9 AufenthG;0;1;0;NULL;;Identitätssicherung durch Abnahme von Fingerabdrücken und / oder Lichtbildern von Ausländern, die sich ohne erforderlichen Aufenthaltstitel im Bundesgebiet aufhalten;;;
+387_11;§ 6 PassG;0;1;0;NULL;;Ausstellung eines Passes;;;
+387_12;§ 9 PAuswG;0;1;0;NULL;;Ausstellung des Ausweises;;;
+387_13;§ 49 Abs. 5 Nr. 6 i. V. m. § 23 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität im Rahmen eines Resettlement-Verfahrens (dauerhafte Neuansiedlung besonders verletzlicher Flüchtlinge);;;
+387_14;SDÜ;0;1;0;NULL;;Schengener Durchführungsübereinkommen;;;
+387_15;StVollzG;0;1;0;NULL;;Strafvollzugsgesetz;;;
+387_2;§ 41 AuslG;0;1;0;NULL;;Überprüfung, Feststellung und Sicherung der Identität;;2004-12-31;
+387_3;§ 49 Abs. 3 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität zur Erteilung einer Aufenthaltserlaubnis;;;
+387_4;§ 49 Abs. 5 Nr. 3 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität bei Durchsetzung der Abschiebung;;;
+387_5;§ 49 Abs. 5 Nr. 3 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität bei Durchsetzung der Zurückschiebung;;;
+387_6;§ 49 Abs. 5 Nr. 4 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität bei der Zurückweisung;;;
+387_7;§ 49 Abs. 5 Nr. 5 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität bei der Beantragung eines nationalen Visums;;;
+387_8;§ 49 Abs. 5 Nr. 6 i. V. m. § 24 AufenthG;0;1;0;NULL;;Feststellung und Sicherung der Identität bei der Gewährung von vorübergehendem Schutz;;;
+387_9;§ 49 Abs. 8 AufenthG;0;1;0;NULL;;Identitätssicherung durch Abnahme von Fingerabdrücken und / oder Lichtbildern von Ausländern, die in Verbindung mit unerlaubter Einreise aufgegriffen und nicht zurückgewiesen wurden;;;

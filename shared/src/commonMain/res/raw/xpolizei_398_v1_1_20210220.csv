@@ -1,0 +1,287 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+398;Staat / Gebiet / Organisation;Staat / Gebiet / Organisation;ZIR;V1.1;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Klassifizierung;ISO_3166;ICAO-Code;INPOL-Z-Schlüssel
+398_1;Abu Dhabi;0;1;0;NULL;;;;;;Gebiet;AE-AZ;;
+398_10;Amerikanisch-Samoa;0;1;0;NULL;;;;;;Gebiet;AS;ASM;
+398_100;Jamaika;0;1;0;NULL;;;;;;Staat;JM;JAM;355
+398_101;Japan;0;1;0;NULL;;;;;;Staat;JP;JPN;442
+398_102;Jemen;0;1;0;NULL;;;;;;Staat;YE;YEM;421
+398_103;Jersey;0;1;0;NULL;;;;;;Gebiet;JE;JEY;
+398_104;Jordanien;0;1;0;NULL;;;;;;Staat;JO;JOR;445
+398_105;Jugoslawien (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;YUCS;;138
+398_106;Kaimaninseln;0;1;0;NULL;;;;;;Gebiet;KY;CYM;
+398_107;Kambodscha;0;1;0;NULL;;;;;;Staat;KH;KHM;446
+398_108;Kamerun;0;1;0;NULL;;;;;;Staat;CM;CMR;262
+398_109;Kanada;0;1;0;NULL;;;;;;Staat;CA;CAN;348
+398_11;Andorra;0;1;0;NULL;;;;;;Staat;AD;AND;123
+398_110;Kasachstan;0;1;0;NULL;;;;;;Staat;KZ;KAZ;444
+398_111;Katar;0;1;0;NULL;;;;;;Staat;QA;QAT;447
+398_112;Kenia;0;1;0;NULL;;;;;;Staat;KE;KEN;243
+398_113;Kirgisistan;0;1;0;NULL;;;;;;Staat;KG;KGZ;450
+398_114;Kiribati;0;1;0;NULL;;;;;;Staat;KI;KIR;530
+398_115;Kleinere Amerikanische Überseeinseln;0;1;0;NULL;;;;;;Gebiet;UM;UMI;
+398_116;Kokosinseln;0;1;0;NULL;;;;;;Gebiet;CC;CCK;
+398_117;Kolumbien;0;1;0;NULL;;;;;;Staat;CO;COL;349
+398_118;Komoren;0;1;0;NULL;;;;;;Staat;KM;COM;244
+398_119;Kongo;0;1;0;NULL;;;;;;Staat;CG;COG;245
+398_12;Angola;0;1;0;NULL;;;;;;Staat;AO;AGO;223
+398_120;Kongo, Demokratische Republik;0;1;0;NULL;;;;;;Staat;CD;COD;246
+398_121;Korea, Demokratische Volksrepublik;0;1;0;NULL;;;;;;Staat;KP;PRK;434
+398_122;Korea, Republik;0;1;0;NULL;;;;;;Staat;KR;KOR;467
+398_123;Kosovo;0;1;0;NULL;;;;;;Staat;XK;;150
+398_124;Kroatien;0;1;0;NULL;;;;;;Staat;HR;HRV;130
+398_125;Kuba;0;1;0;NULL;;;;;;Staat;CU;CUB;351
+398_126;Kurdische Gebiete;0;1;0;NULL;;;;;;Gebiet;;;
+398_127;Kuwait;0;1;0;NULL;;;;;;Staat;KW;KWT;448
+398_128;Laos, Demokratische Volksrepublik;0;1;0;NULL;;;;;;Staat;LA;LAO;449
+398_129;Lesotho;0;1;0;NULL;;;;;;Staat;LS;LSO;226
+398_13;Anguilla;0;1;0;NULL;;;;;;Gebiet;AI;AIA;
+398_130;Lettland;0;1;0;NULL;;;;;;Staat;LV;LVA;139
+398_131;Libanon;0;1;0;NULL;;;;;;Staat;LB;LBN;451
+398_132;Liberia;0;1;0;NULL;;;;;;Staat;LR;LBR;247
+398_133;Libyen;0;1;0;NULL;;;;;;Staat;LY;LBY;248
+398_134;Liechtenstein;0;1;0;NULL;;;;;;Staat;LI;LIE;141
+398_135;Litauen;0;1;0;NULL;;;;;;Staat;LT;LTU;142
+398_136;Luxemburg;0;1;0;NULL;;;;;;Staat;LU;LUX;143
+398_137;Macau;0;1;0;NULL;;;;;;Gebiet;MO;CHN;
+398_138;Madagaskar;0;1;0;NULL;;;;;;Staat;MG;MDG;249
+398_139;Malawi;0;1;0;NULL;;;;;;Staat;MW;MWI;256
+398_14;Antarktis;0;1;0;NULL;;;;;;Gebiet;AQ;ATA;
+398_140;Malaysia;0;1;0;NULL;;;;;;Staat;MY;MYS;482
+398_141;Malediven;0;1;0;NULL;;;;;;Staat;MV;MDV;454
+398_142;Mali;0;1;0;NULL;;;;;;Staat;ML;MLI;251
+398_143;Malta;0;1;0;NULL;;;;;;Staat;MT;MLT;145
+398_144;Marokko;0;1;0;NULL;;;;;;Staat;MA;MAR;252
+398_145;Marshallinseln;0;1;0;NULL;;;;;;Staat;MH;MHL;544
+398_146;Martinique;0;1;0;NULL;;;;;;Gebiet;MQ;MTQ;
+398_147;Mauretanien;0;1;0;NULL;;;;;;Staat;MR;MRT;239
+398_148;Mauritius;0;1;0;NULL;;;;;;Staat;MU;MUS;253
+398_149;Mayotte;0;1;0;NULL;;;;;;Gebiet;YT;MYT;
+398_15;Antigua und Barbuda;0;1;0;NULL;;;;;;Staat;AG;ATG;320
+398_150;Mexiko;0;1;0;NULL;;;;;;Staat;MX;MEX;353
+398_151;Mikronesien, Föderierte Staaten von;0;1;0;NULL;;;;;;Staat;FM;FSM;545
+398_152;Moldau, Republik;0;1;0;NULL;;;;;;Staat;MD;MDA;146
+398_153;Monaco;0;1;0;NULL;;;;;;Staat;MC;MCO;147
+398_154;Mongolei;0;1;0;NULL;;;;;;Staat;MN;MNG;457
+398_155;Montenegro;0;1;0;NULL;;;;;;Staat;ME;MNE;140
+398_156;Montserrat;0;1;0;NULL;;;;;;Gebiet;MS;MSR;
+398_157;Mosambik;0;1;0;NULL;;;;;;Staat;MZ;MOZ;254
+398_158;Myanmar;0;1;0;NULL;;;;;;Staat;MM;MMR;427
+398_159;Namibia;0;1;0;NULL;;;;;;Staat;NA;NAM;267
+398_16;Äquatorialguinea;0;1;0;NULL;;;;;;Staat;GQ;GNQ;274
+398_160;Nauru;0;1;0;NULL;;;;;;Staat;NR;NRU;531
+398_161;Nepal;0;1;0;NULL;;;;;;Staat;NP;NPL;458
+398_162;Neukaledonien;0;1;0;NULL;;;;;;Gebiet;NC;NCL;
+398_163;Neuseeland;0;1;0;NULL;;;;;;Staat;NZ;NZL;536
+398_164;Nicaragua;0;1;0;NULL;;;;;;Staat;NI;NIC;354
+398_165;Niederlande;0;1;0;NULL;;;;;;Staat;NL;NLD;148
+398_166;Niederländische Antillen (ehem.);0;1;0;NULL;;;;;;ehemaliges Gebiet;ANHH;ANT;
+398_167;Niger;0;1;0;NULL;;;;;;Staat;NE;NER;255
+398_168;Nigeria;0;1;0;NULL;;;;;;Staat;NG;NGA;232
+398_169;Niue;0;1;0;NULL;;;;;;Staat;NU;NIU;533
+398_17;Argentinien;0;1;0;NULL;;;;;;Staat;AR;ARG;323
+398_170;Nordirland;0;1;0;NULL;;;;;;Gebiet;GB-NIR;;
+398_171;Nördliche Marianen;0;1;0;NULL;;;;;;Gebiet;MP;MNP;525
+398_172;Nordmazedonien;0;1;0;NULL;;;;;;Staat;MK;MKD;144
+398_173;Norfolkinsel;0;1;0;NULL;;;;;;Gebiet;NF;NFK;
+398_174;Norwegen;0;1;0;NULL;;;;;;Staat;NO;NOR;149
+398_175;Oman;0;1;0;NULL;;;;;;Staat;OM;OMN;456
+398_176;Österreich;0;1;0;NULL;;;;;;Staat;AT;AUT;151
+398_177;Pakistan;0;1;0;NULL;;;;;;Staat;PK;PAK;461
+398_178;Palästinensisches Gebiet;0;1;0;NULL;;;;;;Staat;PS;PSE;
+398_179;Palau;0;1;0;NULL;;;;;;Staat;PW;PLW;537
+398_18;Armenien;0;1;0;NULL;;;;;;Staat;AM;ARM;422
+398_180;Panama;0;1;0;NULL;;;;;;Staat;PA;PAN;357
+398_181;Papua-Neuguinea;0;1;0;NULL;;;;;;Staat;PG;PNG;538
+398_182;Paraguay;0;1;0;NULL;;;;;;Staat;PY;PRY;359
+398_183;Peru;0;1;0;NULL;;;;;;Staat;PE;PER;361
+398_184;Philippinen;0;1;0;NULL;;;;;;Staat;PH;PHL;462
+398_185;Pitcairninseln;0;1;0;NULL;;;;;;Gebiet;PN;PCN;
+398_186;Polen;0;1;0;NULL;;;;;;Staat;PL;POL;152
+398_187;Portugal;0;1;0;NULL;;;;;;Staat;PT;PRT;153
+398_188;Puerto Rico;0;1;0;NULL;;;;;;Gebiet;PR;PRI;
+398_189;'Ra''s al Chaima';0;1;0;NULL;;;;;;Gebiet;AE-RK;;
+398_19;Aruba;0;1;0;NULL;;;;;;Gebiet;AW;ABW;
+398_190;Reunion;0;1;0;NULL;;;;;;Gebiet;RE;REU;
+398_191;Ruanda;0;1;0;NULL;;;;;;Staat;RW;RWA;265
+398_192;Rumänien;0;1;0;NULL;;;;;;Staat;RO;ROU;154
+398_193;Russische Föderation;0;1;0;NULL;;;;;;Staat;RU;RUS;160
+398_194;Salomonen;0;1;0;NULL;;;;;;Staat;SB;SLB;524
+398_195;Sambia;0;1;0;NULL;;;;;;Staat;ZM;ZMB;257
+398_196;Samoa;0;1;0;NULL;;;;;;Staat;WS;WSM;543
+398_197;San Marino;0;1;0;NULL;;;;;;Staat;SM;SMR;156
+398_198;Sao Tome und Principe;0;1;0;NULL;;;;;;Staat;ST;STP;268
+398_199;Saudi-Arabien;0;1;0;NULL;;;;;;Staat;SA;SAU;472
+398_2;Adschman;0;1;0;NULL;;;;;;Gebiet;AE-AJ;;
+398_20;Aserbaidschan;0;1;0;NULL;;;;;;Staat;AZ;AZE;425
+398_200;Schardscha;0;1;0;NULL;;;;;;Gebiet;AE-SH;;
+398_201;Schottland;0;1;0;NULL;;;;;;Gebiet;GB-SCT;;
+398_202;Schweden;0;1;0;NULL;;;;;;Staat;SE;SWE;157
+398_203;Schweiz;0;1;0;NULL;;;;;;Staat;CH;CHE;158
+398_204;Senegal;0;1;0;NULL;;;;;;Staat;SN;SEN;269
+398_205;Serbien;0;1;0;NULL;;;;;;Staat;RS;SRB;170
+398_206;Serbien und Montenegro (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;CSXX;;132
+398_207;Seychellen;0;1;0;NULL;;;;;;Staat;SC;SYC;271
+398_208;Sierra Leone;0;1;0;NULL;;;;;;Staat;SL;SLE;272
+398_209;Simbabwe;0;1;0;NULL;;;;;;Staat;ZW;ZWE;233
+398_21;Äthiopien;0;1;0;NULL;;;;;;Staat;ET;ETH;225
+398_210;Singapur;0;1;0;NULL;;;;;;Staat;SG;SGP;474
+398_211;Slowakei;0;1;0;NULL;;;;;;Staat;SK;SVK;155
+398_212;Slowenien;0;1;0;NULL;;;;;;Staat;SI;SVN;131
+398_213;Somalia;0;1;0;NULL;;;;;;Staat;SO;SOM;273
+398_214;Sowjetunion (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;SUHH;;159
+398_215;Spanien;0;1;0;NULL;;;;;;Staat;ES;ESP;161
+398_216;Sri Lanka;0;1;0;NULL;;;;;;Staat;LK;LKA;431
+398_217;St. Barthelemy;0;1;0;NULL;;;;;;Gebiet;BL;BLM;
+398_218;St. Helena;0;1;0;NULL;;;;;;Gebiet;SH;SHN;
+398_219;St. Kitts und Nevis;0;1;0;NULL;;;;;;Staat;KN;KNA;370
+398_22;Australien;0;1;0;NULL;;;;;;Staat;AU;AUS;523
+398_220;St. Lucia;0;1;0;NULL;;;;;;Staat;LC;LCA;366
+398_221;St. Martin (französisch);0;1;0;NULL;;;;;;Gebiet;MF;MAF;
+398_222;St. Martin (niederländisch);0;1;0;NULL;;;;;;Gebiet;SX;SXM;
+398_223;St. Pierre und Miquelon;0;1;0;NULL;;;;;;Gebiet;PM;SPM;
+398_224;St. Vincent und die Grenadinen;0;1;0;NULL;;;;;;Staat;VC;VCT;369
+398_225;Südafrika;0;1;0;NULL;;;;;;Staat;ZA;ZAF;263
+398_226;Sudan;0;1;0;NULL;;;;;;Staat;SD;SDN;277
+398_227;Südgeorgien und die südlichen Sandwichinseln;0;1;0;NULL;;;;;;Gebiet;GS;SGS;
+398_228;Südsudan;0;1;0;NULL;;;;;;Staat;SS;SSD;278
+398_229;Suriname;0;1;0;NULL;;;;;;Staat;SR;SUR;364
+398_23;Bahamas;0;1;0;NULL;;;;;;Staat;BS;BHS;324
+398_230;Svalbard und Jan Mayen;0;1;0;NULL;;;;;;Gebiet;SJ;SJM;
+398_231;Eswatini;0;1;0;NULL;;;;;Swasiland;Staat;SZ;SWZ;281
+398_232;Syrien, Arabische Republik;0;1;0;NULL;;;;;;Staat;SY;SYR;475
+398_233;Tadschikistan;0;1;0;NULL;;;;;;Staat;TJ;TJK;470
+398_234;Taiwan;0;1;0;NULL;;;;;;Gebiet;TW;TWN;465
+398_235;Tansania, Vereinigte Republik;0;1;0;NULL;;;;;;Staat;TZ;TZA;282
+398_236;Thailand;0;1;0;NULL;;;;;;Staat;TH;THA;476
+398_237;Timor-Leste;0;1;0;NULL;;;;;;Staat;TL;TLS;483
+398_238;Togo;0;1;0;NULL;;;;;;Staat;TG;TGO;283
+398_239;Tokelau;0;1;0;NULL;;;;;;Gebiet;TK;TKL;
+398_24;Bahrain;0;1;0;NULL;;;;;;Staat;BH;BHR;424
+398_240;Tonga;0;1;0;NULL;;;;;;Staat;TO;TON;541
+398_241;Trinidad und Tobago;0;1;0;NULL;;;;;;Staat;TT;TTO;371
+398_242;Tschad;0;1;0;NULL;;;;;;Staat;TD;TCD;284
+398_243;Tschechische Republik;0;1;0;NULL;;;;;;Staat;CZ;CZE;164
+398_244;Tschechoslowakei (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;CSHH;;162
+398_245;Tunesien;0;1;0;NULL;;;;;;Staat;TN;TUN;285
+398_246;Türkei;0;1;0;NULL;;;;;;Staat;TR;TUR;163
+398_247;Turkmenistan;0;1;0;NULL;;;;;;Staat;TM;TKM;471
+398_248;Turks- und Caicosinseln;0;1;0;NULL;;;;;;Gebiet;TC;TCA;
+398_249;Tuvalu;0;1;0;NULL;;;;;;Staat;TV;TUV;540
+398_25;Bangladesch;0;1;0;NULL;;;;;;Staat;BD;BGD;460
+398_250;Uganda;0;1;0;NULL;;;;;;Staat;UG;UGA;286
+398_251;Ukraine;0;1;0;NULL;;;;;;Staat;UA;UKR;166
+398_252;Umm al-Qaiwain;0;1;0;NULL;;;;;;Gebiet;AE-UQ;;
+398_253;unbekannt;0;1;0;NULL;;;;;;sonstiger Eintrag;;;998
+398_254;Ungarn;0;1;0;NULL;;;;;;Staat;HU;HUN;165
+398_255;Uruguay;0;1;0;NULL;;;;;;Staat;UY;URY;365
+398_256;Usbekistan;0;1;0;NULL;;;;;;Staat;UZ;UZB;477
+398_257;Vanuatu;0;1;0;NULL;;;;;;Staat;VU;VUT;532
+398_258;Vatikanstadt;0;1;0;NULL;;;;;;Staat;VA;VAT;167
+398_259;Venezuela;0;1;0;NULL;;;;;;Staat;VE;VEN;367
+398_26;Barbados;0;1;0;NULL;;;;;;Staat;BB;BRB;322
+398_260;Vereinigte Arabische Emirate;0;1;0;NULL;;;;;;Staat;AE;ARE;469
+398_261;Vereinigte Staaten;0;1;0;NULL;;;;;;Staat;US;USA;368
+398_262;Vereinigtes Königreich;0;1;0;NULL;;;;;;Staat;GB;GBR;168
+398_263;Vietnam;0;1;0;NULL;;;;;;Staat;VN;VNM;432
+398_264;Wales;0;1;0;NULL;;;;;;Gebiet;GB-WLS;;
+398_265;Wallis und Futuna;0;1;0;NULL;;;;;;Gebiet;WF;WLF;
+398_266;Weihnachtsinsel;0;1;0;NULL;;;;;;Gebiet;CX;CXR;
+398_267;Westsahara;0;1;0;NULL;;;;;;Gebiet;EH;ESH;
+398_268;Zentralafrikanische Republik;0;1;0;NULL;;;;;;Staat;CF;CAF;289
+398_269;Zypern;0;1;0;NULL;;;;;;Staat;CY;CYP;181
+398_27;Belarus;0;1;0;NULL;;;;;;Staat;BY;BLR;169
+398_270;Europäische Union;0;1;0;NULL;EU;;;;;Organisation;;EUE;
+398_271;Organisation des Nordatlantikvertrages;0;1;0;NULL;NATO;;;;;Organisation;;;
+398_272;Vereinte Nationen;0;1;0;NULL;UN;;;;;Organisation;;UNO;
+398_273;Afrikanische Export-Import-Bank;0;1;0;NULL;AFREXIM-Bank;;;;;Organisation;;XIM;
+398_274;Gemeinsamer Markt für das Östliche und Südliche Afrika;0;1;0;NULL;COMESA;;;;;Organisation;;XCO;
+398_275;Karibische Gemeinschaft;0;1;0;NULL;CARICOM;;;;;Organisation;;XCC;
+398_276;Internationale Kriminalpolizeiliche Organisation;0;1;0;NULL;INTERPOL;;;;;Organisation;;XPO;
+398_277;Souveräner Malteserorden;0;1;0;NULL;;;;;;Organisation;;XOM;
+398_28;Belgien;0;1;0;NULL;;;;;;Staat;BE;BEL;124
+398_29;Belize;0;1;0;NULL;;;;;;Staat;BZ;BLZ;330
+398_3;Afghanistan;0;1;0;NULL;;;;;;Staat;AF;AFG;423
+398_30;Benin;0;1;0;NULL;;;;;;Staat;BJ;BEN;229
+398_31;Bermuda;0;1;0;NULL;;;;;;Gebiet;BM;BMU;
+398_32;Bhutan;0;1;0;NULL;;;;;;Staat;BT;BTN;426
+398_33;Bolivien, Plurinationaler Staat;0;1;0;NULL;;;;;;Staat;BO;BOL;326
+398_34;Bonaire;0;1;0;NULL;;;;;;Gebiet;BQ;BES;
+398_35;Bosnien und Herzegowina;0;1;0;NULL;;;;;;Staat;BA;BIH;122
+398_36;Botsuana;0;1;0;NULL;;;;;;Staat;BW;BWA;227
+398_37;Bouvetinsel;0;1;0;NULL;;;;;;Gebiet;BV;BVT;
+398_38;Brasilien;0;1;0;NULL;;;;;;Staat;BR;BRA;327
+398_39;Britische Jungferninseln;0;1;0;NULL;;;;;;Gebiet;VG;VGB;
+398_4;Ägypten;0;1;0;NULL;;;;;;Staat;EG;EGY;287
+398_40;Britisches Territorium im Indischen Ozean;0;1;0;NULL;;;;;;Gebiet;IO;IOT;
+398_41;Brunei Darussalam;0;1;0;NULL;;;;;;Staat;BN;BRN;429
+398_42;Bulgarien;0;1;0;NULL;;;;;;Staat;BG;BGR;125
+398_43;Burkina Faso;0;1;0;NULL;;;;;;Staat;BF;BFA;258
+398_44;Burundi;0;1;0;NULL;;;;;;Staat;BI;BDI;291
+398_45;Cabo Verde;0;1;0;NULL;;;;;Kap Verde;Staat;CV;CPV;242
+398_46;Chile;0;1;0;NULL;;;;;;Staat;CL;CHL;332
+398_47;China;0;1;0;NULL;;;;;;Staat;CN;CHN;479
+398_48;Cookinseln;0;1;0;NULL;;;;;;Staat;CK;COK;527
+398_49;Costa Rica;0;1;0;NULL;;;;;;Staat;CR;CRI;334
+398_5;Alandinseln;0;1;0;NULL;;;;;;Gebiet;AX;ALA;
+398_50;'Cote d''Ivoire';0;1;0;NULL;;;;;;Staat;CI;CIV;231
+398_51;Curacao;0;1;0;NULL;;;;;;Gebiet;CW;CUW;321
+398_52;Dänemark;0;1;0;NULL;;;;;;Staat;DK;DNK;126
+398_53;Deutschland;0;1;0;NULL;;;;;;Staat;DE;D;0
+398_54;Dominica;0;1;0;NULL;;;;;;Staat;DM;DMA;333
+398_55;Dominikanische Republik;0;1;0;NULL;;;;;;Staat;DO;DOM;335
+398_56;Dschibuti;0;1;0;NULL;;;;;;Staat;DJ;DJI;230
+398_57;Dubai;0;1;0;NULL;;;;;;Gebiet;AE-DU;;
+398_58;Ecuador;0;1;0;NULL;;;;;;Staat;EC;ECU;336
+398_59;El Salvador;0;1;0;NULL;;;;;;Staat;SV;SLV;337
+398_6;Albanien;0;1;0;NULL;;;;;;Staat;AL;ALB;121
+398_60;England;0;1;0;NULL;;;;;;Gebiet;GB-ENG;;
+398_61;Eritrea;0;1;0;NULL;;;;;;Staat;ER;ERI;224
+398_62;Estland;0;1;0;NULL;;;;;;Staat;EE;EST;127
+398_63;Falklandinseln;0;1;0;NULL;;;;;;Gebiet;FK;FLK;
+398_64;Färöer;0;1;0;NULL;;;;;;Gebiet;FO;FRO;
+398_65;Fidschi;0;1;0;NULL;;;;;;Staat;FJ;FJI;526
+398_66;Finnland;0;1;0;NULL;;;;;;Staat;FI;FIN;128
+398_67;Frankreich;0;1;0;NULL;;;;;;Staat;FR;FRA;129
+398_68;Französische Süd- und Antarktisgebiete;0;1;0;NULL;;;;;;Gebiet;TF;ATF;
+398_69;Französisch-Guayana;0;1;0;NULL;;;;;;Gebiet;GF;;
+398_7;Alderney;0;1;0;NULL;;;;;;Gebiet;;;
+398_70;Französisch-Polynesien;0;1;0;NULL;;;;;;Gebiet;PF;;
+398_71;Fudschaira;0;1;0;NULL;;;;;;Gebiet;AE-FU;;
+398_72;Gabun;0;1;0;NULL;;;;;;Staat;GA;GAB;236
+398_73;Gambia;0;1;0;NULL;;;;;;Staat;GM;GMB;237
+398_74;Georgien;0;1;0;NULL;;;;;;Staat;GE;GEO;430
+398_75;Ghana;0;1;0;NULL;;;;;;Staat;GH;GHA;238
+398_76;Gibraltar;0;1;0;NULL;;;;;;Gebiet;GI;GIB;
+398_77;Grenada;0;1;0;NULL;;;;;;Staat;GD;GRD;340
+398_78;Griechenland;0;1;0;NULL;;;;;;Staat;GR;GRC;134
+398_79;Grönland;0;1;0;NULL;;;;;;Gebiet;GL;GRL;
+398_8;Algerien;0;1;0;NULL;;;;;;Staat;DZ;DZA;221
+398_80;Guadeloupe;0;1;0;NULL;;;;;;Gebiet;GP;GLP;
+398_81;Guam;0;1;0;NULL;;;;;;Gebiet;GU;GUM;
+398_82;Guatemala;0;1;0;NULL;;;;;;Staat;GT;GTM;345
+398_83;Guernsey;0;1;0;NULL;;;;;;Gebiet;GG;GGY;
+398_84;Guinea;0;1;0;NULL;;;;;;Staat;GN;GIN;261
+398_85;Guinea-Bissau;0;1;0;NULL;;;;;;Staat;GW;GNB;259
+398_86;Guyana;0;1;0;NULL;;;;;;Staat;GY;GUY;328
+398_87;Haiti;0;1;0;NULL;;;;;;Staat;HT;HTI;346
+398_88;Heard und McDonaldinseln;0;1;0;NULL;;;;;;Gebiet;HM;HMD;
+398_89;Honduras;0;1;0;NULL;;;;;;Staat;HN;HND;347
+398_9;Amerikanische Jungferninseln;0;1;0;NULL;;;;;;Gebiet;VI;VIR;
+398_90;Hongkong;0;1;0;NULL;;;;;;Gebiet;HK;CHN;
+398_91;Indien;0;1;0;NULL;;;;;;Staat;IN;IND;436
+398_92;Indonesien;0;1;0;NULL;;;;;;Staat;ID;IDN;437
+398_93;Insel Man;0;1;0;NULL;;;;;;Gebiet;IM;IMN;
+398_94;Irak;0;1;0;NULL;;;;;;Staat;IQ;IRQ;438
+398_95;Iran, Islamische Republik;0;1;0;NULL;;;;;;Staat;IR;IRN;439
+398_96;Irland;0;1;0;NULL;;;;;;Staat;IE;IRL;135
+398_97;Island;0;1;0;NULL;;;;;;Staat;IS;ISL;136
+398_98;Israel;0;1;0;NULL;;;;;;Staat;IL;ISR;441
+398_99;Italien;0;1;0;NULL;;;;;;Staat;IT;ITA;137

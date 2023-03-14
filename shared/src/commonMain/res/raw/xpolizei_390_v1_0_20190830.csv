@@ -1,0 +1,22 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+390;Art des Aufenthaltsendes;Art des Aufenthaltsendes;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+390_1;Abschiebung;0;1;0;NULL;;;;;
+390_10;Zurückschiebung;0;1;0;NULL;;;;;
+390_11;Zurückweisung;0;1;0;NULL;;;;;
+390_12;Überstellung DÜ;0;1;0;NULL;;;;;
+390_2;Auslieferung;0;1;0;NULL;;;;;
+390_3;Ausweisung;0;1;0;NULL;;;;;
+390_4;Erwerb der deutschen Staatsangehörigkeit;0;1;0;NULL;;;;;'Adoption; Einbürgerung'
+390_5;freiwillige Ausreise;0;1;0;NULL;;;;;
+390_6;Rechtsstellung als Deutscher nach Art. 116 Abs. 1 GG;0;1;0;NULL;;;;;
+390_7;ins Ausland verzogen;0;1;0;NULL;;;;;
+390_8;unbekannt verzogen;0;1;0;NULL;;;;;
+390_9;verstorben;0;1;0;NULL;;;;;

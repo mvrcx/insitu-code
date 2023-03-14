@@ -1,0 +1,55 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+242;Art des Materials;Art des Materials;ZIR;V1.2;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+242_1;Elfenbein;0;1;0;NULL;;;;;
+242_10;Edelstein / Schmuckstein;0;1;0;NULL;;;;;
+242_11;Diamant;0;1;0;NULL;;;;;
+242_12;Rubin;0;1;0;NULL;;;;;
+242_13;Saphir;0;1;0;NULL;;;;;
+242_14;Smaragd;0;1;0;NULL;;;;;
+242_15;Glas;0;1;0;NULL;;;;;
+242_16;Graphit;0;1;0;NULL;;;;;
+242_17;Gummi;0;1;0;NULL;;;;;
+242_18;Holz;0;1;0;NULL;;;;;
+242_19;Keramik;0;1;0;NULL;;;;;
+242_2;Faser;0;1;0;NULL;;;;;
+242_20;Klebstoff;0;1;0;NULL;;;;;
+242_21;Kunstleder;0;1;0;NULL;;;;;
+242_22;Kunststoff / Plastik;0;1;0;NULL;;;;;
+242_23;Leder;0;1;0;NULL;;;;;
+242_24;Metall;0;1;0;NULL;;;;;
+242_25;Aluminium;0;1;0;NULL;;;;;
+242_26;Blei;0;1;0;NULL;;;;;
+242_27;Buntmetall;0;1;0;NULL;;;;;
+242_28;Kupfer;0;1;0;NULL;;;;;
+242_29;Messing;0;1;0;NULL;;;;;
+242_3;Naturfaser;0;1;0;NULL;;;;;
+242_30;Zink;0;1;0;NULL;;;;;
+242_31;Zinn;0;1;0;NULL;;;;;
+242_32;Bronze;0;1;0;NULL;;;;;
+242_33;Chrom;0;1;0;NULL;;;;;
+242_34;Eisen;0;1;0;NULL;;;;;
+242_35;Gold;0;1;0;NULL;;;;;
+242_36;Platin;0;1;0;NULL;;;;;
+242_37;Silber;0;1;0;NULL;;;;;
+242_38;Stahl;0;1;0;NULL;;;;;
+242_39;Wolfram;0;1;0;NULL;;;;;
+242_4;Baumwolle;0;1;0;NULL;;;;;
+242_40;Papier;0;1;0;NULL;;;;;
+242_41;Pappe / Karton;0;1;0;NULL;;;;;
+242_42;Pelz;0;1;0;NULL;;;;;
+242_43;Perlmutt;0;1;0;NULL;;;;;
+242_44;Porzellan;0;1;0;NULL;;;;;
+242_45;Edelmetall;NULL;1;0;NULL;;;;;
+242_5;Leinen / Flachs;0;1;0;NULL;;;;;
+242_6;Kunstfaser;0;1;0;NULL;;;;;
+242_7;Nylon;0;1;0;NULL;;;;;
+242_8;Fasermischung;0;1;0;NULL;;;;;
+242_9;Gestein;0;1;0;NULL;;;;;

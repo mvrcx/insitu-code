@@ -1,0 +1,39 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+201;Ausprägung eines Allels;Ausprägung eines Allels;ZIR;V1.1;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular;Ersatzwert_Unterschreitung;Bereichsuntergrenze;Bereichsobergrenze;Ersatzwert_Überschreitung;Nachkommastelle;DNA-Muster_8;DNA-Muster_EU-Standard
+201_1;SE33;0;1;0;NULL;;;;1;12;37;99;3;J;J
+201_10;TPOX;0;1;0;NULL;;;;1;6;13;99;3;N;N
+201_11;CSF1PO;0;1;0;NULL;;;;1;6;15;99;3;N;N
+201_12;D13S317;0;1;0;NULL;;;;1;7;15;99;3;N;N
+201_13;D7S820;0;1;0;NULL;;;;1;6;15;99;3;N;N
+201_14;D5S818;0;1;0;NULL;;;;1;7;16;99;3;N;N
+201_15;D16S539;0;1;0;NULL;;;;1;5;15;99;3;N;N
+201_16;D2S1338;0;1;0;NULL;;;;1;15;28;99;3;N;N
+201_17;D19S433;0;1;0;NULL;;;;1;9;17.2;99;3;N;N
+201_18;PENTA D;0;1;0;NULL;;;;1;2.2;17;99;4;N;N
+201_19;PENTA E;0;1;0;NULL;;;;1;5;24;99;4;N;N
+201_2;D21S11;0;1;0;NULL;;;;1;26;35.2;99;3;J;J
+201_20;FES;0;1;0;NULL;;;;1;7;15;99;3;N;N
+201_21;F13A1;0;1;0;NULL;;;;1;2.2;19;99;3;N;N
+201_22;F13B;0;1;0;NULL;;;;1;5;12;99;3;N;N
+201_23;CD4;0;1;0;NULL;;;;1;4;14;99;4;N;N
+201_24;GABA;0;1;0;NULL;;;;1;2;98;99;3;N;N
+201_25;D1S1656;0;1;0;NULL;;;;1;9;20.3;99;3;N;J
+201_26;D2S441;0;1;0;NULL;;;;1;8;17;99;3;N;J
+201_27;D10S1248;0;1;0;NULL;;;;1;9;19;99;3;N;J
+201_28;D12S391;0;1;0;NULL;;;;1;14;27;99;3;N;J
+201_29;D22S1045;0;1;0;NULL;;;;1;9;19;99;2;N;J
+201_3;VWA;0;1;0;NULL;;;;1;11;22;99;3;J;J
+201_4;TH01;0;1;0;NULL;;;;1;5;11;99;3;J;J
+201_5;FIBRA/FGA;0;1;0;NULL;;;;1;16;29;99;3;J;J
+201_6;D3S1358;0;1;0;NULL;;;;1;11;20;99;3;J;J
+201_7;D8S1179;0;1;0;NULL;;;;1;7;20;99;3;J;J
+201_8;D18S51;0;1;0;NULL;;;;1;7;28;99;3;J;J
+201_9;Amelogenin/AMG;0;1;0;NULL;;X und Y sind die einzigen erlaubten Werte;;;X;Y;;;N;N

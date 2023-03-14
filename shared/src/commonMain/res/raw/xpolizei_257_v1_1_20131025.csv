@@ -1,0 +1,44 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+257;Religion;Religion;ZIR;V1.1;20131025
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+257_10;bahai;0;1;0;NULL;;;
+257_11;jüdisch;0;1;0;NULL;;;
+257_12;lamaistisch;0;1;0;NULL;;;
+257_13;muslimisch;0;1;0;NULL;;;
+257_14;schiitisch;0;1;0;NULL;;;
+257_15;sunnitisch;0;1;0;NULL;;;
+257_16;kharijitisch;0;1;0;NULL;;;
+257_17;ibaditisch;0;1;0;NULL;;;
+257_18;islamische Strömungen;0;1;0;NULL;;;
+257_19;sufisch;0;1;0;NULL;;;
+257_2;buddhistisch;0;1;0;NULL;;;
+257_20;salafistisch;0;1;0;NULL;;;
+257_21;wahhabitisch;0;1;0;NULL;;;
+257_22;takfiri;0;1;0;NULL;;;
+257_23;islamische organisierte Strukturen;0;1;0;NULL;;;
+257_24;deobandi;0;1;0;NULL;;;
+257_25;tablighi / TJ;0;1;0;NULL;;;
+257_26;Muslimbruderschaft;0;1;0;NULL;;;
+257_27;sekten- /sektenähnliche Zugehörigkeit;0;1;0;NULL;;;
+257_28;sikhistisch;0;1;0;NULL;;;
+257_29;taoistisch;0;1;0;NULL;;;
+257_3;christlich;0;1;0;NULL;;;
+257_30;Sekten mit Bezug zum Islam;0;1;0;NULL;;;
+257_31;jesidisch;0;1;0;NULL;;;
+257_32;alevitisch / nusairi;0;1;0;NULL;;;
+257_33;bektashi;0;1;0;NULL;;;
+257_34;islamitisch;0;1;0;NULL;;;
+257_35;ahmadi;0;1;0;NULL;;;
+257_4;katholisch;0;1;0;NULL;;;
+257_5;protestantisch;0;1;0;NULL;;;
+257_6;orthodox;0;1;0;NULL;;;
+257_7;sonstige christliche Glaubensgemeinschaft;0;1;0;NULL;;;
+257_8;drusisch;0;1;0;NULL;;;
+257_9;hinduistisch;0;1;0;NULL;;;

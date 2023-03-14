@@ -1,0 +1,739 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+412;Vereine / Mannschaften (Fußball / Eishockey);Vereine / Mannschaften (Fußball / Eishockey);ZIR;V1.0;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular;Sportart
+412_1;1. CfR Pforzheim 1896;0;1;0;NULL;;;;Fußball
+412_10;1. FC Kaan-Marienborn 07 e. V.;0;1;0;NULL;;;;Fußball
+412_100;DJK Schwarz-Weiss Neukölln 1920 e. V.;0;1;0;NULL;;;;Fußball
+412_101;DjK Utzenhofen;0;1;0;NULL;;;;Fußball
+412_102;DJK Vilzing;0;1;0;NULL;;;;Fußball
+412_103;Döbelner SC 02/90 e. V.;0;1;0;NULL;;;;Fußball
+412_104;DSC Arminia Bielefeld;0;1;0;NULL;;;;Fußball
+412_105;Eimsbütteler TV;0;1;0;NULL;;;;Fußball
+412_106;Eintracht Braunschweig;0;1;0;NULL;;;;Fußball
+412_107;Eintracht Frankfurt;0;1;0;NULL;;;;Fußball
+412_108;Eutiner Sportvereinigung von 1908 e. V.;0;1;0;NULL;;;;Fußball
+412_109;F.C. Hansa Rostock;0;1;0;NULL;;;;Fußball
+412_11;1. FC Kaiserslautern;0;1;0;NULL;;;;Fußball
+412_110;F.C. Hansa Rostock e. V.;0;1;0;NULL;;;;Fußball
+412_111;F.C. Pipinsried 1967 e. V.;0;1;0;NULL;;;;Fußball
+412_112;'"FC ""Blau-Weiß"" Karbach"';0;1;0;NULL;;;;Fußball
+412_113;FC 08 Homburg;0;1;0;NULL;;;;Fußball
+412_114;FC 08 Homburg II;0;1;0;NULL;;;;Fußball
+412_115;FC 1910 Lößnitz e. V.;0;1;0;NULL;;;;Fußball
+412_116;FC 1922 Östringen e. V.;0;1;0;NULL;;;;Fußball
+412_117;FC 1931 Eddersheim e. V.;0;1;0;NULL;;;;Fußball
+412_118;FC An der Fahner Höhe;0;1;0;NULL;;;;Fußball
+412_119;FC Anker Wismar 1997 e. V.;0;1;0;NULL;;;;Fußball
+412_12;1. FC Kaiserslautern II;0;1;0;NULL;;;;Fußball
+412_120;FC Arminia 03 Ludwigshafen;0;1;0;NULL;;;;Fußball
+412_121;FC Astoria Walldorf;0;1;0;NULL;;;;Fußball
+412_122;FC Astoria Walldorf II;0;1;0;NULL;;;;Fußball
+412_123;FC Augsburg 07;0;1;0;NULL;;;;Fußball
+412_124;FC Augsburg 07 II;0;1;0;NULL;;;;Fußball
+412_125;FC Bad Lausick 1990;0;1;0;NULL;;;;Fußball
+412_126;FC Bayern Alzenau;0;1;0;NULL;;;;Fußball
+412_127;FC Bayern München;0;1;0;NULL;;;;Fußball
+412_128;FC Bayern München II;0;1;0;NULL;;;;Fußball
+412_129;FC Blau-Weiß Leipzig;0;1;0;NULL;;;;Fußball
+412_13;1. FC Köln;0;1;0;NULL;;;;Fußball
+412_130;FC Brandenburg 03 e. V.;0;1;0;NULL;;;;Fußball
+412_131;FC Carl Zeiss Jena;0;1;0;NULL;;;;Fußball
+412_132;FC Carl Zeiss Jena II;0;1;0;NULL;;;;Fußball
+412_133;FC Carl Zeiss Jena U19;0;1;0;NULL;;;;Fußball
+412_134;FC Chemie Triptis;0;1;0;NULL;;;;Fußball
+412_135;FC Concordia Wilhelmsruh 1895 e. V.;0;1;0;NULL;;;;Fußball
+412_136;FC Dingolfing;0;1;0;NULL;;;;Fußball
+412_137;FC Ederbergland;0;1;0;NULL;;;;Fußball
+412_138;FC Edersheim;0;1;0;NULL;;;;Fußball
+412_139;FC Eilenburg;0;1;0;NULL;;;;Fußball
+412_14;1. FC Köln II;0;1;0;NULL;;;;Fußball
+412_140;FC Einheit Rudolstadt;0;1;0;NULL;;;;Fußball
+412_141;FC Einheit Wernigerode;0;1;0;NULL;;;;Fußball
+412_142;FC Eintracht Bamberg 2010 e. V.;0;1;0;NULL;;;;Fußball
+412_143;FC Eintracht Norderstedt;0;1;0;NULL;;;;Fußball
+412_144;FC Eintracht Northeim 1922;0;1;0;NULL;;;;Fußball
+412_145;FC Eisenach;0;1;0;NULL;;;;Fußball
+412_146;FC Erfurt Nord;0;1;0;NULL;;;;Fußball
+412_147;FC Ergolding;0;1;0;NULL;;;;Fußball
+412_148;FC Erzgebirge Aue;0;1;0;NULL;;;;Fußball
+412_149;FC Germania Friedrichstal;0;1;0;NULL;;;;Fußball
+412_15;1. FC Lok Stendal e. V.;0;1;0;NULL;;;;Fußball
+412_150;FC Gießen;0;1;0;NULL;;;;Fußball
+412_151;FC Gottfrieding e. V.;0;1;0;NULL;;;;Fußball
+412_152;FC Hanau 93;0;1;0;NULL;;;;Fußball
+412_153;FC Hertha 03 Zehlendorf;0;1;0;NULL;;;;Fußball
+412_154;FC Hertha Wiesbach;0;1;0;NULL;;;;Fußball
+412_155;FC Ingolstadt 04;0;1;0;NULL;;;;Fußball
+412_156;FC Ingolstadt 04 II;0;1;0;NULL;;;;Fußball
+412_157;FC International Leipzig;0;1;0;NULL;;;;Fußball
+412_158;FC Internationale Berlin 1980 e. V.;0;1;0;NULL;;;;Fußball
+412_159;FC Internationale Berlin 1980 e. V. II;0;1;0;NULL;;;;Fußball
+412_16;1. FC Lokomotive Leipzig;0;1;0;NULL;;;;Fußball
+412_160;FC Kilia Kiel;0;1;0;NULL;;;;Fußball
+412_161;FC Kremmen 1920 e. V.;0;1;0;NULL;;;;Fußball
+412_162;FC Mecklenburg Schwerin;0;1;0;NULL;;;;Fußball
+412_163;FC Memmingen 1907;0;1;0;NULL;;;;Fußball
+412_164;FC Motor Zeulenroda e. V.;0;1;0;NULL;;;;Fußball
+412_165;FC Noswendel-Wadern;0;1;0;NULL;;;;Fußball
+412_166;FC Nöttingen 1957 e. V.;0;1;0;NULL;;;;Fußball
+412_167;FC Oberlausitz Neugersdorf;0;1;0;NULL;;;;Fußball
+412_168;FC Palatia Limbach;0;1;0;NULL;;;;Fußball
+412_169;FC Rastede;0;1;0;NULL;;;;Fußball
+412_17;1. FC Lübars;0;1;0;NULL;;;;Fußball
+412_170;FC Rastpfuhl;0;1;0;NULL;;;;Fußball
+412_171;FC Rastpfuhl II;0;1;0;NULL;;;;Fußball
+412_172;FC Rot-Weiß Erfurt e. V.;0;1;0;NULL;;;;Fußball
+412_173;FC Rot-Weiss Koblenz;0;1;0;NULL;;;;Fußball
+412_174;FC Saalfeld;0;1;0;NULL;;;;Fußball
+412_175;FC Schalke 04;0;1;0;NULL;;;;Fußball
+412_176;FC Schalke 04 II;0;1;0;NULL;;;;Fußball
+412_177;FC Schalke 04 U19;0;1;0;NULL;;;;Fußball
+412_178;FC Schönberg 95;0;1;0;NULL;;;;Fußball
+412_179;FC Speyer 09;0;1;0;NULL;;;;Fußball
+412_18;1. FC Magdeburg;0;1;0;NULL;;;;Fußball
+412_180;FC St. Pauli;0;1;0;NULL;;;;Fußball
+412_181;FC St. Pauli (U23);0;1;0;NULL;;;;Fußball
+412_182;FC St. Pauli III;0;1;0;NULL;;;;Fußball
+412_183;FC Stern Marienfelde 1912 e. V.;0;1;0;NULL;;;;Fußball
+412_184;FC Strausberg;0;1;0;NULL;;;;Fußball
+412_185;FC Teutonia 05 Ottensen;0;1;0;NULL;;;;Fußball
+412_186;FC Teutonia München e. V.;0;1;0;NULL;;;;Fußball
+412_187;FC Thüringen Jena;0;1;0;NULL;;;;Fußball
+412_188;FC Thüringen Weida;0;1;0;NULL;;;;Fußball
+412_189;FC Treptow;0;1;0;NULL;;;;Fußball
+412_19;1. FC Mönchengladbach;0;1;0;NULL;;;;Fußball
+412_190;FC Union Mühlhausen;0;1;0;NULL;;;;Fußball
+412_191;FC Viktoria 1889 Berlin;0;1;0;NULL;;;;Fußball
+412_192;FC Viktoria Köln 1904 e. V.;0;1;0;NULL;;;;Fußball
+412_193;FC Wacker 1914 Teistungen;0;1;0;NULL;;;;Fußball
+412_194;FC Wegberg-Beeck;0;1;0;NULL;;;;Fußball
+412_195;FC Würzburger Kickers 1907;0;1;0;NULL;;;;Fußball
+412_196;FC Würzburger Kickers e. V. U23;0;1;0;NULL;;;;Fußball
+412_197;FCS;0;1;0;NULL;;;;Fußball
+412_198;FK O3 Pirmasens e. V.;0;1;0;NULL;;;;Fußball
+412_199;FK Srbija Berlin e. V;0;1;0;NULL;;;;Fußball
+412_2;1. FC 1906 Bad Kissingen;0;1;0;NULL;;;;Fußball
+412_20;1. FC Mühlhausen 1927 e. V.;0;1;0;NULL;;;;Fußball
+412_200;Fortuna Düsseldorf;0;1;0;NULL;;;;Fußball
+412_201;Fortuna Düsseldorf II;0;1;0;NULL;;;;Fußball
+412_202;Freiburger Fußball-Club 1897 e. V.;0;1;0;NULL;;;;Fußball
+412_203;Freie Turnerschaft Braunschweig e. V.;0;1;0;NULL;;;;Fußball
+412_204;Freie Turnerschaft Schweinfurt;0;1;0;NULL;;;;Fußball
+412_205;Friedenauer TSC 1886 e. V.;0;1;0;NULL;;;;Fußball
+412_206;Friedrichshagener Sportverein 1912 e. V.;0;1;0;NULL;;;;Fußball
+412_207;Frisch Auf Wurzen;0;1;0;NULL;;;;Fußball
+412_208;Frohnauer Sport Club 1946 e. V.;0;1;0;NULL;;;;Fußball
+412_209;FSV 06 Ohratal Ohrdruf;0;1;0;NULL;;;;Fußball
+412_21;1. FC Novi Pazar 95;0;1;0;NULL;;;;Fußball
+412_210;FSV 08 Bietigheim-Bissingen;0;1;0;NULL;;;;Fußball
+412_211;FSV 1996 Preussen Bad Langensalza e. V.;0;1;0;NULL;;;;Fußball
+412_212;FSV 63 Luckenwalde;0;1;0;NULL;;;;Fußball
+412_213;FSV Berolina Stralau 1901;0;1;0;NULL;;;;Fußball
+412_214;FSV Budissa Bautzen;0;1;0;NULL;;;;Fußball
+412_215;FSV Frankfurt;0;1;0;NULL;;;;Fußball
+412_216;FSV GW Stadtroda;0;1;0;NULL;;;;Fußball
+412_217;FSV Hansa 07 e. V.;0;1;0;NULL;;;;Fußball
+412_218;FSV Jägersburg;0;1;0;NULL;;;;Fußball
+412_219;FSV Krostitz;0;1;0;NULL;;;;Fußball
+412_22;1. FC Nürnberg;0;1;0;NULL;;;;Fußball
+412_220;FSV Martinroda e. V.;0;1;0;NULL;;;;Fußball
+412_221;FSV Mellenbach Sitzendorf;0;1;0;NULL;;;;Fußball
+412_222;FSV Optik Rathenow;0;1;0;NULL;;;;Fußball
+412_223;FSV Salmrohr 1921;0;1;0;NULL;;;;Fußball
+412_224;FSV Spandauer Kickers 1975;0;1;0;NULL;;;;Fußball
+412_225;FSV Union Fürstenwalde;0;1;0;NULL;;;;Fußball
+412_226;FSV Wacker 03 Gotha;0;1;0;NULL;;;;Fußball
+412_227;FSV Wacker 90 Nordhausen;0;1;0;NULL;;;;Fußball
+412_228;FSV Wacker 90 Nordhausen II;0;1;0;NULL;;;;Fußball
+412_229;FSV Waltershausen;0;1;0;NULL;;;;Fußball
+412_23;1. FC Nürnberg II (1. FC Nürnberg U 21);0;1;0;NULL;;;;Fußball
+412_230;FSV Zwickau;0;1;0;NULL;;;;Fußball
+412_231;Füchse Berlin Reinickendorf;0;1;0;NULL;;;;Fußball
+412_232;Fußball-Club 1908 Villingen e. V.;0;1;0;NULL;;;;Fußball
+412_233;Fußballclub Eintracht Rheine e. V.;0;1;0;NULL;;;;Fußball
+412_234;Fußballclub Energie Cottbus e. V.;0;1;0;NULL;;;;Fußball
+412_235;Fußballclub Grimma e. V.;0;1;0;NULL;;;;Fußball
+412_236;Fußballclub Hagen/Uthlede von 2000 e. V.;0;1;0;NULL;;;;Fußball
+412_237;Fußball-Club Oberneuland von 1948 e. V.;0;1;0;NULL;;;;Fußball
+412_238;Fußball-Club Remscheid e. V.;0;1;0;NULL;;;;Fußball
+412_239;Fußball-Club Spandau 06 e. V.;0;1;0;NULL;;;;Fußball
+412_24;1. FC Nürnberg U21;0;1;0;NULL;;;;Fußball
+412_240;'"Fußballsportverein ""Glückauf"" Brieske/Senftenberg e. V."';0;1;0;NULL;;;;Fußball
+412_241;Fußballsportverein 1926 Fernwald e. V.;0;1;0;NULL;;;;Fußball
+412_242;Fußballverein Löchgau 1946 e. V.;0;1;0;NULL;;;;Fußball
+412_243;FV 08 Rottweil;0;1;0;NULL;;;;Fußball
+412_244;FV 09 Bischmisheim;0;1;0;NULL;;;;Fußball
+412_245;FV 09 Schwalbach;0;1;0;NULL;;;;Fußball
+412_246;FV 1893 Ravensburg e. V.;0;1;0;NULL;;;;Fußball
+412_247;FV Bad Vilbel;0;1;0;NULL;;;;Fußball
+412_248;FV Diefflen;0;1;0;NULL;;;;Fußball
+412_249;FV Dresden 06 Laubegast;0;1;0;NULL;;;;Fußball
+412_25;1. FC Phönix Lübeck e. V.;0;1;0;NULL;;;;Fußball
+412_250;FV Dudenhofen;0;1;0;NULL;;;;Fußball
+412_251;FV Engers 07;0;1;0;NULL;;;;Fußball
+412_252;FV Eppelborn;0;1;0;NULL;;;;Fußball
+412_253;FV Erkner 1920;0;1;0;NULL;;;;Fußball
+412_254;FV Illertissen 1921 e. V.;0;1;0;NULL;;;;Fußball
+412_255;FV Lörrach-Brombach e. V.;0;1;0;NULL;;;;Fußball
+412_256;FV Siersburg;0;1;0;NULL;;;;Fußball
+412_257;FV Sontheim/Brenz e. V.;0;1;0;NULL;;;;Fußball
+412_258;FV Wannsee;0;1;0;NULL;;;;Fußball
+412_259;Goslarer SC;0;1;0;NULL;;;;Fußball
+412_26;1. FC Rielasingen-Arlen e. V.;0;1;0;NULL;;;;Fußball
+412_260;Gramzower VfB e. V.;0;1;0;NULL;;;;Fußball
+412_261;Greifswalder FC e. V.;0;1;0;NULL;;;;Fußball
+412_262;Güstrower SC 09;0;1;0;NULL;;;;Fußball
+412_263;Hainsberger SV;0;1;0;NULL;;;;Fußball
+412_264;Hallescher FC;0;1;0;NULL;;;;Fußball
+412_265;Hamburger Sportverein;0;1;0;NULL;;;;Fußball
+412_266;Hamburger Sportverein II;0;1;0;NULL;;;;Fußball
+412_267;Hannover 96;0;1;0;NULL;;;;Fußball
+412_268;Hannoverscher Sport-Club von 1893 e. V.;0;1;0;NULL;;;;Fußball
+412_269;Hannoverscher Sportverein von 1896 e. V.;0;1;0;NULL;;;;Fußball
+412_27;1. FC Saarbrücken;0;1;0;NULL;;;;Fußball
+412_270;Heeslinger SC;0;1;0;NULL;;;;Fußball
+412_271;Heesseler SV;0;1;0;NULL;;;;Fußball
+412_272;Heider Sport Verein;0;1;0;NULL;;;;Fußball
+412_273;Hertha BSC;0;1;0;NULL;;;;Fußball
+412_274;Hertha BSC U23;0;1;0;NULL;;;;Fußball
+412_275;HFC Falke;0;1;0;NULL;;;;Fußball
+412_276;HSC BW Schwalbe Tündern;0;1;0;NULL;;;;Fußball
+412_277;Hünfelder SV;0;1;0;NULL;;;;Fußball
+412_278;Karlsruher Sport-Club GmbH & Co. KGaA;0;1;0;NULL;;;;Fußball
+412_279;Kehler FV;0;1;0;NULL;;;;Fußball
+412_28;1. FC Schöneberg 1913 e. V.;0;1;0;NULL;;;;Fußball
+412_280;KFC Uerdingen 05 e. V.;0;1;0;NULL;;;;Fußball
+412_281;Kickers 94 Markleeberg;0;1;0;NULL;;;;Fußball
+412_282;Kickers Offenbach;0;1;0;NULL;;;;Fußball
+412_283;Kieler Sportvereinigung Holstein von 1900 e. V.;0;1;0;NULL;;;;Fußball
+412_284;Kieler SV Holstein von 1900 e. V.;0;1;0;NULL;;;;Fußball
+412_285;Köpenicker FC;0;1;0;NULL;;;;Fußball
+412_286;KSV Baunatal;0;1;0;NULL;;;;Fußball
+412_287;KSV Hessen Kassel;0;1;0;NULL;;;;Fußball
+412_288;Lichtenrader BC 25;0;1;0;NULL;;;;Fußball
+412_289;Lok Leipzig II;0;1;0;NULL;;;;Fußball
+412_29;1. FC Schweinfurt 05;0;1;0;NULL;;;;Fußball
+412_290;LSV Neustadt/Spree;0;1;0;NULL;;;;Fußball
+412_291;Ludwigsfelder FC;0;1;0;NULL;;;;Fußball
+412_292;Lüneburger Sport-Klub Hansa von 2008 e. V.;0;1;0;NULL;;;;Fußball
+412_293;Lüner Sportverein Fußball e. V.;0;1;0;NULL;;;;Fußball
+412_294;Malchower Sportverein 90 e. V.;0;1;0;NULL;;;;Fußball
+412_295;Meidericher SV Duisburg;0;1;0;NULL;;;;Fußball
+412_296;Mellendorfer TV;0;1;0;NULL;;;;Fußball
+412_297;MSV Neuruppin;0;1;0;NULL;;;;Fußball
+412_298;MSV Pampow e. V. 1990;0;1;0;NULL;;;;Fußball
+412_299;MTV Eintracht Celle;0;1;0;NULL;;;;Fußball
+412_3;1. FC Bocholt;0;1;0;NULL;;;;Fußball
+412_30;1. FC Union Berlin;0;1;0;NULL;;;;Fußball
+412_300;MTV Gifhorn;0;1;0;NULL;;;;Fußball
+412_301;MTV Treubund Lüneburg;0;1;0;NULL;;;;Fußball
+412_302;MTV Wolfenbüttel;0;1;0;NULL;;;;Fußball
+412_303;Neckarsulmer Sport-Union;0;1;0;NULL;;;;Fußball
+412_304;Nordberliner SC 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_305;Normannia;0;1;0;NULL;;;;Fußball
+412_306;NSC Marathon 02;0;1;0;NULL;;;;Fußball
+412_307;NTSV Strand 08 e. V.;0;1;0;NULL;;;;Fußball
+412_308;Oberlungwitzer SV;0;1;0;NULL;;;;Fußball
+412_309;Olympischer Sport-Club Bremerhaven v. 1972 e. V.;0;1;0;NULL;;;;Fußball
+412_31;1. FC Wilmersdorf 1911 e. V.;0;1;0;NULL;;;;Fußball
+412_310;Oranienburger FC Eintracht;0;1;0;NULL;;;;Fußball
+412_311;Pritzwalker FHV 03 e. V.;0;1;0;NULL;;;;Fußball
+412_312;RasenBallsport Leipzig;0;1;0;NULL;;;;Fußball
+412_313;RasenBallsport Leipzig II;0;1;0;NULL;;;;Fußball
+412_314;RasenBallsport Leipzig U19;0;1;0;NULL;;;;Fußball
+412_315;Reichenbacher FC;0;1;0;NULL;;;;Fußball
+412_316;Rixdorfer SV;0;1;0;NULL;;;;Fußball
+412_317;Roßweiner SV;0;1;0;NULL;;;;Fußball
+412_318;Rostocker FC von 1895;0;1;0;NULL;;;;Fußball
+412_319;Rot Weiss Ahlen e. V.;0;1;0;NULL;;;;Fußball
+412_32;1. FC Wunstorf;0;1;0;NULL;;;;Fußball
+412_320;Rotenburger SV;0;1;0;NULL;;;;Fußball
+412_321;Roter Stern Leipzig e. V.;0;1;0;NULL;;;;Fußball
+412_322;Rot-Weiß Erfurt U19;0;1;0;NULL;;;;Fußball
+412_323;Rot-Weiss Essen e. V.;0;1;0;NULL;;;;Fußball
+412_324;RSV Eintracht 1949;0;1;0;NULL;;;;Fußball
+412_325;RSV Meinerzhagen;0;1;0;NULL;;;;Fußball
+412_326;RSV Seelze;0;1;0;NULL;;;;Fußball
+412_327;S.D. Croatia-Berlin;0;1;0;NULL;;;;Fußball
+412_328;SC 13 Bad Neuenahr;0;1;0;NULL;;;;Fußball
+412_329;SC 1903 Weimar;0;1;0;NULL;;;;Fußball
+412_33;1. FSC Lohfelden;0;1;0;NULL;;;;Fußball
+412_330;SC 1918 Großengottern e. V.;0;1;0;NULL;;;;Fußball
+412_331;SC 1920 Oberhausen;0;1;0;NULL;;;;Fußball
+412_332;SC 1929 Waldgirmes;0;1;0;NULL;;;;Fußball
+412_333;SC Borsigwalde 1910 e. V.;0;1;0;NULL;;;;Fußball
+412_334;SC Charlottenburg;0;1;0;NULL;;;;Fußball
+412_335;SC Eltersdorf;0;1;0;NULL;;;;Fußball
+412_336;SC Fortuna Köln;0;1;0;NULL;;;;Fußball
+412_337;SC Gatow;0;1;0;NULL;;;;Fußball
+412_338;SC Gitter;0;1;0;NULL;;;;Fußball
+412_339;SC Halberg Brebach;0;1;0;NULL;;;;Fußball
+412_34;1. FSV Mainz 05;0;1;0;NULL;;;;Fußball
+412_340;SC Hessen Dreieich;0;1;0;NULL;;;;Fußball
+412_341;SC Idar-Oberstein;0;1;0;NULL;;;;Fußball
+412_342;SC Olching e. V.;0;1;0;NULL;;;;Fußball
+412_343;SC Paderborn 07;0;1;0;NULL;;;;Fußball
+412_344;SC Preußen Münster;0;1;0;NULL;;;;Fußball
+412_345;SC Rot-Weiß Oberhausen;0;1;0;NULL;;;;Fußball
+412_346;SC Staaken;0;1;0;NULL;;;;Fußball
+412_347;SC Staaken 1919 e. V. Berlin;0;1;0;NULL;;;;Fußball
+412_348;SC Union-Südost;0;1;0;NULL;;;;Fußball
+412_349;SC Verl;0;1;0;NULL;;;;Fußball
+412_35;1. FSV Mainz 05 II;0;1;0;NULL;;;;Fußball
+412_350;SC Weiche Flensburg 08;0;1;0;NULL;;;;Fußball
+412_351;SC Westfalia Herne;0;1;0;NULL;;;;Fußball
+412_352;SC Wiedenbrück 2000;0;1;0;NULL;;;;Fußball
+412_353;SE Freising;0;1;0;NULL;;;;Fußball
+412_354;SF Köllerbach;0;1;0;NULL;;;;Fußball
+412_355;SFC Stern 1900;0;1;0;NULL;;;;Fußball
+412_356;SG 1. FC Sonneberg 04;0;1;0;NULL;;;;Fußball
+412_357;SG 2000 Mülheim-Kärlich;0;1;0;NULL;;;;Fußball
+412_358;SG Barockstadt Fulda Lehnerz;0;1;0;NULL;;;;Fußball
+412_359;SG Buna Halle;0;1;0;NULL;;;;Fußball
+412_36;1. Fußball-Club Düren e. V.;0;1;0;NULL;;;;Fußball
+412_360;SG DJK Struth Diedorf;0;1;0;NULL;;;;Fußball
+412_361;SG Dynamo Dresden;0;1;0;NULL;;;;Fußball
+412_362;SG Einheit Zepernick e. V.;0;1;0;NULL;;;;Fußball
+412_363;SG Grün Weiß Berlin - Baumschulenweg;0;1;0;NULL;;;;Fußball
+412_364;SG Letter 05;0;1;0;NULL;;;;Fußball
+412_365;SG Neukirchen/Erzg;0;1;0;NULL;;;;Fußball
+412_366;SG Phönix Wildau 95 e. V.;0;1;0;NULL;;;;Fußball
+412_367;SG Rot-Weiß Thalheim 31 e. V.;0;1;0;NULL;;;;Fußball
+412_368;SG Sonnenhof Großaspach;0;1;0;NULL;;;;Fußball
+412_369;SG Sportfreunde Johannisthal 1930;0;1;0;NULL;;;;Fußball
+412_37;1. Fußballclub Merseburg e. V.;0;1;0;NULL;;;;Fußball
+412_370;SG Union Klosterfelde;0;1;0;NULL;;;;Fußball
+412_371;SG Union Sandersdorf;0;1;0;NULL;;;;Fußball
+412_372;SG VfR Bad Lobenstein;0;1;0;NULL;;;;Fußball
+412_373;SG Waldsolms;0;1;0;NULL;;;;Fußball
+412_374;SG Wattenscheid 09;0;1;0;NULL;;;;Fußball
+412_375;SGV Freiberg Fußball e. V.;0;1;0;NULL;;;;Fußball
+412_376;Spielverein Lippstadt 08 e. V.;0;1;0;NULL;;;;Fußball
+412_377;Spielvereinigung Geratal;0;1;0;NULL;;;;Fußball
+412_378;Sport-Club Aplerbeck 09 e. V.;0;1;0;NULL;;;;Fußball
+412_379;Sport-Club Freiburg e. V.;0;1;0;NULL;;;;Fußball
+412_38;1. Göppinger Sportverein 1895 e. V.;0;1;0;NULL;;;;Fußball
+412_380;Sport-Club Freiburg e. V. II;0;1;0;NULL;;;;Fußball
+412_381;Sportclub Spelle-Venhaus 1946 e. V.;0;1;0;NULL;;;;Fußball
+412_382;Sportclub Viktoria 06 Griesheim;0;1;0;NULL;;;;Fußball
+412_383;Sportfreunde Charlottenburg-Wilmersdorf 03 e. V.;0;1;0;NULL;;;;Fußball
+412_384;Sportfreunde Dorfmerkingen 1922 e. V.;0;1;0;NULL;;;;Fußball
+412_385;Sportfreunde Eisbachtal;0;1;0;NULL;;;;Fußball
+412_386;Sportfreunde Lotte;0;1;0;NULL;;;;Fußball
+412_387;Sportfreunde Siegen von 1899 e. V.;0;1;0;NULL;;;;Fußball
+412_388;Sportverein 1919 Straelen e. V.;0;1;0;NULL;;;;Fußball
+412_389;Sportverein Bergisch-Gladbach 09 e. V.;0;1;0;NULL;;;;Fußball
+412_39;1. Hanauer Fußball Club 1893 e. V.;0;1;0;NULL;;;;Fußball
+412_390;Sportverein Darmstadt 1898 e. V.;0;1;0;NULL;;;;Fußball
+412_391;Sportverein Großräschen e.V;0;1;0;NULL;;;;Fußball
+412_392;Sportverein Rot-Weiß Walldorf e. V.;0;1;0;NULL;;;;Fußball
+412_393;Sportverein Rot-Weiß-Hadamar e. V.;0;1;0;NULL;;;;Fußball
+412_394;Sportverein Steinbach 1920;0;1;0;NULL;;;;Fußball
+412_395;Sportverein von 1907 Linden e. V.;0;1;0;NULL;;;;Fußball
+412_396;SpVg Blau-Weiß 1890 Berlin;0;1;0;NULL;;;;Fußball
+412_397;SpVgg Bayern Hof;0;1;0;NULL;;;;Fußball
+412_398;SpVgg Cochem;0;1;0;NULL;;;;Fußball
+412_399;SpVgg Drochtersen/Assel;0;1;0;NULL;;;;Fußball
+412_4;1. FC Bruchsal 1899 e. V.;0;1;0;NULL;;;;Fußball
+412_40;1. SC 1911 Heiligenstadt;0;1;0;NULL;;;;Fußball
+412_400;SpVgg Greuther Fürth;0;1;0;NULL;;;;Fußball
+412_401;SpVgg Greuther Fürth II;0;1;0;NULL;;;;Fußball
+412_402;SpVgg Lindau 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_403;SpVgg Neckarelz;0;1;0;NULL;;;;Fußball
+412_404;SpVgg Oberfranken Bayreuth;0;1;0;NULL;;;;Fußball
+412_405;SpVgg Plattling;0;1;0;NULL;;;;Fußball
+412_406;SpVgg Unterhaching;0;1;0;NULL;;;;Fußball
+412_407;SpVgg. 03 Neu-Isenburg;0;1;0;NULL;;;;Fußball
+412_408;SpVgg. 07 Eschwege;0;1;0;NULL;;;;Fußball
+412_409;SpVgg. Quierschied;0;1;0;NULL;;;;Fußball
+412_41;1. SC Göttingen 05;0;1;0;NULL;;;;Fußball
+412_410;SSC Schaffhausen;0;1;0;NULL;;;;Fußball
+412_411;SSC Teutonia 1899 e. V.;0;1;0;NULL;;;;Fußball
+412_412;SSV Einheit Perleberg e. V.;0;1;0;NULL;;;;Fußball
+412_413;SSV Jahn Regensburg;0;1;0;NULL;;;;Fußball
+412_414;SSV Jahn Regensburg II;0;1;0;NULL;;;;Fußball
+412_415;SSV Jeddeloh II Fußball Geschäftsbetrieb GmbH;0;1;0;NULL;;;;Fußball
+412_416;SSV Kästorf;0;1;0;NULL;;;;Fußball
+412_417;SSV Pachten;0;1;0;NULL;;;;Fußball
+412_418;SSV Reutlingen 1905 Fußball e. V.;0;1;0;NULL;;;;Fußball
+412_419;SSV Ulm 1846 Fußball;0;1;0;NULL;;;;Fußball
+412_42;1. SC Roden 1910;0;1;0;NULL;;;;Fußball
+412_420;SSV Vorsfelde;0;1;0;NULL;;;;Fußball
+412_421;Stadtauswahl Celle;0;1;0;NULL;;;;Fußball
+412_422;Suryoye Kultur- und Sportverein Augsburg e. V.;0;1;0;NULL;;;;Fußball
+412_423;SuS Sehnde;0;1;0;NULL;;;;Fußball
+412_424;SV 07 Elversberg;0;1;0;NULL;;;;Fußball
+412_425;SV 07 Elversberg II;0;1;0;NULL;;;;Fußball
+412_426;SV 08 Steinach;0;1;0;NULL;;;;Fußball
+412_427;SV 09 Arnstadt;0;1;0;NULL;;;;Fußball
+412_428;SV 1879 Ehrenhain;0;1;0;NULL;;;;Fußball
+412_429;SV 1908 Grün-Weiss Ahrensfelde;0;1;0;NULL;;;;Fußball
+412_43;1. FC Wacker 1921 Lankwitz e. V.;0;1;0;NULL;;;;Fußball
+412_430;SV 1919 Mainz-Gonsenheim;0;1;0;NULL;;;;Fußball
+412_431;SV 1919 Zeilsheim e. V.;0;1;0;NULL;;;;Fußball
+412_432;SV 90 Altengottern;0;1;0;NULL;;;;Fußball
+412_433;SV Ahlerstedt/Ottendorf;0;1;0;NULL;;;;Fußball
+412_434;SV Alemania Riestedt;0;1;0;NULL;;;;Fußball
+412_435;SV Alemannia 1919 Haibach e. V.;0;1;0;NULL;;;;Fußball
+412_436;SV Alemannia Waldalgesheim;0;1;0;NULL;;;;Fußball
+412_437;SV Altenoythe;0;1;0;NULL;;;;Fußball
+412_438;SV Altlüdersdorf;0;1;0;NULL;;;;Fußball
+412_439;SV Altstadt;0;1;0;NULL;;;;Fußball
+412_44;Alemannia Aachen;0;1;0;NULL;;;;Fußball
+412_440;SV Arminia Hannover;0;1;0;NULL;;;;Fußball
+412_441;SV Atlas Delmenhorst e. V.;0;1;0;NULL;;;;Fußball
+412_442;SV Auersmacher;0;1;0;NULL;;;;Fußball
+412_443;SV Babelsberg 03;0;1;0;NULL;;;;Fußball
+412_444;SV Blau Weiß 90 Neustadt Orla;0;1;0;NULL;;;;Fußball
+412_445;SV Blau Weiß Petershagen-Eggersdorf;0;1;0;NULL;;;;Fußball
+412_446;SV Blau-Weiß Büßleben 04 e. V.;0;1;0;NULL;;;;Fußball
+412_447;SV Blau-Weiss Hohen Neuendorf;0;1;0;NULL;;;;Fußball
+412_448;SV Blau-Weiß Zorbau;0;1;0;NULL;;;;Fußball
+412_449;SV Bosna Sandzak;0;1;0;NULL;;;;Fußball
+412_45;Allgemeiner Sportverein Berlin;0;1;0;NULL;;;;Fußball
+412_450;SV Brake;0;1;0;NULL;;;;Fußball
+412_451;SV Buchonia Flieden;0;1;0;NULL;;;;Fußball
+412_452;SV Burgwallbach;0;1;0;NULL;;;;Fußball
+412_453;SV Burgweinting e. V.;0;1;0;NULL;;;;Fußball
+412_454;SV BW 91 Bad Frankenhausen;0;1;0;NULL;;;;Fußball
+412_455;SV Calberlah;0;1;0;NULL;;;;Fußball
+412_456;SV Dessau 05 e. V.;0;1;0;NULL;;;;Fußball
+412_457;SV Dornach;0;1;0;NULL;;;;Fußball
+412_458;SV Eichede von 1947 e. V.;0;1;0;NULL;;;;Fußball
+412_459;SV Einheit Kamenz;0;1;0;NULL;;;;Fußball
+412_46;Altonaer Fußballclub von 1893;0;1;0;NULL;;;;Fußball
+412_460;SV Eintracht Camburg;0;1;0;NULL;;;;Fußball
+412_461;SV Eintracht Eisenberg;0;1;0;NULL;;;;Fußball
+412_462;SV Eintracht Trier;0;1;0;NULL;;;;Fußball
+412_463;SV Emmendorf e. V. 1920;0;1;0;NULL;;;;Fußball
+412_464;SV Empor Berlin;0;1;0;NULL;;;;Fußball
+412_465;SV Falkensee-Finkenkrug;0;1;0;NULL;;;;Fußball
+412_466;SV Fortuna Trebendorf 1996 e. V.;0;1;0;NULL;;;;Fußball
+412_467;SV Genc Osman Duisburg;0;1;0;NULL;;;;Fußball
+412_468;SV Genclerbirligi Homburg;0;1;0;NULL;;;;Fußball
+412_469;SV Göttingen 07;0;1;0;NULL;;;;Fußball
+412_47;Anadoluspor Berlin 1970 e. V.;0;1;0;NULL;;;;Fußball
+412_470;SV Grün Weiß Siemerode;0;1;0;NULL;;;;Fußball
+412_471;SV Grün-Weiss Brieselang;0;1;0;NULL;;;;Fußball
+412_472;SV Grün-Weiß Lübben;0;1;0;NULL;;;;Fußball
+412_473;SV Habach;0;1;0;NULL;;;;Fußball
+412_474;SV Havelwinkel Warnau 2000 e. V.;0;1;0;NULL;;;;Fußball
+412_475;SV Heimstetten e. V.;0;1;0;NULL;;;;Fußball
+412_476;SV Hellas 05 Bildstock;0;1;0;NULL;;;;Fußball
+412_477;SV Henstedt-Ulzburg;0;1;0;NULL;;;;Fußball
+412_478;SV Kirchanschöring 1946 e. V.;0;1;0;NULL;;;;Fußball
+412_479;SV Lachem-Haverbeck;0;1;0;NULL;;;;Fußball
+412_48;Angermünder FC;0;1;0;NULL;;;;Fußball
+412_480;SV Lengede;0;1;0;NULL;;;;Fußball
+412_481;SV Lichtenberg 47;0;1;0;NULL;;;;Fußball
+412_482;SV Linx;0;1;0;NULL;;;;Fußball
+412_483;SV Meppen;0;1;0;NULL;;;;Fußball
+412_484;SV Mettlach;0;1;0;NULL;;;;Fußball
+412_485;SV Morlautern;0;1;0;NULL;;;;Fußball
+412_486;SV Nersingen;0;1;0;NULL;;;;Fußball
+412_487;SV Neuhof;0;1;0;NULL;;;;Fußball
+412_488;SV Nord Wedding 1893;0;1;0;NULL;;;;Fußball
+412_489;SV Oberachern;0;1;0;NULL;;;;Fußball
+412_49;ASC Neuenheim;0;1;0;NULL;;;;Fußball
+412_490;SV Osterbinde;0;1;0;NULL;;;;Fußball
+412_491;SV Pastow e. V.;0;1;0;NULL;;;;Fußball
+412_492;SV Preußen Merchweiler;0;1;0;NULL;;;;Fußball
+412_493;SV Ramlingen/Ehlershausen;0;1;0;NULL;;;;Fußball
+412_494;SV Röchling Völklingen;0;1;0;NULL;;;;Fußball
+412_495;SV Rödinghausen;0;1;0;NULL;;;;Fußball
+412_496;SV Rohrbach;0;1;0;NULL;;;;Fußball
+412_497;SV Rot-Weiss Hadamar;0;1;0;NULL;;;;Fußball
+412_498;SV Rot-Weiß Hasborn;0;1;0;NULL;;;;Fußball
+412_499;SV Saar 05 Saarbrücken;0;1;0;NULL;;;;Fußball
+412_5;1. FC Eislingen 1914 e. V.;0;1;0;NULL;;;;Fußball
+412_50;ASV 1860 Neumarkt e. V.;0;1;0;NULL;;;;Fußball
+412_500;SV Sandhausen 1916 e. V.;0;1;0;NULL;;;;Fußball
+412_501;SV Sandhausen II;0;1;0;NULL;;;;Fußball
+412_502;SV Schalding-Heining;0;1;0;NULL;;;;Fußball
+412_503;SV Schlebusch 1923 e. V.;0;1;0;NULL;;;;Fußball
+412_504;SV Schleiz;0;1;0;NULL;;;;Fußball
+412_505;SV Schott Jena;0;1;0;NULL;;;;Fußball
+412_506;SV Schwarzenbach;0;1;0;NULL;;;;Fußball
+412_507;SV Schwarz-Rot Neustadt (Dosse);0;1;0;NULL;;;;Fußball
+412_508;SV Sparta Lichtenberg;0;1;0;NULL;;;;Fußball
+412_509;SV Spielberg 1920 e. V.;0;1;0;NULL;;;;Fußball
+412_51;ASV Cham;0;1;0;NULL;;;;Fußball
+412_510;SV Stern Britz 1889 e. V.;0;1;0;NULL;;;;Fußball
+412_511;SV Stuttgarter Kickers;0;1;0;NULL;;;;Fußball
+412_512;SV Süden 09;0;1;0;NULL;;;;Fußball
+412_513;SV Tapfer 06 Leipzig;0;1;0;NULL;;;;Fußball
+412_514;SV Tasmania Berlin;0;1;0;NULL;;;;Fußball
+412_515;SV Todesfelde von 1928 e. V.;0;1;0;NULL;;;;Fußball
+412_516;SV Victoria Seelow;0;1;0;NULL;;;;Fußball
+412_517;SV Viktoria Aschaffenburg;0;1;0;NULL;;;;Fußball
+412_518;SV Wacker 04 Bad Salzungen;0;1;0;NULL;;;;Fußball
+412_519;SV Wacker Burghausen;0;1;0;NULL;;;;Fußball
+412_52;ATSV 1898 Erlangen e. V.;0;1;0;NULL;;;;Fußball
+412_520;SV Waldhof Mannheim;0;1;0;NULL;;;;Fußball
+412_521;SV Wallinghausen;0;1;0;NULL;;;;Fußball
+412_522;SV Wehen 1926 Wiesbaden GmbH;0;1;0;NULL;;;;Fußball
+412_523;SV Werder Bremen;0;1;0;NULL;;;;Fußball
+412_524;SV Werder Bremen II;0;1;0;NULL;;;;Fußball
+412_525;SV Westfalia Rhyern;0;1;0;NULL;;;;Fußball
+412_526;SV-DJK Oberschwarzach;0;1;0;NULL;;;;Fußball
+412_527;TB Uphusen;0;1;0;NULL;;;;Fußball
+412_528;TB/ASV Regenstauf;0;1;0;NULL;;;;Fußball
+412_529;Tennis Borussia Berlin;0;1;0;NULL;;;;Fußball
+412_53;Bahlinger SC;0;1;0;NULL;;;;Fußball
+412_530;Torgelower FC Greif e. V.;0;1;0;NULL;;;;Fußball
+412_531;TSC Vahdet Braunschweig;0;1;0;NULL;;;;Fußball
+412_532;TSG 1899 Hoffenheim;0;1;0;NULL;;;;Fußball
+412_533;TSG 1899 Hoffenheim II;0;1;0;NULL;;;;Fußball
+412_534;TSG Backnang Fußball 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_535;TSG Balingen;0;1;0;NULL;;;;Fußball
+412_536;TSG Neustrelitz;0;1;0;NULL;;;;Fußball
+412_537;TSG Pfeddersheim;0;1;0;NULL;;;;Fußball
+412_538;TSG Tübingen;0;1;0;NULL;;;;Fußball
+412_539;TSV 1846 Lohr am Main e. V.;0;1;0;NULL;;;;Fußball
+412_54;Ballspielverein Cloppenburg von 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_540;TSV 1860 Rosenheim;0;1;0;NULL;;;;Fußball
+412_541;TSV 1880 Wasserburg;0;1;0;NULL;;;;Fußball
+412_542;TSV 1896 Rain;0;1;0;NULL;;;;Fußball
+412_543;TSV Abtswind;0;1;0;NULL;;;;Fußball
+412_544;TSV Aubstadt e. V.;0;1;0;NULL;;;;Fußball
+412_545;TSV Bemerode;0;1;0;NULL;;;;Fußball
+412_546;TSV Bordesholm;0;1;0;NULL;;;;Fußball
+412_547;TSV Buchbach e. V.;0;1;0;NULL;;;;Fußball
+412_548;TSV Bützow v. 1952;0;1;0;NULL;;;;Fußball
+412_549;TSV Crailsheim;0;1;0;NULL;;;;Fußball
+412_55;Bayer 04 Leverkusen;0;1;0;NULL;;;;Fußball
+412_550;TSV Eintracht Stadtallendorf;0;1;0;NULL;;;;Fußball
+412_551;TSV Emmelshausen;0;1;0;NULL;;;;Fußball
+412_552;TSV Essingen 1893 e. V.;0;1;0;NULL;;;;Fußball
+412_553;TSV Gau-Odernheim;0;1;0;NULL;;;;Fußball
+412_554;TSV Gera-Westvororte;0;1;0;NULL;;;;Fußball
+412_555;TSV Großbardorf;0;1;0;NULL;;;;Fußball
+412_556;TSV Havelse von 1912 e. V.;0;1;0;NULL;;;;Fußball
+412_557;TSV Höpfingen;0;1;0;NULL;;;;Fußball
+412_558;TSV Ilshofen;0;1;0;NULL;;;;Fußball
+412_559;TSV Krähenwinkel-Kaltenweide;0;1;0;NULL;;;;Fußball
+412_56;Beckumer Spielvereinigung 10/05 e. V.;0;1;0;NULL;;;;Fußball
+412_560;TSV Leuna e. V.;0;1;0;NULL;;;;Fußball
+412_561;TSV Mariendorf 1897 Berlin;0;1;0;NULL;;;;Fußball
+412_562;TSV Motor Gispersleben;0;1;0;NULL;;;;Fußball
+412_564;TSV München von 1860 e. V.;0;1;0;NULL;;;;Fußball
+412_565;TSV Pfedelbach;0;1;0;NULL;;;;Fußball
+412_566;TSV Pleystein;0;1;0;NULL;;;;Fußball
+412_567;TSV Rudow 1888;0;1;0;NULL;;;;Fußball
+412_568;TSV Sasel;0;1;0;NULL;;;;Fußball
+412_569;TSV Schloß-Ricklingen;0;1;0;NULL;;;;Fußball
+412_57;Berlin Hilalspor e. V.;0;1;0;NULL;;;;Fußball
+412_570;TSV Schott Mainz;0;1;0;NULL;;;;Fußball
+412_571;TSV Schwaförden;0;1;0;NULL;;;;Fußball
+412_572;TSV Steinbach Haiger;0;1;0;NULL;;;;Fußball
+412_573;TSV Wacker 50 Neutraubling e. V.;0;1;0;NULL;;;;Fußball
+412_574;Türk Gücü Friedberg;0;1;0;NULL;;;;Fußball
+412_575;Türkgücü München;0;1;0;NULL;;;;Fußball
+412_576;Türkiyemspor Berlin 1978 e. V.;0;1;0;NULL;;;;Fußball
+412_577;Turn- und Rasensport Union 1880 e. V. Düsseldorf;0;1;0;NULL;;;;Fußball
+412_578;Turn- und Sportbund Flensburg;0;1;0;NULL;;;;Fußball
+412_579;Turn- und Sportverein Dachau 1865 e. V.;0;1;0;NULL;;;;Fußball
+412_58;Berlin Türkspor e. V. 1965;0;1;0;NULL;;;;Fußball
+412_580;Turn- und Sportverein Haltern am See von 1882 e. V.;0;1;0;NULL;;;;Fußball
+412_581;Turn- und Sportverein Zusmarshausen;0;1;0;NULL;;;;Fußball
+412_582;Turnverein Herkenrath 09 e. V.;0;1;0;NULL;;;;Fußball
+412_583;TuS 1902 Herrensohr;0;1;0;NULL;;;;Fußball
+412_584;TuS Bersenbrück;0;1;0;NULL;;;;Fußball
+412_585;TuS Blau-Weiss Lohne;0;1;0;NULL;;;;Fußball
+412_586;TuS Dassendorf;0;1;0;NULL;;;;Fußball
+412_587;TuS Dietkirchen e. V.;0;1;0;NULL;;;;Fußball
+412_588;TuS Erndtebrück;0;1;0;NULL;;;;Fußball
+412_589;TuS Koblenz;0;1;0;NULL;;;;Fußball
+412_59;Berlin United e. V.;0;1;0;NULL;;;;Fußball
+412_590;TUS Makkabi;0;1;0;NULL;;;;Fußball
+412_591;TuS Marienborn;0;1;0;NULL;;;;Fußball
+412_592;TuS Mayen;0;1;0;NULL;;;;Fußball
+412_593;TuS Mechtersheim;0;1;0;NULL;;;;Fußball
+412_594;TuS Sachsenhausen;0;1;0;NULL;;;;Fußball
+412_595;TV Aiglsbach;0;1;0;NULL;;;;Fußball
+412_596;TV Askania Bernburg e. V.;0;1;0;NULL;;;;Fußball
+412_597;TV Echterdingen;0;1;0;NULL;;;;Fußball
+412_598;TV Glück-Auf Wackersdorf 1912 e. V.;0;1;0;NULL;;;;Fußball
+412_599;TV Jahn Schneverdingen;0;1;0;NULL;;;;Fußball
+412_6;1. FC Erlensee;0;1;0;NULL;;;;Fußball
+412_60;Berliner Athletik Klub 1907;0;1;0;NULL;;;;Fußball
+412_600;TV Oeffingen;0;1;0;NULL;;;;Fußball
+412_601;U.S.I. Lupo Martini Wolfsburg;0;1;0;NULL;;;;Fußball
+412_602;Union Rösrath;0;1;0;NULL;;;;Fußball
+412_603;Verein für Bewegungsspiele Homberg e. V.;0;1;0;NULL;;;;Fußball
+412_604;Verein für Bewegungsspiele Lübeck von 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_605;Verein für Leibesübungen Oythe 1947 e. V.;0;1;0;NULL;;;;Fußball
+412_606;VfB 09 Pößneck e. V.;0;1;0;NULL;;;;Fußball
+412_607;VfB 1921 Krieschow;0;1;0;NULL;;;;Fußball
+412_609;VfB Artern 1919 e. V.;0;1;0;NULL;;;;Fußball
+412_61;Berliner Sport-Club;0;1;0;NULL;;;;Fußball
+412_610;VfB Auerbach;0;1;0;NULL;;;;Fußball
+412_611;VfB Borussia Neunkirchen;0;1;0;NULL;;;;Fußball
+412_612;VfB Concordia Britz 1916;0;1;0;NULL;;;;Fußball
+412_613;VfB Dillingen;0;1;0;NULL;;;;Fußball
+412_614;VfB Eichstätt;0;1;0;NULL;;;;Fußball
+412_615;VfB Empor Glauchau;0;1;0;NULL;;;;Fußball
+412_616;VfB Eppingen;0;1;0;NULL;;;;Fußball
+412_617;Vfb Fortuna Biesdorf;0;1;0;NULL;;;;Fußball
+412_618;VfB Gartenstadt;0;1;0;NULL;;;;Fußball
+412_619;VfB Germania Halberstadt;0;1;0;NULL;;;;Fußball
+412_62;Berliner Sport-Verein 1892;0;1;0;NULL;;;;Fußball
+412_620;VfB Ginsheim;0;1;0;NULL;;;;Fußball
+412_621;VFB Hermsdorf Berlin 1899 e. V.;0;1;0;NULL;;;;Fußball
+412_622;VfB Linz;0;1;0;NULL;;;;Fußball
+412_623;VfB Oldenburg von 1897 e. V.;0;1;0;NULL;;;;Fußball
+412_624;VfB Stuttgart;0;1;0;NULL;;;;Fußball
+412_625;VfB Stuttgart II;0;1;0;NULL;;;;Fußball
+412_626;VfB Stuttgart U19;0;1;0;NULL;;;;Fußball
+412_627;VfB Weißwasser 1909 e. V.;0;1;0;NULL;;;;Fußball
+412_628;VFC Plauen;0;1;0;NULL;;;;Fußball
+412_629;VfL 05 Hohenstein-Ernstthal;0;1;0;NULL;;;;Fußball
+412_63;Berliner Sportverein Hürtürkel Berlin 1980;0;1;0;NULL;;;;Fußball
+412_630;VfL Bochum 1848;0;1;0;NULL;;;;Fußball
+412_631;VfL Germania Leer von 1915 e. V.;0;1;0;NULL;;;;Fußball
+412_632;VfL Halle 96 e. V.;0;1;0;NULL;;;;Fußball
+412_633;VfL Oldenburg;0;1;0;NULL;;;;Fußball
+412_634;VfL Osnabrück;0;1;0;NULL;;;;Fußball
+412_635;VfL Osnabrück U19;0;1;0;NULL;;;;Fußball
+412_636;VfL Pfullingen;0;1;0;NULL;;;;Fußball
+412_637;VfL Primstal;0;1;0;NULL;;;;Fußball
+412_638;VfL Wolfsburg;0;1;0;NULL;;;;Fußball
+412_639;VfL Wolfsburg (Frauen);0;1;0;NULL;;;;Fußball
+412_64;BFC Alemannia 1850;0;1;0;NULL;;;;Fußball
+412_640;VfL Wolfsburg A-Junioren (U19);0;1;0;NULL;;;;Fußball
+412_641;VfL Wolfsburg II;0;1;0;NULL;;;;Fußball
+412_642;VfR Aalen 1921 e. V.;0;1;0;NULL;;;;Fußball
+412_643;VfR Garching von 1921 e. V.;0;1;0;NULL;;;;Fußball
+412_644;VfR Mannheim;0;1;0;NULL;;;;Fußball
+412_645;VfR Wormatia 08 Worms;0;1;0;NULL;;;;Fußball
+412_646;VfV Borussia 06 Hildesheim e. V.;0;1;0;NULL;;;;Fußball
+412_647;VSG Altglienicke;0;1;0;NULL;;;;Fußball
+412_648;Weissenseer Fussball-Club;0;1;0;NULL;;;;Fußball
+412_649;Werder Bremen;0;1;0;NULL;;;;Fußball
+412_65;BFC Dynamo;0;1;0;NULL;;;;Fußball
+412_650;Werderaner FC Viktoria 1920;0;1;0;NULL;;;;Fußball
+412_651;Wismut Gera;0;1;0;NULL;;;;Fußball
+412_652;Wittenauer SC Concordia 1910 e. V.;0;1;0;NULL;;;;Fußball
+412_653;Wuppertaler SV e. V.;0;1;0;NULL;;;;Fußball
+412_654;Würzburger Fußballverein e. V.;0;1;0;NULL;;;;Fußball
+412_655;Zipensdorfer FC Meuselwitz;0;1;0;NULL;;;;Fußball
+412_656;Deutschland;0;1;0;NULL;;;;Fußball
+412_657;Deutschland (Frauen);0;1;0;NULL;;;;Fußball
+412_658;Deutschland U17;0;1;0;NULL;;;;Fußball
+412_659;Deutschland U18;0;1;0;NULL;;;;Fußball
+412_66;BFC Dynamo A-Junioren;0;1;0;NULL;;;;Fußball
+412_660;Deutschland U20;0;1;0;NULL;;;;Fußball
+412_661;Deutschland U21;0;1;0;NULL;;;;Fußball
+412_662;Krefeld Pinguine;0;1;0;NULL;;;;Eishockey
+412_663;Düsseldorfer EG;0;1;0;NULL;;;;Eishockey
+412_664;Kölner Haie;0;1;0;NULL;;;;Eishockey
+412_665;Augsburger Panther;0;1;0;NULL;;;;Eishockey
+412_666;EHC Eisbären Berlin;0;1;0;NULL;;;;Eishockey
+412_667;Grizzlys Wolfsburg;0;1;0;NULL;;;;Eishockey
+412_668;Fischtown Pinguins;0;1;0;NULL;;;;Eishockey
+412_669;Iserlohn Roosters;0;1;0;NULL;;;;Eishockey
+412_67;BFC Preussen;0;1;0;NULL;;;;Fußball
+412_670;ERC Ingolstadt;0;1;0;NULL;;;;Eishockey
+412_671;Adler Mannheim;0;1;0;NULL;;;;Eishockey
+412_672;EHC Red Bull München;0;1;0;NULL;;;;Eishockey
+412_673;Nürnberg Ice Tigers;0;1;0;NULL;;;;Eishockey
+412_674;Straubing Tigers;0;1;0;NULL;;;;Eishockey
+412_675;Schwenninger Wild Wings;0;1;0;NULL;;;;Eishockey
+412_676;Eispiraten Crimmitschau;0;1;0;NULL;;;;Eishockey
+412_677;EHC Lausitzer Füchse;0;1;0;NULL;;;;Eishockey
+412_678;Dresdner Eislöwen;0;1;0;NULL;;;;Eishockey
+412_679;Löwen Frankfurt;0;1;0;NULL;;;;Eishockey
+412_68;BFC Südring;0;1;0;NULL;;;;Fußball
+412_680;ESV Kaufbeuren;0;1;0;NULL;;;;Eishockey
+412_681;SC Riessersee;0;1;0;NULL;;;;Eishockey
+412_682;Tölzer Löwen;0;1;0;NULL;;;;Eishockey
+412_683;Deggendorfer SC;0;1;0;NULL;;;;Eishockey
+412_684;Bayreuth Tigers;0;1;0;NULL;;;;Eishockey
+412_685;EC Bad Nauheim;0;1;0;NULL;;;;Eishockey
+412_686;Bietigheim Steelers;0;1;0;NULL;;;;Eishockey
+412_687;Heilbronner Falken;0;1;0;NULL;;;;Eishockey
+412_688;EHC Freiburg;0;1;0;NULL;;;;Eishockey
+412_689;Ravensburg Towerstars;0;1;0;NULL;;;;Eishockey
+412_69;BFV Hassia Bingen;0;1;0;NULL;;;;Fußball
+412_690;EC Kassel Huskies;0;1;0;NULL;;;;Eishockey
+412_691;EHC Erfurt;0;1;0;NULL;;;;Eishockey
+412_692;Hannover Indians;0;1;0;NULL;;;;Eishockey
+412_693;Hannover Scorpions;0;1;0;NULL;;;;Eishockey
+412_694;EC Harzer Falken;0;1;0;NULL;;;;Eishockey
+412_695;Füchse Duisburg;0;1;0;NULL;;;;Eishockey
+412_696;EXA Icefighters Leipzig;0;1;0;NULL;;;;Eishockey
+412_697;ESC Moskitos Essen;0;1;0;NULL;;;;Eishockey
+412_698;Saale Bulls Halle;0;1;0;NULL;;;;Eishockey
+412_699;Herner EV;0;1;0;NULL;;;;Eishockey
+412_7;1. FC Frankfurt (Oder);0;1;0;NULL;;;;Fußball
+412_70;BFV-Auswahl;0;1;0;NULL;;;;Fußball
+412_700;Crocodiles Hamburg;0;1;0;NULL;;;;Eishockey
+412_701;Rostock Piranhas;0;1;0;NULL;;;;Eishockey
+412_702;Höchstadter EC;0;1;0;NULL;;;;Eishockey
+412_703;Mighty Dogs;0;1;0;NULL;;;;Eishockey
+412_704;EHC Klostersee;0;1;0;NULL;;;;Eishockey
+412_705;EHC Eisbären Berlin Allstars;0;1;0;NULL;;;;Eishockey
+412_706;ERC Sonthofen;0;1;0;NULL;;;;Eishockey
+412_707;Selber Wölfe;0;1;0;NULL;;;;Eishockey
+412_708;EV Landshut;0;1;0;NULL;;;;Eishockey
+412_709;EV Lindau;0;1;0;NULL;;;;Eishockey
+412_71;Bischofswerdaer Fußballverein 1908;0;1;0;NULL;;;;Fußball
+412_710;Starbulls Rosenheim;0;1;0;NULL;;;;Eishockey
+412_711;ECDC Memmingen;0;1;0;NULL;;;;Eishockey
+412_712;EC Peiting;0;1;0;NULL;;;;Eishockey
+412_713;Eisbären Regensburg;0;1;0;NULL;;;;Eishockey
+412_714;Blue Devils Weiden;0;1;0;NULL;;;;Eishockey
+412_715;EHC Waldkraiburg;0;1;0;NULL;;;;Eishockey
+412_716;EHF Passau Black Hawks;0;1;0;NULL;;;;Eishockey
+412_717;ESC Dorfen;0;1;0;NULL;;;;Eishockey
+412_718;ESV Waldkirchen;0;1;0;NULL;;;;Eishockey
+412_719;ERSC Amberg;0;1;0;NULL;;;;Eishockey
+412_72;Bonner SC;0;1;0;NULL;;;;Fußball
+412_720;EHC Königsbrunn;0;1;0;NULL;;;;Eishockey
+412_721;ESC Vilshofen;0;1;0;NULL;;;;Eishockey
+412_722;ERC Ingolstadt II;0;1;0;NULL;;;;Eishockey
+412_723;EHC Straubing;0;1;0;NULL;;;;Eishockey
+412_724;EHC Regensburg;0;1;0;NULL;;;;Eishockey
+412_725;EV Füssen;0;1;0;NULL;;;;Eishockey
+412_726;HC Landsberg;0;1;0;NULL;;;;Eishockey
+412_727;Krefelder EV;0;1;0;NULL;;;;Eishockey
+412_728;Eisbären Juniors Berlin;0;1;0;NULL;;;;Eishockey
+412_729;Münchner Eishockey Klub;0;1;0;NULL;;;;Eishockey
+412_73;Borussia Dortmund GmbH & Co. KGaA;0;1;0;NULL;;;;Fußball
+412_730;Eishockey-Club Diez-Limburg e. V.;0;1;0;NULL;;;;Eishockey
+412_731;EV Dingolfing;0;1;0;NULL;;;;Eishockey
+412_74;Borussia Dortmund U19;0;1;0;NULL;;;;Fußball
+412_75;Borussia Dortmund U23;0;1;0;NULL;;;;Fußball
+412_76;Borussia Mönchengladbach;0;1;0;NULL;;;;Fußball
+412_77;Borussia Mönchengladbach II;0;1;0;NULL;;;;Fußball
+412_78;Brandenburger SC Süd 05;0;1;0;NULL;;;;Fußball
+412_79;Bremer Sport-Verein 1906 e. V.;0;1;0;NULL;;;;Fußball
+412_8;1. FC Germania Egestorf/Langreder;0;1;0;NULL;;;;Fußball
+412_80;BSC Fortuna Glienicke e. V.;0;1;0;NULL;;;;Fußball
+412_81;BSC Hastedt;0;1;0;NULL;;;;Fußball
+412_82;BSC Kickers 1900;0;1;0;NULL;;;;Fußball
+412_83;BSC Sendling;0;1;0;NULL;;;;Fußball
+412_84;BSG Chemie Kahla;0;1;0;NULL;;;;Fußball
+412_85;BSG Chemie Leipzig;0;1;0;NULL;;;;Fußball
+412_86;BSG Chemie Leipzig II;0;1;0;NULL;;;;Fußball
+412_87;BSV Al-Dersimspor;0;1;0;NULL;;;;Fußball
+412_88;BSV Eintracht Mahlsdorf;0;1;0;NULL;;;;Fußball
+412_89;BSV Eintracht Sondershausen;0;1;0;NULL;;;;Fußball
+412_9;1. FC Heidenheim 1846;0;1;0;NULL;;;;Fußball
+412_90;BSV Grün-Weiss Neukölln 1950 e. V.;0;1;0;NULL;;;;Fußball
+412_91;BSV Halle-Ammendorf 1910 e. V.;0;1;0;NULL;;;;Fußball
+412_92;BSV Kickers Emden;0;1;0;NULL;;;;Fußball
+412_93;BSV Oranke;0;1;0;NULL;;;;Fußball
+412_94;BSV SW Rehden;0;1;0;NULL;;;;Fußball
+412_95;Calcio Leinfelden-Echterdingen;0;1;0;NULL;;;;Fußball
+412_96;Charlottenburger FC Hertha 06;0;1;0;NULL;;;;Fußball
+412_97;Chemnitzer FC;0;1;0;NULL;;;;Fußball
+412_98;Deutsche Jugendkraft Gebenbach e. V.;0;1;0;NULL;;;;Fußball
+412_99;DJK Ammerthal;0;1;0;NULL;;;;Fußball

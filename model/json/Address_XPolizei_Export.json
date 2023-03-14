@@ -1,0 +1,76 @@
+{
+  "datenbesitzer": null,
+  "datenbereich": null,
+  "benutzerInhalt": null,
+  "erstellungsDatum": null,
+  "aenderungsDatum": null,
+  "datenursprung": null,
+  "geschuetzt": null,
+  "id": "bf33138e-9e5a-4618-8c80-1e29a6203a45",
+  "quellID": null,
+  "zielID": null,
+  "erkenntnisseAusVerdeckterMassnahme": null,
+  "bemerkung": "BKA, Liegenschaft W2",
+  "verwaltungspolitischeKodierung": {
+    "gemeindeschluessel": null,
+    "kreis": "Wiesbaden",
+    "bezirk": "Biebrich",
+    "regionalschluessel": "",
+    "bundesland": {
+      "code": "321_6",
+      "name": "Hessen",
+      "listURI": "urn:de:xpolizei:codeliste:321",
+      "listVersionID": null
+    }
+  },
+  "geokodierung": {
+    "referenzsystem": {
+      "code": "231_1",
+      "name": "WGS84",
+      "listURI": null,
+      "listVersionID": null
+    },
+    "geoDaten": {
+      "punkt": {
+        "geografischeLaenge": 8.227211952209473,
+        "geografischeBreite": 50.04842758178711
+      },
+      "strecke": null,
+      "polygon": null,
+      "umkreis": null
+    }
+  },
+  "dokument": null,
+  "redundanzinformation": null,
+  "adresstyp": {
+    "postfach": null,
+    "packstation": null,
+    "lage_Postanschrift": {
+      "anschrift": {
+        "strasse": "Äppelallee",
+        "hausnummer": "45",
+        "ortsteil": "Biebrich",
+        "strassenschluessel": null,
+        "alternativeAdressangabe": null,
+        "pLZOrt": {
+          "ortsname": "Wiesbaden",
+          "pLZ": "65203",
+          "staat": {
+            "katalog": {
+              "code": "285_49",
+              "name": "Deutschland",
+              "listURI": "urn:de:xpolizei:codeliste:285",
+              "listVersionID": null
+            },
+            "nichtGelisteterWert": null
+          }
+        }
+      },
+      "verkehrsweg": null,
+      "katastereintrag": null
+    }
+  },
+  "region": "Hessen"
+}
+
+

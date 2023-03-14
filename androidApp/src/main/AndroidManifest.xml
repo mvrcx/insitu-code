@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="p20.insitu.android"
+    >
+
+    <!-- Required permissions for running the app -->
+    <!--  Connect to the network -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--  Location (Required for GPS Location) -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!--  Camera (Photo and Video) -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!--  Microphone (Record Audio) -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!--  Read and manage Bluetooth signals -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <!--  Read and manage WiFi signals -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!--  Read and write from / to app external storage (e.g. sdcard) -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!--  is implied by write permission -->
+    <!--  Use near field communication -->
+    <uses-permission android:name="android.permission.NFC" />
+    <!--  Enable haptic feedback -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Limits app visibility in the Google Play Store to ARCore supported devices
+     (https://developers.google.com/ar/devices). -->
+    <uses-feature android:name="android.hardware.camera.ar" />
+
+    <application
+        android:allowBackup="false"
+        android:supportsRtl="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:name=".MainApplication"
+        android:theme="@style/Theme.Insitu">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest> 

@@ -1,0 +1,60 @@
+{
+  "id": "b5367513-ab03-407e-a6e1-cb92e1797fd3",
+  "deleted": false,
+  "designation": "Bundeskriminalamt Wiesbaden",
+  "thumbnailId": null,
+  "postalAddress": {
+    "street": "Äppelallee",
+    "houseNumber": "45",
+    "district": "Biebrich",
+    "streetCode": null,
+    "alternativeAddress": null,
+    "city": "Wiesbaden",
+    "postalCode": "65203",
+    "country": {
+      "catalogCode": {
+        "code": "285_49",
+        "name": "Deutschland",
+        "catalogInfo": null
+      },
+      "unlistedValue": null,
+      "catalogInfo": null
+    }
+  },
+  "comment": "BKA, Liegenschaft W2",
+  "administrativeEncoding": {
+    "municipalityCode": null,
+    "county": "Wiesbaden",
+    "district": "Biebrich",
+    "regionCode": "",
+    "federalState": {
+      "code": "321_6",
+      "name": "Hessen",
+      "catalogInfo": null
+    }
+  },
+  "geoPosition": {
+    "id": "b4d2e489-2e7d-4460-88dc-6d368eb6e3e6",
+    "shapeType": "GEO_POSITION_MARKER",
+    "referenceSystem": "WGS84",
+    "worldPosition": {
+      "latitude": 50.048428,
+      "longitude": 8.227212,
+      "altitude": null
+    },
+    "rotationDegrees": 0.0,
+    "scaleLat": 1.0,
+    "scaleLong": 1.0,
+    "appearance": {
+      "fillAlpha": 1.0,
+      "fillColor": "ff000000",
+      "strokeAlpha": 1.0,
+      "strokeColor": "ff000000",
+      "strokeWidth": 4.0
+    }
+  },
+  "region": "Hessen",
+  "entityType": "ADDRESS"
+}
+
+

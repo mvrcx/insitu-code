@@ -1,0 +1,93 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+251;Volkszugehörigkeit;Volkszugehörigkeit;ZIR;V1.2;20150810
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Siedlungsgebiete
+251_1;Abchase;0;1;0;NULL;;;;;;Abchasien (Region im Südkaukasus/Georgien)
+251_10;Balkare;0;1;0;NULL;;;;;;Karbadino-Balkarien (Nordkaukasus)
+251_11;Baske;0;1;0;NULL;;;;;;'Baskenland (Spanien: Vasca u. Navarra; Frankreich: Pyrénées atlantiques)'
+251_12;Bosnier;0;1;0;NULL;;;;;Bosniake;Bosnien-Herzegowina, Serbien
+251_13;Bretone;0;1;0;NULL;;;;;;Bretagne (Frankreich)
+251_14;Dagestaner;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_15;Darginer;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_16;Eritreer;0;1;0;NULL;;;;;;Eritrea, Äthiopien
+251_17;Este;0;1;0;NULL;;;;;;Estland
+251_18;Flame;0;1;0;NULL;;;;;;Flandern (Belgien u. Frankreich)
+251_19;Georgier;0;1;0;NULL;;;;;;Georgien, Russland
+251_2;Adschare;0;1;0;NULL;;;;;;Adscharien (autonome Republik in Georgien)
+251_20;Ingusche;0;1;0;NULL;;;;;;Inguschetien (Nordkaukasus)
+251_21;Kabardiner;0;1;0;NULL;;;;;Ost-Tscherkesse;Kabardino-Balkarien, Karatschai-Tscherkessien (Nordkaukasus), Türkei, Syrien, Jordanien
+251_22;Kalmyke;0;1;0;NULL;;;;;Kalmücke;Kalmykien (Nordkaukasus)
+251_23;Karatschaier;0;1;0;NULL;;;;;;Karatschai-Tscherkessien (Nordkaukasus)
+251_24;Kasache;0;1;0;NULL;;;;;;Kasachstan, China, Russland, Tadschikistan, Usbekistan
+251_25;Katalane;0;1;0;NULL;;;;;;Katalonien u. Balearen (Spanien)
+251_26;Kirgise;0;1;0;NULL;;;;;;Kirgisistan, China, Tadschikistan, Usbekistan
+251_27;Korse;0;1;0;NULL;;;;;;Korsika (Frankreich)
+251_28;Kosovo-Albaner;0;1;0;NULL;;;;;;Kosovo
+251_29;Kroate;0;1;0;NULL;;;;;;Kroatien, Bosnien-Herzegowina, Österreich, Ungarn
+251_3;Adygejer;0;1;0;NULL;;;;;West-Tscherkesse;Adygeja (Nordkaukasus)
+251_30;Kumyke;0;1;0;NULL;;;;;Kumücke;Dagestan (Republik im Kaukasus)
+251_31;Kurde;0;1;0;NULL;;;;;;Kurdistan (Irak, Iran, Syrien, Türkei)
+251_32;Lake;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_33;Lesgier;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_34;Lette;0;1;0;NULL;;;;;;Lettland
+251_35;Litauer;0;1;0;NULL;;;;;;Litauen, Lettland, Belarus, Russland, Polen
+251_36;Mazedonier;0;1;0;NULL;;;;;;Mazedonien
+251_37;Mingrelier;0;1;0;NULL;;;;;;Georgien (Kaukasus)
+251_38;Moldauer;0;1;0;NULL;;;;;;Moldau
+251_39;Molukker;0;1;0;NULL;;;;;;Molukken (indonesische Inselgruppe) Verwendung ohne Nr. 801 "Ambonese"
+251_4;Albaner;0;1;0;NULL;;;;;Skipetare;Albanien, Mazedonien, Serbien
+251_40;Montenegriner;0;1;0;NULL;;;;;;Montenegro
+251_41;Nogaier;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_42;Nordire;0;1;0;NULL;;;;;;Nordirland (Großbritannien)
+251_43;Ossete;0;1;0;NULL;;;;;;Nordossetien-Alanien, Südossetien (Georgien)
+251_44;Palästinenser;0;1;0;NULL;;;;;;Palästinensisches Gebiet, Israel, Jordanien, Libanon, Syrien
+251_45;Russe;0;1;0;NULL;;;;;;Russland, Staaten der ehem. UdSSR, bedeutenden Minderheiten in Argentinien, Brasilien, Deutschland, Frankreich, Israel, Kanada, Vereinigtes Königreich, USA
+251_46;Rutuler;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_47;Same;0;1;0;NULL;;;;;Lappe;Norwegen, Schweden, Finnland, Russland
+251_48;Sarde;0;1;0;NULL;;;;;;Sardinien (Italien)
+251_49;Serbe;0;1;0;NULL;;;;;;Serbien, Kroatien, Kosovo, Bosnien-Herzegowina
+251_5;Ambonese;0;1;0;NULL;;;;;;Ambon (Molukken-Hauptinsel, Indonesien)
+251_50;Slowake;0;1;0;NULL;;;;;;Slowakei, Kanada, Kroatien, Polen, Rumänien, Serbien, Tschechien, Ukraine, Ungarn, USA
+251_51;Slowene;0;1;0;NULL;;;;;;Slowenien, Italien, Österreich, Ungarn
+251_52;Südtiroler;0;1;0;NULL;;;;;;Südtirol (Italien)
+251_53;Swane;0;1;0;NULL;;;;;;Georgien (Kaukasus)
+251_54;Tabasaraner;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)
+251_55;Tadschike;0;1;0;NULL;;;;;;Tadschikistan, Afghanistan, China, Usbekistan
+251_56;Talische;0;1;0;NULL;;;;;;Aserbaidschan
+251_57;Tamile;0;1;0;NULL;;;;;;Sri Lanka, Indien
+251_58;Tate;0;1;0;NULL;;;;;;Aserbaidschan und Dagestan (Republik im Kaukasus)
+251_59;Tscherkesse;0;1;0;NULL;;;;;;Karatschai-Tscherkessien, Adygeja, Kabardino-Balkarien (Nordkaukasus), Türkei, Syrien, Jordanien
+251_6;Armenier;0;1;0;NULL;;;;;;Armenien, Aserbaidschan, Berg Karabach, Turkmenistan
+251_60;Tschetschene;0;1;0;NULL;;;;;;Tschetschenien (Kaukasus)
+251_61;Turkmene;0;1;0;NULL;;;;;;Kasachstan, Russland, Usbekistan
+251_62;Uigure;0;1;0;NULL;;;;;;China, Kasachstan
+251_63;Ukrainer;0;1;0;NULL;;;;;;Ukraine, Belarus, Russland
+251_64;unbekannt;0;1;0;NULL;;;;;;
+251_65;Usbeke;0;1;0;NULL;;;;;;Usbekistan, Afghanistan, Kasachstan, Russland, Tadschikistan
+251_66;Wallone;0;1;0;NULL;;;;;;Wallonien (Belgien)
+251_67;Weißrusse;0;1;0;NULL;;;;;;Belarus, Estland, Lettland, Litauen, Ukraine
+251_68;Araber;0;1;0;NULL;;;;;;Arabische Halbinsel, Nordafrika
+251_69;Belutsche;0;1;0;NULL;;;;;Balutsche;östlicher Iran, südliches Afghanistan, westliches Pakistan
+251_7;Aserbaidschaner;0;1;0;NULL;;;;;Aseri;Aserbaidschan, Armenien, Nachitschewan, Berg Karabach
+251_70;Han-Chinese;0;1;0;NULL;;;;;Chinese;China, Indonesien, Malaysia, Taiwan, Singapur, Thailand
+251_71;Hazara;0;1;0;NULL;;;;;;Afghanistan, Iran, Pakistan
+251_72;Inder;0;1;0;NULL;;;;;;Indien, Pakistan
+251_73;Kanuri;0;1;0;NULL;;;;;;Nigeria, Niger, Tschad, Kamerun
+251_74;Maure;0;1;0;NULL;;;;;Bidhan;Algerien, Libyen, Mali, Marokko, Mauretanien
+251_75;Paschtune;0;1;0;NULL;;;;;;Afghanistan, Pakistan
+251_76;Punjabi;0;1;0;NULL;;;;;Panjabi;Punjab, (Indien, Pakistan)
+251_77;Singhalese;0;1;0;NULL;;;;;;Sri Lanka
+251_78;Somali;0;1;0;NULL;;;;;;'Somalia, Äthiopien; Kenia'
+251_79;Sorbe;0;1;0;NULL;;;;;Wende;Brandenburg, Sachsen
+251_8;Assyrer;0;1;0;NULL;;;;;;Irak, Iran, Libanon, Syrien, Türkei. Minderheiten in Australien, Lateinamerika, Europa und USA
+251_80;Tausug;0;1;0;NULL;;;;;Suluk;Malaysia, Philippinen
+251_81;Thai;0;1;0;NULL;;;;;;Thailand
+251_82;Tuareg;0;1;0;NULL;;;;;;Algerien, Libyen, Mali, Niger
+251_83;Türke;0;1;0;NULL;;;;;;Türkei, Bulgarien, Deutschland, Niederlande, Zypern
+251_9;Aware;0;1;0;NULL;;;;;;Dagestan (Republik im Kaukasus)

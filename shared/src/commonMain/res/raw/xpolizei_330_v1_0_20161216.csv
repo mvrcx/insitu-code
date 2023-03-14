@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+330;Kategorisierung des Vorgangs;Kategorisierung des Vorgangs;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+330_1;Asservatenvorgang;0;1;0;NULL;;;;;
+330_2;Erkenntnismitteilung;0;1;0;NULL;;;;;
+330_3;Ersuchen / Amtshilfe;0;1;0;NULL;;;;;
+330_4;Schutz privater Rechte;0;1;0;NULL;;;;;

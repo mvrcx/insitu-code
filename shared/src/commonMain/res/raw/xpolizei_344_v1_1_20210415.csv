@@ -1,0 +1,74 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+344;Personenbezogene Unfallursache;Personenbezogene Unfallursache;ZIR;V1.1;20210415
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel;Kategorie
+344_1;Alkoholeinfluss;0;1;0;NULL;;;;;;1;Verkehrstüchtigkeit
+344_10;Starkes Bremsen des Vorausfahrenden ohne zwingenden Grund;0;1;0;NULL;;;;;;15;Abstand
+344_11;Unzulässiges Rechtsüberholen;0;1;0;NULL;;;;;;16;Überholen
+344_12;Überholen trotz Gegenverkehrs;0;1;0;NULL;;;;;;17;Überholen
+344_13;Überholen trotz unklarer Verkehrslage;0;1;0;NULL;;;;;;18;Überholen
+344_14;Überholen trotz unzureichender Sichtverhältnisse;0;1;0;NULL;;;;;;19;Überholen
+344_15;Überholen ohne Beachtung des nachfolgenden Verkehrs und/oder ohne rechtzeitige und deutliche Ankündigung des Ausscherens;0;1;0;NULL;;;;;;20;Überholen
+344_16;Fehler beim Wiedereinordnen nach rechts;0;1;0;NULL;;;;;;21;Überholen
+344_17;'Sonstige Fehler beim Überholen (z.B. ohne genügenden Seitenabstand; an Fußgängerüberwegen s. Pos. 38, 39)';0;1;0;NULL;;;;;;22;Überholen
+344_18;Fehler beim Überholtwerden;0;1;0;NULL;;;;;;23;Überholen
+344_19;Nichtbeachten des Vorranges entgegenkommender Fahrzeuge beim Vorbeifahren an haltenden Fahrzeugen, Absperrungen oder Hindernissen (§ 6) (ausgenommen Pos. 32).;0;1;0;NULL;;;;;;24;Vorbeifahren
+344_2;Einfluss anderer berauschender Mittel (z.B. Drogen, Rauschgift);0;1;0;NULL;;;;;;2;Verkehrstüchtigkeit
+344_20;Nichtbeachten des nachfolgenden Verkehrs beim Vorbeifahren an haltenden Fahrzeugen, Absperrungen oder Hindernissen und/oder ohne rechtzeitige und deutliche Ankündigung des Ausscherens;0;1;0;NULL;;;;;;25;Vorbeifahren
+344_21;Fehlerhaftes Wechseln des Fahrstreifens beim Nebeneinanderfahren oder Nichtbeachten des Reißverschlussverfahrens (§ 7) (ausgenommen Pos. 20, 25).;0;1;0;NULL;;;;;;26;Nebeneinanderfahren
+344_22;Nichtbeachten der Regel "rechts vor links";0;1;0;NULL;;;;;;27;Vorfahrt, Vorrang
+344_23;Nichtbeachten der die Vorfahrt regelnden Verkehrszeichen (§ 8) (ausgenommen Pos. 29);0;1;0;NULL;;;;;;28;Vorfahrt, Vorrang
+344_24;Nichtbeachten der Vorfahrt des durchgehenden Verkehrs auf Autobahnen oder Kraftfahrstraßen (§ 18, Abs. 3);0;1;0;NULL;;;;;;29;Vorfahrt, Vorrang
+344_25;Nichtbeachten der Vorfahrt durch Fahrzeuge, die aus Feld- und Waldwegen kommen;0;1;0;NULL;;;;;;30;Vorfahrt, Vorrang
+344_26;Nichtbeachten der Verkehrsregelung durch Polizeibeamte oder Lichtzeichen (ausgenommen Pos. 39);0;1;0;NULL;;;;;;31;Vorfahrt, Vorrang
+344_27;Nichtbeachten des Vorranges entgegenkommender Fahrzeuge (Zeichen 208 StVO);0;1;0;NULL;;;;;;32;Vorfahrt, Vorrang
+344_28;Nichtbeachten des Vorranges von Schienenfahrzeugen an Bahnübergängen;0;1;0;NULL;;;;;;33;Vorfahrt, Vorrang
+344_3;Übermüdung;0;1;0;NULL;;;;;;3;Verkehrstüchtigkeit
+344_30;Fehler beim Wenden oder Rückwärtsfahren;0;1;0;NULL;;;;;;36;Abbiegen, Wenden, Rückwärtsfahren, Ein- und Anfahren
+344_31;Fehler beim Einfahren in den fließenden Verkehr (z.B. aus einem Grundstück, von einem anderen Straßenteil oder beim Anfahren vom Fahrbahnrand);0;1;0;NULL;;;;;;37;Abbiegen, Wenden, Rückwärtsfahren, Ein- und Anfahren
+344_32;Falsches Verhalten gegenüber Fußgängern an Fußgängerüberwegen;0;1;0;NULL;;;;;;38;Falsches Verhalten gegenüber Fußgängern
+344_33;Falsches Verhalten gegenüber Fußgängern an Fußgängerfurten;0;1;0;NULL;;;;;;39;Falsches Verhalten gegenüber Fußgängern
+344_34;Falsches Verhalten gegenüber Fußgängern beim Abbiegen;0;1;0;NULL;;;;;;40;Falsches Verhalten gegenüber Fußgängern
+344_35;Falsches Verhalten gegenüber Fußgängern an Haltestellen (auch haltenden Schulbussen mit eingeschaltetem Warnblinklicht);0;1;0;NULL;;;;;;41;Falsches Verhalten gegenüber Fußgängern
+344_36;Falsches Verhalten gegenüber Fußgängern an anderen Stellen;0;1;0;NULL;;;;;;42;Falsches Verhalten gegenüber Fußgängern
+344_37;Unzulässiges Halten oder Parken;0;1;0;NULL;;;;;;43;Ruhender Verkehr, Verkehrssicherung
+344_38;Mangelnde Sicherung haltender oder liegengebliebener Fahrzeuge und von Unfallstellen sowie von Schulbussen, bei denen Kinder ein- oder aussteigen;0;1;0;NULL;;;;;;44;Ruhender Verkehr, Verkehrssicherung
+344_39;Verkehrswidriges Verhalten beim Ein- oder Aussteigen, Be- oder Entladen;0;1;0;NULL;;;;;;45;Ruhender Verkehr, Verkehrssicherung
+344_4;Sonstige körperliche oder geistige Mängel;0;1;0;NULL;;;;;;4;Verkehrstüchtigkeit
+344_40;Nichtbeachten der Beleuchtungsvorschriften (ausgenommen Pos. 50);0;1;0;NULL;;;;;;46;Nichtbeachten der Beleuchtungsvorschriften (ausgenommen Pos. 50)
+344_41;Überladung, Überbesetzung;0;1;0;NULL;;;;;;47;Ladung, Besetzung
+344_42;Unzureichend gesicherte Ladung oder Fahrzeugzubehörteile;0;1;0;NULL;;;;;;48;Ladung, Besetzung
+344_43;Andere Fehler beim Fahrzeugführer;0;1;0;NULL;;;;;;49;Andere Fehler beim Fahrzeugführer
+344_44;Beleuchtung;0;1;0;NULL;;;;;;50;Technische Mängel, Wartungsmängel
+344_45;Bereifung;0;1;0;NULL;;;;;;51;Technische Mängel, Wartungsmängel
+344_46;Bremsen;0;1;0;NULL;;;;;;52;Technische Mängel, Wartungsmängel
+344_47;Lenkung;0;1;0;NULL;;;;;;53;Technische Mängel, Wartungsmängel
+344_48;Zugvorrichtung;0;1;0;NULL;;;;;;54;Technische Mängel, Wartungsmängel
+344_49;Andere Mängel;0;1;0;NULL;;;;;;55;Technische Mängel, Wartungsmängel
+344_5;Benutzung der falschen Fahrbahn (auch Richtungsfahrbahn) oder verbotswidrige Benutzung anderer Straßenteile;0;1;0;NULL;;;;;;10;Straßenbenutzung
+344_50;Falsches Verhalten beim Überschreiten der Fahrbahn an Stellen, an denen der Fußgängerverkehr durch Polizeibeamte oder Lichtzeichen geregelt war;0;1;0;NULL;;;;;;60;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_51;Falsches Verhalten beim Überschreiten der Fahrbahn auf Fußgängerüberwegen ohne Verkehrsregelung durch Polizeibeamte oder Lichtzeichen;0;1;0;NULL;;;;;;61;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_52;Falsches Verhalten beim Überschreiten der Fahrbahn in der Nähe von Kreuzungen oder Einmündungen, Lichtzeichenanlagen oder Fußgängerüberwegen bei dichtem Verkehr;0;1;0;NULL;;;;;;62;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_53;Falsches Verhalten beim Überschreiten der Fahrbahn an anderen Stellen durch plötzliches Hervortreten hinter Sichthindernissen;0;1;0;NULL;;;;;;63;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_54;Falsches Verhalten beim Überschreiten der Fahrbahn an anderen Stellen ohne auf den Fahrzeugverkehr zu achten;0;1;0;NULL;;;;;;64;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_55;Falsches Verhalten beim Überschreiten der Fahrbahn an anderen Stellen durch sonstiges falsches Verhalten;0;1;0;NULL;;;;;;65;Falsches Verhalten beim Überschreiten der Fahrbahn
+344_56;Nichtbenutzen des Gehweges;0;1;0;NULL;;;;;;66;Nichtbenutzen des Gehweges
+344_57;Nichtbenutzen der vorgeschriebenen Straßenseite;0;1;0;NULL;;;;;;67;Nichtbenutzen der vorgeschriebenen Straßenseite
+344_58;Spielen auf oder neben der Fahrbahn;0;1;0;NULL;;;;;;68;Spielen auf oder neben der Fahrbahn
+344_59;Andere Fehler der Fußgänger;0;1;0;NULL;;;;;;69;Andere Fehler der Fußgänger
+344_6;Verstoß gegen das Rechtsfahrgebot;0;1;0;NULL;;;;;;11;Straßenbenutzung
+344_60;Ablenkung im Sinne des § 23 Abs. 1a StVO;NULL;1;0;NULL;;;01.01.2021;;;5;Ablenkung
+344_61;Ablenkung in anderen Fällen;NULL;1;0;NULL;;;01.01.2021;;;6;Ablenkung
+344_62;'"Benutzung der Fahrbahn entgegen der vorgeschriebenen Fahrtrichtung in anderen Fällen (Stichwort „Einbahnstraße“)"';NULL;1;0;NULL;;;;;;9;Straßenbenutzung
+344_63;Falschfahrt auf Straßen mit nach Fahrtrichtung getrennten Fahrbahnen (Stichwort „Falschfahrer“);NULL;1;0;NULL;;;;;;8;Straßenbenutzung
+344_64;Fehler beim Abbiegen (§ 9) nach links (ausgenommen Pos. 33, 40);NULL;1;0;NULL;;;;;;35;Abbiegen, Wenden, Rückwärtsfahren, Ein- und Anfahren
+344_65;Fehler beim Abbiegen (§ 9) nach rechts (ausgenommen Pos. 33, 40);NULL;1;0;NULL;;;;;;34;Abbiegen, Wenden, Rückwärtsfahren, Ein- und Anfahren
+344_7;Nicht angepasste Geschwindigkeit mit gleichzeitigem Überschreiten der zulässigen Höchstgeschwindigkeit;0;1;0;NULL;;;;;;12;Geschwindigkeit
+344_8;Geschwindigkeit in anderen Fällen;0;1;0;NULL;;;;;;13;Geschwindigkeit
+344_9;Ungenügender Sicherheitsabstand (Sonstige Ursachen, die zu einem Verkehrsunfall führen, sind den zutreffenden Positionen, wie Geschwindigkeit, Übermüdung usw. zuzuordnen);0;1;0;NULL;;;;;;14;Abstand

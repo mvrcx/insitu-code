@@ -1,0 +1,81 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+120;Art der materiellen Spur;Art der materiellen Spur;ZIR;V1.3;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+120_1;Kopfhaar;NULL;1;0;NULL;;;;;
+120_100;biologische Spur;NULL;1;0;NULL;;;;;
+120_101;Pflanzenspur;NULL;1;0;NULL;;;;;
+120_102;biologische Mikrospur;NULL;1;0;NULL;;;;;
+120_103;Tierspur;NULL;1;0;NULL;;;;;
+120_104;Boden- / Schmutzspur;NULL;1;0;NULL;;;;;
+120_105;Lippenspur;NULL;1;0;NULL;;;;;
+120_106;Ohrspur;NULL;1;0;NULL;;;;;
+120_107;Ausziehspur;NULL;1;0;NULL;;z. B. wenn ein Schließzylinder herausgezogen wurde;;;
+120_108;Hebelspur;NULL;1;0;NULL;;;;;
+120_109;Stichspur;NULL;1;0;NULL;;;;;
+120_11;Bissspur;NULL;1;0;NULL;;;;;
+120_110;Trennspur;NULL;1;0;NULL;;;;;'Schnittspur; Sägespur; Schleifspur'
+120_111;Anschmelzspur;NULL;1;0;NULL;;;;;
+120_112;Brandschuttprobe;NULL;1;0;NULL;;;;;
+120_113;Gift / Pflanzenschutzmittel;NULL;1;0;NULL;;;;;
+120_114;BtM / Pharmaka;NULL;1;0;NULL;;;;;
+120_123;Handschriftenspur;NULL;1;0;NULL;;;;;
+120_124;phonetische Spur;NULL;1;0;NULL;;;;;
+120_125;visuelle Spur (Bild, Video);NULL;1;0;NULL;;;;;
+120_126;Geruchsspur;NULL;1;0;NULL;;;;;
+120_127;Geschossabrieb / -teile;NULL;1;0;NULL;;;;;
+120_128;Schmauchspur;NULL;1;0;NULL;;;;;
+120_129;Glasspur;NULL;1;0;NULL;;;;;
+120_130;Lackspur;NULL;1;0;NULL;;;;;
+120_131;Metallspur;NULL;1;0;NULL;;;;;
+120_132;Kunststoffspur;NULL;1;0;NULL;;;;;
+120_133;Betäubungsmittel- / toxikologische Spur;NULL;1;0;NULL;;;;;
+120_134;Materialspur;NULL;1;0;NULL;;;;;
+120_135;Chemikalienspur;NULL;1;0;NULL;;Spuren von Lösungsmitteln, ätzenden Substanzen etc.;;;
+120_136;Kraftstoffspur;NULL;1;0;NULL;;;;;
+120_14;Blut;NULL;1;0;NULL;;;;;
+120_15;Sekret;NULL;1;0;NULL;;;;;
+120_16;Sperma;NULL;1;0;NULL;;;;;
+120_17;Vaginalsekret;NULL;1;0;NULL;;;;;
+120_18;Speichel;NULL;1;0;NULL;;;;;
+120_19;Nasensekret;NULL;1;0;NULL;;;;;
+120_20;Schweiß;NULL;1;0;NULL;;;;;
+120_21;Formspur;NULL;1;0;NULL;;;;;
+120_23;Schusswaffenspur;NULL;1;0;NULL;;z. B. Stanzmarke bei einer aufgesetzten Schussabgabe;;;
+120_24;Werkzeugspur;NULL;1;0;NULL;;;;;
+120_25;Handschuhspur;NULL;1;0;NULL;;;;;
+120_29;Prägespur;NULL;1;0;NULL;;;;;
+120_4;daktyloskopische Spur;NULL;1;0;NULL;;;;;
+120_41;Gleitriefenspur;NULL;1;0;NULL;;;;;'Ziehspur; Schürfspur; Schartenspur'
+120_45;Bohrspur;NULL;1;0;NULL;;;;;
+120_49;Passspur;NULL;1;0;NULL;;;;;
+120_50;Bruchspur;NULL;1;0;NULL;;;;;
+120_51;Rissspur;NULL;1;0;NULL;;;;;
+120_57;chemischer Grundstoff;NULL;1;0;NULL;;;;;
+120_59;Haar;NULL;1;0;NULL;;;;;
+120_61;Tierhaar;NULL;1;0;NULL;;;;;
+120_64;Schamhaar;NULL;1;0;NULL;;;;;
+120_8;Schuhspur;NULL;1;0;NULL;;;;;
+120_83;Schussspur;NULL;1;0;NULL;;;;;
+120_84;textile Spur;NULL;1;0;NULL;;hier sind keine textilen Formspuren gemeint;;;
+120_85;Faserspur;NULL;1;0;NULL;;;;;
+120_86;Fingerspur;NULL;1;0;NULL;;;;;
+120_87;Handflächenspur;NULL;1;0;NULL;;;;;
+120_88;Fußspur;NULL;1;0;NULL;;;;;
+120_9;Reifenspur;NULL;1;0;NULL;;;;;
+120_90;Körpergewebe;NULL;1;0;NULL;;;;;
+120_91;Hautabrieb;NULL;1;0;NULL;;;;;
+120_92;Knochen;NULL;1;0;NULL;;;;;
+120_93;Zahn;NULL;1;0;NULL;;;;;
+120_94;Finger- / Zehennagel;NULL;1;0;NULL;;;;;
+120_95;Exkremente;NULL;1;0;NULL;;;;;
+120_96;Kot;NULL;1;0;NULL;;;;;
+120_97;Urin;NULL;1;0;NULL;;;;;
+120_98;Erbrochenes;NULL;1;0;NULL;;;;;
+120_99;Körperhaar;NULL;1;0;NULL;;;;;

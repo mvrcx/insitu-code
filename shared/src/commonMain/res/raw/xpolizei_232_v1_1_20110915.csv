@@ -1,0 +1,19 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+232;Maßeinheit des Gewichtes;Maßeinheit des Gewichtes;ZIR;V1.1;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+232_1;Kilogramm;0;1;0;NULL;kg;;
+232_2;Pfund;0;1;0;NULL;lb;;
+232_3;Gramm;0;1;0;NULL;g;;
+232_4;Milligramm;0;1;0;NULL;mg;;
+232_5;Tonne;0;1;0;NULL;t;;
+232_6;Karat;0;1;0;NULL;ct;;
+232_7;Zentner;0;1;0;NULL;Ztr;;
+232_8;Unze;0;1;0;NULL;oz;;
+232_9;Feinunze;0;1;0;NULL;oz tr;;

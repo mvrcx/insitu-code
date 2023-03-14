@@ -1,0 +1,279 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+285;Land/Gebiet;Land/Gebiet;ZIR;V1.7;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Klassifizierung;ISO_3166;INPOL-Z-Schlüssel
+285_1;Afghanistan;0;1;0;NULL;;;;;;Staat;AF;423
+285_10;Anguilla;0;1;0;NULL;;;;;;Gebiet;AI;
+285_100;Cabo Verde;0;1;0;NULL;;;;;Kap Verde;Staat;CV;242
+285_101;Kasachstan;0;1;0;NULL;;;;;;Staat;KZ;444
+285_102;Katar;0;1;0;NULL;;;;;;Staat;QA;447
+285_103;Kenia;0;1;0;NULL;;;;;;Staat;KE;243
+285_104;Kirgisistan;0;1;0;NULL;;;;;;Staat;KG;450
+285_105;Kiribati;0;1;0;NULL;;;;;;Staat;KI;530
+285_106;Kleinere Amerikanische Überseeinseln;0;1;0;NULL;;;;;;Gebiet;UM;
+285_107;Kokosinseln;0;1;0;NULL;;;;;;Gebiet;CC;
+285_108;Kolumbien;0;1;0;NULL;;;;;;Staat;CO;349
+285_109;Komoren;0;1;0;NULL;;;;;;Staat;KM;244
+285_11;Antarktis;0;1;0;NULL;;;;;;Gebiet;AQ;
+285_110;Kongo;0;1;0;NULL;;;;;;Staat;CG;245
+285_111;Kongo, Demokratische Republik;0;1;0;NULL;;;;;;Staat;CD;246
+285_112;Korea, Demokratische Volksrepublik;0;1;0;NULL;;;;;;Staat;KP;434
+285_113;Korea, Republik;0;1;0;NULL;;;;;;Staat;KR;467
+285_114;Kosovo;0;1;0;NULL;;;;;;Staat;XK;150
+285_115;Kroatien;0;1;0;NULL;;;;;;Staat;HR;130
+285_116;Kuba;0;1;0;NULL;;;;;;Staat;CU;351
+285_117;Kuwait;0;1;0;NULL;;;;;;Staat;KW;448
+285_118;Laos, Demokratische Volksrepublik;0;1;0;NULL;;;;;;Staat;LA;449
+285_119;Lesotho;0;1;0;NULL;;;;;;Staat;LS;226
+285_12;Antigua und Barbuda;0;1;0;NULL;;;;;;Staat;AG;320
+285_120;Lettland;0;1;0;NULL;;;;;;Staat;LV;139
+285_121;Libanon;0;1;0;NULL;;;;;;Staat;LB;451
+285_122;Liberia;0;1;0;NULL;;;;;;Staat;LR;247
+285_123;Libyen;0;1;0;NULL;;;;;;Staat;LY;248
+285_124;Liechtenstein;0;1;0;NULL;;;;;;Staat;LI;141
+285_125;Litauen;0;1;0;NULL;;;;;;Staat;LT;142
+285_126;Luxemburg;0;1;0;NULL;;;;;;Staat;LU;143
+285_127;Macau;0;1;0;NULL;;;;;;Gebiet;MO;
+285_128;Madagaskar;0;1;0;NULL;;;;;;Staat;MG;249
+285_129;Malawi;0;1;0;NULL;;;;;;Staat;MW;256
+285_13;Äquatorialguinea;0;1;0;NULL;;;;;;Staat;GQ;274
+285_130;Malaysia;0;1;0;NULL;;;;;;Staat;MY;482
+285_131;Malediven;0;1;0;NULL;;;;;;Staat;MV;454
+285_132;Mali;0;1;0;NULL;;;;;;Staat;ML;251
+285_133;Malta;0;1;0;NULL;;;;;;Staat;MT;145
+285_134;Marokko;0;1;0;NULL;;;;;;Staat;MA;252
+285_135;Marshallinseln;0;1;0;NULL;;;;;;Staat;MH;544
+285_136;Martinique;0;1;0;NULL;;;;;;Gebiet;MQ;
+285_137;Mauretanien;0;1;0;NULL;;;;;;Staat;MR;239
+285_138;Mauritius;0;1;0;NULL;;;;;;Staat;MU;253
+285_139;Mayotte;0;1;0;NULL;;;;;;Gebiet;YT;
+285_14;Argentinien;0;1;0;NULL;;;;;;Staat;AR;323
+285_140;Nordmazedonien;0;1;0;NULL;;;;;;Staat;MK;144
+285_141;Mexiko;0;1;0;NULL;;;;;;Staat;MX;353
+285_142;Mikronesien, Föderierte Staaten von;0;1;0;NULL;;;;;;Staat;FM;545
+285_143;Moldau, Republik;0;1;0;NULL;;;;;;Staat;MD;146
+285_144;Monaco;0;1;0;NULL;;;;;;Staat;MC;147
+285_145;Mongolei;0;1;0;NULL;;;;;;Staat;MN;457
+285_146;Montenegro;0;1;0;NULL;;;;;;Staat;ME;140
+285_147;Montserrat;0;1;0;NULL;;;;;;Gebiet;MS;
+285_148;Mosambik;0;1;0;NULL;;;;;;Staat;MZ;254
+285_149;Myanmar;0;1;0;NULL;;;;;;Staat;MM;427
+285_15;Armenien;0;1;0;NULL;;;;;;Staat;AM;422
+285_150;Namibia;0;1;0;NULL;;;;;;Staat;NA;267
+285_151;Nauru;0;1;0;NULL;;;;;;Staat;NR;531
+285_152;Nepal;0;1;0;NULL;;;;;;Staat;NP;458
+285_153;Neukaledonien;0;1;0;NULL;;;;;;Gebiet;NC;
+285_154;Neuseeland;0;1;0;NULL;;;;;;Staat;NZ;536
+285_155;Nicaragua;0;1;0;NULL;;;;;;Staat;NI;354
+285_156;Niederlande;0;1;0;NULL;;;;;;Staat;NL;148
+285_157;Niederländische Antillen (ehem.);0;1;0;NULL;;;;;;ehemaliges Gebiet;ANHH;
+285_158;Niger;0;1;0;NULL;;;;;;Staat;NE;255
+285_159;Nigeria;0;1;0;NULL;;;;;;Staat;NG;232
+285_16;Aruba;0;1;0;NULL;;;;;;Gebiet;AW;
+285_160;Niue;0;1;0;NULL;;;;;;Staat;NU;533
+285_161;Nördliche Marianen;0;1;0;NULL;;;;;;Gebiet;MP;525
+285_162;Norfolkinsel;0;1;0;NULL;;;;;;Gebiet;NF;
+285_163;Norwegen;0;1;0;NULL;;;;;;Staat;NO;149
+285_164;Oman;0;1;0;NULL;;;;;;Staat;OM;456
+285_165;Österreich;0;1;0;NULL;;;;;;Staat;AT;151
+285_166;Pakistan;0;1;0;NULL;;;;;;Staat;PK;461
+285_167;Palästinensisches Gebiet;0;1;0;NULL;;;;;;Staat;PS;
+285_168;Palau;0;1;0;NULL;;;;;;Staat;PW;537
+285_169;Panama;0;1;0;NULL;;;;;;Staat;PA;357
+285_17;Aserbaidschan;0;1;0;NULL;;;;;;Staat;AZ;425
+285_170;Papua-Neuguinea;0;1;0;NULL;;;;;;Staat;PG;538
+285_171;Paraguay;0;1;0;NULL;;;;;;Staat;PY;359
+285_172;Peru;0;1;0;NULL;;;;;;Staat;PE;361
+285_173;Philippinen;0;1;0;NULL;;;;;;Staat;PH;462
+285_174;Pitcairninseln;0;1;0;NULL;;;;;;Gebiet;PN;
+285_175;Polen;0;1;0;NULL;;;;;;Staat;PL;152
+285_176;Portugal;0;1;0;NULL;;;;;;Staat;PT;153
+285_177;Puerto Rico;0;1;0;NULL;;;;;;Gebiet;PR;
+285_178;Reunion;0;1;0;NULL;;;;;;Gebiet;RE;
+285_179;Ruanda;0;1;0;NULL;;;;;;Staat;RW;265
+285_18;Äthiopien;0;1;0;NULL;;;;;;Staat;ET;225
+285_180;Rumänien;0;1;0;NULL;;;;;;Staat;RO;154
+285_181;Russische Föderation;0;1;0;NULL;;;;;;Staat;RU;160
+285_182;Salomonen;0;1;0;NULL;;;;;;Staat;SB;524
+285_183;Sambia;0;1;0;NULL;;;;;;Staat;ZM;257
+285_184;Samoa;0;1;0;NULL;;;;;;Staat;WS;543
+285_185;San Marino;0;1;0;NULL;;;;;;Staat;SM;156
+285_186;Sao Tome und Principe;0;1;0;NULL;;;;;;Staat;ST;268
+285_187;Saudi-Arabien;0;1;0;NULL;;;;;;Staat;SA;472
+285_188;Schweden;0;1;0;NULL;;;;;;Staat;SE;157
+285_189;Schweiz;0;1;0;NULL;;;;;;Staat;CH;158
+285_19;Australien;0;1;0;NULL;;;;;;Staat;AU;523
+285_190;Senegal;0;1;0;NULL;;;;;;Staat;SN;269
+285_191;Serbien;0;1;0;NULL;;;;;;Staat;RS;170
+285_192;Serbien und Montenegro (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;CSXX;132
+285_193;Seychellen;0;1;0;NULL;;;;;;Staat;SC;271
+285_194;Sierra Leone;0;1;0;NULL;;;;;;Staat;SL;272
+285_195;Simbabwe;0;1;0;NULL;;;;;;Staat;ZW;233
+285_196;Singapur;0;1;0;NULL;;;;;;Staat;SG;474
+285_197;Slowakei;0;1;0;NULL;;;;;;Staat;SK;155
+285_198;Slowenien;0;1;0;NULL;;;;;;Staat;SI;131
+285_199;Somalia;0;1;0;NULL;;;;;;Staat;SO;273
+285_2;Ägypten;0;1;0;NULL;;;;;;Staat;EG;287
+285_20;Bahamas;0;1;0;NULL;;;;;;Staat;BS;324
+285_200;Sowjetunion (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;SUHH;159
+285_201;Spanien;0;1;0;NULL;;;;;;Staat;ES;161
+285_202;Sri Lanka;0;1;0;NULL;;;;;;Staat;LK;431
+285_203;St. Barthelemy;0;1;0;NULL;;;;;;Gebiet;BL;
+285_204;St. Helena;0;1;0;NULL;;;;;;Gebiet;SH;
+285_205;St. Kitts und Nevis;0;1;0;NULL;;;;;;Staat;KN;370
+285_206;St. Lucia;0;1;0;NULL;;;;;;Staat;LC;366
+285_207;St. Martin (französisch);0;1;0;NULL;;;;;;Gebiet;MF;
+285_208;St. Martin (niederländisch);0;1;0;NULL;;;;;;Gebiet;SX;
+285_209;St. Pierre und Miquelon;0;1;0;NULL;;;;;;Gebiet;PM;
+285_21;Bahrain;0;1;0;NULL;;;;;;Staat;BH;424
+285_210;St. Vincent und die Grenadinen;0;1;0;NULL;;;;;;Staat;VC;369
+285_211;Südafrika;0;1;0;NULL;;;;;;Staat;ZA;263
+285_212;Sudan;0;1;0;NULL;;;;;;Staat;SD;277
+285_213;Südgeorgien und die südlichen Sandwichinseln;0;1;0;NULL;;;;;;Gebiet;GS;
+285_214;Suriname;0;1;0;NULL;;;;;;Staat;SR;364
+285_215;Svalbard und Jan Mayen;0;1;0;NULL;;;;;;Gebiet;SJ;
+285_216;Eswatini;0;1;0;NULL;;;;;Swasiland;Staat;SZ;281
+285_217;Syrien, Arabische Republik;0;1;0;NULL;;;;;;Staat;SY;475
+285_218;Tadschikistan;0;1;0;NULL;;;;;;Staat;TJ;470
+285_219;Taiwan;0;1;0;NULL;;;;;;Gebiet;TW;465
+285_22;Bangladesch;0;1;0;NULL;;;;;;Staat;BD;460
+285_220;Tansania, Vereinigte Republik;0;1;0;NULL;;;;;;Staat;TZ;282
+285_221;Thailand;0;1;0;NULL;;;;;;Staat;TH;476
+285_222;Timor-Leste;0;1;0;NULL;;;;;;Staat;TL;483
+285_223;Togo;0;1;0;NULL;;;;;;Staat;TG;283
+285_224;Tokelau;0;1;0;NULL;;;;;;Gebiet;TK;
+285_225;Tonga;0;1;0;NULL;;;;;;Staat;TO;541
+285_226;Trinidad und Tobago;0;1;0;NULL;;;;;;Staat;TT;371
+285_227;Tschad;0;1;0;NULL;;;;;;Staat;TD;284
+285_228;Tschechische Republik;0;1;0;NULL;;;;;;Staat;CZ;164
+285_229;Tschechoslowakei (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;CSHH;162
+285_23;Barbados;0;1;0;NULL;;;;;;Staat;BB;322
+285_230;Tunesien;0;1;0;NULL;;;;;;Staat;TN;285
+285_231;Türkei;0;1;0;NULL;;;;;;Staat;TR;163
+285_232;Turkmenistan;0;1;0;NULL;;;;;;Staat;TM;471
+285_233;Turks- und Caicosinseln;0;1;0;NULL;;;;;;Gebiet;TC;
+285_234;Tuvalu;0;1;0;NULL;;;;;;Staat;TV;540
+285_235;Uganda;0;1;0;NULL;;;;;;Staat;UG;286
+285_236;Ukraine;0;1;0;NULL;;;;;;Staat;UA;166
+285_237;Ungarn;0;1;0;NULL;;;;;;Staat;HU;165
+285_238;Uruguay;0;1;0;NULL;;;;;;Staat;UY;365
+285_239;Usbekistan;0;1;0;NULL;;;;;;Staat;UZ;477
+285_24;Belarus;0;1;0;NULL;;;;;;Staat;BY;169
+285_240;Vanuatu;0;1;0;NULL;;;;;;Staat;VU;532
+285_241;Vatikanstadt;0;1;0;NULL;;;;;;Staat;VA;167
+285_242;Venezuela;0;1;0;NULL;;;;;;Staat;VE;367
+285_243;Vereinigte Arabische Emirate;0;1;0;NULL;;;;;;Staat;AE;469
+285_244;Vereinigte Staaten;0;1;0;NULL;;;;;;Staat;US;368
+285_245;Vereinigtes Königreich;0;1;0;NULL;;;;;;Staat;GB;168
+285_246;Vietnam;0;1;0;NULL;;;;;;Staat;VN;432
+285_247;Wallis und Futuna;0;1;0;NULL;;;;;;Gebiet;WF;
+285_248;Weihnachtsinsel;0;1;0;NULL;;;;;;Gebiet;CX;
+285_249;Westsahara;0;1;0;NULL;;;;;;Gebiet;EH;
+285_25;Belgien;0;1;0;NULL;;;;;;Staat;BE;124
+285_250;Zentralafrikanische Republik;0;1;0;NULL;;;;;;Staat;CF;289
+285_251;Zypern;0;1;0;NULL;;;;;;Staat;CY;181
+285_252;unbekannt;0;1;0;NULL;;;;;;sonstiger Eintrag;;998
+285_253;Südsudan;0;1;0;NULL;;;;;;Staat;SS;278
+285_254;Kurdische Gebiete;0;1;0;NULL;;;;;;Gebiet;;
+285_255;Abu Dhabi;0;1;0;NULL;;;;;;Gebiet;AE-AZ;
+285_256;Adschman;0;1;0;NULL;;;;;;Gebiet;AE-AJ;
+285_257;Dubai;0;1;0;NULL;;;;;;Gebiet;AE-DU;
+285_258;Fudschaira;0;1;0;NULL;;;;;;Gebiet;AE-FU;
+285_259;'Ra''s al Chaima';0;1;0;NULL;;;;;;Gebiet;AE-RK;
+285_26;Belize;0;1;0;NULL;;;;;;Staat;BZ;330
+285_260;Schardscha;0;1;0;NULL;;;;;;Gebiet;AE-SH;
+285_261;Umm al-Qaiwain;0;1;0;NULL;;;;;;Gebiet;AE-UQ;
+285_262;England;0;1;0;NULL;;;;;;Gebiet;GB-ENG;
+285_263;Schottland;0;1;0;NULL;;;;;;Gebiet;GB-SCT;
+285_264;Wales;0;1;0;NULL;;;;;;Gebiet;GB-WLS;
+285_265;Nordirland;0;1;0;NULL;;;;;;Gebiet;GB-NIR;
+285_266;Alderney;0;1;0;NULL;;;;;;Gebiet;;
+285_267;Guernsey;0;1;0;NULL;;;;;;Gebiet;GG;
+285_268;Jersey;0;1;0;NULL;;;;;;Gebiet;JE;
+285_269;Insel Man;0;1;0;NULL;;;;;;Gebiet;IM;
+285_27;Benin;0;1;0;NULL;;;;;;Staat;BJ;229
+285_28;Bermuda;0;1;0;NULL;;;;;;Gebiet;BM;
+285_29;Bhutan;0;1;0;NULL;;;;;;Staat;BT;426
+285_3;Alandinseln;0;1;0;NULL;;;;;;Gebiet;AX;
+285_30;Bolivien, Plurinationaler Staat;0;1;0;NULL;;;;;;Staat;BO;326
+285_31;Bonaire;0;1;0;NULL;;;;;;Gebiet;BQ;
+285_32;Bosnien und Herzegowina;0;1;0;NULL;;;;;;Staat;BA;122
+285_33;Botsuana;0;1;0;NULL;;;;;;Staat;BW;227
+285_34;Bouvetinsel;0;1;0;NULL;;;;;;Gebiet;BV;
+285_35;Brasilien;0;1;0;NULL;;;;;;Staat;BR;327
+285_36;Britische Jungferninseln;0;1;0;NULL;;;;;;Gebiet;VG;
+285_37;Britisches Territorium im Indischen Ozean;0;1;0;NULL;;;;;;Gebiet;IO;
+285_38;Brunei Darussalam;0;1;0;NULL;;;;;;Staat;BN;429
+285_39;Bulgarien;0;1;0;NULL;;;;;;Staat;BG;125
+285_4;Albanien;0;1;0;NULL;;;;;;Staat;AL;121
+285_40;Burkina Faso;0;1;0;NULL;;;;;;Staat;BF;258
+285_41;Burundi;0;1;0;NULL;;;;;;Staat;BI;291
+285_42;Chile;0;1;0;NULL;;;;;;Staat;CL;332
+285_43;China;0;1;0;NULL;;;;;;Staat;CN;479
+285_44;Cookinseln;0;1;0;NULL;;;;;;Staat;CK;527
+285_45;Costa Rica;0;1;0;NULL;;;;;;Staat;CR;334
+285_46;'Cote d''Ivoire';0;1;0;NULL;;;;;;Staat;CI;231
+285_47;Curacao;0;1;0;NULL;;;;;;Gebiet;CW;
+285_48;Dänemark;0;1;0;NULL;;;;;;Staat;DK;126
+285_49;Deutschland;0;1;0;NULL;;;;;;Staat;DE;000
+285_5;Algerien;0;1;0;NULL;;;;;;Staat;DZ;221
+285_50;Dominica;0;1;0;NULL;;;;;;Staat;DM;333
+285_51;Dominikanische Republik;0;1;0;NULL;;;;;;Staat;DO;335
+285_52;Dschibuti;0;1;0;NULL;;;;;;Staat;DJ;230
+285_53;Ecuador;0;1;0;NULL;;;;;;Staat;EC;336
+285_54;El Salvador;0;1;0;NULL;;;;;;Staat;SV;337
+285_55;Eritrea;0;1;0;NULL;;;;;;Staat;ER;224
+285_56;Estland;0;1;0;NULL;;;;;;Staat;EE;127
+285_57;Falklandinseln;0;1;0;NULL;;;;;;Gebiet;FK;
+285_58;Färöer;0;1;0;NULL;;;;;;Gebiet;FO;
+285_59;Fidschi;0;1;0;NULL;;;;;;Staat;FJ;526
+285_6;Amerikanisch-Samoa;0;1;0;NULL;;;;;;Gebiet;AS;
+285_60;Finnland;0;1;0;NULL;;;;;;Staat;FI;128
+285_61;Frankreich;0;1;0;NULL;;;;;;Staat;FR;129
+285_62;Französisch-Guayana;0;1;0;NULL;;;;;;Gebiet;GF;
+285_63;Französisch-Polynesien;0;1;0;NULL;;;;;;Gebiet;PF;
+285_64;Französische Süd- und Antarktisgebiete;0;1;0;NULL;;;;;;Gebiet;TF;
+285_65;Gabun;0;1;0;NULL;;;;;;Staat;GA;236
+285_66;Gambia;0;1;0;NULL;;;;;;Staat;GM;237
+285_67;Georgien;0;1;0;NULL;;;;;;Staat;GE;430
+285_68;Ghana;0;1;0;NULL;;;;;;Staat;GH;238
+285_69;Gibraltar;0;1;0;NULL;;;;;;Gebiet;GI;
+285_7;Amerikanische Jungferninseln;0;1;0;NULL;;;;;;Gebiet;VI;
+285_70;Grenada;0;1;0;NULL;;;;;;Staat;GD;340
+285_71;Griechenland;0;1;0;NULL;;;;;;Staat;GR;134
+285_72;Grönland;0;1;0;NULL;;;;;;Gebiet;GL;
+285_73;Guadeloupe;0;1;0;NULL;;;;;;Gebiet;GP;
+285_74;Guam;0;1;0;NULL;;;;;;Gebiet;GU;
+285_75;Guatemala;0;1;0;NULL;;;;;;Staat;GT;345
+285_76;Guinea;0;1;0;NULL;;;;;;Staat;GN;261
+285_77;Guinea-Bissau;0;1;0;NULL;;;;;;Staat;GW;259
+285_78;Guyana;0;1;0;NULL;;;;;;Staat;GY;328
+285_79;Haiti;0;1;0;NULL;;;;;;Staat;HT;346
+285_8;Andorra;0;1;0;NULL;;;;;;Staat;AD;123
+285_80;Heard und McDonaldinseln;0;1;0;NULL;;;;;;Gebiet;HM;
+285_81;Honduras;0;1;0;NULL;;;;;;Staat;HN;347
+285_82;Hongkong;0;1;0;NULL;;;;;;Gebiet;HK;
+285_83;Indien;0;1;0;NULL;;;;;;Staat;IN;436
+285_84;Indonesien;0;1;0;NULL;;;;;;Staat;ID;437
+285_85;Irak;0;1;0;NULL;;;;;;Staat;IQ;438
+285_86;Iran, Islamische Republik;0;1;0;NULL;;;;;;Staat;IR;439
+285_87;Irland;0;1;0;NULL;;;;;;Staat;IE;135
+285_88;Island;0;1;0;NULL;;;;;;Staat;IS;136
+285_89;Israel;0;1;0;NULL;;;;;;Staat;IL;441
+285_9;Angola;0;1;0;NULL;;;;;;Staat;AO;223
+285_90;Italien;0;1;0;NULL;;;;;;Staat;IT;137
+285_91;Jamaika;0;1;0;NULL;;;;;;Staat;JM;355
+285_92;Japan;0;1;0;NULL;;;;;;Staat;JP;442
+285_93;Jemen;0;1;0;NULL;;;;;;Staat;YE;421
+285_94;Jordanien;0;1;0;NULL;;;;;;Staat;JO;445
+285_95;Jugoslawien (ehem.);0;1;0;NULL;;;;;;ehemaliger Staat;YUCS;138
+285_96;Kaimaninseln;0;1;0;NULL;;;;;;Gebiet;KY;
+285_97;Kambodscha;0;1;0;NULL;;;;;;Staat;KH;446
+285_98;Kamerun;0;1;0;NULL;;;;;;Staat;CM;262
+285_99;Kanada;0;1;0;NULL;;;;;;Staat;CA;348

@@ -1,0 +1,23 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+260;Erscheinungsbild einer Person - geografiebezogen;Erscheinungsbild einer Person - geografiebezogen;ZIR;V1.2;20190405
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+260_1;europäisch;0;1;0;NULL;;;;;
+260_12;afrikanisch;0;1;0;NULL;;dunkle Haut- und Haarfarbe, Kraushaar, wulstige Lippen;;;
+260_13;nordafrikanisch;0;1;0;NULL;;Algerier, Marokkaner, Tunesier, Libyer, Ägypter, z. T. auch Malteser und Zyprioten;;;
+260_16;afro-amerikanisch;0;1;0;NULL;;Schwarz-Amerikaner, Mestizen, Mulatten, Kreolen;;;
+260_17;indianisch;0;1;0;NULL;;Merkmale der Indios / Indianer (Süd-, Mittel- und Nordamerika);;;
+260_19;mittel- / südamerikanisch;0;1;0;NULL;;;;;
+260_2;westeuropäisch;0;1;0;NULL;;Mitteleuropäer mit nordländischer Erscheinung;;;
+260_20;arabisch;0;1;0;NULL;;Türken, Araber, Iraker, Iraner, Afghanen;;;westasiatisch
+260_21;indisch;0;1;0;NULL;;Inder, Pakistani, Tamilen;;;südasiatisch
+260_3;südeuropäisch;0;1;0;NULL;;Süditaliener, Sizilianer, Südfranzosen, Spanier, z. T. auch Griechen, Mazedonier und Zyprioten;;;
+260_4;südosteuropäisch;0;1;0;NULL;;Serben, Kroaten, Albaner, z. T. auch Griechen, Mazedonier, Zyprioten;;;
+260_5;osteuropäisch;0;1;0;NULL;;Russen, Kaukasier, Georgier, Armenier, Tschetschenen, Balten;;;slawisch
+260_6;asiatisch;0;1;0;NULL;;Chinesen, Japaner, Koreaner, Vietnamesen, Laoten, Kambodschaner, Malayen, Mongolen, Tibeter, sibirische Gruppen;;;

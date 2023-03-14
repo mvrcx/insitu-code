@@ -1,0 +1,16 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+258;Schulabschluss;Schulabschluss;ZIR;V1.1;20131025
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+258_1;Abitur;0;1;0;NULL;;;
+258_2;Fachhochschulreife / Fachabitur;0;1;0;NULL;;;
+258_3;Hauptschulabschluss;0;1;0;NULL;;;
+258_4;Hochschulabschluss;0;1;0;NULL;;;
+258_5;Mittlere Reife;0;1;0;NULL;;;
+258_6;Ohne Schulabschluss;0;1;0;NULL;;;

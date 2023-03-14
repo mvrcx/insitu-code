@@ -1,0 +1,46 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+113;Art des Kraftfahrzeugs;Art des Kraftfahrzeugs;ZIR;V1.3;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+113_10;Lastkraftwagen;0;1;0;NULL;LKW;;;;
+113_11;Kleinbus;0;1;0;NULL;;bis zu neun Sitze inkl. Fahrer;;;
+113_12;Sattelzugmaschine;0;1;0;NULL;;;;;
+113_13;Zugmaschine;0;1;0;NULL;;;;;
+113_14;Omnibus;0;1;0;NULL;;;;;'Kraftomnibus; Bus'
+113_15;Motorrad;0;1;0;NULL;;;;;
+113_16;Mofa;0;1;0;NULL;;;;;
+113_17;Motorroller;0;1;0;NULL;;;;;
+113_18;Leichtkraftrad;0;1;0;NULL;;;;;
+113_19;Kfz-Anhänger;0;1;0;NULL;;;;;
+113_20;Wohnwagen;0;1;0;NULL;;;;;
+113_21;Sattelauflieger;0;1;0;NULL;;;;;Sattelanhänger
+113_22;selbstfahrende Arbeitsmaschine;0;1;0;NULL;;;;;
+113_23;Bagger;0;1;0;NULL;;;;;
+113_24;Gabelstapler;0;1;0;NULL;;;;;
+113_26;Raupe;0;1;0;NULL;;;;;
+113_37;Wohnmobil;0;1;0;NULL;;;;;
+113_38;Traktor;0;1;0;NULL;;;;;
+113_49;Kleinkraftrad;0;1;0;NULL;;;;;
+113_50;Mähdrescher;0;1;0;NULL;;;;;
+113_51;Schaustellerwagen;0;1;0;NULL;;;;;
+113_57;VAN;0;1;0;NULL;;;;;
+113_60;Geländewagen;0;1;0;NULL;;;;;
+113_61;SUV;0;1;0;NULL;;;;;
+113_62;Quad;0;1;0;NULL;;;;;
+113_64;Kraftrad;0;1;0;NULL;;;;;
+113_65;Trike;0;1;0;NULL;;;;;
+113_67;Transporter;0;1;0;NULL;;;;;
+113_68;E-Bike;0;1;0;NULL;;;;;
+113_69;S-Pedelec;0;1;0;NULL;;;;;
+113_7;Personenkraftwagen;0;1;0;NULL;PKW;;;;
+113_70;Kran;0;1;0;NULL;;;;;
+113_71;Radlader;0;1;0;NULL;;;;;
+113_72;Walze;0;1;0;NULL;;;;;
+113_73;Sonderfahrzeug;0;1;0;NULL;;'Betrifft z. B. Krankenwagen, Polizeifahrzeug; Feuerwehrwagen. Begriffserläuterung notwendig.';;;
+113_74;Elektrokleinstfahrzeug;NULL;1;0;NULL;;;;;'E-Scooter; E-Tretroller; Segway'

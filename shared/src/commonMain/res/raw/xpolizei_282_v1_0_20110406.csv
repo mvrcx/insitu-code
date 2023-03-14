@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+282;Dachmarkengesellschaft für Kredit- und Debitkarten;Dachmarkengesellschaft für Kredit- und Debitkarten;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular;Zahlungskartenart
+282_1;American Express;0;1;0;NULL;;;;Kreditkarte
+282_10;VISA;0;1;0;NULL;;;;Kreditkarte
+282_2;Bankcard;0;1;0;NULL;;australische Kreditkarte bis Ende 2006;;Kreditkarte
+282_3;China UnionPay;0;1;0;NULL;;einzige in China und nur dort ausgegebene Kreditkarte;;Kreditkarte
+282_4;Diners Club;0;1;0;NULL;;;;Kreditkarte
+282_5;Discover Card;0;1;0;NULL;;nur in den USA ausgegebene Kreditkarte;;Kreditkarte
+282_6;Japan Credit Bureau (JCB);0;1;0;NULL;;nur in Japan ausgegebene Kreditkarte;;Kreditkarte
+282_7;Maestro;0;1;0;NULL;;;;Debitkarte
+282_8;MasterCard;0;1;0;NULL;;früher in Europa als Eurocard ausgegeben;;Kreditkarte
+282_9;Thomas Cook;0;1;0;NULL;;;;Kreditkarte

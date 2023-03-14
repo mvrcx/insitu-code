@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+302;Kategorisierung der Spreng- / Brandvorrichtung;Kategorisierung der Spreng- / Brandvorrichtung;ZIR;V1.0;20131025
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+302_1;Brandvorrichtung;0;1;0;NULL;;;
+302_2;Sprengvorrichtung;0;1;0;NULL;;;
+302_3;Spreng- und Brandvorrichtung;0;1;0;NULL;;;
+302_4;Pyrotechnischer Gegenstand;0;1;0;NULL;;;

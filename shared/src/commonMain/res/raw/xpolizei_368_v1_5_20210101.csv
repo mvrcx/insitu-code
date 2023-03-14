@@ -1,0 +1,135 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+368;PMK-Schlagwort;PMK-Schlagwort;ZIR;V1.5;20210101
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Tatmittel;Angriffsziel
+368_1;ABC-Stoff;0;1;0;NULL;;OTF "ABC-Kriminalität" als Themenfeld prüfen;2019-01-01;;;J;N
+368_10;soziales Netzwerk;0;1;0;NULL;;z. B. Facebook, Twitter, Instagram, YouTube;2019-01-01;;;J;N
+368_100;sonstige Religionsstätte;0;1;0;NULL;;'ohne UAZ "Kirche", UAZ "Moschee" und UAZ "Synagoge"; UTF "sonstige Religionen" als Themenfeld prüfen; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_101;Synagoge;0;1;0;NULL;;'UTF "antisemitisch" als Themenfeld prüfen; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_102;Amtsträger;0;1;0;NULL;;'z. B. Bürgermeister, BK, Gerichtsvollzieher, Minister, Ministerpräsident, Präsident der Europäischen Kommission, Regierungspräsident, Richter, Staatsanwalt, Vorsitzender des Europäischen Rates; auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OAZ "Person" nennen; die Vergabe mindestens eines der folgenden UAZ ist zwingend: UAZ "Bund", "Land", "Kommune", "Europa"; ohne OAZ "Polizei" und OAZ "Militär"; auch OTF "Konfrontation / politische Einstellung" als Themenfeld nennen; Parteizugehörigkeit in der Sachverhaltsdarstellung nennen';2019-01-01;;;N;J
+368_103;Bund;0;1;0;NULL;;'z. B. Jobcenter (hier auch UAZ "Kommune" nennen); nur in Kombination mit einem dem OAZ "Staat" zugeordneten UAZ nennen';2019-01-01;;;N;J
+368_104;Kommune;0;1;0;NULL;;'z. B. Jobcenter (hier auch UAZ "Bund" nennen); nur in Kombination mit einem dem OAZ "Staat" zugeordneten UAZ nennen';2019-01-01;;;N;J
+368_105;Land;0;1;0;NULL;;nur in Kombination mit einem dem OAZ "Staat" zugeordneten UAZ nennen;2019-01-01;;;N;J
+368_106;Mandatsträger;0;1;0;NULL;;'z. B. Abgeordnete, MdB, MdL, Stadträte, MdEP; auch nicht näher eingrenzbare Teile der Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OAZ "Person" nennen; die Vergabe mindestens eines der folgenden UAZ ist zwingend: UAZ "Bund", "Land", "Kommune", "Europa"; Parteizugehörigkeit in der Sachverhaltsdarstellung nennen und als UAZ "AfD", "Bündnis 90 / Die Grünen", "CDU", "CSU", "FDP", "Die Linke", "SPD" oder "sonstige Partei" prüfen; auch OTF "Konfrontation / politische Einstellung" als Themenfeld nennen';2019-01-01;;;N;J
+368_107;öffentliches Gebäude / öffentliche Einrichtung;0;1;0;NULL;;'auch zum Gebäude gehörender Briefkasten; die Vergabe mindestens eines der folgenden UAZ ist zwingend: UAZ "Bund", "Land", "Kommune", "Europa"';2019-01-01;;;N;J
+368_108;Symbol des Staates;0;1;0;NULL;;'z. B. Flaggen, Orden, Wappen; die Vergabe mindestens eines der folgenden UAZ ist zwingend: UAZ "Bund", "Land", "Kommune", "Europa"';2019-01-01;;;N;J
+368_109;Verfassungsorgan;0;1;0;NULL;;die Vergabe mindestens eines der folgenden UAZ ist zwingend: UAZ "Bund", "Land", "Kommune", "Europa";2019-01-01;;;N;J
+368_11;Telefon;0;1;0;NULL;;ohne UTM "Mobiltelefon";2019-01-01;;;J;N
+368_110;privates Gebäude / private Einrichtung;0;1;0;NULL;;'z. B. einer Burschenschaft; auch zum Gebäude gehörender Briefkasten';2019-01-01;;;N;J
+368_111;Tonträger;0;1;0;NULL;;z. B. MC, CD, LP;2019-01-01;;;J;N
+368_112;Video;0;1;0;NULL;;;2019-01-01;;;J;N
+368_113;US-Militär;0;1;0;NULL;;;2019-01-01;;;N;J
+368_115;Abzeichen / Anstecker / Schmuck;0;1;0;NULL;;;2019-01-01;;;J;N
+368_116;Ausweis / amtl. Dokument;0;1;0;NULL;;auch Fantasiedokumente (z. B. "Reichsbürger");2019-01-01;;;J;N
+368_117;Hakenkralle;0;1;0;NULL;;u-förmiger Doppelhaken, der in die Oberleitung von Bahnstrecken gehängt wird. Fährt eine E-Lok gegen diesen Haken, wird die Oberleitung heruntergerissen.;2019-01-01;;;J;N
+368_118;Krähenfuß;0;1;0;NULL;;auch unter den Fahrzeugreifen gelegte(r) Nagel / Schraube etc.;2019-01-01;;;J;N
+368_119;Tätowierung;0;1;0;NULL;;ohne UTM "Farbe / Markierungsgegenstand";2019-01-01;;;J;N
+368_12;Finanz- / Vermögenswert;0;1;0;NULL;;;2019-01-01;;;J;N
+368_120;Werkzeug;0;1;0;NULL;;ohne UTM "sonstige Waffe / gefährliches Werkzeug";2019-01-01;;;J;N
+368_121;Schlaggegenstand / -waffe;0;1;0;NULL;;'z. B. Baseballschläger, Fahnenstange, Latte, Quarzhandschuhe, Schlagring, Teleskopschlagstock; insbesondere UTM "sonstige Waffe / gefährliches Werkzeug" prüfen';2019-01-01;;;J;N
+368_122;AfD;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_123;Bündnis 90 / Die Grünen;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_124;CSU;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_125;CDU;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_126;Die Linke;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_127;SPD;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_128;FDP;0;1;0;NULL;;OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_129;sonstige Partei;0;1;0;NULL;;'auch Wählerveieinigung und Parteilose; ohne UAZ "AfD", "Bündnis 90 / Die Grünen", "CDU", "CSU", "FDP", "Die Linke" und "SPD"; OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen; namentliche Nennung erfolgt in der freitextlichen Sachverhaltsdarstellung';2019-01-01;;;N;J
+368_13;Bankguthaben;0;1;0;NULL;;;2019-01-01;;;J;N
+368_130;Europa;NULL;1;0;NULL;;nur in Kombination mit einem dem OAZ "Staat" zugeordneten UAZ nennen;2021-01-01;;;N;J
+368_14;Bargeld;0;1;0;NULL;;;2019-01-01;;;J;N
+368_15;Internetguthaben;0;1;0;NULL;;;2019-01-01;;;J;N
+368_16;Wertgegenstand;0;1;0;NULL;;;2019-01-01;;;J;N
+368_17;unbares Zahlungsmittel;0;1;0;NULL;;;2019-01-01;;;J;N
+368_18;sonstige Tatmittel;0;1;0;NULL;;;2019-01-01;;;J;N
+368_19;Aufkleber / Flugblatt / Plakat;0;1;0;NULL;;auch Fahnen, Transparente;2019-01-01;;;J;N
+368_2;Anscheinsstoff;0;1;0;NULL;;'z. B. Pulver in Briefsendungen; OTF "ABC-Kriminalität" als Themenfeld prüfen';2019-01-01;;;J;N
+368_20;Bekleidung;0;1;0;NULL;;z. B. Vermummung, Schutzbekleidung, Uniformierung;2019-01-01;;;J;N
+368_21;Chemikalie;0;1;0;NULL;;'z. B. Buttersäure; OTF "ABC-Kriminalität" als Themenfeld prüfen';2019-01-01;;;J;N
+368_22;Farbe / Markierungsgegenstand;0;1;0;NULL;;'jegliche selbsterstellte Zurschaustellung: Zeichnen, Ritzen, Ätzen, Einbrennen, in den Schnee treten, mit dem Finger in den Staub schreiben; UTM "Werkzeug" prüfen; ohne UTM "Tätowierung"';2019-01-01;;;J;N
+368_24;Publikation;0;1;0;NULL;;'jeder Vorgang des öffentlich zugänglich Machens von Informationen; UTM "Internet" prüfen';2019-01-01;;;J;N
+368_25;Schreiben / Brief;0;1;0;NULL;;'jede Nachricht, die an einen bestimmten Adressaten / Adressantenkreis gesendet wird, unabhängig von der Übermittlungsform (auch Fax); UTM "Direktnachricht Internet" und UTM "Internet" prüfen';2019-01-01;;;J;N
+368_26;Verkehrsmittel / Fahrzeug;0;1;0;NULL;;;2019-01-01;;;J;N
+368_27;Spreng- und Brandmittel;0;1;0;NULL;;;2019-01-01;;;J;N
+368_28;Brandlegungsmittel;0;1;0;NULL;;z. B. Grillanzünder, Benzin;2019-01-01;;;J;N
+368_29;Brief- / Paketbombe;0;1;0;NULL;;ohne UTM "unkonventionelle Spreng- und Brandvorrichtung";2019-01-01;;;J;N
+368_3;Informationstechnik;0;1;0;NULL;;;2019-01-01;;;J;N
+368_30;konventionelle Spreng- und Brandvorrichtung;0;1;0;NULL;;militärisch oder industriell;2019-01-01;;;J;N
+368_31;Pyrotechnik;0;1;0;NULL;;;2019-01-01;;;J;N
+368_32;Sprengattrappe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_33;unkonventionelle Spreng- und Brandvorrichtung;0;1;0;NULL;;'z. B. Molotowcocktail, Selbstlaborat; ohne UTM "Brief / Paketbombe"';2019-01-01;;;J;N
+368_34;Zünder;0;1;0;NULL;;militärisch oder industriell;2019-01-01;;;J;N
+368_35;Waffe / gefährliches Werkzeug;0;1;0;NULL;;;2019-01-01;;;J;N
+368_36;Dekowaffe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_37;Faustfeuerwaffe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_38;Gas-, Luft-, Schreckschusswaffe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_39;Hieb- und Stichwaffe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_4;Datenträger;0;1;0;NULL;;'auch USB-Stick, Speicherkarte, externe Festplatte, CD, DVD etc.; ohne UTM "Mobiltelefon" und UTM "PC" und UTM "Tonträger"';2019-01-01;;;J;N
+368_40;Kriegswaffe / wesentliches Teil;0;1;0;NULL;;;2019-01-01;;;J;N
+368_41;Langwaffe;0;1;0;NULL;;;2019-01-01;;;J;N
+368_42;Munition / Munitionsteil;0;1;0;NULL;;z. B. Tatmittel bei Drohbriefen (Versand von Patronen);2019-01-01;;;J;N
+368_43;Reizstoffsprühgerät;0;1;0;NULL;;z. B. Reizgas, Pfefferspray;2019-01-01;;;J;N
+368_44;Softair- / Paintballwaffe;0;1;0;NULL;;umgangssprachlich Gotchawaffe;2019-01-01;;;J;N
+368_45;sonstige Waffe / gefährliches Werkzeug;0;1;0;NULL;;z. B. Schraubendreher, Armbrust, Bogen, Steinschleuder (Zwille);2019-01-01;;;J;N
+368_46;Wurfgeschoss;0;1;0;NULL;;'jeder Gegenstand unabhängig von seiner eigentlichen Bestimmung, der geworfen werden und dadurch Verletzungen hervorrufen kann; z. B. Stein, Flasche, Farbbeutel (Farbbombe)';2019-01-01;;;J;N
+368_49;Asylunterkunft;0;1;0;NULL;;'Jede Art der Unterkunft als direktes Angriffsziel, d. h. zum Beispiel bestehende, im Bau befindliche sowie geplante Aufnahmeeinrichtungen, Gemeinschaftsunterkünfte und Wohnungen Asylbegehrender, Asylberechtigter und Personen mit Flüchtlingsschutz bzw. Angriffe auf genannte Personen innerhalb der Unterkunft. Auch OTF "Ausländer- / Asylthematik" als Themenfeld nennen; auch UTF "Unterbringung von Asylbewerbern" und UTF "fremdenfeindlich" als Themenfelder prüfen';2019-01-01;;;N;J
+368_5;Direktnachricht Internet;0;1;0;NULL;;'auch Kurznachrichten wie SMS, MMS, E-Mail etc.; z. B. Messenger Dienste wie WhatsApp, Threema';2019-01-01;;;J;N
+368_50;ausländische Einrichtung;0;1;0;NULL;;ohne OAZ "Militär" und OAZ "Handel / Wirtschaft";2019-01-01;;;N;J
+368_51;besonderes Gebäude / besondere Einrichtung;0;1;0;NULL;;ohne OAZ "ausländische Einrichtung", UAZ "diplomatische Vertretung", OAZ "Asylunterkunft", UAZ "Schule", UAZ "Hochschule", OAZ "Finanzinstitut", OAZ "Friedhof", OAZ "Gedenkstätte", UAZ "Militäreinrichtung", UAZ "Polizeieinrichtung", UAZ "Parteigebäude / Parteieinrichtung", UAZ "religiöse Einrichtung", UAZ "sonstige Religionsstätte", UAZ "Kirche", UAZ "Moschee", UAZ "Synagoge", UAZ "Verkehrseinrichtung", UAZ "Kraftwerk" und UAZ "öffentliches Gebäude / öffentliche Einrichtung;2019-01-01;;;N;J
+368_52;Bildung / Wissenschaft / Forschung;0;1;0;NULL;;UTF "Bildungspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_53;Finanzinstitut;0;1;0;NULL;;z. B. Bank, Versicherung;2019-01-01;;;N;J
+368_54;Friedhof;0;1;0;NULL;;;2019-01-01;;;N;J
+368_55;Gastronomie;0;1;0;NULL;;;2019-01-01;;;N;J
+368_56;Gedenkstätte;0;1;0;NULL;;'z. B. Denkmal, Mahnmal, Gedenktafel, "Stolpersteine"; ohne UAZ "Sehenswürdigkeit"';2019-01-01;;;N;J
+368_57;Handel / Wirtschaft;0;1;0;NULL;;z. B. Verkaufs-, Produktions- und Verwaltungsstätten;2019-01-01;;;N;J
+368_58;Hilfsorganisation;0;1;0;NULL;;'UAZ "Ehrenamtliche / freiwillige Helfer" prüfen; OTF "Ausländer- / Asylthematik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_59;Infrastruktur;0;1;0;NULL;;;2019-01-01;;;N;J
+368_6;Hassposting;0;1;0;NULL;;OTF "Hasskriminalität" und OTF "Konfrontation / politische Einstellung" bzw. entsprechende UTF als Themenfelder prüfen;2019-01-01;;;J;N
+368_60;Justiz;0;1;0;NULL;;'auch Gerichtsvollzieher; bei Angriff auf Person ist UAZ "Amtsträger" zu prüfen; UTF "Justiz" als Themenfeld prüfen';2019-01-01;;;N;J
+368_61;Medien;0;1;0;NULL;;UTF "gegen Medien" als Themenfeld prüfen;2019-01-01;;;N;J
+368_62;Militär;0;1;0;NULL;;UTF "Bundeswehr" als Themenfeld prüfen;2019-01-01;;;N;J
+368_63;Partei;0;1;0;NULL;;'auch strafrechtlich relevante Rufe, Texte, Farbschmierereien, durch die politische Positionen der jeweiligen Partei kritisiert werden; OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_64;Person;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Daffamierung erfolgte; auch OTF "Konfrontation / politische Einstellung" sowie nachgeordnete UTF und OTF "Hasskriminalität" sowie nachgeordenete UTF als Themenfelder prüfen';2019-01-01;;;N;J
+368_65;Polizei;0;1;0;NULL;;UTF "Polizei" als Themenfeld prüfen;2019-01-01;;;N;J
+368_66;Religionsgemeinschaft;0;1;0;NULL;;'folgende UTF als Themenfeld prüfen: UTF "antisemitisch", UTF "christenfeindlich", UTF "islamfeindlich" und UTF "sonstige Religionen"; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_67;Sicherheitsbehörde;0;1;0;NULL;;'ohne OAZ "Polizei"; UTF "Sicherheitsbehörde" als Themenfeld prüfen';2019-01-01;;;N;J
+368_68;sonstiges Fahrzeug;0;1;0;NULL;;'z. B. Sicherheitsunternehmen, Privat-Kfz; ohne UAZ "Militärfahrzeug", UAZ " Polizeifahrzeug" und UAZ "Verkehrsmittel"';2019-01-01;;;N;J
+368_69;Staat;0;1;0;NULL;;'Bundesrepublik Deutschland sowie Länder und Kommunen und die Europäische Union; UTF "gegen den Staat, seine Einrichtungen und Symbole" als Themenfeld prüfen';2019-01-01;;;N;J
+368_7;Internet;0;1;0;NULL;;alle Straftaten, die im / mittels Internet begangen wurden;2019-01-01;;;J;N
+368_70;Veranstaltung;0;1;0;NULL;;Zusammenhang mit demonstrativem Ereignis prüfen;2019-01-01;;;N;J
+368_71;diplomatische Vertretung;0;1;0;NULL;;z. B. Botschaft, Konsulat;2019-01-01;;;N;J
+368_72;Begegnungsstätte / Kulturverein;0;1;0;NULL;;z. B. Jugendclub, Teestuben;2019-01-01;;;N;J
+368_74;Sehenswürdigkeit;0;1;0;NULL;;ohne OAZ "Gedenkstätte";2019-01-01;;;N;J
+368_75;Szeneeinrichtung;0;1;0;NULL;;'z. B. längerfristig durch Linke besetztes Gebäude; auch Szenetreff';2019-01-01;;;N;J
+368_76;Hochschule;0;1;0;NULL;;'auch Universität; UTF "Bildungspolitik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_77;Schule;0;1;0;NULL;;UTF "Bildungspolitik" als Themenfeld prüfen;2019-01-01;;;N;J
+368_78;Datennetz / IT-System;0;1;0;NULL;;jegliche Art von Angriffen auf Computer, Daten (auch Datenveränderungen), Datennetze, Leitungen, Sende- / Empfangsmasten etc. OTF "Cybercrime" als Themenfeld prüfen;2019-01-01;;;N;J
+368_79;Kraftwerk;0;1;0;NULL;;;2019-01-01;;;N;J
+368_8;Mobiltelefon;0;1;0;NULL;;'z. B. Smartphone, Tablet; ohne UTM "Telefon"';2019-01-01;;;J;N
+368_80;Verkehrsbetrieb;0;1;0;NULL;;z. B. Bahn AG;2019-01-01;;;N;J
+368_81;Verkehrseinrichtung;0;1;0;NULL;;z. B. Bahnhof, BAB, Flughafen, Gleisanlage;2019-01-01;;;N;J
+368_82;Verkehrsmittel;0;1;0;NULL;;'z.B Güterverkehr, öffentlicher Personenverkehr; ohne OAZ "sonstiges Fahrzeug"';2019-01-01;;;N;J
+368_83;Militärangehöriger;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile der Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OAZ "Person" nennen; UTF "Bundeswehr" als Themenfeld prüfen';2019-01-01;;;N;J
+368_84;Militäreinrichtung;0;1;0;NULL;;UTF "Bundeswehr" als Themenfeld prüfen;2019-01-01;;;N;J
+368_85;Militärfahrzeug;0;1;0;NULL;;UTF "Bundeswehr" als Themenfeld prüfen;2019-01-01;;;N;J
+368_86;Parteigebäude / Parteieinrichtung;0;1;0;NULL;;'auch Büro, zum Gebäude gehörender Briefkasten; OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_87;Parteirepräsentant / Parteimitglied;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile der Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende Diffamierung erfolgte; auch OAZ "Person" nennen; OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_88;Wahlplakat;0;1;0;NULL;;'auch andere öffentliche Aushänge; OTF "Innen- und Sicherheitspolitik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_89;Abtrünniger / Aussteiger / Mitglied der eigenen Gruppe;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OTF "Konfrontation / politische Einstellung" als Themenfeld nennen';2019-01-01;;;N;J
+368_9;PC;0;1;0;NULL;;auch Notebook;2019-01-01;;;J;N
+368_90;Asylbewerber / Flüchtling;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; OAZ "Hilfsorganisation" prüfen; auch OTF "Ausländer- / Asylthematik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_91;ehrenamtlicher / freiwilliger Helfer;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; OAZ "Hilfsorganisation" prüfen; OTF "Ausländer- / Asylthematik" als Themenfeld prüfen';2019-01-01;;;N;J
+368_92;Polizeiangehöriger;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OAZ "Person" nennen; UTF "Polizei" als Themenfeld prüfen';2019-01-01;;;N;J
+368_93;Polizeieinrichtung;0;1;0;NULL;;UTF "Polizei" als Themenfeld prüfen;2019-01-01;;;N;J
+368_94;Polizeifahrzeug;0;1;0;NULL;;UTF "Polizei" als Themenfeld prüfen;2019-01-01;;;N;J
+368_95;Kirche;0;1;0;NULL;;'UTF "christenfeindlich" als Themenfeld prüfen; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_96;Moschee;0;1;0;NULL;;'UTF "islamfeindlich" als Themenfeld prüfen; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_97;religiöse Einrichtung;0;1;0;NULL;;'z. B. Krankenhaus / Schule mit religiöser Trägerschaft; ohne UAZ "Kirche", UAZ "Moschee", UAZ "Synagoge" und UAZ "sonstige Religionsstätte"; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_98;religiöser Repräsentant;0;1;0;NULL;;'auch nicht näher eingrenzbare Teile einer Personengruppe oder diese in Gänze, wenn eine Beleidigung bzw. volksverhetzende oder sonstige Diffamierung erfolgte; auch OAZ "Person" nennen; folgende UTF als Themenfeld prüfen: UTF "antisemitisch", UTF "christenfeindlich", UTF "islamfeindlich" und UTF "sonstige Religionen"; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J
+368_99;religiöses Symbol;0;1;0;NULL;;'z. B. Weg- / Gipfelkreuz; folgende UTF als Themenfeld prüfen: UTF "antisemitisch", UTF "christenfeindlich", UTF "islamfeindlich" und UTF "sonstige Religionen"; OTF "Konfrontation / politische Einstellung" als Themenfeld prüfen';2019-01-01;;;N;J

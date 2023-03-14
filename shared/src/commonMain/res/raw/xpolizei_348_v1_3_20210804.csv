@@ -1,0 +1,47 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+348;Art der Verkehrsbeteiligung (fahrzeugbezogen);Art der Verkehrsbeteiligung (fahrzeugbezogen);ZIR;V1.3;20210804
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel;Kategorie
+348_1;Kleinkraftrad mit Versicherungskennzeichen;0;1;0;NULL;Kleinkraftrad;2-rädrig (Moped, Mokick, Roller, Fahrzeugklasse L1e) mit einem Hubraum von nicht mehr als 50 cm³ und einer Höchstgeschwindigkeit bis 50 km/h;;;;01;Kraftfahrzeug - Kraftrad mit Versicherungskennzeichen
+348_10;Wohnmobil;0;1;0;NULL;;;;;;22;Kraftfahrzeug
+348_11;Kraftomnibus;0;1;0;NULL;;Kraftomnibus, a.n.g. mehr als 9 Sitzplätze einschl. Führersitz.;;;;31;Kraftfahrzeug - Busse
+348_12;Reisebus;0;1;0;NULL;;;;;;32;Kraftfahrzeug - Busse
+348_13;Linienbus;0;1;0;NULL;;;;;;33;Kraftfahrzeug - Busse
+348_14;Schulbus;0;1;0;NULL;;;;;;34;Kraftfahrzeug - Busse
+348_15;Oberleitungsbus;0;1;0;NULL;;;;2015-12-31;;35;Kraftfahrzeug - Busse
+348_16;Lastkraftwagen mit Normalaufbau, mit einem Gesamtgewicht bis einschließlich 3,5 t ohne Anhänger;0;1;0;NULL;;;;;;40;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_17;Lastkraftwagen mit Normalaufbau, mit einem Gesamtgewicht bis einschließlich 3,5 t mit Anhänger;0;1;0;NULL;;;;;;42;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_18;Lastkraftwagen mit Normalaufbau, mit einem Gesamtgewicht über 3,5 t ohne Anhänger;0;1;0;NULL;;;;;;44;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_19;Lastkraftwagen mit Normalaufbau, mit einem Gesamtgewicht über 3,5 t mit Anhänger;0;1;0;NULL;;;;;;46;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_2;Mofa 25;0;1;0;NULL;Mofa 25;Fahrrad mit Hilfsmotor (einschl. Leichtmofa) mit einem Hubraum von nicht mehr als 50 cm³ und einer Höchstgeschwindigkeit von nicht mehr als 25 km/h;;;;02;Kraftfahrzeug - Kraftrad mit Versicherungskennzeichen
+348_20;Lastkraftwagen mit Tankauflage ohne Anhänger;0;1;0;NULL;;;;;;43;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_21;Lastkraftwagen mit Tankauflage mit Anhänger;0;1;0;NULL;;;;;;48;Kraftfahrzeug - Lastkraftwagen - Güterkraftfahrzeuge
+348_22;Sattelzugmaschine mit und ohne Auflieger.;0;1;0;NULL;;;;;;51;Kraftfahrzeug - Güterkraftfahrzeuge
+348_23;Sattelzugmaschine mit Tankauflieger (Gefahrgut);0;1;0;NULL;;;;;;52;Kraftfahrzeug - Güterkraftfahrzeuge
+348_24;landwirtschaftliche Zugmaschine;0;1;0;NULL;;;;;;53;Kraftfahrzeug
+348_25;andere Zugmaschine;0;1;0;NULL;;;;;;54;Kraftfahrzeug - Güterkraftfahrzeuge
+348_26;Zugmaschine mit Tankwagen (Gefahrgut);0;1;0;NULL;;;;;;55;Kraftfahrzeug - Güterkraftfahrzeuge
+348_27;Tankkraftwagen (Gefahrgut);0;1;0;NULL;;Tankkraftwagen, Silofahrzeuge, Viehtransportwagen, Langmaterialfahrzeuge usw., das heißt alle Sonderkraftfahrzeuge zur Lastenbeförderung.;;;;57;Kraftfahrzeug - Güterkraftfahrzeuge
+348_28;Lastkraftwagen mit Spezialaufbau;0;1;0;NULL;;Tankkraftwagen, Silofahrzeuge, Viehtransportwagen, Langmaterialfahrzeuge usw., das heißt alle Sonderkraftfahrzeuge zur Lastenbeförderung.;;;;58;Kraftfahrzeug - Güterkraftfahrzeuge
+348_29;übriges Kraftfahrzeug;0;1;0;NULL;;Krankenkraftwagen, Feuerwehrfahrzeug, Straßenreinigungsfahrzeug, Müllwagen, Abschlepp-, Kranwagen, selbstfahrende Arbeitsmaschine, Bagger, Krankenfahrstuhl usw.;;;;59;Kraftfahrzeug
+348_3;E-Bike;0;1;0;NULL;E-Bike;Fahrrad mit Trethilfe und einem elektromotorischen Antrieb, mit dessen Unterstützung auch eine Fahrgeschwindigkeit zwischen 25 und 45 km/h erreicht werden kann.;;2017-12-31;;03;Kraftfahrzeug - Kraftrad mit Versicherungskennzeichen
+348_30;Straßenbahn;0;1;0;NULL;;;;;;61;
+348_31;Eisenbahn;0;1;0;NULL;;;;;;62;
+348_32;Fahrrad (ohne Elektroantrieb);0;1;0;NULL;Fahrrad;;;;;71;Fahrrad
+348_33;Pedelec;0;1;0;NULL;;;;;;72;Fahrrad
+348_34;S-Pedelec;0;1;0;NULL;;'Kleinkraftrad mit Trethilfe, dessen elektromotorischer Hilfsantrieb unterbrochen wird, wenn der Fahrer im Treten einhält und dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und unterbrochen wird, wenn die Fahrgeschwindigkeit 45 km/h erreicht. Antrieb mit Gasgriff bis 20 km/h ohne Treten erlaubt; Nutzleistung oder Nenndauerleistung max. 0,5 kW. Fahrzeugklasse L1e–B.';2018-01-01;;;03;Kraftfahrzeug - Kraftrad mit Versicherungskennzeichen
+348_35;Elektrokleinstfahrzeuge mit Lenk- / Haltestange, die der Elektrokleinstfahrzeuge-Verordnung entsprechen;NULL;1;0;NULL;;;2020-01-01;;;05;Kraftfahrzeug – Kraftrad - Elektrokleinstfahrzeuge
+348_36;Elektrokleinstfahrzeuge mit Lenk- / Haltestange, die nicht der Elektrokleinstfahrzeuge-Verordnung entsprechen;NULL;1;0;NULL;;;2020-01-01;;;06;Kraftfahrzeug – Kraftrad - Elektrokleinstfahrzeuge
+348_37;Elektrokleinstfahrzeuge ohne Lenk- / Haltestange;NULL;1;0;NULL;;;2020-01-01;;;08;Kraftfahrzeug – Kraftrad - Elektrokleinstfahrzeuge
+348_38;Motorrad;NULL;1;0;NULL;;Motorrad mit einem Hubraum über 125 cm³ oder einer Nennleistung von mehr als 11 kW (Fahrzeugklasse L3e, L4e);;;;11;Kraftfahrzeug - Kraftrad mit amtlichem Kennzeichen
+348_39;Motorroller;NULL;1;0;NULL;;Motorroller mit einem Hubraum über 125 cm³ oder einer Nennleistung von mehr als 11 kW (Fahrzeugklasse L3e, L4e);;;;15;Kraftfahrzeug - Kraftrad mit amtlichem Kennzeichen
+348_4;drei- und leichtes vierrädriges Kraftfahrzeug (Fahrzeugklasse L2e. L6e);0;1;0;NULL;;3-rädrig (Fahrzeugklasse L2e) 4-rädrig unter 350 kg Leermasse, bis 45 km/h und bis 50 cm³ (L6e);;;;04;Kraftfahrzeug - Kraftrad mit Versicherungskennzeichen
+348_6;Leichtkraftrad;0;1;0;NULL;Leichtkraftrad;Motorrad/-roller, (Fahrzeugklasse L3e und L4e jeweils mit Aufbauart B) über 50 bis 125 cm³ Hubraum und einer Nennleistung von nicht mehr als 11 kW.;;;;12;Kraftfahrzeug - Kraftrad mit amtlichem Kennzeichen
+348_7;drei- und leichtes vierrädriges Kraftfahrzeug (Fahrzeugklasse L5e, L7e);0;1;0;NULL;;3-rädrig (über 50 cm³ und/oder über 45 km/h, Klasse L5e) 4-rädrig zur Personenbeförderung (bis 400 kg Leermasse und bis 15 kW, Klasse L7e) 4-rädrig zur Güterbeförderung (bis 550 kg Leermasse und bis 15 kW, Klasse L7e);;;;13;Kraftfahrzeug - Kraftrad mit amtlichem Kennzeichen
+348_9;Personenkraftwagen;0;1;0;NULL;PKW;Personenkraftwagen mit höchstens 9 Sitzplätzen (einschl. Führersitz).;;;;21;Kraftfahrzeug

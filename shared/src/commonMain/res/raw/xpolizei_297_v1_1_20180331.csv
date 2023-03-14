@@ -1,0 +1,83 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+297;Art des Waffensystems;Art des Waffensystems;ZIR;V1.1;20180331
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+297_1;Abfeuerungseinrichtung für Lenkflugkörper;0;1;0;NULL;;;;;
+297_10;tragbarer Raketenwerfer;0;1;0;NULL;;;;;
+297_11;Waffensystem Landstreitkräfte;0;1;0;NULL;;;;;
+297_12;Haubitze;0;1;0;NULL;;;;;
+297_13;Haubitzteil;0;1;0;NULL;;;;;
+297_14;Haubitzrohr;0;1;0;NULL;;;;;
+297_15;Haubitzverschluss;0;1;0;NULL;;;;;
+297_16;Kampffahrzeug;0;1;0;NULL;;;;;
+297_17;gepanzertes Kampf- / Kampfunterstützungsfahrzeug;0;1;0;NULL;;;;;
+297_18;gepanzerte Selbstfahrlafette für Kanone / Haubitze / Mörser / Maschinenkanone;0;1;0;NULL;;;;;
+297_19;Kampffahrzeugteil;0;1;0;NULL;;;;;
+297_2;stationäre oder lafettengebundene Abfeuerungseinrichtung für Lenkflugkörper zur Panzer- / oder Fliegerabwehr;0;1;0;NULL;;;;;
+297_20;Kampffahrzeugfahrgestell;0;1;0;NULL;;;;;
+297_21;Kampfpanzer;0;1;0;NULL;;;;;
+297_22;Kampfpanzerteil;0;1;0;NULL;;;;;
+297_23;Kampfpanzerturm;0;1;0;NULL;;;;;
+297_24;Spezialfahrzeug für den Einsatz von ABC-Kampfmitteln;0;1;0;NULL;;;;;
+297_25;Kanone;0;1;0;NULL;;;;;
+297_26;Kanonenteil;0;1;0;NULL;;;;;
+297_27;Kanonenrohr;0;1;0;NULL;;;;;
+297_28;Kanonenverschluss;0;1;0;NULL;;;;;
+297_29;Maschinenkanone;0;1;0;NULL;;;;;
+297_3;tragbare Abfeuerungseinrichtung für Lenkflugkörper zur Panzer- / oder Fliegerabwehr;0;1;0;NULL;;;;;
+297_30;Maschinenkanonenteil oder -ergänzungsteil;0;1;0;NULL;;;;;
+297_31;Maschinenkanonenrohr;0;1;0;NULL;;;;;
+297_32;Maschinenkanonentrommel;0;1;0;NULL;;;;;
+297_33;Maschinenkanonenverschluss;0;1;0;NULL;;;;;
+297_34;Minenlege- / Minenwurfsystem für Landminen;0;1;0;NULL;;;;;
+297_35;Mörser;0;1;0;NULL;;;;;
+297_36;Mörserteil;0;1;0;NULL;;;;;
+297_37;Mörserrohr;0;1;0;NULL;;;;;
+297_38;Mörserverschluss;0;1;0;NULL;;;;;
+297_39;rückstoßfreies Geschütz;0;1;0;NULL;;;;;
+297_4;Fliegerfaust;0;1;0;NULL;;;;;
+297_40;Waffensystem Luftstreitkräfte;0;1;0;NULL;;;;;
+297_41;Kampfflugzeug (mit Merkmalen lt. Kriegswaffenliste Teil B I.13);0;1;0;NULL;;;;;
+297_42;Kampfflugzeugteil;0;1;0;NULL;;;;;
+297_43;Kampfflugzeugtriebwerk;0;1;0;NULL;;;;;
+297_44;Kampfflugzeug-Propellerturbinentriebwerk;0;1;0;NULL;;;;;
+297_45;Kampfflugzeug-Raketentriebwerk;0;1;0;NULL;;;;;
+297_46;Kampfflugzeug-Strahltriebwerk;0;1;0;NULL;;;;;
+297_47;Kampfflugzeugzelle;0;1;0;NULL;;;;;
+297_48;Kampfhubschrauber (mit Merkmalen lt. Kriegswaffenliste Teil B I.14);0;1;0;NULL;;;;;
+297_49;Kampfhubschrauberteil;0;1;0;NULL;;;;;
+297_5;Abfeuerungseinrichtung für ungelenkte Flugkörper;0;1;0;NULL;;;;;
+297_50;Kampfhubschrauberzelle;0;1;0;NULL;;;;;
+297_51;Waffensystem Seestreitkräfte;0;1;0;NULL;;;;;
+297_52;Kriegsschiff (einschl. Kriegsschiff für Ausbildungszwecke);0;1;0;NULL;;;;;
+297_53;Kriegsschiffsteil;0;1;0;NULL;;;;;
+297_54;Kriegsschiffsrumpf;0;1;0;NULL;;;;;
+297_55;Landungsschiff;0;1;0;NULL;;;;;
+297_56;Munitionstransportschiff;0;1;0;NULL;;;;;
+297_57;Tender;0;1;0;NULL;;;;;
+297_58;Marine-Spezialboot;0;1;0;NULL;;;;;
+297_59;Landungsboot;0;1;0;NULL;;;;;
+297_6;stationäre oder lafettengebundene Abfeuerungseinrichtung für ungelenkte Flugkörper;0;1;0;NULL;;;;;
+297_60;Marine-Spezialbootsteil;0;1;0;NULL;;;;;
+297_61;Marine-Spezialbootsrumpf;0;1;0;NULL;;;;;
+297_62;Minenkampfboot;0;1;0;NULL;;;;;
+297_63;Minenjagdboot;0;1;0;NULL;;;;;
+297_64;Minenleger;0;1;0;NULL;;;;;
+297_65;Minenräumboot;0;1;0;NULL;;;;;
+297_66;Sperrbrecher;0;1;0;NULL;;;;;
+297_67;Schnellboot;0;1;0;NULL;;;;;
+297_68;Unterseeboot;0;1;0;NULL;;;;;
+297_69;zukünftiges Waffensystem;0;1;0;NULL;;;;;
+297_7;Raketenwerfer;0;1;0;NULL;;;;;
+297_70;akustische Waffe;0;1;0;NULL;;;;;
+297_71;Mikrowellenwaffe;0;1;0;NULL;;;;;
+297_72;Laserwaffe;0;1;0;NULL;;;;;
+297_73;Blendwaffe;0;1;0;NULL;;;;;
+297_8;tragbare Abfeuerungseinrichtung für ungelenkte Flugkörper;0;1;0;NULL;;;;;
+297_9;Panzerfaust;0;1;0;NULL;;;;;

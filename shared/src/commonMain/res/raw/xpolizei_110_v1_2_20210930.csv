@@ -1,0 +1,17 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+110;Art des Kommunikationsanschlusses;Art des Kommunikationsanschlusses;ZIR;V1.2;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+110_1;E-Mail-Postfach;0;1;0;NULL;;;;;
+110_2;Telefon;0;1;0;NULL;;Klassischer Telefonanschluss, der kein Mobilfunkanschluss ist.;;;
+110_3;Mobilfunk;0;1;0;NULL;;;;;
+110_4;internetbasierter TK-Dienst;0;1;0;NULL;;Instant-Messaging oder vergleichbarer Dienst (z. B. Skype);;;
+110_5;DSL;0;1;0;NULL;;Digital Subscriber Line (z. B. ADSL, VDSL etc.). Hier ist kein Telefonanschluss gemeint.;;;
+110_6;VoIP;0;1;0;NULL;;Voice over IP (z. B. SIP - Session Initiation Protocol). Hier ist kein Telefonanschluss gemeint.;;;
+110_7;Fax;0;1;0;NULL;;;;;

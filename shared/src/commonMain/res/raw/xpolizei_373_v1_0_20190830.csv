@@ -1,0 +1,32 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+373;szenetypische / auffällige Bekleidung;szenetypische / auffällige Bekleidung;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+373_1;Arbeitsbekleidung;0;1;0;NULL;;;;;
+373_10;Militär;0;1;0;NULL;;;;;
+373_11;Motorradfahrer;0;1;0;NULL;;;;;
+373_12;öko / alternativ;0;1;0;NULL;;;;;
+373_13;Punk;0;1;0;NULL;;;;;
+373_14;Raver;0;1;0;NULL;;;;;
+373_15;rechtsorientiert;0;1;0;NULL;;;;;
+373_16;retro;0;1;0;NULL;;;;;
+373_17;Rocker;0;1;0;NULL;;;;;
+373_18;Seemann / Segler;0;1;0;NULL;;;;;
+373_19;Skater;0;1;0;NULL;;;;;
+373_2;Fußball;0;1;0;NULL;;;;;
+373_20;Skinhead;0;1;0;NULL;;;;;
+373_21;Sportverein;0;1;0;NULL;;;;;
+373_22;ungepflegt;0;1;0;NULL;;;;;
+373_3;geschlechtsfremd androgyn;0;1;0;NULL;;;;;
+373_4;geschlechtsfremd feminin;0;1;0;NULL;;;;;
+373_5;geschlechtsfremd maskulin;0;1;0;NULL;;;;;
+373_6;Gewänder / Trachten / Kostüme;0;1;0;NULL;;;;;
+373_7;Gothic;0;1;0;NULL;;;;;
+373_8;Hipster;0;1;0;NULL;;;;;
+373_9;linksorientiert;0;1;0;NULL;;;;;

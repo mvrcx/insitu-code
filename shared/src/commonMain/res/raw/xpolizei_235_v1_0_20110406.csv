@@ -1,0 +1,13 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+235;Priorität;Priorität;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+235_1;hoch;0;1;0;NULL;;;
+235_2;mittel;0;1;0;NULL;;;
+235_3;niedrig;0;1;0;NULL;;;

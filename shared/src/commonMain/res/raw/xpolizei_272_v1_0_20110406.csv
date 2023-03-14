@@ -1,0 +1,40 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+272;europäische Straftatenkategorie;europäische Straftatenkategorie;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+272_1;Beteiligung an einer kriminellen Vereinigung;0;1;0;NULL;;;
+272_10;Betrug;0;1;0;NULL;;;
+272_11;Erpressung und Schutzgelderpressung;0;1;0;NULL;;;
+272_12;Nachahmung und Produktpiraterie;0;1;0;NULL;;;
+272_13;Fälschung von Zahlungsmitteln;0;1;0;NULL;;;
+272_14;Illegaler Handel mit Hormonen und anderen Wachstumsförderern;0;1;0;NULL;;;
+272_15;Wäsche von Erträgen aus Straftaten;0;1;0;NULL;;;
+272_16;Geldfälschung;0;1;0;NULL;;;
+272_17;Cyberkriminalität;0;1;0;NULL;;;
+272_18;Umweltkriminalität, einschließlich illegalen Handels mit bedrohten Pflanzen- und Baumarten;0;1;0;NULL;;;
+272_19;Beihilfe zur illegalen Einreise und zum illegalen Aufenthalt;0;1;0;NULL;;;
+272_2;Terrorismus;0;1;0;NULL;;;
+272_20;Vorsätzliche Tötung, schwere Körperverletzung;0;1;0;NULL;;;
+272_21;Illegaler Handel mit Organen und menschlichem Gewebe;0;1;0;NULL;;;
+272_22;Entführung, Freiheitsberaubung und Geiselnahme;0;1;0;NULL;;;
+272_23;Rassismus und Fremdenfeindlichkeit;0;1;0;NULL;;;
+272_24;Illegaler Handel mit nuklearen und radioaktiven Substanzen;0;1;0;NULL;;;
+272_25;Handel mit gestohlenen Kfz;0;1;0;NULL;;;
+272_26;Vergewaltigung;0;1;0;NULL;;;
+272_27;Brandstiftung;0;1;0;NULL;;;
+272_28;Verbrechen, die in die Zuständigkeit des Internationalen Strafgerichtshofs fallen;0;1;0;NULL;;;
+272_29;Flugzeug-/Schiffsentführung;0;1;0;NULL;;;
+272_3;Menschenhandel;0;1;0;NULL;;;
+272_30;Sabotage;0;1;0;NULL;;;
+272_4;Sexuelle Ausbeutung von Kindern und Kinderpornografie;0;1;0;NULL;;;
+272_5;Illegaler Handel mit Drogen und psychotropen Stoffen;0;1;0;NULL;;;
+272_6;Illegaler Handel mit Waffen, Munition und Sprengstoffen;0;1;0;NULL;;;
+272_7;Korruption;0;1;0;NULL;;;
+272_8;Diebstahl in organisierter Form oder mit Waffen;0;1;0;NULL;;;
+272_9;Illegaler Handel mit Kulturgütern, einschließlich Antiquitäten und Kunstgegenständen;0;1;0;NULL;;;

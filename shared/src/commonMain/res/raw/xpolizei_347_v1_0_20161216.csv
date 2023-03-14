@@ -1,0 +1,17 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+347;Art der Verkehrsbeteiligung (personenbezogen);Art der Verkehrsbeteiligung (personenbezogen);ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel;Kategorie
+347_1;Fußgänger (ohne 84);0;1;0;NULL;;Hierzu zählen auch Fußgänger mit Hunden oder Kinderwagen, Fahrräder schiebende Personen sowie Kinder in Kinderwagen, spielende Kinder. Nicht als Fußgänger zu zählende Unfallbeteiligte siehe Schlüssel Nr. 93;;;;81;Fußgänger
+347_2;Handwagen, Handkarren;0;1;0;NULL;;;;;;82;
+347_3;Tierführer, Tiertreiber;0;1;0;NULL;;die selbst oder deren Tiere in einen Unfall verwickelt sind;;;;83;
+347_4;Fußgänger mit Sport- und Spielgerät;0;1;0;NULL;;Inline-Skater, Kickboarder, Skateboarder, Rollschuhfahrer, Skiläufer, Kinderdreiräder usw.;;;;84;Fußgänger
+347_5;Fuhrwerk, Tiergespann;0;1;0;NULL;;;;;;91;
+347_6;Sonstiges und unbekanntes Fahrzeug;0;1;0;NULL;;Hierzu zählen alle übrigen Fahrzeuge, auch solche mit eigenem Antrieb, aber o h n e amtliches Kennzeichen. Eine Zuordnung zu dieser Position erfolgt ferner, wenn bei einem Unfall die genaue Art des Fahrzeuges wegen Unfallflucht nicht festgestellt werden kann.;;;;92;
+347_7;Andere Person;0;1;0;NULL;;Zu Fuß Gehende, die durch ihr besonderes Verhalten bzw. verkehrsrechtliche Vorschriften sich vom normalen Fußgänger unterscheiden, wie z.B.: Straßenarbeiter, Polizeibeamte bei der Verkehrsregelung oder Unfallaufnahme, Marschkolonnen, Lastenträger. Außerdem sind hier Reiter aufzuführen sowie solche Personen, die - ohne Straßenbenutzer gewesen zu sein – unmittelbar unfallbeteiligt waren. Personen, die mit dem Fahrzeug noch in direkter Verbindung stehen, wie z.B. der entladende Fahrer eines Lastkraftwagens, der sein Fahrzeug schiebende Fahrzeugführer -Fahrräder ausgenommen-, sind nicht als "Fußgänger" oder "Andere Personen" nachzuweisen. In solchen Fällen ist das Fahrzeug (Fahrzeugführer) Unfallbeteiligter.;;;;93;

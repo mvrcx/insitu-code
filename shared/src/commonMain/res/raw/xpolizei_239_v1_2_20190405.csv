@@ -1,0 +1,26 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+239;Aufbau des Kraftfahrzeugs;Aufbau des Kraftfahrzeugs;ZIR;V1.2;20190405
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+239_1;Cabriolet;0;1;0;NULL;;;;;Kabrio-Limousine
+239_10;Coupé;0;1;0;NULL;;;;;
+239_11;Mehrzweckfahrzeug;0;1;0;NULL;;z. B.: VW Caddy, Skoda Roomster, VW T5, MB Sprinter;;;
+239_12;Pkw-Pick-up;0;1;0;NULL;;;;;
+239_13;beschussgeschützt;0;1;0;NULL;;;;;
+239_14;Kipper;0;1;0;NULL;;;;;
+239_15;Tankfahrzeug;0;1;0;NULL;;;;;
+239_16;Wechselaufbau;0;1;0;NULL;;;;;
+239_17;Kranwagen;0;1;0;NULL;;;;;
+239_2;Kasten;0;1;0;NULL;;;;;
+239_4;Limousine;0;1;0;NULL;;;;;
+239_5;offen;0;1;0;NULL;;;;;
+239_6;Planenverdeck;0;1;0;NULL;;;;;
+239_7;Spezialaufbau;0;1;0;NULL;;;;;
+239_8;Schräghecklimousine;0;1;0;NULL;;;;;
+239_9;Kombilimousine;0;1;0;NULL;;;;;

@@ -1,0 +1,98 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+351;Art der Ordnungswidrigkeit;Art der Ordnungswidrigkeit;ZIR;V1.1;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+351_1;Absatzfondsgesetz;0;1;0;NULL;AFOG;;;2011-02-31;
+351_10;Auslandsinvestmentgesetz;0;1;0;NULL;AuslInvest;;;2003-12-31;
+351_11;Außenwirtschaftsgesetz;0;1;0;NULL;AWG;;;;
+351_12;Berlinförderungsgesetz;0;1;0;NULL;BerlinFG;;;;
+351_13;Berufskraftfahrer-Qualifikations-Gesetz;0;1;0;NULL;BKrFQG;;;;
+351_14;Betäubungsmittelgesetz;0;1;0;NULL;BtMG;;;;
+351_15;Binnenschifffahrtsaufgabengesetz;0;1;0;NULL;BinSchAufgG;;;2010-02-28;
+351_16;Blindenwarenvertriebsgesetz;0;1;0;NULL;BliWaG;;;;
+351_17;BO-Kraft;0;1;0;NULL;BO-Kraft;;;;
+351_18;Branntweinmonopolgesetz;0;1;0;NULL;BranntwMonG;;;2017-12-31;
+351_19;Bundesfernstraßengesetz;0;1;0;NULL;FStrG;;;;
+351_2;Abzahlungsgeschäftsgesetz;0;1;0;NULL;ABZG;;;1990-02-17;
+351_20;Bundesjagdgesetz;0;1;0;NULL;BJagdG;;;;
+351_21;Bundesleistungsgesetz;0;1;0;NULL;BLG;;;;
+351_22;Bundesstatistikgesetz;0;1;0;NULL;BStatG;;;;
+351_23;Chemikaliengesetz;0;1;0;NULL;ChemG;;;;
+351_24;Eisenbahnbau- und Betriebsordnung;0;1;0;NULL;EBO;;;;
+351_25;Fahrerlaubnisverordnung;0;1;0;NULL;FeV;;;;
+351_26;Fahrpersonalgesetz;0;1;0;NULL;FPersG;;;;
+351_27;FerienreiseVO;0;1;0;NULL;FerReiseV;;;;
+351_28;Gaststättengesetz;0;1;0;NULL;GastG;;;;
+351_29;Gesetz über die Beförderung gefährlicher Güter;0;1;0;NULL;GefahrgutG;;;;
+351_3;Aktiengesetz;0;1;0;NULL;AktienG;;;;
+351_31;Gesetz zur Ordnung des Wasserhaushalts;0;1;0;NULL;WHG;;;;
+351_32;Gewerbeordnung;0;1;0;NULL;GewO;;;;
+351_33;Giftverordnung;0;1;0;NULL;GiftVO;;;1986-09-30;
+351_34;Güterkraftverkehrsgesetz;0;1;0;NULL;GüKG;;;;
+351_35;Handelsklassengesetz;0;1;0;NULL;HKlG;;;;
+351_36;Handwerksordnung;0;1;0;NULL;HWO;;;;
+351_37;Heilpraktikergesetz;0;1;0;NULL;HeilprG;;;;
+351_38;Hundeverbringungs- und -einfuhrbeschränkungsgesetz;0;1;0;NULL;HundVerbrEinfG;;;;
+351_39;Hypothekenbankgesetz;0;1;0;NULL;HBG;;;2005-07-19;
+351_4;Apothekenwesengesetz;0;1;0;NULL;APG;;;;
+351_40;Infektionsschutzgesetz;0;1;0;NULL;IfSG;;;;
+351_41;Jugendarbeitsschutzgesetz;0;1;0;NULL;JArbSchG;;;;
+351_42;Jugendschutzgesetz;0;1;0;NULL;JuSchG;;;;
+351_43;Gesetz gegen Wettbewerbsbeschränkungen;0;1;0;NULL;GWB;;;;Kartellgesetz
+351_44;Kreditwesengesetz;0;1;0;NULL;KWG;;;;
+351_45;Ladenschlussgesetz;0;1;0;NULL;LadSchlG;;;;
+351_46;Lebensmittel-, Bedarfsgegenstände- und Futtermittelgesetzbuch;0;1;0;NULL;LFGB;;;;
+351_47;Luftsicherheitsgesetz;0;1;0;NULL;LuftSiG;;;;
+351_48;Luftverkehrsgesetz;0;1;0;NULL;LuftVG;;;;
+351_49;Milch und Fettgesetz;0;1;0;NULL;MilchFettG;;;;
+351_5;Arbeitnehmerüberlassungsgesetz;0;1;0;NULL;AÜG;;;;
+351_50;Mobilitätshilfenverordnung;0;1;0;NULL;MobHV;;;;
+351_51;Ordnungswidrigkeitengesetz;0;1;0;NULL;OWiG;;;;
+351_52;Passgesetz;0;1;0;NULL;PassG;;;;
+351_53;Personalausweisgesetz;0;1;0;NULL;PAuswG;;;;
+351_54;Personenbeförderungsgesetz;0;1;0;NULL;PersBefG;;;;
+351_55;Rabattgesetz;0;1;0;NULL;RabG;;;2001-07-25;
+351_56;Handelsgesetzbuch;0;1;0;NULL;HGB;;;;
+351_57;Sozialgesetzbuch;0;1;0;NULL;SGB;;;;
+351_58;Sprengstoffgesetz;0;1;0;NULL;SprengG;;;;
+351_59;Staatsvertrag über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien;0;1;0;NULL;JMStV;;;;
+351_6;Arbeitszeitgesetz;0;1;0;NULL;ArbzG;;;;
+351_60;Straßenverkehrsgesetz;0;1;0;NULL;StVG;;;;
+351_61;Straßenverkehrsordnung;0;1;0;NULL;StVO;;;;
+351_62;Straßenverkehrszulassungsordnung;0;1;0;NULL;StVZO;;;;
+351_63;Tiergesundheitsgesetz;0;1;0;NULL;TierGesG;;;;
+351_64;Tierische Nebenprodukte-Beseitigungsgesetz;0;1;0;NULL;TierNebG;;;;
+351_65;Tierschutzgesetz;0;1;0;NULL;TierSchG;;;;
+351_66;Vereinsgesetz;0;1;0;NULL;VereinsG;;;;
+351_67;Verordnung über den internationalen Kraftfahrzeugverkehr;0;1;0;NULL;VOInt;;;2008-10-29;
+351_68;Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern;0;1;0;NULL;GGVSEB;;;;
+351_69;Versammlungsgesetz;0;1;0;NULL;VersammlG;;;;
+351_7;Arzneimittelgesetz;0;1;0;NULL;AMG;;;;
+351_70;Versicherungsaufsichtsgesetz;0;1;0;NULL;VersAufsG;;;;
+351_71;Waffengesetz;0;1;0;NULL;WaffG;;;;
+351_72;Weingesetz;0;1;0;NULL;WeinG;;;;
+351_73;Weinwirtschaftsgesetz;0;1;0;NULL;WeinWiG;;;1994-08-31;
+351_74;Wirtschaftsprüferordnung;0;1;0;NULL;WiPrO;;;;
+351_75;Zahlungsdiensteaufsichtsgesetz;0;1;0;NULL;ZAG;;;;
+351_76;Zivildienstgesetz;0;1;0;NULL;ZDG;;;;
+351_77;Zollgesetz;0;1;0;NULL;ZollG;;;1992-12-31;
+351_78;Zugabeverordnung;0;1;0;NULL;ZugabeVO;;;2001-07-25;
+351_79;Abfallverbringungsgesetz;NULL;1;0;NULL;AbfVerbrG;;;;
+351_8;Asylgesetz;0;1;0;NULL;AsylG;;;;
+351_80;Abgabenordnung;NULL;1;0;NULL;AO;;;;
+351_81;Bundesdatenschutzgesetz;NULL;1;0;NULL;BDSG;;;;
+351_82;Bundesimmissionsschutzgesetz;NULL;1;0;NULL;BImSchG;;;;
+351_83;Bundesmeldegesetz;NULL;1;0;NULL;BMG;;;;
+351_84;Bundesnaturschutzgesetz;NULL;1;0;NULL;BNatSchG;;;;
+351_85;Fahrzeug-Zulassungsverordnung;NULL;1;0;NULL;FZV;;;;
+351_86;Freizügigkeitsgesetz / EU;NULL;1;0;NULL;FreizügigG/EU;;;;
+351_87;Kraftfahrzeugsteuergesetz;NULL;1;0;NULL;KraftStG;;;;
+351_88;Schwarzarbeitsbekämpfungsgesetz;NULL;1;0;NULL;SchwarzArbG;;;;
+351_89;Telemediengesetz;NULL;1;0;NULL;TMG;;;;
+351_9;Aufenthaltsgesetz;0;1;0;NULL;AufenthG;;;;

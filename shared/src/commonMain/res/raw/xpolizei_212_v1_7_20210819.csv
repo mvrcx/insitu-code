@@ -1,0 +1,28 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+212;Art der beteiligten Stelle;Art der beteiligten Stelle;ZIR;V1.7;20210819
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+212_1;Ausländerbehörde;0;1;0;NULL;;;;;
+212_10;Finanzbehörde;0;1;0;NULL;;;;;
+212_11;Justizbehörde;0;1;0;NULL;;;;;
+212_12;Justizvollzugsanstalt;0;1;0;NULL;JVA;;;;
+212_13;Ordnungsbehörde;0;1;0;NULL;;;;;
+212_14;Auslandsvertretung;0;1;0;NULL;;;;;
+212_15;Verwaltungsbehörde;0;1;0;NULL;;;;;
+212_16;in behördlichem Auftrag handelnde Dritte;0;1;0;NULL;;anlassbezogen für hoheitliche Stellen tätig (z. B. Abschleppdienst oder Arzt);;;
+212_17;Verpflichteter;0;1;0;NULL;;dauerhaft für hoheitliche Stellen tätig (z. B. Bank bei Geldwäscheverdachtsmeldungen oder Provider bei ITÜ);;;
+212_18;Innenministerium;NULL;1;0;NULL;;;;;
+212_2;Gericht;0;1;0;NULL;;;;;
+212_3;Zulassungsstelle;0;1;0;NULL;;z. B. Bundesanstalt für Materialforschung und –prüfung (BAM), Physikalisch-Technische Bundesanstalt (PTB);;;
+212_4;Meldebehörde;0;1;0;NULL;;;;;
+212_5;Militär;0;1;0;NULL;;;;;
+212_6;Nachrichtendienst;0;1;0;NULL;;;;;
+212_7;Polizei;0;1;0;NULL;;;;;
+212_8;Staatsanwaltschaft;0;1;0;NULL;;;;;
+212_9;Zoll;0;1;0;NULL;;;;;

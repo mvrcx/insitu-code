@@ -1,0 +1,186 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+286;IMO-Mitgliedsstaat;IMO-Mitgliedsstaat;ZIR;V1.3;20190513
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Mitglied_seit;ISO_3166
+286_1;Albanien;0;1;0;NULL;;;;;;1993;AL
+286_10;Bahrain;0;1;0;NULL;;;;;;1976;BH
+286_100;Marokko;0;1;0;NULL;;;;;;1962;MA
+286_101;Mosambik;0;1;0;NULL;;;;;;1979;MZ
+286_102;Myanmar;0;1;0;NULL;;;;;;1951;MM
+286_103;Namibia;0;1;0;NULL;;;;;;1994;NA
+286_104;Nepal;0;1;0;NULL;;;;;;1979;NP
+286_105;Niederlande;0;1;0;NULL;;;;;;1949;NL
+286_106;Neuseeland;0;1;0;NULL;;;;;;1960;NZ
+286_107;Nicaragua;0;1;0;NULL;;;;;;1982;NI
+286_108;Nigeria;0;1;0;NULL;;;;;;1962;NG
+286_109;Norwegen;0;1;0;NULL;;;;;;1958;NO
+286_11;Bangladesch;0;1;0;NULL;;;;;;1976;BD
+286_110;Oman;0;1;0;NULL;;;;;;1974;OM
+286_111;Pakistan;0;1;0;NULL;;;;;;1958;PK
+286_112;Panama;0;1;0;NULL;;;;;;1958;PA
+286_113;Papua-Neuguinea;0;1;0;NULL;;;;;;1976;PG
+286_114;Paraguay;0;1;0;NULL;;;;;;1993;PY
+286_115;Peru;0;1;0;NULL;;;;;;1968;PE
+286_116;Philippinen;0;1;0;NULL;;;;;;1964;PH
+286_117;Polen;0;1;0;NULL;;;;;;1960;PL
+286_118;Portugal;0;1;0;NULL;;;;;;1976;PT
+286_119;Katar;0;1;0;NULL;;;;;;1977;QA
+286_12;Barbados;0;1;0;NULL;;;;;;1970;BB
+286_120;Korea, Republik;0;1;0;NULL;;;;;;1962;KR
+286_121;Moldau, Republik;0;1;0;NULL;;;;;;2001;MD
+286_122;Rumänien;0;1;0;NULL;;;;;;1965;RO
+286_123;Russische Föderation;0;1;0;NULL;;;;;;1958;RU
+286_124;St. Kitts und Nevis;0;1;0;NULL;;;;;;2001;KN
+286_125;St. Lucia;0;1;0;NULL;;;;;;1980;LC
+286_126;St. Vincent und die Grenadinen;0;1;0;NULL;;;;;;1981;VC
+286_127;Samoa;0;1;0;NULL;;;;;;1996;WS
+286_128;San Marino;0;1;0;NULL;;;;;;2002;SM
+286_129;Sao Tome und Principe;0;1;0;NULL;;;;;;1990;ST
+286_13;Belgien;0;1;0;NULL;;;;;;1951;BE
+286_130;Saudi-Arabien;0;1;0;NULL;;;;;;1969;SA
+286_131;Senegal;0;1;0;NULL;;;;;;1960;SN
+286_132;Serbien;0;1;0;NULL;;;;;;2000;RS
+286_133;Seychellen;0;1;0;NULL;;;;;;1978;SC
+286_134;Sierra Leone;0;1;0;NULL;;;;;;1973;SL
+286_135;Singapur;0;1;0;NULL;;;;;;1966;SG
+286_136;Slowakei;0;1;0;NULL;;;;;;1993;SK
+286_137;Slowenien;0;1;0;NULL;;;;;;1993;SI
+286_138;Salomonen;0;1;0;NULL;;;;;;1988;SB
+286_139;Somalia;0;1;0;NULL;;;;;;1978;SO
+286_14;Belize;0;1;0;NULL;;;;;;1990;BZ
+286_140;Südafrika;0;1;0;NULL;;;;;;1995;ZA
+286_141;Spanien;0;1;0;NULL;;;;;;1962;ES
+286_142;Sri Lanka;0;1;0;NULL;;;;;;1972;LK
+286_143;Sudan;0;1;0;NULL;;;;;;1974;SD
+286_144;Suriname;0;1;0;NULL;;;;;;1976;SR
+286_145;Schweden;0;1;0;NULL;;;;;;1959;SE
+286_146;Schweiz;0;1;0;NULL;;;;;;1955;CH
+286_147;Syrien, Arabische Republik;0;1;0;NULL;;;;;;1963;SY
+286_148;Thailand;0;1;0;NULL;;;;;;1973;TH
+286_149;Nordmazedonien;0;1;0;NULL;;;;;;1993;MK
+286_15;Benin;0;1;0;NULL;;;;;;1980;BJ
+286_150;Timor-Leste;0;1;0;NULL;;;;;;2005;TL
+286_151;Togo;0;1;0;NULL;;;;;;1983;TG
+286_152;Tonga;0;1;0;NULL;;;;;;2000;TO
+286_153;Trinidad und Tobago;0;1;0;NULL;;;;;;1965;TT
+286_154;Tunesien;0;1;0;NULL;;;;;;1963;TN
+286_155;Türkei;0;1;0;NULL;;;;;;1958;TR
+286_156;Turkmenistan;0;1;0;NULL;;;;;;1993;TM
+286_157;Tuvalu;0;1;0;NULL;;;;;;2004;TV
+286_158;Uganda;0;1;0;NULL;;;;;;2009;UG
+286_159;Ukraine;0;1;0;NULL;;;;;;1994;UA
+286_16;Bolivien, Plurinationaler Staat;0;1;0;NULL;;;;;;1987;BO
+286_160;Vereinigte Arabische Emirate;0;1;0;NULL;;;;;;1980;AE
+286_161;Vereinigtes Königreich;0;1;0;NULL;;;;;;1949;GB
+286_162;Tansania, Vereinigte Republik;0;1;0;NULL;;;;;;1974;TZ
+286_163;Vereinigte Staaten;0;1;0;NULL;;;;;;1950;US
+286_164;Uruguay;0;1;0;NULL;;;;;;1968;UY
+286_165;Vanuatu;0;1;0;NULL;;;;;;1986;VU
+286_166;Venezuela;0;1;0;NULL;;;;;;1975;VE
+286_167;Vietnam;0;1;0;NULL;;;;;;1984;VN
+286_168;Jemen;0;1;0;NULL;;;;;;1979;YE
+286_169;Simbabwe;0;1;0;NULL;;;;;;2005;ZW
+286_17;Bosnien und Herzegowina;0;1;0;NULL;;;;;;1993;BA
+286_170;Hongkong;0;1;0;NULL;;;;;;1967;HK
+286_171;Macau;0;1;0;NULL;;;;;;1990;MO
+286_172;Färöer;0;1;0;NULL;;;;;;2002;FO
+286_173;Armenien;0;1;0;NULL;;;;;;2018;AM
+286_174;Belarus;0;1;0;NULL;;;;;;2016;BY
+286_175;Palau;0;1;0;NULL;;;;;;2011;PW
+286_176;Sambia;0;1;0;NULL;;;;;;2014;ZM
+286_18;Brasilien;0;1;0;NULL;;;;;;1963;BR
+286_19;Brunei Darussalam;0;1;0;NULL;;;;;;1984;BN
+286_2;Algerien;0;1;0;NULL;;;;;;1963;DZ
+286_20;Bulgarien;0;1;0;NULL;;;;;;1960;BG
+286_21;Kambodscha;0;1;0;NULL;;;;;;1961;KH
+286_22;Kamerun;0;1;0;NULL;;;;;;1961;CM
+286_23;Kanada;0;1;0;NULL;;;;;;1948;CA
+286_24;Cabo Verde;0;1;0;NULL;;;;;Kap Verde;1976;CV
+286_25;Chile;0;1;0;NULL;;;;;;1972;CL
+286_26;China;0;1;0;NULL;;;;;;1973;CN
+286_27;Kolumbien;0;1;0;NULL;;;;;;1974;CO
+286_28;Komoren;0;1;0;NULL;;;;;;2001;KM
+286_29;Kongo;0;1;0;NULL;;;;;;1975;CG
+286_3;Angola;0;1;0;NULL;;;;;;1977;AO
+286_30;Cookinseln;0;1;0;NULL;;;;;;2008;CK
+286_31;Costa Rica;0;1;0;NULL;;;;;;1981;CR
+286_32;'Cote d''Ivoire';0;1;0;NULL;;;;;;1960;CI
+286_33;Kroatien;0;1;0;NULL;;;;;;1992;HR
+286_34;Kuba;0;1;0;NULL;;;;;;1966;CU
+286_35;Zypern;0;1;0;NULL;;;;;;1973;CY
+286_36;Tschechische Republik;0;1;0;NULL;;;;;;1993;CZ
+286_37;Korea, Demokratische Volksrepublik;0;1;0;NULL;;;;;;1986;KP
+286_38;Kongo, Demokratische Republik;0;1;0;NULL;;;;;;1973;CD
+286_39;Dänemark;0;1;0;NULL;;;;;;1959;DK
+286_4;Antigua und Barbuda;0;1;0;NULL;;;;;;1986;AG
+286_40;Dschibuti;0;1;0;NULL;;;;;;1979;DJ
+286_41;Dominica;0;1;0;NULL;;;;;;1979;DM
+286_42;Dominikanische Republik;0;1;0;NULL;;;;;;1953;DO
+286_43;Ecuador;0;1;0;NULL;;;;;;1956;EC
+286_44;Ägypten;0;1;0;NULL;;;;;;1958;EG
+286_45;El Salvador;0;1;0;NULL;;;;;;1981;SV
+286_46;Äquatorialguinea;0;1;0;NULL;;;;;;1972;GQ
+286_47;Eritrea;0;1;0;NULL;;;;;;1993;ER
+286_48;Estland;0;1;0;NULL;;;;;;1992;EE
+286_49;Äthiopien;0;1;0;NULL;;;;;;1975;ET
+286_5;Argentinien;0;1;0;NULL;;;;;;1953;AR
+286_50;Fidschi;0;1;0;NULL;;;;;;1983;FJ
+286_51;Finnland;0;1;0;NULL;;;;;;1959;FI
+286_52;Frankreich;0;1;0;NULL;;;;;;1952;FR
+286_53;Gabun;0;1;0;NULL;;;;;;1976;GA
+286_54;Gambia;0;1;0;NULL;;;;;;1979;GM
+286_55;Georgien;0;1;0;NULL;;;;;;1993;GE
+286_56;Deutschland;0;1;0;NULL;;;;;;1959;DE
+286_57;Ghana;0;1;0;NULL;;;;;;1959;GH
+286_58;Griechenland;0;1;0;NULL;;;;;;1958;GR
+286_59;Grenada;0;1;0;NULL;;;;;;1998;GD
+286_6;Australien;0;1;0;NULL;;;;;;1952;AU
+286_60;Guatemala;0;1;0;NULL;;;;;;1983;GT
+286_61;Guinea;0;1;0;NULL;;;;;;1975;GN
+286_62;Guinea-Bissau;0;1;0;NULL;;;;;;1977;GW
+286_63;Guyana;0;1;0;NULL;;;;;;1980;GY
+286_64;Haiti;0;1;0;NULL;;;;;;1953;HT
+286_65;Honduras;0;1;0;NULL;;;;;;1954;HN
+286_66;Ungarn;0;1;0;NULL;;;;;;1970;HU
+286_67;Island;0;1;0;NULL;;;;;;1960;IS
+286_68;Indien;0;1;0;NULL;;;;;;1959;IN
+286_69;Indonesien;0;1;0;NULL;;;;;;1961;ID
+286_7;Österreich;0;1;0;NULL;;;;;;1975;AT
+286_70;Iran, Islamische Republik;0;1;0;NULL;;;;;;1958;IR
+286_71;Irak;0;1;0;NULL;;;;;;1973;IQ
+286_72;Irland;0;1;0;NULL;;;;;;1951;IE
+286_73;Israel;0;1;0;NULL;;;;;;1952;IL
+286_74;Italien;0;1;0;NULL;;;;;;1957;IT
+286_75;Jamaika;0;1;0;NULL;;;;;;1976;JM
+286_76;Japan;0;1;0;NULL;;;;;;1958;JP
+286_77;Jordanien;0;1;0;NULL;;;;;;1973;JO
+286_78;Kasachstan;0;1;0;NULL;;;;;;1994;KZ
+286_79;Kenia;0;1;0;NULL;;;;;;1973;KE
+286_8;Aserbaidschan;0;1;0;NULL;;;;;;1995;AZ
+286_80;Kiribati;0;1;0;NULL;;;;;;2003;KI
+286_81;Kuwait;0;1;0;NULL;;;;;;1960;KW
+286_82;Lettland;0;1;0;NULL;;;;;;1993;LV
+286_83;Libanon;0;1;0;NULL;;;;;;1966;LB
+286_84;Liberia;0;1;0;NULL;;;;;;1959;LR
+286_85;Libyen;0;1;0;NULL;;;;;;1970;LY
+286_86;Litauen;0;1;0;NULL;;;;;;1995;LT
+286_87;Luxemburg;0;1;0;NULL;;;;;;1991;LU
+286_88;Madagaskar;0;1;0;NULL;;;;;;1961;MG
+286_89;Malawi;0;1;0;NULL;;;;;;1989;MW
+286_9;Bahamas;0;1;0;NULL;;;;;;1976;BS
+286_90;Malaysia;0;1;0;NULL;;;;;;1971;MY
+286_91;Malediven;0;1;0;NULL;;;;;;1967;MV
+286_92;Malta;0;1;0;NULL;;;;;;1966;MT
+286_93;Marshallinseln;0;1;0;NULL;;;;;;1998;MH
+286_94;Mauretanien;0;1;0;NULL;;;;;;1961;MR
+286_95;Mauritius;0;1;0;NULL;;;;;;1978;MU
+286_96;Mexiko;0;1;0;NULL;;;;;;1954;MX
+286_97;Monaco;0;1;0;NULL;;;;;;1989;MC
+286_98;Mongolei;0;1;0;NULL;;;;;;1996;MN
+286_99;Montenegro;0;1;0;NULL;;;;;;2006;ME

@@ -1,0 +1,22 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+378;Haarfarbe;Haarfarbe;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+378_1;blond;0;1;0;NULL;;;;;
+378_10;schwarz;0;1;0;NULL;;;;;
+378_11;Strähnchen;0;1;0;NULL;;;;;
+378_12;weiß;0;1;0;NULL;;;;;
+378_2;braun;0;1;0;NULL;;;;;
+378_3;bunt;0;1;0;NULL;;;;;
+378_4;gefärbt;0;1;0;NULL;;;;;
+378_5;grau;0;1;0;NULL;;;;;
+378_6;graumeliert;0;1;0;NULL;;;;;
+378_7;hellblond;0;1;0;NULL;;;;;
+378_8;rot;0;1;0;NULL;;;;;
+378_9;rotblond;0;1;0;NULL;;;;;

@@ -1,0 +1,26 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+377;Frisur;Frisur;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+377_1;Afro;0;1;0;NULL;;;;;
+377_10;Rasta;0;1;0;NULL;;;;;
+377_11;Schläfenlocken;0;1;0;NULL;;;;;
+377_12;Stiftenkopf / Igelfrisur;0;1;0;NULL;;;;;
+377_13;Undercut;0;1;0;NULL;;;;;
+377_14;vorgekämmt;0;1;0;NULL;;;;;
+377_15;Zöpfe / Pferdeschwanz;0;1;0;NULL;;;;;
+377_16;zurückgekämmt;0;1;0;NULL;;;;;
+377_2;Bubikopf;0;1;0;NULL;;;;;
+377_3;Gelfrisur;0;1;0;NULL;;;;;
+377_4;gescheitelt;0;1;0;NULL;;;;;
+377_5;Hochsteckfrisur;0;1;0;NULL;;;;;
+377_6;Koteletten;0;1;0;NULL;;;;;
+377_7;Mittelscheitel;0;1;0;NULL;;;;;
+377_8;Perücke / Toupet;0;1;0;NULL;;;;;
+377_9;Punker / Irokese;0;1;0;NULL;;;;;

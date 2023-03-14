@@ -1,0 +1,13 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+413;Fankategorie;Fankategorie;ZIR;V1.0;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+413_1;A;NULL;1;0;NULL;;sportorientierter Fan;no risk
+413_2;B;NULL;1;0;NULL;;gewaltbereiter / -geneigter Fan;risk
+413_3;C;NULL;1;0;NULL;;gewaltsuchender Fan;risk

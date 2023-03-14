@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+283;Art der Fälschung bei Zahlungskarten;Art der Fälschung bei Zahlungskarten;ZIR;V1.1;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+283_1;Totalfälschung;0;1;0;NULL;;;
+283_2;Verfälschung;0;1;0;NULL;;;
+283_3;White Plastic;0;1;0;NULL;;;
+283_4;unbekannt;0;1;0;NULL;;;

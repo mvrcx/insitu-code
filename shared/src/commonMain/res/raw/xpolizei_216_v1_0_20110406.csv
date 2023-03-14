@@ -1,0 +1,12 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+216;Art des Schusswaffengebrauchs;Art des Schusswaffengebrauchs;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+216_1;gedroht;0;1;0;NULL;;;
+216_2;geschossen;0;1;0;NULL;;;

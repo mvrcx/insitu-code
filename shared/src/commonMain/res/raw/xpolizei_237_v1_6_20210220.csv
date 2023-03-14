@@ -1,0 +1,92 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+237;Rechtsgrundlage gem. StPO;Rechtsgrundlage gem. StPO;ZIR;V1.6;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Kategorie
+237_1;§ 58 Abs. 2;0;1;0;NULL;;Gegenüberstellung;;;;4
+237_10;§ 98a;0;1;0;NULL;;Rasterfahndung;;;;4
+237_11;§ 99;0;1;0;NULL;;Postbeschlagnahme;;;;4
+237_12;§ 100a (bis 24.05.2018);0;1;0;NULL;;Telekommunikationsüberwachung;;2018-05-24;;2
+237_13;§ 100c;0;1;0;NULL;;Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes innerhalb von Wohnungen (großer Lauschangriff);;;;1
+237_14;§ 100f;0;1;0;NULL;;Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes außerhalb von Wohnungen (kleiner Lauschangriff);;;;2
+237_15;§ 100g (bis 24.05.2018);0;1;0;NULL;;Verkehrsdatenerhebung;;2018-05-24;;1
+237_16;§ 100h (bis 24.05.2018);0;1;0;NULL;;Einsatz technischer Mittel, Bildaufnahmen;;2018-05-24;;3
+237_17;§ 100i;0;1;0;NULL;;'IMSI / IMEI-Catcher; stille SMS';;;;3
+237_18;§ 102;0;1;0;NULL;;Durchsuchung beim Verdächtigen;;;;4
+237_19;§ 103;0;1;0;NULL;;Durchsuchung bei anderen Personen;;;;4
+237_2;§ 81a;0;1;0;NULL;;körperliche Untersuchung;;;;4
+237_20;§ 108;0;1;0;NULL;;Beschlagnahme von Zufallsfunden;;;;4
+237_21;§ 110a;0;1;0;NULL;;VE-Einsatz;;;;3
+237_22;§ 111;0;1;0;NULL;;Kontrollstelle;;;;4
+237_23;§ 111b (bis 30.06.2017);0;1;0;NULL;;Sicherstellung (vollstreckungssichernde Beschlagnahme / Rückgewinnungshilfe);;2017-06-30;;4
+237_24;§ 112;0;1;0;NULL;;Untersuchungshaft;;;;4
+237_25;§ 127 Abs. 1;0;1;0;NULL;;(vorläufige) Festnahme (Jedermanns-Recht);;;;4
+237_26;§ 127 Abs. 2;0;1;0;NULL;;(vorläufige) Festnahme;;;;4
+237_27;§ 131;0;1;0;NULL;;Ausschreibung zur Festnahme;;;;4
+237_28;§ 131a;0;1;0;NULL;;Öffentlichkeitsfahndung / Ausschreibung zur Aufenthaltsermittlung;;;;4
+237_29;§ 163 i.V.m. § 161;0;1;0;NULL;;Generalklausel (z. B. VP-Einsatz, etc.);;;;4
+237_3;§ 81b 1. Alt.;0;1;0;NULL;;erkennungsdienstliche Behandlung zur Durchführung des Strafverfahrens;;;;4
+237_30;§ 163a i. V. m. § 136;0;1;0;NULL;;Beschuldigtenvernehmung;;;;4
+237_31;§ 163 Abs. 3;0;1;0;NULL;;Zeugenvernehmung;;;;4
+237_32;§ 163b;0;1;0;NULL;;Identitätsfeststellung;;;;4
+237_33;§ 163d;0;1;0;NULL;;Schleppnetzfahndung;;;;4
+237_34;§ 163e;0;1;0;NULL;;Ausschreibung zur Beobachtung bei polizeilichen Kontrollen;;;;4
+237_35;§ 163f;0;1;0;NULL;;längerfristige Observation;;;;3
+237_36;§ 164;0;1;0;NULL;;Festnahme von Störern;;;;4
+237_37;§ 100j (bis 24.05.2018);0;1;0;NULL;;Bestandsdatenauskunft;;2018-05-24;;4
+237_38;§ 110;0;1;0;NULL;;Durchsicht von Papieren und elektronischen Speichermedien;;;;4
+237_39;§ 119;0;1;0;NULL;;Haftgrundbezogene Beschränkungen während der Untersuchungshaft;;;;4
+237_4;§ 81b 2. Alt.;0;1;0;NULL;;erkennungsdienstliche Behandlung zum Zwecke des Erkennungsdienstes;;;;4
+237_40;§ 111c (bis 30.06.2018);0;1;0;NULL;;Sicherstellung durch Beschlagnahme;;2018-06-30;;4
+237_41;§ 111d (bis 30.06.2018);0;1;0;NULL;;Sicherstellung durch dinglichen Arrest;;2018-06-30;;4
+237_42;§ 153;0;1;0;NULL;;Absehen von der Verfolgung bei Geringfügigkeit;;;;4
+237_43;§ 153a;0;1;0;NULL;;Absehen von der Verfolgung unter Auflagen und Weisungen;;;;4
+237_44;§ 153b;0;1;0;NULL;;Absehen von der Verfolgung bei möglichem Absehen von Strafe;;;;4
+237_45;§ 153c;0;1;0;NULL;;Absehen von der Verfolgung bei Auslandstaten;;;;4
+237_46;§ 153d;0;1;0;NULL;;Absehen von der Verfolgung bei Staatsschutzdelikten wegen überwiegender öffentlicher Interessen;;;;4
+237_47;§ 153e;0;1;0;NULL;;Absehen von der Verfolgung bei Staatsschutzdelikten wegen tätiger Reue;;;;4
+237_48;§ 153f;0;1;0;NULL;;Absehen von der Verfolgung bei Straftaten nach dem VStGB;;;;4
+237_49;§ 154;0;1;0;NULL;;Teileinstellung bei mehreren Taten;;;;4
+237_5;§ 81c;0;1;0;NULL;;Untersuchung anderer Personen;;;;4
+237_50;§ 154a;0;1;0;NULL;;Beschränkung der Verfolgung;;;;4
+237_51;§ 154b;0;1;0;NULL;;Absehen von der Verfolgung bei Auslieferung und Ausweisung;;;;4
+237_52;§ 154c;0;1;0;NULL;;Absehen von der Verfolgung des Opfers einer Nötigung oder Erpressung;;;;4
+237_53;§ 154d;0;1;0;NULL;;Verfolgung bei zivil- oder verwaltungsrechtlicher Vorfrage;;;;4
+237_54;§ 154e;0;1;0;NULL;;Absehen von der Verfolgung bei falscher Verdächtigung oder Beleidigung;;;;4
+237_55;§ 154f;0;1;0;NULL;;Einstellung des Verfahrens bei vorübergehenden Hindernissen;;;;4
+237_56;§ 170;0;1;0;NULL;;Entscheidung über eine Anklageerhebung;;;;4
+237_57;§ 260 i. V. m § 267 Abs. 1 und §§ 268 ff;0;1;0;NULL;;Verurteilung;;;;4
+237_58;§ 264 i. V. m § 267 Abs. 5;0;1;0;NULL;;Freispruch;;;;4
+237_59;§ 81h;0;1;0;NULL;;DNA-Reihenuntersuchung;;;;3
+237_6;§ 81e;0;1;0;NULL;;molekulargenetische Untersuchungen;;;;4
+237_60;§ 88;0;1;0;NULL;;Identifizierung des Verstorbenen vor Leichenöffnung;;;;4
+237_61;§ 111b;0;1;0;NULL;;Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung;2017-07-01;;;4
+237_62;§ 132;0;1;0;NULL;;Sicherheitsleistung, Zustellungsbevollmächtigter;;;;4
+237_63;§ 134;0;1;0;NULL;;Vorführung;;;;4
+237_64;§ 457;0;1;0;NULL;;Ermittlungshandlungen, Vorführungsbefehl, Vollstreckungshaftbefehl;;;;4
+237_65;§ 100b;0;1;0;NULL;;Online-Durchsuchung;;;;1
+237_66;§ 100a Abs.1 S.1, Abs. 2;0;1;0;NULL;;Telekommunikationsüberwachung;2018-05-25;;;2
+237_67;§ 100a Abs.1 S.2, Abs. 2;0;1;0;NULL;;Quellen-TKÜ;2018-05-25;;;2
+237_68;§ 100g Abs.1;0;1;0;NULL;;Verkehrsdatenerhebung nach § 96 I TKG;2018-05-25;;;3
+237_69;§ 100g Abs.2;0;1;0;NULL;;Verkehrsdatenerhebung nach § 113b TKG;2018-05-25;;;1
+237_7;§ 81g;0;1;0;NULL;;DNA-Analyse zum Zwecke der Identitätsfeststellung in künftigen Strafverfahren;;;;3
+237_70;§ 100h Abs.1 S.1 Nr.2;0;1;0;NULL;;sonstige für Observation bestimmte technische Mittel außerhalb von Wohnungen;;;;3
+237_71;§ 100j Abs. 1;0;1;0;NULL;;Bestandsdatenauskunft §§ 95, 111 TKG;2018-05-25;;;4
+237_72;§ 100j Abs. 1 und 2;0;1;0;NULL;;Bestandsdatenauskunft § 113 Abs. 1 S. 3 TKG;2018-05-25;;;4
+237_73;§ 111c;0;1;0;NULL;;Vollziehung der Beschlagnahme;;;;4
+237_74;§ 111d;0;1;0;NULL;;Wirkung der Vollziehung der Beschlagnahme;;;;4
+237_75;§ 111e;0;1;0;NULL;;Vermögensarrest zur Sicherung der Wertersatzeinziehung;;;;4
+237_76;§ 131b Abs. 1;0;1;0;NULL;;Veröffentlichung von Abbildungen des Beschuldigten;;;;4
+237_77;§ 131b Abs. 2;0;1;0;NULL;;Veröffentlichung von Abbildungen des Zeugen;;;;4
+237_78;§ 260 Abs. 3;0;1;0;NULL;;Einstellung durch Urteil bei Verfahrenshindernis;;;;4
+237_79;§ 443;0;1;0;NULL;;Vermögensbeschlagnahme;;;;4
+237_8;§ 94 Abs. 1;0;1;0;NULL;;einfache Sicherstellung;;;;4
+237_80;§ 98c;0;1;0;NULL;;maschineller Abgleich mit vorhandenen Daten;;;;4
+237_81;§ 100h Abs.1 S.1 Nr.1;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen - Bildaufnahmen;2018-05-25;;;4
+237_82;§ 459g;NULL;1;0;NULL;;Vollstreckung von Nebenfolgen;;;;
+237_9;§ 94 Abs. 2;0;1;0;NULL;;Beschlagnahme;;;;4

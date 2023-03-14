@@ -1,0 +1,18 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+399;Himmelsrichtung;Himmelsrichtung;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+399_1;Nord;0;1;0;NULL;N;;;;N
+399_2;Nordost;0;1;0;NULL;NO;;;;NE
+399_3;Ost;0;1;0;NULL;O;;;;E
+399_4;Südost;0;1;0;NULL;SO;;;;SE
+399_5;Süd;0;1;0;NULL;S;;;;S
+399_6;Südwest;0;1;0;NULL;SW;;;;SW
+399_7;West;0;1;0;NULL;W;;;;W
+399_8;Nordwest;0;1;0;NULL;NW;;;;NW

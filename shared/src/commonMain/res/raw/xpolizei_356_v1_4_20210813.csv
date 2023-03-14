@@ -1,0 +1,1019 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+356;Rechtsgrundlage gem. Polizeigesetz;Rechtsgrundlage gem. Polizeigesetz;ZIR;V1.4;20210813
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Kategorie
+356_1;BKAG;0;1;0;NULL;;Bundeskriminalamtgesetz;;;;1
+356_10;§ 42 Abs. 2 BKAG;0;1;0;NULL;;Prüfung von Berechtigungsscheinen, Bescheinigungen, Nachweisen oder sonstigen Urkunden;;;;4
+356_100;§ 34 PolG BW (gültig bis 31.12.2020);0;1;0;NULL;;Einziehung;;2020-12-31;;
+356_1000;§ 23 Abs. 1 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch Telekommunikationsüberwachung;2019-12-24;;;
+356_1001;§ 23 Abs. 2 PolDVG;NULL;1;0;NULL;;Eingriff in die Telekommunikation;2019-12-24;;;
+356_1002;§ 23 SächsPolG;NULL;1;0;NULL;;Durchsuchung von Personen;;2019-12-31;;4
+356_1003;§ 24 SächsPolG;NULL;1;0;NULL;;Durchsuchung von Sachen;;2019-12-31;;4
+356_1004;§ 25 Abs. 2 PolDVG;NULL;1;0;NULL;;Nutzungsdatenverarbeitung (Zielsuchlauf);2019-12-24;;;
+356_1005;§ 25 Abs. 3 PolDVG;NULL;1;0;NULL;;Einsatz besonderer technischer Mittel zur Datenerhebung;2019-12-24;;;
+356_1006;§ 25 SächsPolG;NULL;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;2019-12-31;;4
+356_1007;§ 25 SächsPVDG;NULL;1;0;NULL;;Datenerhebung durch den Einsatz technischer Mittel in polizeilichem Gewahrsam;2020-01-01;;;2
+356_1008;§ 26 SächsPolG;NULL;1;0;NULL;;Sicherstellung;;2019-12-31;;4
+356_1009;§ 26 SächsPVDG;NULL;1;0;NULL;;Beendigung der Freiheitsentziehung;2020-01-01;;;4
+356_101;§ 35 PolG BW (gültig bis 31.12.2020);0;1;0;NULL;;Vernehmung;;2020-12-31;;
+356_1010;§ 27 Abs. 1-3 SächsPVDG;NULL;1;0;NULL;;Durchsuchung und Untersuchung von Personen;2020-01-01;;;4
+356_1011;§ 27 Abs. 4 SächsPVDG;NULL;1;0;NULL;;Durchsuchung und Untersuchung von Personen (körperliche Untersuchung);2020-01-01;;;2
+356_1012;§ 27 SächsPolG;NULL;1;0;NULL;;Beschlagnahme;;2019-12-31;;4
+356_1013;§ 28 SächsPVDG;NULL;1;0;NULL;;Durchsuchung von Sachen;2020-01-01;;;4
+356_1014;§ 29 (ausg. Abs. 2) SächsPVDG;NULL;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;2020-01-01;;;4
+356_1015;§ 29 Abs. 2 SächsPVDG;NULL;1;0;NULL;;Betreten und Durchsuchung von Wohnungen (Gebäude und Gebäudegruppen);2020-01-01;;;2
+356_1016;§ 31 SächsPVDG;NULL;1;0;NULL;;Sicherstellung;2020-01-01;;;4
+356_1017;§ 32 SächsPVDG;NULL;1;0;NULL;;Verwahrung;2020-01-01;;;4
+356_1018;§ 33 SächsPVDG;NULL;1;0;NULL;;Verwertung, Unbrauchbarmachung und Vernichtung;2020-01-01;;;4
+356_1019;§ 34 SächsPVDG;NULL;1;0;NULL;;Herausgabe sichergestellter Sachen oder des Erlöses, Kosten;2020-01-01;;;4
+356_102;§ 36 PolG BW;0;1;0;NULL;;erkennungsdienstliche Maßnahme;;2020-12-31;;
+356_1020;§ 35 SächsPVDG;NULL;1;0;NULL;;Zurückbehaltungsbefugnis, Ermächtigung Dritter zum Empfang von Zahlungen;2020-01-01;;;4
+356_1021;§ 36 SächsPolG;NULL;1;0;NULL;;Grundregeln der Erhebung von Daten;;2019-12-31;;4
+356_1022;§ 36 SächsPVDG;NULL;1;0;NULL;;Tarnpapiere;2020-01-01;;;4
+356_1023;§ 37 SächsPolG;NULL;1;0;NULL;;Erhebung von Daten bei öffentlichen Veranstaltungen, Ansammlungen und besonders gefährdeten Objekten;;2019-12-31;;4
+356_1024;§ 38 SächsPolG;NULL;1;0;NULL;;längerfristige Observation, Bild- und Tonaufnahmen und -aufzeichnungen, Verdeckte Ermittler und polizeiliche Beobachtung;;2019-12-31;;2
+356_1025;§ 40 SächsPolG;NULL;1;0;NULL;;besondere Bestimmungen zur polizeilichen Beobachtung;;2019-12-31;;2
+356_1026;§ 41 SächsPolG;NULL;1;0;NULL;;Einsatz technischer Mittel zur Datenerhebung in oder aus Wohnungen;;2019-12-31;;1
+356_1027;§ 42 SächsPolG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten;;2019-12-31;;2
+356_1028;§ 43 SächsPolG;NULL;1;0;NULL;;Speicherung, Veränderung und Nutzung von Daten;;2019-12-31;;4
+356_1029;§ 44 SächsPolG;NULL;1;0;NULL;;Datenübermittlung zum Zwecke einer Zuverlässigkeitsüberprüfung;;2019-12-31;;4
+356_103;§ 36 Abs. 1 Nr. 1 PolG BW;0;1;0;NULL;;erkennungsdienstliche Maßnahmen (Identitätsfeststellung);;2020-12-31;;
+356_1030;§ 45 SächsPolG;NULL;1;0;NULL;;Datenübermittlung an nichtöffentliche Stellen;;2019-12-31;;4
+356_1031;§ 46 SächsPolG;NULL;1;0;NULL;;Datenabgleich;;2019-12-31;;4
+356_1032;§ 47 SächsPolG;NULL;1;0;NULL;;Rasterfahndung;;2019-12-31;;4
+356_1033;§ 50 PolDVG;NULL;1;0;NULL;;Rasterfahndung;2019-12-24;;;
+356_1034;§ 55 SächsPVDG;NULL;1;0;NULL;;Grundsätze der Datenerhebung;2020-01-01;;;4
+356_1035;§ 56 SächsPVDG;NULL;1;0;NULL;;Befugnis zur Datenerhebung;2020-01-01;;;4
+356_1036;§ 57 SächsPVDG;NULL;1;0;NULL;;offener Einsatz technischer Mittel zur Bild- und Tonaufnahme und -aufzeichnung;2020-01-01;;;4
+356_1037;§ 58 SächsPVDG;NULL;1;0;NULL;;anlassbezogene automatisierte Kennzeichenerkennung;2020-01-01;;;4
+356_1038;§ 59 SächsPVDG;NULL;1;0;NULL;;Einsatz technischer Mittel zur Verhütung schwerer grenzüberschreitender Kriminalität;2020-01-01;;;2
+356_1039;§ 60 SächsPVDG;NULL;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung und gezielten Kontrolle;2020-01-01;;;4
+356_104;§ 36 Abs. 1 Nr. 2 PolG BW;0;1;0;NULL;;erkennungsdienstliche Maßnahmen (vorbeugenden Bekämpfung von Straftaten);;2020-12-31;;
+356_1040;§ 61 SächsPVDG;NULL;1;0;NULL;;elektronische Aufenthaltsüberwachung;2020-01-01;;;2
+356_1041;§ 62 SächsPVDG;NULL;1;0;NULL;;Rasterfahndung;2020-01-01;;;2
+356_1042;§ 63 SächsPVDG;NULL;1;0;NULL;;längerfristige Observation und Einsatz besonderer technischer Mittel;2020-01-01;;;2
+356_1043;§ 64 SächsPVDG;NULL;1;0;NULL;;Einsatz Verdeckter Ermittler und V-Personen;2020-01-01;;;2
+356_1044;§ 65 SächsPVDG;NULL;1;0;NULL;;Einsatz technischer Mittel zur Datenerhebung in oder aus Wohnungen;2020-01-01;;;1
+356_1045;§ 66 SächsPVDG;NULL;1;0;NULL;;Überwachung der Telekommunikation;2020-01-01;;;2
+356_1046;§ 67 SächsPVDG;NULL;1;0;NULL;;Erhebung von Verkehrs- und Nutzungsdaten;2020-01-01;;;2
+356_1047;§ 68 SächsPVDG;NULL;1;0;NULL;;Identifizierung und Lokalisierung von Telekommunikationsendgeräten;2020-01-01;;;2
+356_1048;§ 69 SächsPVDG;NULL;1;0;NULL;;Unterbrechung oder Verhinderung der Telekommunikation;2020-01-01;;;2
+356_1049;§ 70 SächsPVDG;NULL;1;0;NULL;;Erhebung von Bestandsdaten;2020-01-01;;;4
+356_105;§ 40 PolG BW;0;1;0;NULL;;besondere Formen des Datenabgleichs (Rasterfahndung);;2020-12-31;;
+356_1050;§ 71 SächsPVDG;NULL;1;0;NULL;;Standortermittlung von gefährdeten Personen;2020-01-01;;;4
+356_1051;SächsPVDG;NULL;1;0;NULL;;Sächsisches Polizeivollzugsdienstgesetz;2020-01-01;;;
+356_106;§ 42 Abs. 1 PolG BW (gültig bis 31.12.2020);0;1;0;NULL;;Datenübermittlung innerhalb der Polizei;;2020-12-31;;
+356_107;§ 42 Abs. 2 PolG BW;0;1;0;NULL;;Datenübermittlung an andere (für die Gefahrenabwehr zuständige) öffentliche Stellen;;2020-12-31;;
+356_108;§ 43 PolG BW;0;1;0;NULL;;Datenübermittlung an ausländische öffentliche Stellen / über- und zwischenstaatliche Stellen;;2020-12-31;;
+356_109;§ 43a PolG BW;0;1;0;NULL;;Datenübermittlung an Mitgliedsstaaten der Europäischen Union (2006/960/JI);;2020-12-31;;
+356_11;§ 43 Abs. 1 BKAG;0;1;0;NULL;;erkennungsdienstliche Behandlung;;;;4
+356_110;NDS. SOG;0;1;0;NULL;;Niedersächsisches Gesetz über die öffentliche Sicherheit und Ordnung;;;;
+356_111;PAG BY;0;1;0;NULL;;Gesetz über die Aufgaben und Befugnisse der Bayrischen Staatlichen Polizei (Polizeiaufgabengesetz);;;;
+356_112;TH - PAG;0;1;0;NULL;;Thüringer Gesetz über die Aufgaben und Befugnisse der Polizei (Polizeiaufgabengesetz);;;;
+356_113;BremPolG;0;1;0;NULL;;Bremisches Polizeigesetz;;;;
+356_114;§ 11 Nds. SOG;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_115;§ 12 Nds. SOG;0;1;0;NULL;;Befragung und Auskunftspflicht;;;;
+356_116;§ 13 Nds. SOG;0;1;0;NULL;;Identitätsfeststellung, Prüfung von Berechtigungsscheinen;;;;
+356_117;§ 14 Nds. SOG;0;1;0;NULL;;Kontrollstellen;;;;
+356_118;§ 15 Nds. SOG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;;;
+356_119;§ 15a Nds. SOG;0;1;0;NULL;;molekulargenetische Untersuchen zur Identitätsfeststellung;;;;
+356_12;§ 44 Abs. 1 BKAG;0;1;0;NULL;;Vorladung;;;;4
+356_120;§ 16 Nds. SOG;0;1;0;NULL;;Vorladung;;;;
+356_121;§ 17 Nds. SOG;0;1;0;NULL;;Platzverweisung, Aufenthaltsverbot;;;;
+356_122;§ 18 Nds. SOG;0;1;0;NULL;;Gewahrsam;;;;
+356_123;§ 19 Nds. SOG;0;1;0;NULL;;richterliche Entscheidung;;;;
+356_124;§ 20 Nds. SOG;0;1;0;NULL;;Behandlung fest gehaltener Personen;;;;
+356_125;§ 21 Nds. SOG;0;1;0;NULL;;Dauer der Freiheitsbeschränkung oder Freiheits-entziehung;;;;
+356_126;§ 22 Nds. SOG;0;1;0;NULL;;Durchsuchung und Untersuchung von Personen;;;;
+356_127;§ 23 Nds. SOG;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_128;§ 24 Nds. SOG;0;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;;;
+356_129;§ 25 Nds. SOG;0;1;0;NULL;;Verfahren bei der Durchsuchung von Wohnungen;;;;
+356_13;§ 45 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;'Längerfristige Observation; Einsatz technischer Mittel, Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes außerhalb von Wohnungen; VP-Einsatz, VE-Einsatz';;2018-05-24;;2
+356_130;§ 26 Nds. SOG;0;1;0;NULL;;Sicherstellung;;;;
+356_131;§ 27 Nds. SOG;0;1;0;NULL;;Verwahrung;;;;
+356_132;§ 28 Nds. SOG;0;1;0;NULL;;Verwertung, Vernichtung;;;;
+356_133;§ 29 Nds. SOG;0;1;0;NULL;;'Herausgabe sichergestellter Sachen oder des Erlöses; Kosten';;;;
+356_134;§ 10 Abs. 1 BbgPolG;0;1;0;NULL;;allgemeine Befugnisse nach BbgPolG;;;;
+356_135;§ 10 Abs. 2 BbgPolG;0;1;0;NULL;;allgemeine Befugnisse nach anderen Rechtsvorschriften;;;;
+356_136;§ 11 Abs. 1 BbgPolG;0;1;0;NULL;;Befragung;;;;
+356_137;§ 11 Abs. 3 BbgPolG;0;1;0;NULL;;Befragung, zur vorbeugenden Bekämpfung der grenzüberschreitenden Kriminalität;;;;
+356_138;§ 12 Abs. 1 BbgPolG;0;1;0;NULL;;Identitätsfeststellung;;;;
+356_139;§ 13 Abs. 2 BbgPolG;0;1;0;NULL;;Erkennungsdienstliche Behandlung;;;;
+356_14;§ 46 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Einsatz technischer Mittel, Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes innerhalb von Wohnungen;;2018-05-24;;1
+356_140;§ 14 BbgPolG;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;
+356_141;§ 15 Abs. 1 BbgPolG;0;1;0;NULL;;Vorladung;;;;
+356_142;§ 16 Abs. 1 BbgPolG;0;1;0;NULL;;Platzverweisung;;;;
+356_143;§ 16 Abs. 2 BbgPolG;0;1;0;NULL;;Aufenthaltsverbot;;;;
+356_144;§ 16a Abs. 1 BbgPolG;0;1;0;NULL;;Wohnungsverweisung und Rückkehrverbot;;;;
+356_145;§ 17 Abs. 1 BbgPolG;0;1;0;NULL;;Gewahrsam einer Person;;;;
+356_146;§ 21 Abs. 1 BbgPolG;0;1;0;NULL;;Durchsuchung von Personen;;;;
+356_147;§ 21 Abs. 2 BbgPolG;0;1;0;NULL;;Durchsuchung von Personen zur Eigensicherung;;;;
+356_148;§ 22 Abs. 1 BbgPolG;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_149;§ 23 Abs. 1 BbgPolG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;
+356_15;§ 47 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle;;2018-05-24;;4
+356_150;§ 25 BbgPolG;0;1;0;NULL;;Sicherstellung;;;;
+356_151;§ 30 Abs. 1 BbgPolG;0;1;0;NULL;;Erhebung personenbezogener Daten;;;;
+356_152;§ 31 Abs. 1 BbgPolG;0;1;0;NULL;;Einsatz technischer Mittel bei öffentlichen Veranstaltungen und Ansammlungen, Anfertigung von Bild- und Tonaufnahmen von Teilnehmern;;;;
+356_153;§ 31 Abs. 2 BbgPolG;0;1;0;NULL;;offene Beobachtung auf öffentlich zugänglichen Straßen und Plätzen mittels Bildübertragung und Bildaufzeichnung;;;;
+356_154;§ 31a Abs. 1 BbgPolG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung, Anfertigung von Bild- und Tonaufnahmen und -aufzeichnungen;;;;
+356_155;§ 32 Abs. 1 BbgPolG;0;1;0;NULL;;längerfristige Observation;;;;
+356_156;§ 33 Abs. 1 BbgPolG;0;1;0;NULL;;verdeckter Einsatz technischer Mittel, Abhören und Aufzeichnen des gesprochenen Wortes und zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen;;;;
+356_157;§ 33a Abs. 1 BbgPolG;0;1;0;NULL;;verdeckter Einsatz technischer Mittel, Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes und zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen innerhalb von Wohnungen;;;;
+356_158;§ 33b Abs. 1 Alt. 2 BbgPolG;0;1;0;NULL;;verdeckter Eingriff in informationstechnische Systeme;;;;
+356_159;§ 33b Abs. 1 Alt. 1 BbgPolG;0;1;0;NULL;;Telekommunikationsüberwachung;;;;
+356_16;§ 48 Abs. 1 BKAG;0;1;0;NULL;;Rasterfahndung;;;;4
+356_160;§ 33b Abs. 3 BbgPolG;0;1;0;NULL;;Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten;;;;
+356_161;§ 33b Abs. 6 BbgPolG;0;1;0;NULL;;Verkehrsdatenerhebung / Nutzungsdatenerhebung;;;;
+356_162;§ 33c BbgPolG;0;1;0;NULL;;Datenerhebung durch Bestandsdatenauskunft;;;;
+356_163;§ 34 Abs. 1 BbgPolG;0;1;0;NULL;;Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist;;;;
+356_164;§ 35 Abs. 1 BbgPolG;0;1;0;NULL;;Einsatz verdeckter Ermittler;;;;
+356_165;§ 36 Abs. 1 BbgPolG;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung;;;;
+356_166;§ 36 Abs. 1a BbgPolG;0;1;0;NULL;;Ausschreibung zur gezielten Kontrolle;;;;
+356_167;§ 36a Abs. 1 BbgPolG;0;1;0;NULL;;anlassbezogene automatische Kennzeichenfahndung;;;;
+356_168;§ 40 BbgPolG;0;1;0;NULL;;Datenabgleich;;;;
+356_169;§ 46 Abs. 1 BbgPolG;0;1;0;NULL;;Rasterfahndung;;;;
+356_17;§ 49 Abs. 1 BKAG;0;1;0;NULL;;verdeckter Eingriff in informationsstechnische Systeme (Online-Durchsuchung);;;;1
+356_170;§ 12 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Verfolgung von Straftaten gegen die Sicherheit der Grenze oder die Durchführung von Aufgaben nach § 2 BPOLG;;;;
+356_171;§ 12 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Verfolgung von Straftaten gegen das Pass-, Ausländer- und Asylgesetz;;;;
+356_172;§ 12 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Strafverfolgung bei Grenzübertritt mittels Täuschung, Drohung, Gewalt oder auf sonst rechtswidrige Weise;;;;
+356_173;§ 12 Abs. 1 Nr. 4 BPolG;0;1;0;NULL;;Strafverfolgung bei Verstößen gegen Verbringungsverbote;;;;
+356_174;§ 12 Abs. 1 Nr. 5 BPolG;0;1;0;NULL;;Verfolgung von Straftaten auf dem Gebiet der Bahnanlagen, gegen das Vermögen der Bahn oder gegen das ihr anvertraute Vermögen;;;;
+356_175;§ 12 Abs. 1 Nr. 6 BPolG;0;1;0;NULL;;Verfolgung von Straftaten auf See außerhalb des deutschen Küstenmeers;;;;
+356_176;§ 12 BPolG;0;1;0;NULL;;Verfolgung von Straftaten;;;;
+356_177;§ 13 Abs. 1 BPolG;0;1;0;NULL;;Verfolgung und Ahndung von Ordnungswidrigkeiten;;;;
+356_178;§ 13 Abs. 3 BPolG;0;1;0;NULL;;Verfolgung und Ahndung von Ordnungswidrigkeiten aufgrund besonderer Gesetze;;;;
+356_179;§ 14 BPolG;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_18;§ 50 Abs. 1 BKAG;0;1;0;NULL;;Postbeschlagnahme;;;;4
+356_180;§ 19 BPolG;0;1;0;NULL;;Fremdvornahme durch Beauftragte;;;;
+356_181;§ 20 BPolG;0;1;0;NULL;;Inanspruchnahme nicht verantwortlicher Personen;;;;
+356_182;§ 21 Abs. 1 BPolG;0;1;0;NULL;;Datenerhebung;;;;
+356_183;§ 21 Abs. 2 Nr. 1 BPolG;0;1;0;NULL;;Erhebung personenbezogener Daten zur Verhütung von Straftaten;;;;
+356_184;§ 21 Abs. 2 Nr. 2 BPolG;0;1;0;NULL;;Datenerhebung bei Kontakt- oder Begleitpersonen;;;;
+356_185;§ 21 Abs. 3 Alt. 2 BPolG;0;1;0;NULL;;verdeckte Datenerhebung;;;;
+356_186;§ 21 Abs. 3 Alt. 1 BPolG;0;1;0;NULL;;Datenerhebung bei Betroffenen, öffentlichen oder nicht öffentlichen Stellen,;;;;
+356_187;§ 22 Abs. 1 BPolG;0;1;0;NULL;;Befragen und Anhalten;;;;
+356_188;§ 22 Abs. 1a BPolG;0;1;0;NULL;;Lageabhängige Befragung;;;;
+356_189;§ 22a Abs. 1 BPolG;0;1;0;NULL;;Erhebung von Telekommunikationsdaten - Erforschung des Sachverhalts oder Ermittlung des Aufenthaltsortes einer Person;;;;
+356_19;§ 51 Abs. 1 BKAG;0;1;0;NULL;;Telekommunikationsüberwachung;;;;2
+356_190;§ 22a Abs. 2 BPolG;0;1;0;NULL;;Erhebung von Telekommunikationsdaten - zugewiesene Internetprotokolladresse;;;;
+356_191;§ 23 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Identitätsfeststellung zur Abwehr einer Gefahr;;;;
+356_192;§ 23 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Identitätsfeststellung zur polizeilichen Kontrolle des grenzüberschreitenden Verkehrs;;;;
+356_193;§ 23 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Identitätsfeststellung zur Verhinderung oder Unterbindung unerlaubter Einreise in das Bundesgebiet oder zur Verhütung grenzbezogener Straftaten;;;;
+356_194;§ 23 Abs. 1 Nr. 4 BPolG;0;1;0;NULL;;Identitätsfeststellung bei Personen zur Verhütung oder Verhinderung gefährlicher Straftaten an Schutz- und Sicherungsobjekten;;;;
+356_195;§ 23 Abs. 1 Nr. 5 BPolG;0;1;0;NULL;;Identitätsfeststellung zum Schutz privater Rechte;;;;
+356_196;§ 23 Abs. 3 S. 1 BPolG;0;1;0;NULL;;erforderliche Maßnahmen zur Feststellung der Identität;;;;
+356_197;§ 23 Abs. 3 S. 2 BPolG;0;1;0;NULL;;Anhalten, Befragen nach Personalien, Pflicht zur Aushändigung von Ausweispapieren;;;;
+356_198;§ 23 Abs. 3 S. 3 BPolG;0;1;0;NULL;;Vorlage von Grenzübertrittspapieren;;;;
+356_199;§ 23 Abs. 3 S. 4 BPolG;0;1;0;NULL;;Festhalten und Mitnahme zur Dienststelle;;;;
+356_2;§ 20y BKAG (bis 24.05.2018);0;1;0;NULL;;Aufenthaltsvorgabe, Kontaktverbot;;2018-05-24;;4
+356_20;§ 52 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Verkehrsdatenerhebung / Nutzungsdatenerhebung;;2018-05-24;;3
+356_200;§ 23 Abs. 3 S. 5 BPolG;0;1;0;NULL;;Durchsuchung des Betroffenen und der von ihm mitgeführten Sachen zur Identitätsfeststellung;;;;
+356_201;§ 23 Abs. 4 BPolG;0;1;0;NULL;;Aushändigen von Berechtigungsscheinen;;;;
+356_202;§ 23 Abs. 5 BPolG;0;1;0;NULL;;Einlasskontrollen;;;;
+356_203;§ 23 BPolG;0;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;;;;
+356_204;§ 24 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;ED-Maßnahmen zur Identitätsfeststellung;;;;
+356_205;§ 24 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;ED-Maßnahmen zur Verhütung von Straftaten;;;;
+356_206;§ 25 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Vorladung zur Aufklärung eines Sachverhaltes;;;;
+356_207;§ 25 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Vorladung zur Durchführung erkennungsdienstlicher Maßnahmen;;;;
+356_208;§ 26 Abs. 1 BPolG;0;1;0;NULL;;Datenerhebung bei oder im Zusammenhang mit öffentlichen Veranstaltungen oder Ansammlungen;;;;
+356_209;§ 27 BPolG;0;1;0;NULL;;Einsatz selbsttätiger Aufzeichnungsgeräte;;;;
+356_21;§ 53 Abs. 1 BKAG;0;1;0;NULL;;'IMSI / IMEI-Catcher; stille SMS';;;;3
+356_210;§ 27a Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Nutzung mobiler Bild- und Tonaufzeichnungsgeräte zum Schutz und zur Gefahrenabwehr;;;;
+356_211;§ 27a Abs. 1 Nr. 2a BPolG;0;1;0;NULL;;Nutzung mobiler Bild- und Tonaufzeichnungsgeräte zur Verfolgung von Straftaten;;;;
+356_212;§ 27a Abs. 1 Nr. 2b BPolG;0;1;0;NULL;;Nutzung mobiler Bild- und Tonaufzeichnungsgeräte zur Verfolgung von Ordnungswidrigkeiten;;;;
+356_213;§ 27b Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;anlassbezogene automatische Kennzeichenerfassung als Mittel zur Erhebung zur Abwehr einer Gefahr;;;;
+356_214;§ 27b Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;anlassbezogene automatische Kennzeichenerfassung als Mittel zur Erhebung zur Verfolgung von Straftaten gegen die Grenze;;;;
+356_215;§ 27b Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;anlassbezogene automatische Kennzeichenerfassung als Mittel zur Erhebung bei Ausschreibung und bevorstehender oder andauernder Begehung von Straftaten;;;;
+356_216;§ 27c Abs. 1 BPolG;0;1;0;NULL;;Aufzeichnung von eingehenden Telefonanrufen bei Einsatzleitstellen;;;;
+356_217;§ 28 Abs. 2 BPolG;0;1;0;NULL;;Einsatz besonderer Mittel der Datenerhebung (Observation, Technik, VP, VE);;;;
+356_218;§ 29 Abs. 1 S. 1 BPolG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung personenbezogener Daten;;;;
+356_219;§ 29 Abs. 1 S. 2 BPolG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung personenbezogener Daten zur Erledigung besonderer Ersuchen des Bundesamtes für Verfassungsschutz;;;;
+356_22;§ 54 Abs. 1 BKAG;0;1;0;NULL;;Platzverweisung;;;;4
+356_220;§ 29 Abs. 3 BPolG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung personenbezogener Daten von Personen, die nicht Tatverdächtige oder Beschuldigte sind;;;;
+356_221;§ 30 Abs. 1 BPolG;0;1;0;NULL;;Ausschreiben personenbezogener Daten zur Grenzfahndung;;;;
+356_222;§ 30 Abs. 2 Nr. 1 BPolG;0;1;0;NULL;;Ausschreiben zur Ingewahrsamnahme;;;;
+356_223;§ 30 Abs. 2 Nr. 2a BPolG;0;1;0;NULL;;Ausschreiben zur Abwehr einer erheblichen Gefahr;;;;
+356_224;§ 30 Abs. 2 Nr. 2b BPolG;0;1;0;NULL;;Ausschreibung zur Prüfung der Berechtigung zum Grenzübertritt;;;;
+356_225;§ 30 Abs. 2 Nr. 2c BPolG;0;1;0;NULL;;Ausschreiben vermisster Personen;;;;
+356_226;§ 30 Abs. 2 Nr. 3 BPolG;0;1;0;NULL;;Ausschreibung zum Zwecke der Zurückweisung oder Ausreiseuntersagung;;;;
+356_227;§ 30 Abs. 3 BPolG;0;1;0;NULL;;Ausschreibung auf Veranlassung einer anderen Behörde;;;;
+356_228;§ 31 BPolG;0;1;0;NULL;;Ausschreibung zur grenzpolizeilichen Beobachtung;;;;
+356_229;§ 31a BPolG;0;1;0;NULL;;Anordnung der Übermittlung von Fluggastdaten;;;;
+356_23;§ 55 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Aufenthaltsvorgabe, Kontaktverbot;;2018-05-24;;4
+356_230;§ 32 Abs. 2 BPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten an öffentliche Stellen;;;;
+356_231;§ 32 Abs. 3 BPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten an öffentliche Stellen anderer Staaten und an über- und zwischenstaatliche Stellen;;;;
+356_232;§ 32 Abs. 4 BPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten an nicht-öffentliche Stellen;;;;
+356_233;§ 32a BPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten personenbezogener Daten an Mitgliedstaaten der Europäischen Union;;;;
+356_234;§ 34 Abs. 1 BPolG;0;1;0;NULL;;'Abgleich personenbezogener Daten; Anhalterecht';;;;
+356_235;§ 35 BPolG;0;1;0;NULL;;Berichtigung, Löschung, Sperrung personenbezogener Daten;;;;
+356_237;§ 39 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Schutzgewahrsam;;;;
+356_238;§ 39 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Gewahrsam zur Durchsetzung einer Platzverweisung;;;;
+356_239;§ 39 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Präventivgewahrsam (Sicherheits- oder Unterbindungsgewahrsam);;;;
+356_24;§ 56 Abs. 1 BKAG;0;1;0;NULL;;elektronische Aufenthaltsüberwachung (elektr. Fußfessel);;;;3
+356_240;§ 39 Abs. 2 BPolG;0;1;0;NULL;;Gewahrsam bei Minderjährigen;;;;
+356_241;§ 39 Abs. 3 BPolG;0;1;0;NULL;;Gewahrsam bei Entwichenen;;;;
+356_242;§ 39 Abs. 4 BPolG;0;1;0;NULL;;Gewahrsam bei Ersuchen;;;;
+356_243;§ 43 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Durchsuchung einer Person, die festgehalten werden kann;;;;
+356_244;§ 43 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Durchsuchung zur Sicherstellung von Sachen;;;;
+356_245;§ 43 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Durchsuchung hilfloser Personen;;;;
+356_246;§ 43 Abs. 1 Nr. 4 BPolG;0;1;0;NULL;;Durchsuchung von Personen in oder an Schutz- und Sicherungsobjekten;;;;
+356_247;§ 43 Abs. 2 BPolG;0;1;0;NULL;;Durchsuchen einer Person im Notstands- und Verteidigungsfall;;;;
+356_248;§ 43 Abs. 3 BPolG;0;1;0;NULL;;Durchsuchung beim Anhalten zur Identitätsfeststellung;;;;
+356_249;§ 43 Abs. 5 BPolG;0;1;0;NULL;;Festhalten und Mitnahme zur Dienststelle zur Durchsuchung der Person;;;;
+356_25;§ 57 Abs. 1 BKAG;0;1;0;NULL;;Gewahrsam;;;;4
+356_250;§ 44 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Durchsuchung von Sachen, die eine Person mitführt, die nach § 43 durchsucht werden darf;;;;
+356_251;§ 44 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Durchsuchung zum Auffinden von Personen, die in Gewahrsam genommen werden können, widerrechtlich festgehalten werden oder hilflos sind;;;;
+356_252;§ 44 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Durchsuchung nach Sachen, die sichergestellt werden dürfen;;;;
+356_253;§ 44 Abs. 1 Nr. 4 BPolG;0;1;0;NULL;;Durchsuchung von Sachen in oder an Schutz- oder Sicherungsobjekten;;;;
+356_254;§ 44 Abs. 2 BPolG;0;1;0;NULL;;Durchsuchung im 30km-Gebiet zur Verhinderung oder Unterbindung unerlaubter Einreise;;;;
+356_255;§ 45 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen zum Zweck der Vorführung oder Ingewahrsamnahme;;;;
+356_256;§ 45 Abs. 1 Nr. 2 BPolG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen zur Sicherstellung von Sachen;;;;
+356_257;§ 45 Abs. 1 Nr. 3 BPolG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen zur Abwehr einer gegenwärtigen Gefahr für bedeutende Rechtsgüter;;;;
+356_258;§ 45 Abs. 2 BPolG;0;1;0;NULL;;Betreten und Durchsuchen zur Nachtzeit;;;;
+356_259;§ 45 Abs. 3 BPolG;0;1;0;NULL;;Betreten von Wohnungen zur Verhütung oder Unterbindung unerlaubter Einreisen;;;;
+356_26;§ 58 Abs. 1 und 2 BKAG;0;1;0;NULL;;Durchsuchung von Personen;;;;4
+356_260;§ 45 Abs. 4 BPolG;0;1;0;NULL;;Durchsuchen einer Wohnung im Notstands- und Verteidigungsfall;;;;
+356_261;§ 45 Abs. 5 BPolG;0;1;0;NULL;;Betreten öffentlich zugänglicher Arbeit-, Betriebs- und Geschäftsräume;;;;
+356_262;§ 47 Nr. 1 BPolG;0;1;0;NULL;;Sicherstellung zur Abwehr einer gegenwärtigen Gefahr;;;;
+356_263;§ 47 Nr. 2 BPolG;0;1;0;NULL;;Sicherstellung zugunsten des Eigentümers oder rechtmäßigen Inhabers der tatsächlichen Gewalt;;;;
+356_264;§ 47 Nr. 3 BPolG;0;1;0;NULL;;Sicherstellung von Sachen, die festgehaltene Personen mitführen;;;;
+356_265;§ 62 Abs. 1 Nr. 1 BPolG;0;1;0;NULL;;Inanspruchnahme von Grundstücken;;;;
+356_266;BPolG;0;1;0;NULL;;Bundespolizeigesetz;;;;
+356_267;Art. 11 PAG BY;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_268;Art. 13 PAG BY;0;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;;;;
+356_269;Art. 14 PAG BY;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;;;
+356_27;§ 59 Abs. 1 BKAG;0;1;0;NULL;;Durchsuchung von Sachen;;;;4
+356_270;Art. 15 PAG BY;0;1;0;NULL;;Vorladung;;;;
+356_271;Art. 16 PAG BY;0;1;0;NULL;;Platzverweisung, Kontaktverbot, Aufenthalts- und Meldeanordnung;;;;
+356_272;Art. 17 PAG BY;0;1;0;NULL;;Gewahrsam;;;;
+356_273;Art. 21 PAG BY;0;1;0;NULL;;Durchsuchung von Personen;;;;
+356_274;Art. 22 PAG BY;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_275;Art. 23 PAG BY;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;
+356_276;Art. 25 PAG BY;0;1;0;NULL;;Sicherstellung;;;;
+356_277;Art. 29 PAG BY;0;1;0;NULL;;Befugnisse für Aufgaben der Grenzkontrolle und Sicherung von Anlagen;;;;
+356_278;Art. 32 PAG BY;0;1;0;NULL;;Datenerhebung;;;;
+356_28;§ 60 Abs. 1 BKAG;0;1;0;NULL;;Sicherstellung;;;;4
+356_280;Art. 34 PAG BY;0;1;0;NULL;;elektronische Aufenthaltsüberwachung;;;;
+356_282;Art. 45 PAG BY;0;1;0;NULL;;verdeckter Zugriff auf informationstechnische Systeme;;;;
+356_284;Art. 54 PAG BY;0;1;0;NULL;;Speicherung, Veränderung und Nutzung von Daten;;;;
+356_287;Art. 61 PAG BY;0;1;0;NULL;;Datenabgleich innerhalb der Polizei;;;;
+356_288;Art. 46 PAG BY;0;1;0;NULL;;Rasterfahndung;;;;
+356_289;Art. 63 PAG BY;0;1;0;NULL;;automatisiertes Abrufverfahren;;;;
+356_29;§ 61 Abs. 1 BKAG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;4
+356_290;Art. 67 PAG BY;0;1;0;NULL;;Vollzugshilfe;;;;
+356_291;Art. 72 PAG BY;0;1;0;NULL;;Ersatzvornahme;;;;
+356_292;Art. 75 PAG BY;0;1;0;NULL;;unmittelbarer Zwang;;;;
+356_293;Art. 79 PAG BY;0;1;0;NULL;;Handeln auf Anordnung;;;;
+356_294;Art. 81 PAG BY;0;1;0;NULL;;Androhung unmittelbaren Zwangs;;;;
+356_295;Art. 82 PAG BY;0;1;0;NULL;;Fesselung von Personen;;;;
+356_296;Art. 85 PAG BY;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_297;§ 7 BremPolG;0;1;0;NULL;;Inanspruchnahme anderer Personen;;;;
+356_298;§ 10 BremPolG;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_299;§ 11 Abs. 2 Nr. 6 BremPolG;0;1;0;NULL;;Durchsuchung einer Person zur Identitätsfeststellung nach § 11BremPolG;;;;
+356_3;§ 20z BKAG (bis 24.05.2018);0;1;0;NULL;;Elektronische Aufenthaltsüberwachung (Fußfessel);;2018-05-24;;3
+356_30;§ 62 Abs. 1 BKAG;0;1;0;NULL;;Schutz zeugnisverweigerungsberechtigter Personen;;;;4
+356_300;§ 11 Abs. 1 Nr. 2b BremPolG;0;1;0;NULL;;Identitätsfeststellung bei Personen, die sich an einem Ort aufhalten, an dem sich Straftäter verbergen;;;;
+356_301;§ 11b Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;ED-Maßnahmen zur Verhütung von Straftaten;;;;
+356_303;§ 11b Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;ED-Maßnahmen zur Identitätsfeststellung;;;;
+356_304;§ 11 BremPolG;0;1;0;NULL;;Identitätsfeststellung, Prüfung von Berechtigungsscheinen;;;;
+356_306;§ 11b BremPolG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;;;
+356_307;§ 11 Abs. 2 BremPolG;0;1;0;NULL;;Anhalten, Verbringung zur Dienststelle und Durchsuchung des Betroffenen und der von ihm mitgeführten Sachen zur Identitätsfeststellung;;;;
+356_308;§ 11 Abs. 2 Nr. 4 BremPolG;0;1;0;NULL;;Auskunftspflicht und Pflicht zur Aushändigung von Ausweispapieren;;;;
+356_309;§ 11 Abs. 2 Nr. 8 BremPolG;0;1;0;NULL;;Verbringen zur Dienststelle zur Identitätsfeststellung;;;;
+356_31;§ 63 Abs. 1 BKAG;0;1;0;NULL;;Generalklausel - Schutz von Mitgliedern der Verfassungsorgane und der Leitung des BKA;;;;4
+356_310;§ 11 Abs. 1 Nr. 4 BremPolG;0;1;0;NULL;;Identitätsfeststellung bei Personen zur Verhütung oder Verhinderung gefährlicher Straftaten an Schutz- und Sicherungsobjekten, öffentlichen Anlagen und Einrichtungen;;;;
+356_311;§ 11 Abs. 1 Nr. 2a BremPolG;0;1;0;NULL;;Identitätsfeststellung bei Personen, die sich an einem Ort aufhalten, an dem Straftaten verabredet, vorbereitet oder verübt werden;;;;
+356_312;§ 11 Abs. 1 Nr. 3 BremPolG;0;1;0;NULL;;Identitätsfeststellung an einer polizeilichen Kontrollstelle zur Verhinderung von Straftaten;;;;
+356_313;§ 11 Abs. 5 BremPolG;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;
+356_314;§ 11 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Identitätsfeststellung zur Abwehr einer Gefahr;;;;
+356_315;§ 12 Abs. 3 BremPolG;0;1;0;NULL;;zwangsweise Durchsetzung einer Vorladung;;;;
+356_316;§ 12 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Vorladung zur Erlangung sachdienlicher Angaben;;;;
+356_317;§ 12 BremPolG;0;1;0;NULL;;Vorladung;;;;
+356_318;§ 12 Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;Vorladung zur Durchführung erkennungsdienstlicher Maßnahmen;;;;
+356_319;§ 13 Abs. 5 Nr. BremPolG;0;1;0;NULL;;lageabhängige Befragung;;;;
+356_32;§ 64 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;'Längerfristige Observation; Einsatz technischer Mittel, Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes außerhalb von Wohnungen; VP-Einsatz';;2018-05-24;;2
+356_320;§ 13 Abs. 3 Nr. BremPolG;0;1;0;NULL;;Befragen und Anhalten;;;;
+356_321;§ 13 Abs. 2 Nr. BremPolG;0;1;0;NULL;;Auskunftspflicht;;;;
+356_322;§ 13 Abs. 1 Nr. BremPolG;0;1;0;NULL;;Befragung und Auskunftspflicht;;;;
+356_323;§ 14a Abs. 1 Nr. BremPolG;0;1;0;NULL;;Wohnungsverweisung sowie Rückkehr- und Betretungsverbot zum Schutz vor häuslicher Gewalt;;;;
+356_324;§ 14 Abs. 2 Nr. BremPolG;0;1;0;NULL;;Platzverweisung, zeitlich und örtlich erweitert;;;;
+356_325;§ 14 Abs. 1 Nr. BremPolG;0;1;0;NULL;;Platzverweisung;;;;
+356_326;§ 15 Abs. 1 S. 1 Nr. 2 BremPolG;0;1;0;NULL;;Gewahrsam zur Verhinderung von Straftaten oder bedeutenden Ordnungswidrigkeiten;;;;
+356_327;§ 15 BremPolG;0;1;0;NULL;;Gewahrsam von Personen;;;;
+356_328;§ 15 Abs. 3 BremPolG;0;1;0;NULL;;Gewahrsam bei Entwichenen;;;;
+356_329;§ 15 Abs. 1 S. 1 Nr. 4 BremPolG;0;1;0;NULL;;Gewahrsam zur Durchsetzung einer Wohnungsverweisung sowie des Rückkehr- und Betretungsverbots;;;;
+356_33;§ 65 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Ausschreibung zur polizeilichen Kontrolle oder gezielten Beobachtung;;2018-05-24;;4
+356_330;§ 15 Abs. 1 S. 2 BremPolG;0;1;0;NULL;;Gewahrsam zum Schutz privater Rechte;;;;
+356_331;§ 15 Abs. 2 BremPolG;0;1;0;NULL;;Gewahrsam bei Minderjährigen;;;;
+356_332;§ 15 Abs. 1 S. 1 Nr. 1 BremPolG;0;1;0;NULL;;Gewahrsam zum eigenen Schutz der Person;;;;
+356_333;§ 15 Abs. 1 S. 1 Nr. 3 BremPolG;0;1;0;NULL;;Gewahrsam zur Durchsetzung einer Platzverweisung;;;;
+356_334;§ 17 BremPolG;0;1;0;NULL;;Verfahren bei amtlichem Gewahrsam;;;;
+356_335;§ 19 Abs. 1 Nr. 5 BremPolG;0;1;0;NULL;;Durchsuchung einer Person Aufenthalt im Sinne des § 11 Abs. 1 Nr. 4;;;;
+356_336;§ 19 BremPolG;0;1;0;NULL;;Durchsuchung von Personen;;;;
+356_337;§ 19 Abs. 4 BremPolG;0;1;0;NULL;;Verfahren bei der Durchsuchung von Personen;;;;
+356_338;§ 19 Abs. 1 Nr. 4 BremPolG;0;1;0;NULL;;Durchsuchung einer Person bei Antreffen an einem Ort nach § 11 Abs. 1 Nr. 2;;;;
+356_339;§ 19 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Durchsuchung einer Person bei Ingewahrsamnahme;;;;
+356_34;§ 66 Abs. 1 BKAG;0;1;0;NULL;;Generalklausel - Zeugenschutz;;;;4
+356_340;§ 19 Abs. 1 Nr. 3 BremPolG;0;1;0;NULL;;Durchsuchung einer Person bei hilfloser Lage;;;;
+356_341;§ 19 Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;Durchsuchung einer Person zur Sicherstellung von Sachen;;;;
+356_342;§ 19 Abs. 3 BremPolG;0;1;0;NULL;;Durchsuchung einer Person zum Schutz des Beamten oder Dritter;;;;
+356_343;§ 20 Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;Durchsuchung von Sachen zum Auffinden von Personen, die in Gewahrsam genommen werden können, widerrechtlich festgehalten oder hilflos sind;;;;
+356_344;§ 20 BremPolG;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_345;§ 20 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Durchsuchung von Sachen, die eine Person mitführt, die nach § 19 BremPolG durchsucht werden darf;;;;
+356_346;§ 20 Abs. 1 Nr. 4 BremPolG;0;1;0;NULL;;Durchsuchung von Fahrzeugen und darin enthaltener Sachen zur Identitätsfeststellung;;;;
+356_347;§ 20 Abs. 1 Nr. 3 BremPolG;0;1;0;NULL;;Durchsuchung nach Sachen, die sichergestellt werden können.;;;;
+356_348;§ 20 Abs. 2 BremPolG;0;1;0;NULL;;Verfahren bei der Durchsuchung von Sachen;;;;
+356_349;§ 21 Abs. 3 Nr. 2 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen von Räumen, in denen sich gesuchte Straftäter verbergen;;;;
+356_35;§ 67 BKAG;0;1;0;NULL;;Generalklausel - behördlicher Eigenschutz;;;;4
+356_350;§ 21 Abs. 4 BremPolG;0;1;0;NULL;;Betreten von öffentlich zugänglichen Räumen zur Gefahrenabwehr;;;;
+356_351;§ 21 Abs. 1 Nr. 4 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen wenn von der Wohnung Emissionen ausgehen, die geeignet sind, Gesundheitsschäden zu verursachen;;;;
+356_352;§ 21 Abs. 1 Nr. 3 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen zur Abwehr einer gegenwärtigen erheblichen Gefahr;;;;
+356_353;§ 21 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen zum Zweck der Vorführung oder Ingewahrsamnahme;;;;
+356_354;§ 21 Abs. 2 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen zur Nachtzeit;;;;
+356_355;§ 21 Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen zur Sicherstellung von Sachen;;;;
+356_356;§ 21 Abs. 3 Nr. 1 BremPolG;0;1;0;NULL;;Betreten und Durchsuchen von Räumen in denen Straftaten verabredet, vorbereitet oder verübt werden;;;;
+356_357;§ 21 BremPolG;0;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;;;
+356_358;§ 22 BremPolG;0;1;0;NULL;;Verfahren bei der Durchsuchung von Räumen;;;;
+356_359;§ 23 Abs. Nr. 3 BremPolG;0;1;0;NULL;;Sicherstellung von Sachen, die festgehaltene Personen mitführen;;;;
+356_36;§ 68 BKAG;0;1;0;NULL;;Sicherheitsüberprüfung;;;;4
+356_360;§ 23 Abs. Nr. 1 BremPolG;0;1;0;NULL;;Sicherstellung von Sachen zur Eigentumssicherung;;;;
+356_361;§ 23 Abs. Nr. 2 BremPolG;0;1;0;NULL;;Sicherstellung zur Abwehr einer gegenwärtigen Gefahr;;;;
+356_362;§ 23 BremPolG;0;1;0;NULL;;Sicherstellung von Sachen;;;;
+356_363;§ 24 BremPolG;0;1;0;NULL;;Durchführung der Sicherstellung;;;;
+356_365;§ 25 BremPolG;0;1;0;NULL;;Verwertung, Vernichtung;;;;
+356_366;§ 27 Abs. 1 BremPolG;0;1;0;NULL;;Datenerhebung bei Betroffenen, öffentlichen oder nicht öffentlichen Stellen,;;;;
+356_367;§ 27 Abs. 2 BremPolG;0;1;0;NULL;;verdeckte Datenerhebung;;;;
+356_368;§ 28 Abs. 2 Nr. 4 BremPolG;0;1;0;NULL;;Datenerhebung bei Hinweisgebern oder sonstigen Auskunftspersonen zur Sachverhaltsaufklärung;;;;
+356_369;§ 28 Abs. 3 Nr. 1 BremPolG;0;1;0;NULL;;Datenerhebung bei Personen mit besonderen Kenntnissen/Fähigkeiten;;;;
+356_37;BbgPolG;0;1;0;NULL;;Gesetz über die Aufgaben, Befugnisse, Organisation und Zuständigkeit der Polizei im Land Brandenburg (Brandenburgisches Polizeigesetz - BbgPolG);;;;
+356_370;§ 28 BremPolG;0;1;0;NULL;;Erhebung personenbezogener Daten;;;;
+356_371;§ 28 Abs. 3 Nr. 4 BremPolG;0;1;0;NULL;;Datenerhebung bei Verantwortlichen für Veranstaltungen in der Öffentlichkeit, die nicht dem Versammlungsgesetz unterliegen;;;;
+356_372;§ 28 Abs. 3 Nr. 3 BremPolG;0;1;0;NULL;;Datenerhebung bei Verantwortlichen für gefährdete Anlagen oder Einrichtungen;;;;
+356_373;§ 28 Abs. 3 Nr. 2 BremPolG;0;1;0;NULL;;Datenerhebung bei Verantwortlichen für Anlagen oder Einrichtungen, von denen eine erhebliche Gefahr ausgehen kann;;;;
+356_374;§ 28 Abs. 2 Nr. 1 BremPolG;0;1;0;NULL;;Datenerhebung zur Verhütung von Straftaten bei möglichen Tätern;;;;
+356_375;§ 28 Abs. 3 BremPolG;0;1;0;NULL;;Datenerhebung zur Vorbereitung für die Abwehr von Gefahren;;;;
+356_376;§ 28 Abs. 2 Nr. 2 BremPolG;0;1;0;NULL;;Datenerhebung zur Verhütung von Straftaten bei möglichen Opfern;;;;
+356_377;§ 28 Abs. 2 BremPolG;0;1;0;NULL;;Erhebung personenbezogener Daten zur Verhütung von Straftaten;;;;
+356_378;§ 28 Abs. 2 Nr. 3 BremPolG;0;1;0;NULL;;Datenerhebung zum Schutz einer gefährdeten Person;;;;
+356_379;§ 28 Abs. 1 BremPolG;0;1;0;NULL;;Datenerhebung zur Abwehr einer im einzelnen Falle bevorstehenden Gefahr;;;;
+356_38;ASOG Bln;0;1;0;NULL;;allgemeines Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung in Berlin;;;;
+356_380;§ 29 Abs. 5 BremPolG;0;1;0;NULL;;Bildaufzeichnungen zum Schutz von Polizeivollzugsbeamten;;;;
+356_381;§ 29 Abs. 3 BremPolG;0;1;0;NULL;;Bildübertragung und -aufzeichnung bei allgemein zugänglichen Flächen und Räumen;;;;
+356_382;§ 29 BremPolG;0;1;0;NULL;;Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen sowie auf öffentlichen Flächen;;;;
+356_383;§ 29 Abs. 1 BremPolG;0;1;0;NULL;;Datenerhebung bei oder im Zusammenhang mit öffentlichen Veranstaltungen oder Ansammlungen;;;;
+356_385;§ 30 BremPolG;0;1;0;NULL;;Datenerhebung mit besonderen Mitteln und Methoden;;;;
+356_386;§ 31 BremPolG;0;1;0;NULL;;Kontrollmeldungen (verdeckte Registrierungen zur polizeilichen Beobachtung, gezielte Kontrollen);;;;
+356_387;§ 32 BremPolG;0;1;0;NULL;;Datenerhebung durch Observation;;;;
+356_388;§ 33 Abs. 3 BremPolG;0;1;0;NULL;;Datenerhebung durch Überwachung der Telekommunikation;;;;
+356_389;§ 34 BremPolG;0;1;0;NULL;;Datenerhebung durch Vertrauenspersonen;;;;
+356_39;HSOG;0;1;0;NULL;;Hessisches Gesetz über die öffentliche Sicherheit und Ordnung;;;;
+356_390;§ 35 BremPolG;0;1;0;NULL;;Datenerhebung durch verdeckt ermittelnde Personen;;;;
+356_391;§ 36f BremPolG;0;1;0;NULL;;Datenübermittlung an Behörden, öffentliche Stellen oder sonstige Stellen;;;;
+356_392;§ 36g BremPolG;0;1;0;NULL;;Datenübermittlung an Stellen außerhalb des öffentlichen Bereichs;;;;
+356_393;§ 36h BremPolG;0;1;0;NULL;;Datenabgleich;;;;
+356_394;§ 36f Abs. 1 BremPolG;0;1;0;NULL;;Übermittlung an Behörden und öffentliche Stellen;;;;
+356_395;§ 36j BremPolG;0;1;0;NULL;;Errichtung von Dateien, Errichtungsanordnung;;;;
+356_396;§ 36b BremPolG;0;1;0;NULL;;speichern und verarbeiten von personenbezogenen Daten zur Vorgangsverwaltung und Dokumentation;;;;
+356_398;§ 36d BremPolG;0;1;0;NULL;;Datenübermittlung zwischen Polizei- und Behörden der Gefahrenabwehr anderer Länder und des Bundes;;;;
+356_399;§ 36i BremPolG;0;1;0;NULL;;Datenabgleich mit anderen Dateien;;;;
+356_4;§ 34 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung, Abhören und Aufzeichnen des nicht öffentlich gesprochenen Wortes innerhalb oder außerhalb von Wohnungen zur Eigensicherung;;2018-05-24;;1
+356_40;§ 11 HSOG;0;1;0;NULL;;Generalklausel;;;;
+356_400;§ 36e BremPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten zwischen Polizei und Ordnungsbehörden durch automatisiertes Verfahren;;;;
+356_401;§ 36a BremPolG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung personenbezogener Daten, Zweckbindung;;;;
+356_402;§ 36c BremPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten;;;;
+356_403;§ 36k BremPolG;0;1;0;NULL;;Berichtigung, Löschung, Sperrung personenbezogener Daten;;;;
+356_404;§ 36f Abs. 2 BremPolG;0;1;0;NULL;;Übermittlung an öffentliche Stellen anderer Staaten und an über- und zwischenstaatliche Stellen;;;;
+356_405;§ 37 BremPolG;0;1;0;NULL;;Vollzugshilfe;;;;
+356_406;§ 40 Abs. 3 BremPolG;0;1;0;NULL;;zum Gebrauch von Schusswaffen Berechtigte;;;;
+356_407;§ 41 BremPolG;0;1;0;NULL;;unmittelbarer Zwang;;;;
+356_408;§ 42 BremPolG;0;1;0;NULL;;Handeln auf Anordnung;;;;
+356_409;§ 44 Abs. 4 BremPolG;0;1;0;NULL;;Warnung beim Einsatz von technischen Sperren und Dienstpferden;;;;
+356_41;§ 12 HSOG;0;1;0;NULL;;Befragung und Auskunftspflicht;;;;
+356_410;§ 44 Abs. 1 BremPolG;0;1;0;NULL;;Warnung beim Einsatz unmittelbaren Zwangs gegen Personen;;;;
+356_411;§ 44 Abs. 2 BremPolG;0;1;0;NULL;;Warnung beim Einsatz von Schusswaffen;;;;
+356_412;§ 44 BremPolG;0;1;0;NULL;;Warnung beim Einsatz unmittelbaren Zwangs;;;;
+356_413;§ 44 Abs. 3 BremPolG;0;1;0;NULL;;Warnung beim Einsatz unmittelbaren Zwangs gegen Menschenmenge;;;;
+356_414;§ 45 Nr. 1 BremPolG;0;1;0;NULL;;Fesselung von Personen zum Schutz von Personen und Sachen;;;;
+356_415;§ 45 Abs. Nr. 1 Alt. 2 BremPolG;0;1;0;NULL;;Fesselung von Personen, die Widerstand leisten;;;;
+356_416;§ 45 Nr. 2 BremPolG;0;1;0;NULL;;Fesselung von Personen, Fluchtgefahr;;;;
+356_417;§ 45 BremPolG;0;1;0;NULL;;Fesselung von Personen;;;;
+356_418;§ 45 Nr. 3 BremPolG;0;1;0;NULL;;Fesselung von Personen zum eigenen Schutz;;;;
+356_419;§ 46 BremPolG;0;1;0;NULL;;allgemeine Vorschriften für den Schusswaffengebrauch;;;;
+356_42;§ 18 Abs. 1 HSOG;0;1;0;NULL;;Identitätsfeststellung;;;;
+356_420;§ 47 Abs. 1 Nr. 3b BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen, Vereitelung der Flucht bei dringendem Verdacht eines Vergehens mit Schusswaffen oder Sprengstoff;;;;
+356_421;§ 47 Abs. 1 Nr. 3a BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen, Vereitelung der Flucht bei dringendem Verdacht eines Verbrechens;;;;
+356_422;§ 47 Abs. 1 Nr. 5 BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen zur Verhinderung einer gewaltsamen Befreiung aus amtlichem Gewahrsam;;;;
+356_423;§ 47 Abs. 1 Nr. 1 BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen zur Abwehr einer gegenwärtigen Gefahr für Leib oder Leben;;;;
+356_424;§ 47 Abs. 1 Nr. 4 BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen zur Vereitelung der Flucht oder zur Ergreifung einer Person, die in amtlichem Gewahrsam zu halten oder diesem zuzuführen ist;;;;
+356_425;§ 47 Abs. 1 Nr. 2 BremPolG;0;1;0;NULL;;Schusswaffengebrauch zur Verhinderung eines Verbrechens oder eines Vergehens unter Anwendung oder Mitführung von Schusswaffen oder Explosivmitteln;;;;
+356_426;§ 47 BremPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_427;PolG NRW;0;1;0;NULL;;Polizeigesetz des Landes Nordrhein-Westfalen (PolG NRW);;;;
+356_428;§ 9 POG RP;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_429;§ 9a POG RP;0;1;0;NULL;;Befragung und Auskunftspflicht;;;;
+356_43;§ 18 Abs. 7 HSOG;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;
+356_430;§ 10 POG RP;0;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;;;;
+356_431;§ 11 POG RP;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;;;
+356_432;§ 11a POG RP;0;1;0;NULL;;medizinische und molekulargenetische Untersuchungen;;;;
+356_433;§ 12 POG RP;0;1;0;NULL;;Vorladung;;;;
+356_434;§ 12a POG RP;0;1;0;NULL;;Meldeauflagen;;;;
+356_435;§ 13 POG RP;0;1;0;NULL;;Platzverweisung, Aufenthaltsverbot;;;;
+356_436;§ 14 POG RP;0;1;0;NULL;;Gewahrsam;;;;
+356_437;§ 16b POG RP;0;1;0;NULL;;Datenerhebung durch den Einsatz technischer Mittel in polizeilichen Gewahrsamseinrichtungen;;;;
+356_438;§ 17 POG RP;0;1;0;NULL;;Dauer der Freiheitsentziehung;;;;
+356_439;§ 18 POG RP;0;1;0;NULL;;Durchsuchung und Untersuchung von Personen;;;;
+356_44;§ 19 Abs. 2 HSOG;0;1;0;NULL;;ED-Maßnahme;;;;
+356_440;§ 19 POG RP;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_441;§ 20 POG RP;0;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;;;
+356_442;§ 22 POG RP;0;1;0;NULL;;Sicherstellung;;;;
+356_443;§ 23 POG RP;0;1;0;NULL;;Verwahrung;;;;
+356_444;§ 24 POG RP;0;1;0;NULL;;Verwertung, Vernichtung;;;;
+356_445;§ 26 POG RP;0;1;0;NULL;;Datenerhebung;;;;
+356_446;§ 27 POG RP;0;1;0;NULL;;Datenerhebung durch den Einsatz technischer Mittel;;;;
+356_447;§ 27a POG RP;0;1;0;NULL;;Mobile Bild- und Tonaufzeichnungsgeräte;;;;
+356_448;§ 27b POG RP;0;1;0;NULL;;anlassbezogene Kennzeichenerfassung;;;;
+356_449;§ 28 POG RP;0;1;0;NULL;;besondere Mittel der verdeckten Datenerhebung;;;;
+356_45;§ 19 Abs. 3 HSOG;0;1;0;NULL;;DNA-Analyse;;;;
+356_450;§ 29 POG RP;0;1;0;NULL;;Datenerhebung durch den verdeckten Einsatz technischer Mittel in oder aus Wohnungen;;;;
+356_451;§ 30 POG RP;0;1;0;NULL;;Datenerhebung bei Notrufen, Aufzeichnung von Anrufen;;;;
+356_452;§ 31 POG RP;0;1;0;NULL;;Datenerhebung durch den Einsatz technischer Mittel zur Überwachung und Aufzeichnung der Telekommunikation, Auskunft über die Telekommunikation;;;;
+356_453;§ 31a POG RP;0;1;0;NULL;;Identifizierung und Lokalisierung von mobilen Telekommunikationsendgeräten;;;;
+356_454;§ 31b POG RP;0;1;0;NULL;;Auskunft über Nutzungsdaten;;;;
+356_455;§ 31c POG RP;0;1;0;NULL;;Datenerhebung durch den Einsatz technischer Mittel in informationstechnischen Systemen;;;;
+356_456;§ 31d POG RP;0;1;0;NULL;;Unterbrechung oder Verhinderung der Telekommunikation;;;;
+356_457;§ 31e POG RP;0;1;0;NULL;;Funkzellenabfrage;;;;
+356_458;§ 31f POG RP;0;1;0;NULL;;Auskunft über Bestandsdaten;;;;
+356_459;§ 32 POG RP;0;1;0;NULL;;polizeiliche Beobachtung;;;;
+356_46;§ 30 HSOG;0;1;0;NULL;;Vorladung;;;;
+356_460;§ 33 POG RP;0;1;0;NULL;;Speicherung und Nutzung von personenbezogenen Daten;;;;
+356_461;§ 36 POG RP;0;1;0;NULL;;automatisiertes Übermittlungsverfahren, Datenverbund;;;;
+356_462;§ 37 POG RP;0;1;0;NULL;;Datenabgleich;;;;
+356_463;§ 38 POG RP;0;1;0;NULL;;besondere Formen des Datenabgleichs;;;;
+356_464;§ 41 POG RP;0;1;0;NULL;;Errichtung von polizeilichen Dateien;;;;
+356_465;§ 57 POG RP;0;1;0;NULL;;'Allgemeines; unmittelbarer Zwang';;;;
+356_466;§ 61 POG RP;0;1;0;NULL;;Androhung unmittelbaren Zwanges;;;;
+356_467;§ 62 POG RP;0;1;0;NULL;;Fesselung von Personen;;;;
+356_468;§ 64 POG RP;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_469;§ 65 POG RP;0;1;0;NULL;;Schusswaffengebrauch gegen Personen in einer Menschenmenge;;;;
+356_47;§ 31 HSOG;0;1;0;NULL;;'Platzverweisung; Aufenthaltsverbot; Kontaktverbot';;;;
+356_470;§ 66 POG RP;0;1;0;NULL;;besondere Waffen, Sprengmittel;;;;
+356_471;§ 66a POG RP;0;1;0;NULL;;Anwendung unmittelbaren Zwanges durch weitere Gruppen von Vollzugsbeamten;;;;
+356_472;§ 6 SPolG;0;1;0;NULL;;Inanspruchnahme nicht verantwortlicher Personen;;;;
+356_473;§ 8 SPolG;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_474;§ 9 SPolG;0;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;;;;
+356_475;§ 9a SPolG;0;1;0;NULL;;lagebildabhängige Kontrollen, gezielte Kontrollen nach Ausschreibung im Schengener Informationssystem;;;;
+356_476;§ 10 SPolG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;;;
+356_477;§ 10a SPolG;0;1;0;NULL;;Identitätsfeststellung durch DNA-Analyse;;2020-12-30;;
+356_478;§ 11 SPolG;0;1;0;NULL;;Befragung, Vorladung;;;;
+356_479;§ 12 SPolG;0;1;0;NULL;;Platzverweisung, Wohnungsverweisung, Aufenthaltsverbot;;;;
+356_48;§ 32 HSOG;0;1;0;NULL;;Gewahrsam;;;;
+356_480;§ 13 SPolG;0;1;0;NULL;;Gewahrsam;;;;
+356_481;§ 17 SPolG;0;1;0;NULL;;Durchsuchen von Personen;;;;
+356_482;§ 17a SPolG;0;1;0;NULL;;Untersuchen von Personen;;;;
+356_483;§ 18 SPolG;0;1;0;NULL;;Durchsuchen von Sachen;;;;
+356_484;§ 19 SPolG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;
+356_485;§ 21 SPolG;0;1;0;NULL;;Sicherstellung;;;;
+356_486;§ 24 SPolG;0;1;0;NULL;;Herausgabe sichergestellter Sachen oder des Erlöses, Kosten;;;;
+356_487;§ 25 SPolG;0;1;0;NULL;;Grundsätze polizeilicher Verarbeitung personenbezogener Daten;;2020-12-30;;
+356_488;§ 26 SPolG;0;1;0;NULL;;Erhebung personenbezogener Daten;;2020-12-30;;
+356_489;§ 27 SPolG;0;1;0;NULL;;Bild- und Tonaufzeichnungen;;2020-12-30;;
+356_49;§ 36 HSOG;0;1;0;NULL;;Durchsuchung und Untersuchung von Personen;;;;
+356_490;§ 28 SPolG;0;1;0;NULL;;besondere Formen der Erhebung personenbezogener Daten;;2020-12-30;;
+356_491;§ 28a SPolG;0;1;0;NULL;;Erhebung personenbezogener Daten aus Wohnungen;;2020-12-30;;
+356_492;§ 28b SPolG;0;1;0;NULL;;Überwachung und Aufzeichnung der Telekommunikation;;2020-12-30;;
+356_493;§ 28c SPolG;0;1;0;NULL;;Erhebung von Telekommunikationsdaten;;2020-12-30;;
+356_494;§ 29 SPolG;0;1;0;NULL;;Kontrollmeldungen;;2020-12-30;;
+356_495;§ 30 SPolG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung personenbezogener Daten;;2020-12-30;;
+356_496;§ 33 SPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten zwischen Polizeibehörden;;2020-12-30;;
+356_497;§ 34 SPolG;0;1;0;NULL;;Übermittlung personenbezogener Daten an Behörden, öffentliche oder sonstige Stellen;;2020-12-30;;
+356_498;§ 34a SPolG;0;1;0;NULL;;Verarbeitung personenbezogener Daten, die im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union übermittelt worden sind;;2020-12-30;;
+356_499;§ 36 SPolG;0;1;0;NULL;;Abgleich personenbezogener Daten;;2020-12-30;;
+356_5;§ 38 Abs. 1 BKAG;0;1;0;NULL;;Generalklausel - Abwehr von Gefahren des internationalen Terrorismus;;;;4
+356_50;§ 36 Abs. 5 HSOG;0;1;0;NULL;;körperliche Untersuchung von Personen;;;;
+356_500;§ 37 SPolG;0;1;0;NULL;;besondere Formen des Abgleichs personenbezogener Daten;;2020-12-30;;
+356_501;§ 41 SPolG;0;1;0;NULL;;Vollzugshilfe;;;;
+356_502;§ 43 SPolG;0;1;0;NULL;;Vollzugshilfe bei Freiheitsentziehung;;;;
+356_503;§ 45 SPolG;0;1;0;NULL;;Zwangsmittel;;;;
+356_504;§ 46 SPolG;0;1;0;NULL;;Ersatzvornahme;;;;
+356_505;§ 47 SPolG;0;1;0;NULL;;Zwangsgeld;;;;
+356_506;§ 48 SPolG;0;1;0;NULL;;Ersatzzwangshaft;;;;
+356_507;§ 49 SPolG;0;1;0;NULL;;unmittelbarer Zwang;;;;
+356_508;§ 50 SPolG;0;1;0;NULL;;Androhung der Zwangsmittel;;;;
+356_509;§ 52 SPolG;0;1;0;NULL;;Handeln auf Anordnung;;;;
+356_51;§ 37 HSOG;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_510;§ 53 SPolG;0;1;0;NULL;;Hilfeleistung für Verletzte;;;;
+356_511;§ 54 SPolG;0;1;0;NULL;;Androhung unmittelbaren Zwanges;;;;
+356_512;§ 55 SPolG;0;1;0;NULL;;Fesselung von Personen;;;;
+356_513;§ 57 SPolG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_514;§ 58 SPolG;0;1;0;NULL;;Sprengmittel;;;;
+356_52;§ 38 HSOG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;
+356_524;§ 12 TH - PAG;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_525;§ 13 TH - PAG;0;1;0;NULL;;Befragung, Auskunftspflicht;;;;
+356_526;§ 14 TH - PAG;0;1;0;NULL;;Identitätsfeststellung;;;;
+356_527;§ 15 TH - PAG;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;
+356_528;§ 16 TH - PAG (bis 16.04.2018);0;1;0;NULL;;Erkennungsdienstliche Maßnahmen;;2018-04-16;;
+356_529;§ 17 TH - PAG;0;1;0;NULL;;Vorladung;;;;
+356_53;§ 40 HSOG;0;1;0;NULL;;Sicherstellung;;;;
+356_530;§ 18 TH - PAG;0;1;0;NULL;;Platzverweisung, Wohnungsverweisung, Aufenthaltsverbot;;;;
+356_531;§ 19 TH - PAG;0;1;0;NULL;;Gewahrsam;;;;
+356_532;§ 20 TH - PAG;0;1;0;NULL;;richterliche Entscheidung;;;;
+356_533;§ 21 TH - PAG;0;1;0;NULL;;Behandlung festgehaltener Personen;;;;
+356_534;§ 22 TH - PAG;0;1;0;NULL;;Dauer der Freiheitsentziehung;;;;
+356_535;§ 23 TH - PAG;0;1;0;NULL;;Durchsuchung von Personen;;;;
+356_536;§ 24 TH - PAG;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_537;§ 25 TH - PAG;0;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;;;
+356_538;§ 26 TH - PAG;0;1;0;NULL;;Verfahren bei der Durchsuchung von Wohnungen;;;;
+356_539;§ 27 TH - PAG;0;1;0;NULL;;Sicherstellung;;;;
+356_54;§ 41 HSOG;0;1;0;NULL;;Verwahrung;;;;
+356_540;§ 28 TH - PAG;0;1;0;NULL;;Verwahrung;;;;
+356_541;§ 29 TH - PAG;0;1;0;NULL;;Verwertung, Vernichtung;;;;
+356_542;§ 30 TH - PAG;0;1;0;NULL;;Herausgabe sichergestellter Sachen oder des Erlöses, Kosten;;;;
+356_543;§ 31 TH - PAG;0;1;0;NULL;;Grundsätze der Datenerhebung;;;;
+356_544;§ 32 TH - PAG;0;1;0;NULL;;Datenerhebung;;;;
+356_545;§ 33 TH - PAG;0;1;0;NULL;;Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonderen Orten, zur Eigensicherung sowie durch anlassbezogene automatisierte Kraftfahrzeugkennzeichenerkennung;;;;
+356_546;§ 34 TH - PAG;0;1;0;NULL;;besondere Mittel der Datenerhebung;;;;
+356_547;§ 34a TH - PAG;0;1;0;NULL;;Überwachung der Telekommunikation;;;;
+356_548;§ 34b TH - PAG;0;1;0;NULL;;Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten;;;;
+356_549;§ 34c TH - PAG;0;1;0;NULL;;Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten;;;;
+356_55;§ 44 HSOG;0;1;0;NULL;;Vollzugshilfe;;;;
+356_550;§ 34d TH - PAG;0;1;0;NULL;;Unterbrechung und Verhinderung von Telekommunikation;;;;
+356_551;§ 34e TH - PAG;0;1;0;NULL;;Erhebung von Bestandsdaten;;;;
+356_552;§ 35 TH - PAG;0;1;0;NULL;;Wohnraumüberwachung;;;;
+356_553;§ 36 TH - PAG;0;1;0;NULL;;gemeinsame Verfahrensbestimmungen für Maßnahmen der verdeckten Datenerhebung;;;;
+356_554;§ 37 TH - PAG;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung und zur gezielten Kontrolle;;;;
+356_555;§ 38 TH - PAG;0;1;0;NULL;;allgemeine Regeln über die Dauer der Datenspeicherung;;;;
+356_556;§ 39 TH - PAG;0;1;0;NULL;;Zweckbindung bei der Datenspeicherung, Datenveränderung und Datennutzung;;;;
+356_557;§ 40 TH - PAG;0;1;0;NULL;;Speicherung, Veränderung und Nutzung von Daten;;;;
+356_558;§ 41 TH - PAG;0;1;0;NULL;;Datenübermittlung;;;;
+356_559;§ 41a TH - PAG;0;1;0;NULL;;Datenübermittlung zum Zwecke einer Zuverlässigkeitsüberprüfung;;;;
+356_56;ZFdG;0;1;0;NULL;;Gesetz über das Zollkriminalamt und die Zollfahndungsämter;;;;
+356_560;§ 41b TH - PAG;0;1;0;NULL;;Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union aufgrund des Rahmenbeschlusses 2006/960/JI;;;;
+356_561;§ 41c TH - PAG;0;1;0;NULL;;Verarbeitung von Daten, die im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union übermittelt worden sind;;;;
+356_562;§ 41d TH - PAG;0;1;0;NULL;;Übermittlung und Verarbeitung personenbezogener Daten an Mitgliedstaaten der Europäischen Union aufgrund des Ratsbeschlusses 2008/615/JI;;;;
+356_563;§ 42 TH - PAG;0;1;0;NULL;;automatisiertes Abrufverfahren;;;;
+356_564;§ 43 TH - PAG;0;1;0;NULL;;Datenabgleich;;;;
+356_565;§ 44 TH - PAG;0;1;0;NULL;;Rasterfahndung;;;;
+356_566;§ 45 TH - PAG;0;1;0;NULL;;Berichtigung, Löschung und Sperrung von Daten;;;;
+356_567;§ 46 TH - PAG;0;1;0;NULL;;Errichtungsanordnung;;;;
+356_568;§ 47 TH - PAG;0;1;0;NULL;;Auskunftsrecht;;;;
+356_569;§ 48 TH - PAG;0;1;0;NULL;;Vollzugshilfe;;;;
+356_57;§ 10 ZFdG;0;1;0;NULL;;Ausschreibung;;;;
+356_570;§ 53 TH - PAG;0;1;0;NULL;;Ersatzvornahme;;;;
+356_571;§ 56 TH - PAG;0;1;0;NULL;;unmittelbarer Zwang;;;;
+356_572;§ 60 TH - PAG;0;1;0;NULL;;Handeln auf Anordnung;;;;
+356_573;§ 62 TH - PAG;0;1;0;NULL;;Androhung unmittelbaren Zwanges;;;;
+356_574;§ 63 TH - PAG;0;1;0;NULL;;Fesselung von Personen;;;;
+356_575;§ 65 TH - PAG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_576;§ 66 TH - PAG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen in einer Menschenmenge;;;;
+356_577;SächsPolG;0;1;0;NULL;;Polizeigesetz des Freistaates Sachsen;;;;
+356_578;LVwG SH;0;1;0;NULL;;allgemeines Verwaltungsgesetz für das Land Schleswig-Holstein (Landesverwaltungsgesetz - LVwG);;;;
+356_579;SOG M-V;0;1;0;NULL;;Gesetz über die öffentliche Sicherheit und Ordnung in Mecklenburg-Vorpommern;;;;
+356_58;§ 23a Alt. 2 ZFdG;0;1;0;NULL;;präventive Telekommunikationsüberwachung;;;;
+356_580;§ 13 SOG M-V;0;1;0;NULL;;allgemeine Befugnisse;;;;
+356_581;§ 27a Nr. 1 i.V.m. § 49 SOG M-V;0;1;0;NULL;;Anhalte- und Sichtkontrollen im öff. Verkehrsraum;;;;
+356_582;§ 27a Nr. 2 SOG M-V;0;1;0;NULL;;Anhalte- und Sichtkontrollen im Grenzgebiet, in öff. Einrichtungen des internat. Verkehrs mit unmitt. Grenzbezug, Küstenmeer sowie inneren Gewässern;;;;
+356_583;§ 28 Abs. 1 SOG M-V;0;1;0;NULL;;Befragung von Personen;;;;
+356_584;§ 29 SOG M-V;0;1;0;NULL;;Identitätsfeststellung zur Gefahrenabwehr;;;;
+356_585;§ 30 SOG M-V;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;
+356_586;§ 31 Abs. 1, S. 1 SOG M-V;0;1;0;NULL;;erkennungsdienstliche Maßnahmen zur Identitätsfeststellung;;;;
+356_587;§ 31 Abs. 1, S. 2 SOG M-V;0;1;0;NULL;;erkennungsdienstliche Maßnahmen zur Verhütung und Aufklärung von künftigen Straftaten;;;;
+356_588;§ 32 Abs. 1 SOG M-V;0;1;0;NULL;;Bild- und Tonaufzeichnungen bei öffentlichen Veranstaltungen und Ansammlungen;;;;
+356_589;§ 32 Abs. 3 SOG M-V;0;1;0;NULL;;Bild- und Tonaufzeichnungen öffentlich zugänglicher Plätze und Räume;;;;
+356_59;§ 23a Alt. 1 ZFdG;0;1;0;NULL;;präventive Postüberwachung;;;;
+356_590;§ 33 Abs. 2 SOG M-V;0;1;0;NULL;;Einsatz besonderer Mittel der Datenerhebung (Observation, verdeckte Bild- und Tonüberwachung /-aufzeichnung, VP, VE);;;;
+356_591;§ 33 Abs. 4 SOG M-V;0;1;0;NULL;;Erhebung personenbezogener Daten in bzw. aus Wohnungen;;;;
+356_592;§ 33 Abs. 5 SOG M-V;0;1;0;NULL;;Urkunden des verdeckten Ermittlers;;;;
+356_593;§ 33 Abs. 6 SOG M-V;0;1;0;NULL;;Erhebung personenbezogener Daten aus Amts- oder Berufsgeheimnis;;;;
+356_594;§ 35 Abs. 1 SOG M-V;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung;;;;
+356_595;§ 50 SOG M-V;0;1;0;NULL;;Vorladung;;;;
+356_596;§ 51 SOG M-V;0;1;0;NULL;;'Verfahren bei der Vorführung; Vorführung';;;;
+356_597;§ 52 SOG M-V;0;1;0;NULL;;'Platzverweisung; Platzverweis';;;;
+356_598;§ 53 Abs. 1 Nr. 2a SOG M-V;0;1;0;NULL;;Durchsuchung zum Schutz der Person;;;;
+356_599;§ 53 Abs. 1 Nr. 2b SOG M-V;0;1;0;NULL;;Durchsuchung zur Eigensicherung;;;;
+356_6;§ 39 Abs. 1 und 2 BKAG;0;1;0;NULL;;allgemeine Befugnisnorm zur Datenerhebung zur Abwehr von Gefahren des internationalen Terrorismus;;;;4
+356_60;§§ 18, 28 ZFdG;0;1;0;NULL;;präventive längerfristige Observation;;;;
+356_600;§ 53 Abs. 1 Nr. 3 SOG M-V;0;1;0;NULL;;Durchsuchung zur Identitätsfeststellung;;;;
+356_601;§ 55 Abs. 1 Nr. 1 SOG M-V;0;1;0;NULL;;Gewahrsamnahme zum Schutz der Person;;;;
+356_602;§ 55 Abs. 1 Nr. 2 SOG M-V;0;1;0;NULL;;Gewahrsamnahme zur Verhinderung von Straftaten;;;;
+356_603;§ 55 Abs. 1 Nr. 3 SOG M-V;0;1;0;NULL;;Gewahrsamnahme zur Gewährleistung der öffentl. Sicherheit und Ordnung;;;;
+356_604;§ 55 Abs. 1 Nr. 4 SOG M-V;0;1;0;NULL;;Gewahrsamnahme zum privaten Rechtsschutz;;;;
+356_605;§ 55 Abs. 1 Nr. 5 SOG M-V;0;1;0;NULL;;Gewahrsamnahme zur Durchsetzung eines Platzverweises;;;;
+356_606;§ 55 Abs. 2 SOG M-V;0;1;0;NULL;;Gewahrsamnahme von Minderjährigen und Betreuten;;;;
+356_607;§ 55 Abs. 3 SOG M-V;0;1;0;NULL;;Gewahrsamnahme von entwichenen Strafgefangenen;;;;
+356_608;§ 57 SOG M-V;0;1;0;NULL;;Durchsuchung von Sachen;;;;
+356_609;§ 59 SOG M-V;0;1;0;NULL;;Betreten und Durchsuchung von Räumen;;;;
+356_61;§§ 19, 29 ZFdG;0;1;0;NULL;;präventive Bildaufzeichnungen;;;;
+356_610;§ 61 SOG M-V;0;1;0;NULL;;Sicherstellung von Sachen;;;;
+356_611;§ 64 SOG M-V;0;1;0;NULL;;'Verwertung, Vernichtung; Verwertung und Vernichtung verwahrter Sachen';;;;
+356_612;§ 65 SOG M-V;0;1;0;NULL;;'Verfahren bei der Wegnahme einer Person; Wegnahme von Personen';;;;
+356_613;§ 66 SOG M-V;0;1;0;NULL;;'Verfahren bei der Zwangsräumung; Zwangsräumung';;;;
+356_614;§ 67 SOG M-V;0;1;0;NULL;;'Übertragung des Eigentums; Eigentumsübertragung';;;;
+356_615;§ 71 SOG M-V;0;1;0;NULL;;Inanspruchnahme des Nichtstörers;;;;
+356_616;§ 72 SOG M-V;0;1;0;NULL;;Entschädigungsanspruch des Nichtstörers;;;;
+356_617;§ 73 SOG M-V;0;1;0;NULL;;Entschädigungsanspruch des unbeteiligten Dritten;;;;
+356_618;§ 78 SOG M-V;0;1;0;NULL;;Einschränkung von Grundrechten;;;;
+356_619;§ 81 SOG M-V;0;1;0;NULL;;'sofortiger Vollzug; sofortiger Vollzug des Verwaltungszwangs bei Gefahr im Verzug';;;;
+356_62;§§ 20, 30 ZFdG;0;1;0;NULL;;präventive Tonaufzeichnungen;;;;
+356_620;§ 82a SOG M-V;0;1;0;NULL;;Vollzugshilfe;;;;
+356_621;§ 82c SOG M-V;0;1;0;NULL;;Vollzugshilfe bei Freiheitsentziehung;;;;
+356_622;§ 84 SOG M-V;0;1;0;NULL;;Vollzug gegen Rechtsnachfolger;;;;
+356_623;§ 88 SOG M-V;0;1;0;NULL;;Zwangsgeld;;;;
+356_624;§ 89 SOG M-V;0;1;0;NULL;;Ersatzvornahme;;;;
+356_625;§ 90 SOG M-V;0;1;0;NULL;;unmittelbarer Zwang;;;;
+356_626;§ 91 SOG M-V;0;1;0;NULL;;Ersatzzwangshaft;;;;
+356_627;§ 92 SOG M-V;0;1;0;NULL;;Einstellung des Vollzugs;;;;
+356_628;§ 93 SOG M-V;0;1;0;NULL;;Abgabe einer Erklärung;;;;
+356_629;§ 106 SOG M-V;0;1;0;NULL;;Fesselung von Personen;;;;
+356_63;§§ 21,31 ZFdG;0;1;0;NULL;;präventiver Einsatz von Privatpersonen;;;;
+356_630;§ 109 SOG M-V;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;
+356_631;§ 110 SOG M-V;0;1;0;NULL;;Schusswaffengebrauch gegen Personen in Menschenmenge;;;;
+356_632;SOG LSA;0;1;0;NULL;;Gesetz über die öffentliche Sicherheit und Ordnung des Landes Sachsen-Anhalt;;;;
+356_633;SOG;0;1;0;NULL;;Gesetz zum Schutz der öffentlichen Sicherheit und Ordnung;;;;
+356_634;PolDVG;0;1;0;NULL;;Gesetz über die Datenverarbeitung der Polizei;;;;
+356_635;§ 3 SOG;0;1;0;NULL;;Maßnahmen zur Gefahrenabwehr;;;;
+356_636;§ 7 Abs. 1 SOG;0;1;0;NULL;;unmittelbare Ausführung;;;;
+356_637;§ 11 Abs. 1 SOG;0;1;0;NULL;;Vorladung;;;;
+356_638;§ 12 SOG;0;1;0;NULL;;Feststellung der Personalien;;;;
+356_639;§ 12a SOG;0;1;0;NULL;;Platzverweisung;;;;
+356_64;POG RP;0;1;0;NULL;;Polizei- und Ordnungsbehördengesetz Rheinland-Pfalz;;;;
+356_640;§ 12b Abs. 1 SOG;0;1;0;NULL;;Betretungsverbot;;;;
+356_641;§ 12b Abs. 2 SOG;0;1;0;NULL;;Aufenthaltsverbot;;;;
+356_642;§ 12b Abs. 3 SOG;0;1;0;NULL;;Kontakt- und Näherungsverbot;;;;
+356_643;§ 12c SOG;0;1;0;NULL;;polizeiliche Begleitung;;;;
+356_644;§ 13 SOG;0;1;0;NULL;;Gewahrsam von Personen;;;;
+356_645;§ 14 SOG;0;1;0;NULL;;Sicherstellung von Sachen;;;;
+356_646;§ 15 Abs. 1, 2 SOG;0;1;0;NULL;;Durchsuchung von Personen;;;;
+356_647;§ 15 Abs. 4 SOG;0;1;0;NULL;;Untersuchung von Personen;;;;
+356_648;§ 15a SOG;0;1;0;NULL;;Durchsuchen von Sachen;;;;
+356_649;§ 16 SOG;0;1;0;NULL;;Betreten und Durchsuchen von Wohnungen;;;;
+356_65;SPolG;0;1;0;NULL;;Saarländisches Polizeigesetz;;;;
+356_650;§ 18a SOG;0;1;0;NULL;;ärztliche Zwangsmaßnahmen;;;;
+356_651;§ 23 SOG;0;1;0;NULL;;Fesselung von Personen;;;;
+356_652;§ 25 SOG;0;1;0;NULL;;Schusswaffengebrauch gegen einzelne Personen;;;;
+356_653;§ 26 SOG;0;1;0;NULL;;Schusswaffengebrauch gegen Personen in einer Menschenmenge;;;;
+356_654;§ 30 SOG;0;1;0;NULL;;Amtshandlungen durch Bedienstete oder Kräfte des Bundes, der Länder, Kreise und Gemeinden;;;;
+356_655;§ 30a SOG;0;1;0;NULL;;Amtshandlungen von Polizeivollzugsbeamten des Bundes und anderer Länder sowie von Bediensteten ausländischer Staaten;;;;
+356_656;§ 30b SOG;0;1;0;NULL;;Amtshandlungen hamburgischer Polizeivollzugsbeamter außerhalb Hamburgs;;;;
+356_657;§ 2 PolDVG;0;1;0;NULL;;Grundsätze der Datenerhebung;;2019-12-11;;
+356_658;§ 3 Abs. 1 PolDVG;0;1;0;NULL;;Befragung;;2019-12-11;;
+356_659;§ 3 Abs. 2 PolDVG;0;1;0;NULL;;Auskunftspflicht;;2019-12-11;;
+356_66;PolG BW;0;1;0;NULL;;Polizeigesetz Baden-Württemberg;;;;
+356_660;§ 4 PolDVG;0;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;;2019-12-11;;
+356_661;§ 5 PolDVG;0;1;0;NULL;;Datenerhebung zur Vorbereitung auf die Hilfeleistung in Gefahrenfällen;;2019-12-11;;
+356_662;§ 6 PolDVG;0;1;0;NULL;;Voraussetzungen der Datenerhebung;;2019-12-11;;
+356_663;§ 6a PolDVG;0;1;0;NULL;;Datenerhebung bei Notrufen, Aufzeichnung von Anrufen;;2019-12-11;;
+356_664;§ 7 PolDVG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen;;2019-12-11;;
+356_665;§ 8 PolDVG;0;1;0;NULL;;Datenerhebung im öffentlichen Raum und an besonders gefährdeten Objekten;;2019-12-11;;
+356_666;§ 8a PolDVG;0;1;0;NULL;;Datenerhebung durch den Einsatz von automatischen Kennzeichenlesesystemen;;2019-12-11;;
+356_667;§ 9 Abs. 1 PolDVG;0;1;0;NULL;;Datenerhebung durch Observation (langfristige Observation);;2019-12-11;;
+356_668;§ 9 Abs. 4 PolDVG;0;1;0;NULL;;Datenerhebung durch Observation (kurzfristige Observation);;2019-12-11;;
+356_669;§ 10 PolDVG;0;1;0;NULL;;Datenerhebung durch den verdeckten Einsatz technischer Mittel;;2019-12-11;;
+356_67;§ 1 Abs. 1 PolG BW;0;1;0;NULL;;Allgemeinauftrag / Generalklausel;;;;
+356_670;§ 10a PolDVG;0;1;0;NULL;;Datenerhebung durch den verdeckten Einsatz technischer Mittel in oder aus Wohnungen;;2019-12-11;;
+356_671;§ 10b Abs. 1 PolDVG;0;1;0;NULL;;Datenerhebung durch Telekommunikationsüberwachung;;2019-12-11;;
+356_672;§ 10b Abs. 2 PolDVG;0;1;0;NULL;;Eingriff in die Telekommunikation;;2019-12-11;;
+356_673;§ 10c PolDVG;0;1;0;NULL;;Telekommunikationsüberwachung an informationstechnischen Systemen;;2019-12-11;;
+356_674;§ 10d Abs. 1 PolDVG;0;1;0;NULL;;Verkehrsdatenerhebung;;2019-12-11;;
+356_675;§ 10d Abs. 2 PolDVG;0;1;0;NULL;;Zielsuchlauf;;2019-12-11;;
+356_676;§ 10d Abs. 3 Nr. 1 PolDVG;0;1;0;NULL;;Einsatz technischer Mittel zur Ermittlung von Geräte- und Kartennummern;;2019-12-11;;
+356_677;§ 10d Abs. 3 Nr. 2 PolDVG;0;1;0;NULL;;Einsatz technischer Mittel zur Ermittlung von Standorten;;2019-12-11;;
+356_678;§ 10f PolDVG;0;1;0;NULL;;Bestandsdatenerhebung;;2019-12-11;;
+356_679;§ 11 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Datenerhebung durch den Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist;;2019-12-11;;
+356_68;§ 1 Abs. 2 PolG BW;0;1;0;NULL;;Schutz privater Rechte;;;;
+356_680;§ 12 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Datenerhebung durch den Einsatz verdeckter Ermittler;;2019-12-11;;
+356_681;§ 13 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;polizeiliche Beobachtung;;2019-12-11;;
+356_682;§ 16 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Speichern, Verändern und Nutzen von Daten;;2019-12-11;;
+356_683;§ 17 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Nutzung von Daten zu Zwecken der Statistik, Aus- und Fortbildung;;2019-12-11;;
+356_684;§ 18 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;allgemeine Regelungen der Datenübermittlung;;2019-12-11;;
+356_685;§ 18a PolDVG;0;1;0;NULL;;besondere Grundsätze der Datenverarbeitung im Rahmen der polizeilichen Zusammenarbeit zwischen Mitgliedstaaten der Europäischen Union und Schengen-assoziierten Staaten;;2019-12-11;;
+356_686;§ 19 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Datenübermittlung zwischen Polizeidienststellen;;2019-12-11;;
+356_687;§ 20 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Datenübermittlung an öffentliche Stellen, an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen;;2019-12-11;;
+356_688;§ 20a PolDVG;0;1;0;NULL;;Datenübermittlung an Mitgliedstaaten der Europäischen Union und Schengen-assoziierte Staaten;;2019-12-11;;
+356_689;§ 21 Abs. 1 PolDVG;0;1;0;NULL;;Datenübermittlung an Personen und Stellen außerhalb des öffentlichen Bereichs;;2019-12-11;;
+356_69;§ 20 Abs. 1 PolG BW;0;1;0;NULL;;Befragung;;2020-12-31;;
+356_690;§ 21 Abs. 2 PolDVG;0;1;0;NULL;;Bekanntgabe an die Öffentlichkeit;;2019-12-11;;
+356_691;§ 22 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Datenabgleich;;2019-12-11;;
+356_692;§ 23 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Rasterfahndung;;2019-12-11;;
+356_693;§ 25 PolDVG (gültig bis 11.12.2019);0;1;0;NULL;;Auskunft an den Betroffenen;;2019-12-11;;
+356_694;§ 174 LVwG SH;0;1;0;NULL;;allgemeiner Grundsatz / Generalklausel;;;;4
+356_695;§ 178 Abs. 1 LVwG SH;0;1;0;NULL;;Erhebung personenbezogener Daten;;;;4
+356_696;§ 178 Abs. 2 LVwG SH;0;1;0;NULL;;verdeckte Datenerhebung;;;;3
+356_697;§ 179 LVwG SH;0;1;0;NULL;;Voraussetzungen der Datenerhebung;;;;4
+356_698;§ 180 Abs. 1 LVwG SH;0;1;0;NULL;;Befragung;;;;4
+356_699;§ 180 Abs. 3 LVwG SH;0;1;0;NULL;;Anhalte- und Sichtkontrolle / lageabhängige Kontrolle;;;;4
+356_7;§ 40 Abs. 1 BKAG (bis 24.05.2018);0;1;0;NULL;;Bestandsdatenauskunft;;2018-05-24;;4
+356_70;§ 20 Abs. 2 PolG BW;0;1;0;NULL;;Generalklausel zur Datenerhebung;;2020-12-31;;
+356_700;§ 180a LVwG SH;0;1;0;NULL;;Bestandsdatenauskunft;;;;
+356_701;§ 180a Abs. 1 LVwG SH;0;1;0;NULL;;Auskunftsverlangen Bestandsdaten (Telekommunikationsgesetz);;;;4
+356_702;§ 180a Abs. 2 LVwG SH;0;1;0;NULL;;Auskunftsverlangen Bestandsdaten für Zugriff auf Endgeräte oder eingesetzte Speichereinrichtungen;;;;3
+356_703;§ 180a Abs. 4 LVwG SH;0;1;0;NULL;;Auskunftsverlangen Bestandsdaten (Telemediengesetz);;;;4
+356_704;§ 181 LVwG SH;0;1;0;NULL;;Identitätsfeststellung;;;;4
+356_705;§ 182 LVwG SH;0;1;0;NULL;;Prüfung von Berechtigungsscheinen;;;;4
+356_706;§ 183 Abs. 1 S. 1 LVwG SH;0;1;0;NULL;;ED-Maßnahmen zur Identitätsfeststellung;;;;4
+356_707;§ 183a LVwG SH;0;1;0;NULL;;medizinische und molekulargenetische Untersuchungen;;;;4
+356_708;§ 184 LVwG SH;0;1;0;NULL;;Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen sowie auf öffentlichen Flächen;;;;4
+356_709;§ 185 Abs. 1 LVwG SH;0;1;0;NULL;;besondere Mittel der Datenerhebung;;;;
+356_71;§ 20 Abs. 3 PolG BW;0;1;0;NULL;;Datenerhebung zur vorbeugenden Straftatenbekämpfung;;2020-12-31;;
+356_710;§ 185 Abs. 1 Nr. 1 LVwG SH;0;1;0;NULL;;längerfristige Observation;;;;3
+356_711;§ 185 Abs. 1 Nr. 2 Buchstabe a LVwG SH;0;1;0;NULL;;Einsatz technischer Mittel zur Bildaufzeichnung;;;;3
+356_712;§ 185 Abs. 1 Nr. 2 Buchstabe b LVwG SH;0;1;0;NULL;;Einsatz technischer Mittel zur Tonaufzeichnung;;;;2
+356_713;§ 185 Abs. 1 Nr. 3 LVwG SH;0;1;0;NULL;;Aufnahme von vertraulichen Hinweisen;;;;3
+356_714;§ 185 Abs. 3 LVwG SH;0;1;0;NULL;;Einsatz technischer Mittel in oder aus Wohnungen;;;;1
+356_715;§ 185a LVwG SH;0;1;0;NULL;;Datenerhebung durch Überwachung der Telekommunikation;;;;2
+356_716;§ 187 LVwG SH;0;1;0;NULL;;Kontrollmeldungen (verdeckte Registrierungen zur polizeilichen Beobachtung, gezielte Kontrollen);;;;3
+356_717;§ 192 LVwG SH;0;1;0;NULL;;Datenübermittlung zwischen Polizei- und Ordnungsbehörden sowie an ausländische Polizeidienststellen in Staaten des Schengen Verbundes;;;;4
+356_718;§ 193 LVwG SH;0;1;0;NULL;;Datenübermittlung an Behörden, öffentliche Stellen oder sonstige Stellen;;;;4
+356_719;§ 198 LVwG SH;0;1;0;NULL;;Auskunftsrecht der betroffenen Person, Akteneinsicht;;;;
+356_72;§ 20 Abs. 4 PolG BW;0;1;0;NULL;;Datenerhebung zur Vorbereitung auf die Gefahrenabwehr;;2020-12-31;;
+356_720;§ 199 LVwG SH;0;1;0;NULL;;Vorladung;;;;4
+356_721;§ 200 LVwG SH;0;1;0;NULL;;Vorführung einer Person;;;;4
+356_722;§ 201 LVwG SH;0;1;0;NULL;;Platzverweis und Aufenthaltsverbot;;;;4
+356_723;§ 201a LVwG SH;0;1;0;NULL;;Wohnungsverweisung sowie Rückkehr- und Betretungsverbot zum Schutz vor häuslicher Gewalt;;;;4
+356_724;§ 202 LVwG SH;0;1;0;NULL;;Durchsuchung von Personen;;;;4
+356_725;§ 204 LVwG SH;0;1;0;NULL;;Gewahrsam von Personen;;;;4
+356_726;§ 206 LVwG SH;0;1;0;NULL;;Durchsuchung von Sachen;;;;4
+356_727;§ 206a LVwG SH;0;1;0;NULL;;Durchsuchung bei gezielten Kontrollen;;;;4
+356_728;§ 208 LVwG SH;0;1;0;NULL;;Betreten und Durchsuchung von Wohnungen;;;;4
+356_729;§ 208 Abs. 4 LVwG SH;0;1;0;NULL;;Betreten und Durchsuchen zur Nachtzeit;;;;4
+356_73;§ 20 Abs. 5 PolG BW;0;1;0;NULL;;Datenerhebung zum Schutz privater Rechter und zur Vollzugshilfe;;2020-12-31;;
+356_730;§ 210 LVwG SH;0;1;0;NULL;;Sicherstellung von Sachen;;;;4
+356_731;§ 212 LVwG SH;0;1;0;NULL;;amtliche Verwahrung;;2019-10-31;;
+356_732;§ 213 LVwG SH;0;1;0;NULL;;Verwertung, Vernichtung;;;;4
+356_733;§ 230 LVwG SH;0;1;0;NULL;;sofortiger Vollzug;;2019-10-31;;
+356_734;§ 236 LVwG SH;0;1;0;NULL;;Androhung von Zwangsmitteln;;2019-10-31;;
+356_735;§ 238 LVwG SH;0;1;0;NULL;;Ersatzvornahme;;2019-10-31;;
+356_736;§ 239 LVwG SH;0;1;0;NULL;;unmittelbarer Zwang;;2019-10-31;;
+356_737;§ 255 LVwG SH;0;1;0;NULL;;Fesselung von Personen;;;;4
+356_738;§ 257 LVwG SH;0;1;0;NULL;;allgemeine Vorschriften für den Schusswaffengebrauch;;2019-10-31;;
+356_739;§ 258 LVwG SH;0;1;0;NULL;;Schusswaffengebrauch gegen Personen;;;;4
+356_74;§ 21 Abs. 1 PolG BW;0;1;0;NULL;;Bild- und Tonaufzeichnung öffentlichen Veranstaltungen und Ansammlungen;;2020-12-31;;
+356_740;§ 259 LVwG SH;0;1;0;NULL;;Warnung beim Einsatz unmittelbaren Zwangs;;2019-10-31;;
+356_741;§ 17 HSOG;0;1;0;NULL;;polizeiliche Beobachtung;;;;
+356_742;§ 51 HSOG;0;1;0;NULL;;Ersatzzwangshaft;;;;
+356_743;§ 16 Abs. 1 Nr. 1 TH - PAG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen (Identitätsfeststellung);;;;
+356_744;§ 16 Abs. 1 Nr. 2 TH - PAG;0;1;0;NULL;;erkennungsdienstliche Maßnahmen (vorbeugenden Bekämpfung von Straftaten);;;;
+356_745;Art. 12 PAG BY;0;1;0;NULL;;Auskunftspflicht;;;;
+356_746;Art. 33 PAG BY;0;1;0;NULL;;offene Bild- und Tonaufnahmen;;;;
+356_747;Art. 37 PAG BY;0;1;0;NULL;;Einsatz verdeckter Ermittler;;;;
+356_748;Art. 38 PAG BY;0;1;0;NULL;;Einsatz von Vertrauenspersonen;;;;
+356_749;Art. 39 PAG BY;0;1;0;NULL;;automatisierte Kennzeichenerkennungssysteme;;;;
+356_75;§ 22 Abs. 2 PolG BW;0;1;0;NULL;;Datenerhebung durch verdeckten Einsatz technischer Mittel;;2020-12-31;;
+356_750;Art. 40 PAG BY;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung;;;;
+356_751;Art. 41 PAG BY;0;1;0;NULL;;Einsatz technischer Mittel in Wohnungen;;;;
+356_752;Art. 42 PAG BY;0;1;0;NULL;;Eingriffe in den Telekommunikationsbereich;;;;
+356_753;Art. 43 PAG BY;0;1;0;NULL;;Mitwirkungspflichten der Diensteanbieter;;;;
+356_754;Art. 47 PAG BY;0;1;0;NULL;;Einsatz von unbemannten Luftfahrtsystemen;;;;
+356_755;Art. 47a PAG BY;0;1;0;NULL;;Überwindung besonderer Sicherungen;;;;
+356_756;Art. 48 PAG BY;0;1;0;NULL;;Weiterverarbeitung von Daten, Datenübermittlung, Kennzeichnung und Sicherung;;;;
+356_757;Art. 56 PAG BY;0;1;0;NULL;;Übermittlung an öffentliche Stellen im Inland;;;;
+356_758;Art. 57 PAG BY;0;1;0;NULL;;Übermittlung an öffentliche Stellen der Mitgliedstaaten und an Organisationen der Europäischen Union;;;;
+356_759;Art. 58 PAG BY;0;1;0;NULL;;Übermittlung an öffentliche Stellen in Drittstaaten und an internationale Organisationen;;;;
+356_76;§ 22 Abs. 3 PolG BW;0;1;0;NULL;;Datenerhebung durch besondere Mittel der Datenerhebung;;2020-12-31;;
+356_760;Art. 59 PAG BY;0;1;0;NULL;;Übermittlung an nichtöffentliche Stellen;;;;
+356_761;Art. 60 PAG BY;0;1;0;NULL;;Datenempfang durch die Polizei;;;;
+356_762;Art. 62 PAG BY;0;1;0;NULL;;Berichtigung, Löschung und Verarbeitungseinschränkungen von Daten;;;;
+356_763;Art. 69 PAG BY;0;1;0;NULL;;Vollzugshilfe bei Freiheitsentziehungen;;;;
+356_764;Art. 71 PAG BY;0;1;0;NULL;;Zwangsmittel;;;;
+356_765;Art. 73 PAG BY;0;1;0;NULL;;Zwangsgeld;;;;
+356_766;Art. 74 PAG BY;0;1;0;NULL;;Ersatzzwangshaft;;;;
+356_767;Art. 76 PAG BY;0;1;0;NULL;;Androhung der Zwangsmittel;;;;
+356_768;Art. 86 PAG BY;0;1;0;NULL;;besondere Waffen, Sprengmittel;;;;
+356_769;§ 30 Abs. 2 Nds. SOG;0;1;0;NULL;;verdeckte Datenerhebung zum Zwecke der Gefahrenabwehr;;;;
+356_77;§ 22a Abs. 1 PolG BW;0;1;0;NULL;;Einsatz automatischer Kennzeichenlesesysteme;;2020-12-31;;
+356_770;§ 33a Nds. SOG;0;1;0;NULL;;Datenerhebung durch Überwachung der Telekommunikation (einschließlich der Erhebung von Verkehrsdaten und Standortkennungen);;;;
+356_771;§ 33b Nds. SOG;0;1;0;NULL;;Geräte- und Standortermittlung, Unterbrechung der Telekommunikation (IMSI Catcher);;;;
+356_772;§ 33c Nds. SOG;0;1;0;NULL;;Auskunftsverlangen (zu Bestandsdaten, Zugangssicherungscodes, dynamischen IP-Adressen;;;;
+356_773;§ 34 Nds. SOG;0;1;0;NULL;;Datenerhebung durch längerfristige Observation;;;;
+356_774;§ 35 Nds. SOG;0;1;0;NULL;;Datenerhebung durch den verdeckten Einsatz technischer Mittel außerhalb Wohnungen (zur Anfertigung von Bild- und Tonaufzeichnungen, Standortermittlung);;;;
+356_775;§ 35a Nds. SOG;0;1;0;NULL;;Datenerhebung durch den verdeckten Einsatz technischer Mittel in Wohnungen;;;;
+356_776;§ 36 Nds. SOG;0;1;0;NULL;;Datenerhebung durch die Verwendung von Vertrauenspersonen;;;;
+356_777;§ 36a Nds. SOG;0;1;0;NULL;;Datenerhebung durch den Einsatz Verdeckter Ermittler;;;;
+356_778;§ 37 Nds. SOG;0;1;0;NULL;;Kontrollmeldung (beobachtende Fahndung);;;;
+356_779;§ 28a BPolG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung;;;;
+356_78;§ 23 Abs. 1 PolG BW;0;1;0;NULL;;verdeckte Datenerhebung in oder aus Wohnungen;;2020-12-31;;
+356_780;§ 38 BPolG;0;1;0;NULL;;Platzverweisung;;;;
+356_781;§ 21 Abs. 4 PolG BW;0;1;0;NULL;;intelligente Videoüberwachung;;2020-12-31;;
+356_782;§ 23b Abs. 1 PolG BW;0;1;0;NULL;;präventive TKÜ;;2020-12-31;;
+356_783;§ 23b Abs. 2 PolG BW;0;1;0;NULL;;Quellen-TKÜ;;2020-12-31;;
+356_784;§ 23c Abs. 1 PolG BW;0;1;0;NULL;;Online-Durchsuchung;;2020-12-31;;
+356_785;§ 27b Abs. 1 PolG BW;0;1;0;NULL;;Aufenthaltsverbot (zur Verhütung von Straftaten mit terroristischer Zielrichtung);;2020-12-31;;
+356_786;§ 27b Abs. 2 PolG BW;0;1;0;NULL;;Kontaktverbot (zur Verhütung von Straftaten mit terroristischer Zielrichtung);;2020-12-31;;
+356_787;§ 27c Abs. 1 PolG BW;0;1;0;NULL;;elektronische Aufenthaltsüberwachung (Fußfessel / zur Abwehr von Gefahren des internationalen Terrorismus);;2020-12-31;;
+356_788;§ 27c Abs. 2 PolG BW;0;1;0;NULL;;Verarbeitung der für die elektronische Überwachung erforderlichen Daten;;2020-12-31;;
+356_789;§ 27c Abs. 4 PolG BW;0;1;0;NULL;;Übermittlung der Daten der elektronischen Überwachung;;2020-12-31;;
+356_79;§ 23a Abs. 1 PolG BW;0;1;0;NULL;;Datenerhebung nach dem Telekommunikationsgesetz und Telemediengesetz (Abruf von Verkehrsdaten);;2020-12-31;;
+356_790;§ 34 Abs. 1 Alt. 1 Var. 1 u. 2 BKAG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung innerhalb von Wohnungen (akustisch);2018-05-25;;;1
+356_791;§ 34 Abs. 1 Alt. 1 Var. 3 u. 4 BKAG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung innerhalb von Wohnungen (optisch - Lichtbilder und Bildaufzeichnungen);2018-05-25;;;1
+356_792;§ 34 Abs. 1 Alt. 2 Var. 1 u. 2 BKAG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung außerhalb von Wohnungen (akustisch);2018-05-25;;;2
+356_793;§ 34 Abs. 1 Alt. 2 Var. 3 u. 4 BKAG;0;1;0;NULL;;Einsatz technischer Mittel zur Eigensicherung außerhalb von Wohnungen (optisch - Lichtbilder und Bildaufzeichnungen);2018-05-25;;;4
+356_794;§ 40 Abs. 1 und 2 BKAG;0;1;0;NULL;;Bestandsdatenauskunft (§§ 95, 111 TKG);2018-05-25;;;4
+356_795;§ 45 Abs. 1 und 2 Nr. 1 BKAG;0;1;0;NULL;;längerfristige Observation [IntTE];2018-05-25;;;3
+356_796;§ 45 Abs. 1 und 2 Nr. 2a BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (optisch - Bildaufnahmen oder aufzeichnungen) - kurzfristig [IntTE];2018-05-25;;;4
+356_797;§ 45 Abs. 3 Nr. 2 i. V. m. Abs. 2 Nr. 2a BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (optisch - Bildaufnahmen oder aufzeichnungen) - länger als 24 Stunden oder an mehr als 2 Tagen [IntTE];2018-05-25;;;3
+356_798;§ 45 Abs. 1 und 2 Nr. 2b BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (akustisch) [IntTE];2018-05-25;;;2
+356_799;§ 45 Abs. 1 und 2 Nr. 3 BKAG;0;1;0;NULL;;sonstige für Observationszwecke bestimmte technische Mittel außerhalb von Wohnungen [IntTE];2018-05-25;;;3
+356_8;§ 41 Abs. 1 BKAG;0;1;0;NULL;;Befragung;;;;4
+356_800;§ 45 Abs. 1 und 2 Nr. 4 BKAG;0;1;0;NULL;;Vertrauensperson (VP-Einsatz) [IntTE];2018-05-25;;;4
+356_801;§ 45 Abs. 1 und 2 Nr. 5 BKAG;0;1;0;NULL;;verdeckter Ermittler (VE-Einsatz) [IntTE];2018-05-25;;;3
+356_802;§ 46 Abs. 1 Nr. 1 BKAG;0;1;0;NULL;;Einsatz technischer Mittel innerhalb von Wohnungen (akustisch) [IntTE];2018-05-25;;;1
+356_803;§ 46 Abs. 1 Nr. 2 BKAG;0;1;0;NULL;;Einsatz technischer Mittel innerhalb von Wohnungen (optisch - Lichtbilder und Bildaufzeichnungen) [IntTE];2018-05-25;;;1
+356_804;§ 47 Abs. 1 Nr. 1, Abs. 2 BKAG;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung [IntTE];2018-05-25;;;4
+356_805;§ 47 Abs. 1 Nr. 2, Abs. 2 BKAG;0;1;0;NULL;;Ausschreibung zur gezielten Kontrolle [IntTE];2018-05-25;;;4
+356_806;§ 51 Abs. 2 BKAG;0;1;0;NULL;;Quellen-TKÜ;2018-05-25;;;2
+356_807;§ 52 Abs. 1 BKAG;0;1;0;NULL;;Erhebung von Verkehrsdaten;2018-05-25;;;3
+356_808;§ 52 Abs. 1 und 2 BKAG;0;1;0;NULL;;Auskunftsverlangen über Nutzungsdaten nach § 15 Abs. 1 Telemediengesetz;2018-05-25;;;3
+356_809;§ 55 Abs. 1 BKAG;0;1;0;NULL;;Aufenthaltsvorgabe;2018-05-25;;;4
+356_81;§ 25 Abs. 1 S. 1 PolG BW - Kennzeichenfahndung;0;1;0;NULL;;Ausschreibung von Kraftfahrzeugen (Kennzeichenfahndung);;2020-12-31;;
+356_810;§ 55 Abs. 1 und 2 BKAG;0;1;0;NULL;;Kontaktverbot;2018-05-25;;;4
+356_811;§ 64 Abs. 1 und 2 Nr. 1 BKAG;0;1;0;NULL;;längerfristige Observation [SG];2018-05-25;;;3
+356_812;§ 64 Abs. 1 und 2 Nr. 2a BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (optisch - Bildaufnahmen oder -aufzeichnungen) - kurzfristig [SG];2018-05-25;;;4
+356_813;§ 64 Abs. 3 Nr. 2 i. V. m. Abs. 2 Nr. 2a BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (optisch - Bildaufnahmen oder -aufzeichnungen) - länger als 24 Stunden oder an mehr als 2 Tagen [SG];2018-05-25;;;3
+356_814;§ 64 Abs. 1 und 2 Nr. 2b BKAG;0;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (akustisch) [SG];2018-05-25;;;2
+356_815;§ 64 Abs. 1 und 2 Nr. 3 BKAG;0;1;0;NULL;;Vertrauensperson (VP-Einsatz) [SG];2018-05-25;;;4
+356_816;§ 65 Abs. 1 Alt. 1 BKAG;0;1;0;NULL;;Ausschreibung zur polizeilichen Beobachtung [SG];2018-05-25;;;4
+356_817;§ 65 Abs. 1 Alt. 2 BKAG;0;1;0;NULL;;Ausschreibung zur gezielten Kontrolle [SG];2018-05-25;;;4
+356_818;§ 9 Abs. 1 BKAG;0;1;0;NULL;;Auskunftsersuchen / Erkenntnisanfrage;2018-05-25;;;4
+356_819;§ 9 Abs. 1 S. 2 Nr. 3 BKAG;0;1;0;NULL;;Auskunftersuchen bei nicht polizeilichen und privaten Stellen im Ausland;2018-05-25;;;4
+356_82;§ 25 Abs. 1 S. 1 PolG BW - Personenfahndung;0;1;0;NULL;;Ausschreibung von Personen (Personenfahndung);;2020-12-31;;
+356_820;§ 9 Abs. 2 BKAG;0;1;0;NULL;;Datenerhebung für Zwecke Personenschutz, Zeugenschutz und Eigenschutz;2018-05-25;;;4
+356_821;§ 10 Abs. 1 und 2 BKAG;0;1;0;NULL;;Bestandsdatenauskunft für Zwecke Zentralstelle, Personenschutz, Zeugenschutz (§§ 95, 111 TKG);2018-05-25;;;4
+356_822;Art. 35 PAG BY;0;1;0;NULL;;Postsicherstellung;;;;
+356_823;Art. 36 PAG BY;0;1;0;NULL;;besondere Mittel der Datenerhebnung;;;;
+356_824;§ 177 Abs. 1, 2. Alt. LVwG SH;NULL;1;0;NULL;;Einwilligung zur Datenerhebung / Freiwilligkeit;;;;4
+356_825;§ 183 Abs. 1 S. 3 LVwG SH;NULL;1;0;NULL;;ED-Maßnahmen zur Verhütung von Straftaten;;;;4
+356_826;§ 185 Abs. 1 Nr. 2 Buchstabe b i. V. m. § 186 Abs. 1 S. 7 LVwG SH;NULL;1;0;NULL;;Einsatz von Personenschutzsendern in / aus Wohnungen;;;;2
+356_827;§ 189 Abs. 1 S. 4 LVwG SH;NULL;1;0;NULL;;Führung und Nutzung der Kriminalakte;;;;4
+356_828;§ 195 LVwG SH;NULL;1;0;NULL;;Datenabgleich;;;;4
+356_829;§ 195a LVwG SH;NULL;1;0;NULL;;Datenabgleich mit anderen Dateien (Rasterfahndung);;;;2
+356_83;§ 26 PolG BW;0;1;0;NULL;;Personenfeststellung;;2020-12-31;;
+356_830;§ 214 LVwG SH;NULL;1;0;NULL;;Wegnahme einer Person;;;;4
+356_831;§ 43 Abs. 1 PolG BW;NULL;1;0;NULL;;Befragung;2021-01-01;;;
+356_832;§ 43 Abs. 2 PolG BW;NULL;1;0;NULL;;Generalklausel zur Datenerhebung;2021-01-01;;;
+356_833;§ 43 Abs. 3 PolG BW;NULL;1;0;NULL;;Datenerhebung zur vorbeugenden Straftatenbekämpfung;2021-01-01;;;
+356_834;§ 43 Abs. 4 PolG BW;NULL;1;0;NULL;;Datenerhebung aufgrund anderer Rechtsvorschriften;2021-01-01;;;
+356_835;§ 44 Abs. 1 PolG BW;NULL;1;0;NULL;;Bild- und Tonaufzeichnung öffentlichen Veranstaltungen und Ansammlungen;2021-01-01;;;
+356_836;§ 44 Abs. 4 PolG BW;NULL;1;0;NULL;;intelligente Videoüberwachung;2021-01-01;;;
+356_837;§ 51 Abs. 1 PolG BW;NULL;1;0;NULL;;Einsatz automatischer Kennzeichenlesesysteme;2021-01-01;;;
+356_838;§ 51 Abs. 2 PolG BW;NULL;1;0;NULL;;Automatischer Kennzeichenabgleich mit Fahndungsbestand;2021-01-01;;;
+356_839;§ 50 Abs. 1 PolG BW;NULL;1;0;NULL;;verdeckte Datenerhebung in oder aus Wohnungen;2021-01-01;;;
+356_84;§ 27 Abs. 1 PolG BW;0;1;0;NULL;;Vorladung;;2020-12-31;;
+356_840;§ 56 Abs. 1 S. 1 PolG BW - Kennzeichenfahndung;NULL;1;0;NULL;;Ausschreibung von Kraftfahrzeugen (Kennzeichenfahndung);2021-01-01;;;
+356_841;§ 56 Abs. 1 S. 1 PolG BW - Personenfahndung;NULL;1;0;NULL;;Ausschreibung von Personen (Personenfahndung);2021-01-01;;;
+356_842;§ 27 PolG BW;NULL;1;0;NULL;;Personenfeststellung;2021-01-01;;;
+356_843;§ 28 Abs. 1 PolG BW;NULL;1;0;NULL;;Vorladung;2021-01-01;;;
+356_844;§ 30 Abs. 1 PolG BW;NULL;1;0;NULL;;Platzverweis;2021-01-01;;;
+356_845;§ 30 Abs. 2 PolG BW;NULL;1;0;NULL;;Aufenthaltsverbot;2021-01-01;;;
+356_846;§ 30 Abs. 3 PolG BW;NULL;1;0;NULL;;Wohnungsverweis / Rückkehrverbot / Annäherungsverbot;2021-01-01;;;
+356_847;§ 31 Abs. 1 PolG BW;NULL;1;0;NULL;;Aufenthaltsverbot / -vorgabe (zur Verhütung von Straftaten mit terroristischer Zielrichtung);2021-01-01;;;
+356_848;§ 31 Abs. 2 PolG BW;NULL;1;0;NULL;;Kontaktverbot (zur Verhütung von Straftaten mit terroristischer Zielrichtung);2021-01-01;;;
+356_849;§ 32 Abs. 1 PolG BW;NULL;1;0;NULL;;elektr. Aufenthaltsüberwachung (Fußfessel / zur Abwehr von Gefahren des internationalen Terrorismus);2021-01-01;;;
+356_85;§ 27a Abs. 1 PolG BW;0;1;0;NULL;;Platzverweis;;2020-12-31;;
+356_850;§ 32 Abs. 2 PolG BW;NULL;1;0;NULL;;Verarbeitung der für die elektronische Überwachung erforderlichen Daten;2021-01-01;;;
+356_851;§ 32 Abs. 3 PolG BW;NULL;1;0;NULL;;Datenerhebung bei anderen Polizeien und öffentlichen Stellen;2021-01-01;;;
+356_852;§ 32 Abs. 4 PolG BW;NULL;1;0;NULL;;Übermittlung der Daten der elektronischen Überwachung;2021-01-01;;;
+356_853;§ 33 Abs. 1 Nr. 1 PolG BW;NULL;1;0;NULL;;Gewahrsam (Präventivgewahrsam oder Beseitigungsgewahrsam);2021-01-01;;;
+356_854;§ 33 Abs. 1 Nr. 2 PolG BW;NULL;1;0;NULL;;Gewahrsam (Schutzgewahrsam);2021-01-01;;;
+356_855;§ 33 Abs. 1 Nr. 3 PolG BW;NULL;1;0;NULL;;Gewahrsam (Identitätsgewahrsam);2021-01-01;;;
+356_856;§ 34 PolG BW;NULL;1;0;NULL;;Durchsuchung von Personen;2021-01-01;;;
+356_857;§ 35 PolG BW;NULL;1;0;NULL;;Durchsuchung von Sachen;2021-01-01;;;
+356_858;§ 36 Abs. 1 PolG BW;NULL;1;0;NULL;;Betreten von Wohnungen;2021-01-01;;;
+356_859;§ 36 Abs. 2 PolG BW;NULL;1;0;NULL;;Durchsuchung von Wohnungen;2021-01-01;;;
+356_86;§ 27a Abs. 2 PolG BW;0;1;0;NULL;;Aufenthaltsverbot;;2020-12-31;;
+356_860;§ 36 Abs. 3 PolG BW;NULL;1;0;NULL;;Durchsuchung von Gebäude / Gebäudegruppe;2021-01-01;;;
+356_861;§ 36 Abs. 6 PolG BW;NULL;1;0;NULL;;Betreten von Arbeits-, Betriebs- und Geschäftsräumen;2021-01-01;;;
+356_862;§ 37 Abs. 1 PolG BW;NULL;1;0;NULL;;Sicherstellung;2021-01-01;;;
+356_863;§ 38 Abs. 1 PolG BW;NULL;1;0;NULL;;Beschlagnahme;2021-01-01;;;
+356_864;§ 39 Abs. 1 PolG BW;NULL;1;0;NULL;;Einziehung;2021-01-01;;;
+356_865;§ 41 Abs. 1 Nr. 1 PolG BW;NULL;1;0;NULL;;erkennungsdienstliche Maßnahmen (Identitätsfeststellung);2021-01-01;;;
+356_866;§ 41 Abs. 1 Nr. 2 PolG BW;NULL;1;0;NULL;;erkennungsdienstliche Maßnahmen (vorbeugenden Bekämpfung von Straftaten);2021-01-01;;;
+356_867;§ 41 Abs. 1 PolG BW;NULL;1;0;NULL;;erkennungsdienstliche Maßnahme;2021-01-01;;;
+356_868;§ 48 Abs. 1 PolG BW;NULL;1;0;NULL;;besondere Formen des Datenabgleichs (Rasterfahndung);2021-01-01;;;
+356_869;§ 59 Abs. 1 PolG BW;NULL;1;0;NULL;;Datenübermittlung innerhalb der Polizei (Baden-Württemberg);2021-01-01;;;
+356_87;§ 27a Abs. 3 PolG BW;0;1;0;NULL;;Wohnungsverweis / Rückkehrverbot / Annäherungsverbot;;2020-12-31;;
+356_88;§ 28 Abs. 1 Nr. 1 PolG BW;0;1;0;NULL;;Gewahrsam (Präventivgewahrsam oder Beseitigungsgewahrsam);;2020-12-31;;
+356_890;§ 59 Abs. 2 PolG BW;NULL;1;0;NULL;;Datenübermittlung mit anderen Polizeien (Bund und Länder);2021-01-01;;;
+356_891;§ 59 Abs. 3 PolG BW;NULL;1;0;NULL;;Datenübermittlung an sonstige öffentliche Stellen;2021-01-01;;;
+356_892;§ 61 Abs. 1 PolG BW;NULL;1;0;NULL;;Datenübermittlung im internationalen Bereich;2021-01-01;;;
+356_893;§ 60 Abs. 1 PolG BW;NULL;1;0;NULL;;Datenübermittlung an Mitgliedstaaten der Europäischen Union;2021-01-01;;;
+356_894;§ 42 Abs. 1 PolG BW;NULL;1;0;NULL;;Zuverlässigkeitsüberprüfung;2021-01-01;;;
+356_895;§ 44 Abs. 5 PolG BW;NULL;1;0;NULL;;Bodycam;2021-01-01;;;
+356_896;§ 44 Abs. 9 PolG BW;NULL;1;0;NULL;;Bildübertragung;2021-01-01;;;
+356_897;§ 45 Abs. 1 PolG BW;NULL;1;0;NULL;;Aufzeichnung eingehender Telefonanrufe;2021-01-01;;;
+356_898;§ 47 Abs. 1 PolG BW;NULL;1;0;NULL;;Datenabgleich;2021-01-01;;;
+356_899;§ 52 Abs. 1 PolG BW;NULL;1;0;NULL;;Bestandsdatenauskunft;2021-01-01;;;
+356_9;§ 42 Abs. 1 BKAG;0;1;0;NULL;;Identitätsfeststellung;;;;4
+356_90;§ 28 Abs. 1 Nr. 2 PolG BW;0;1;0;NULL;;Gewahrsam (Schutzgewahrsam);;2020-12-31;;
+356_900;§ 55 Abs. 1 PolG BW;NULL;1;0;NULL;;Handyortung (Stille SMS);2021-01-01;;;
+356_901;§ 57 Abs. 1 PolG BW;NULL;1;0;NULL;;Datenverarbeitung zu Zwecken der wissenschaftlichen Forschung;2021-01-01;;;
+356_902;§ 58 Abs. 1 PolG BW;NULL;1;0;NULL;;Aus- / Fortbildung / Statistiken;2021-01-01;;;
+356_903;§ 58 Abs. 2 PolG BW;NULL;1;0;NULL;;Vorgangsverwaltung;2021-01-01;;;
+356_904;§ 15 SOG;NULL;1;0;NULL;;Durchsuchung und Untersuchung von Personen;2020-01-24;;;
+356_905;§ 14 PolDVG;NULL;1;0;NULL;;Datenverarbeitung zur Vorbereitung auf die Hilfeleistung in Gefahrenfällen;2019-12-12;;;
+356_906;§ 15 PolDVG;NULL;1;0;NULL;;Datenverarbeitung bei Notrufen, Aufzeichnung von Anrufen und Funkverkehr;2019-12-12;;;
+356_907;§ 21 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch den verdeckten Einsatz technischer Mittel (Bild- und Tonaufnahmen sowie Ortungstechnik);2019-12-12;;;
+356_908;§ 24 PolDVG;NULL;1;0;NULL;;Telekommunikationsüberwachung an informationstechnischen Systemen;2019-12-12;;;
+356_909;§ 27 PolDVG;NULL;1;0;NULL;;Bestandsdatenverarbeitung;2019-12-12;;;
+356_91;§ 28 Abs. 1 Nr. 3 PolG BW;0;1;0;NULL;;Gewahrsam (Identitätsgewahrsam);;2020-12-31;;
+356_910;§ 28 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch den Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist;2019-12-12;;;
+356_911;§ 29 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch den Einsatz Verdeckter Ermittler;2019-12-12;;;
+356_912;§ 30 PolDVG;NULL;1;0;NULL;;Elektronische Aufenthaltsüberwachung;2019-12-12;;;
+356_913;§ 31 PolDVG;NULL;1;0;NULL;;Polizeiliche Beobachtung, gezielte Kontrolle;2019-12-12;;;
+356_914;§ 33 PolDVG;NULL;1;0;NULL;;Opferschutzmaßnahmen (legendierte Personalien, Verareitung von pbD Dritter - letzteres ist hier relevant);2019-12-12;;;
+356_915;§ 11 PolDVG;NULL;1;0;NULL;;Voraussetzungen der Datenerhebung;2019-12-12;;;
+356_916;§ 12 PolDVG;NULL;1;0;NULL;;Befragung und Auskunftspflicht;2019-12-12;;;
+356_917;§ 13 PolDVG;NULL;1;0;NULL;;Identitätsfeststellung und Prüfung von Berechtigungsscheinen;2019-12-12;;;
+356_918;§ 16 PolDVG;NULL;1;0;NULL;;Erkennungsdienstliche Maßnahmen und Identifizierung unbekannter Toter durch DNA-Material;2019-12-12;;;
+356_919;§ 17 PolDVG;NULL;1;0;NULL;;Aufnahmen von Lichtbildern in Gewahrsamseinrichtungen;2019-12-12;;;
+356_92;§ 29 PolG BW;0;1;0;NULL;;Durchsuchung von Personen;;2020-12-31;;
+356_920;§ 18 PolDVG;NULL;1;0;NULL;;Datenverarbeitung im öffentlichen Raum und an besonders gefährdeten Objekten (versch. Videromaßnahmen);2019-12-12;;;
+356_921;§ 19 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch den Einsatz von automatischen Kennzeichenlesesystemen;2019-12-12;;;
+356_922;§ 20  Abs. 1 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch (längerfristige) Observation;2019-12-12;;;
+356_923;§ 22 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch den verdeckten Einsatz technischer Mittel in oder aus Wohnungen;2019-12-12;;;
+356_924;§ 23 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch Telekommunikationsüberwachung und Eingriff in die Telekommunikation;2019-12-12;2019-12-24;;
+356_925;§ 25 PolDVG;NULL;1;0;NULL;;Verkehrsdatenverarbeitung, Nutzungsdatenverarbeitung und Einsatz besonderer technischer Mittel zur Datenerhebung;2019-12-12;2019-12-24;;
+356_926;§ 54 Abs. 1 Nr. 1 PolG BW;NULL;1;0;NULL;;Datenerhebung nach dem Telekommunikationsgesetz und Telemediengesetz (Abruf von Verkehrsdaten);2021-01-01;;;
+356_927;§ 54 Abs. 1 Nr. 2 PolG BW;NULL;1;0;NULL;;präventive TKÜ;2021-01-01;;;
+356_928;§ 54 Abs. 2 Nr. 1 PolG BW;NULL;1;0;NULL;;Quellen-TKÜ;2021-01-01;;;
+356_929;§ 54 Abs. 2 Nr. 2 PolG BW;NULL;1;0;NULL;;Online-Durchsuchung;2021-01-01;;;
+356_93;§ 30 PolG BW;NULL;1;0;NULL;;Durchsuchung von Sachen;;2020-12-31;;
+356_930;§ 10a Abs. 1, 2 SPolG;NULL;1;0;NULL;;Identitätsfeststellung durch DNA-Analyse;;;;
+356_931;§ 10a Abs. 3 SPolG;NULL;1;0;NULL;;Vorsorgespeicherung von DNA-Identifizierungsmuster;;;;
+356_932;§ 28 Abs. 2 Nr. 1 SPolG;NULL;1;0;NULL;;(kurzfristige) Observation;;2020-12-30;;
+356_933;§ 28 Abs. 2 Nr. 1, Abs. 3 SPolG;NULL;1;0;NULL;;längerfristige Observation;;2020-12-30;;
+356_934;§ 28 Abs. 2 Nr. 2 Alt. 1 SPolG;NULL;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (insb. Bildaufnahmen oder -aufzeichnungen);;2020-12-30;;
+356_935;§ 28 Abs. 2 Nr. 2 Alt. 2 SPolG;NULL;1;0;NULL;;akustische Überwachung mit technischen Mitteln außerhalb von Wohnungen;;2020-12-30;;
+356_936;§ 28 Abs. 2 Nr. 3 SPolG;NULL;1;0;NULL;;Vertrauenspersonen und Informanten;;2020-12-30;;
+356_937;§ 28 Abs. 2 Nr. 4 SPolG;NULL;1;0;NULL;;Verdeckte Ermittler;;2020-12-30;;
+356_938;§ 28b Abs. 1 SPolG;NULL;1;0;NULL;;Überwachung und Aufzeichnung der Telekommunikation;;2020-12-30;;
+356_939;§ 28b Abs. 3 SPolG;NULL;1;0;NULL;;Identifizierung von Mobilfunkkarten und -endgeräten (IMSI-Catcher);;2020-12-30;;
+356_94;§ 31 Abs. 1 PolG BW (gültig bis 31.12.2020);0;1;0;NULL;;Betreten von Wohnungen;;2020-12-31;;
+356_940;§ 28c Abs. 1 SPolG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Verkehrsdaten und Standortdaten);;2020-12-30;;
+356_941;§ 28c Abs. 2 SPolG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Bestandsdaten);;2020-12-30;;
+356_942;SPolDVG;NULL;1;0;NULL;;Saarländisches Gesetz über die Verarbeitung personenbezogener Daten durch die Polizei;2020-12-31;;;
+356_943;§ 3 SPolDVG;NULL;1;0;NULL;;allgemeine Grundsätze für die Verarbeitung personenbezogener Daten;2020-12-31;;;
+356_944;§ 18 SPolDVG;NULL;1;0;NULL;;Erhebung personenbezogener Daten;2020-12-31;;;
+356_945;§ 32 SPolDVG;NULL;1;0;NULL;;offene Bild- und Tonaufzeichnungen;2020-12-31;;;
+356_946;§ 31 Abs. 2 Nr. 1 SPolDVG;NULL;1;0;NULL;;(Kurzfristige) Observation;2020-12-31;;;
+356_947;§§ 31 Abs. 2 Nr. 1, Abs. 3 Nr. 1 SPolDVG;NULL;1;0;NULL;;längerfristige Observation;2020-12-31;;;
+356_948;§ 31 Abs. 2 Nr. 2 SPolDVG;NULL;1;0;NULL;;Einsatz technischer Mittel außerhalb von Wohnungen (insb. zur Anfertigung von Bildaufnahmen oder -aufzeichnungen);2020-12-31;;;
+356_949;§§ 31 Abs. 2 Nr. 2, Abs. 3 Nr. 2a SPolDVG;NULL;1;0;NULL;;längerfristiger Einsatz technischer Mittel außerhalb von Wohnungen (insb. zur Anfertigung von Bildaufnahmen oder -aufzeichnungen);2020-12-31;;;
+356_95;§ 31 Abs. 2 PolG BW (gültig bis 31.12.2020);0;1;0;NULL;;Durchsuchung von Wohnungen;;2020-12-31;;
+356_950;§ 31 Abs. 2 Nr. 2 SPolDVG;NULL;1;0;NULL;;Akustische Überwachung (Abhören und Aufzeichnen des gesprochenen Wortes) mit technischen Mitteln außerhalb von Wohnungen;2020-12-31;;;
+356_951;§§ 31 Abs. 2 Nr. 2, Abs. 3 Nr. 2b SPolDVG;NULL;1;0;NULL;;längerfristige akustische Überwachung (Abhören und Aufzeichnen des gesprochenen Wortes) mit technischen Mitteln außerhalb von Wohnungen;2020-12-31;;;
+356_952;§ 31 Abs. 2 Nr. 3 SPolDVG;NULL;1;0;NULL;;Vertrauenspersonen und Informanten;2020-12-31;;;
+356_953;§§ 31 Abs. 2 Nr. 3, Abs. 3 Nr. 3 SPolDVG;NULL;1;0;NULL;;Vertrauenspersonen und Informanten, bei denen sich der Einsatz gegen eine bestimmte Person richtet oder bei denen eine Wohnung betreten wird, die nicht allgemein zugänglich ist;2020-12-31;;;
+356_954;§ 31 Abs. 2 Nr. 4 SPolDVG;NULL;1;0;NULL;;Verdeckte Ermittler;2020-12-31;;;
+356_955;§§ 31 Abs. 2 Nr. 4, Abs. 3 Nr. 3 SPolDVG;NULL;1;0;NULL;;Verdeckte Ermittler, bei denen sich der Einsatz gegen eine bestimmte Person richtet oder bei denen eine Wohnung betreten wird, die nicht allgemein zugänglich ist;2020-12-31;;;
+356_956;§ 31 Abs. 2 Nr. 5 SPolDVG;NULL;1;0;NULL;;sonstige besondere für Observationszwecke bestimmte technische Mittel zur Erforschung des Sachverhalts oder zur Bestimmung des Aufenthaltsortes einer in § 17 Abs. 2 Nr. 1 oder 2 SPolDVG genannten Person;2020-12-31;;;
+356_957;§§ 31 Abs. 2 Nr. 5, Abs. 3 Nr. 1 SPolDVG;NULL;1;0;NULL;;längerfristiger Einsatz von sonstige besondere für Observationzwecke bestimmte technische Mittel zur Erforschung des Sachverhalts oder zur Bestimmung des Aufenthaltortes einer in § 17 Abs. 2 Nr. 1 oder 2 SPolDVG genannten Person;2020-12-31;;;
+356_958;§§ 35 Abs. 1 SPolDVG;NULL;1;0;NULL;;Überwachung und Aufzeichnung der Telekommunikation;2020-12-31;;;
+356_959;§§ 35 Abs. 2 SPolDVG;NULL;1;0;NULL;;Quellen-TKÜ;2020-12-31;;;
+356_96;§ 31 Abs. 3 PolG BW;0;1;0;NULL;;Durchsuchung von Gebäude / Gebäudegruppe;;2020-12-31;;
+356_960;§ 35 Abs. 3 SPolDVG;NULL;1;0;NULL;;Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten (IMSI-Catcher);2020-12-31;;;
+356_961;§ 35 Abs. 3 S. 2, Abs. 4 S. 7 SPolDVG;NULL;1;0;NULL;;Feststellung des Aufenthaltsortes einer vermissten, suizidgefährdeten oder sonstigen hilflosen oder an Leib oder Leben gefährdeten Person;2020-12-31;;;
+356_962;§ 36 Abs. 1 S. 1 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Verkehrsdatenabfrage allgemein);2020-12-31;;;
+356_963;§ 36 Abs. 1 S. 2 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Verkehrsdatenabfrage zur Bestimmung des Standorts einer Person);2020-12-31;;;
+356_964;§ 36 Abs. 2 S. 1 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Bestandsdatenabfrage nach dem Telekommunikationsgesetz und Anschlussinhaberfeststellung);2020-12-31;;;
+356_965;§ 36 Abs. 2 S. 2 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (PIN-Super-PIN, PUK-Abfrage und Passwortabfrage);2020-12-31;;;
+356_966;§ 36 Abs. 3 S. 1 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Bestandsdatenabfrage nach dem Telemediengesetz);2020-12-31;;;
+356_967;§ 36 Abs. 3 S. 2 und 3 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (Nutzungsdatenabfrage nach dem Telemediengesetz);2020-12-31;;;
+356_968;§ 36 Abs. 4 i. V. m. Abs. 2 oder Abs. 3 SPolDVG;NULL;1;0;NULL;;Erhebung von Telekommunikationsdaten (unter Verwendung einer bereits bekannten dynamischen IP);2020-12-31;;;
+356_969;§ 37 SPolDVG;NULL;1;0;NULL;;Unterbrechung von Telekommunikationsverbindungen;2020-12-31;;;
+356_97;§ 31 Abs. 6 PolG BW;0;1;0;NULL;;Betreten von Arbeits-, Betriebs- und Geschäftsräumen;;2020-12-31;;
+356_970;§ 21 SPolDVG;NULL;1;0;NULL;;Speicherung, Veränderung und Verwendung personenbezogener Daten;2020-12-31;;;
+356_971;§ 40 SPolDVG;NULL;1;0;NULL;;polizeiliche Beobachtung;2020-12-31;;;
+356_972;§ 44 SPolDVG;NULL;1;0;NULL;;Übermittlung personenbezogener Daten zwischen Polizeibehörden;2020-12-31;;;
+356_973;§ 45 SPolDVG;NULL;1;0;NULL;;Übermittlung personenbezogener Daten an Behörden, öffentliche oder sonstige Stellen;2020-12-31;;;
+356_974;§ 47 SPolDVG;NULL;1;0;NULL;;Verarbeitung personenbezogener Daten, die im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union übermittelt worden sind;2020-12-31;;;
+356_975;§ 28 Abs. 1, Abs. 2 SPolDVG;NULL;1;0;NULL;;Abgleich personenbezogener Daten;2020-12-31;;;
+356_976;§ 28 Abs. 3 SPolDVG;NULL;1;0;NULL;;Zuverlässigkeitsüberprüfung;2020-12-31;;;
+356_977;§ 29 SPolDVG;NULL;1;0;NULL;;besondere Formen des Abgleichs personenbezogener Daten;2020-12-31;;;
+356_978;§ 34 Abs. 1 SPolDVG;NULL;1;0;NULL;;Erhebung personenbezogener Daten in oder aus Wohnungen;2020-12-31;;;
+356_979;§ 34 Abs. 3 SPolDVG;NULL;1;0;NULL;;Erhebung personenbezogener Daten in Wohnungen unter Einsatz verdeckter technischer Mittel zur Eigensicherung;2020-12-31;;;
+356_98;§ 32 PolG BW;0;1;0;NULL;;Sicherstellung;;2020-12-31;;
+356_980;§ 38 SPolDVG;NULL;1;0;NULL;;elektronische Aufenthaltsüberwachung;2020-12-31;;;
+356_981;§ 11a SOG;NULL;1;0;NULL;;Meldeauflage;2019-12-24;;;
+356_982;§ 12 SächsPVDG;NULL;1;0;NULL;;allgemeine Befugnisse;2020-01-01;;;4
+356_983;§ 13 SächsPVDG;NULL;1;0;NULL;;Befragung, Auskunftspflicht - Grunddaten;2020-01-01;;;4
+356_984;§ 14 SächsPVDG;NULL;1;0;NULL;;Vorladung;2020-01-01;;;4
+356_985;§ 15 SächsPVDG;NULL;1;0;NULL;;Identitätsfeststellung, Prüfung von Berechtigungsscheinen;2020-01-01;;;4
+356_986;§ 16 SächsPVDG;NULL;1;0;NULL;;erkennungsdienstliche Maßnahmen ohne Einwilligung des Betroffenen;2020-01-01;;;4
+356_987;§ 17 SächsPVDG;NULL;1;0;NULL;;medizinische und molekulargenetische Untersuchungen;2020-01-01;;;4
+356_988;§ 18 SächsPolG;NULL;1;0;NULL;;Befragung, Vorladung, Vernehmung;;2019-12-31;;4
+356_989;§ 18 SächsPVDG;NULL;1;0;NULL;;Platzverweis;2020-01-01;;;4
+356_99;§ 33 PolG BW;0;1;0;NULL;;Beschlagnahme;;2020-12-31;;
+356_990;§ 19 SächsPolG;NULL;1;0;NULL;;Identitätsfeststellung;;2019-12-31;;4
+356_991;§ 19 SächsPVDG;NULL;1;0;NULL;;Wohnungsverweisung und Kontaktverbot;2020-01-01;;;4
+356_992;§ 19a SächsPolG;NULL;1;0;NULL;;anlassbezogene mobile automatisierte Kennzeichenerkennung;;2019-12-31;;4
+356_993;§ 20 Abs. 4 PolDVG;NULL;1;0;NULL;;Datenverarbeitung durch kurzfristige Observation;2019-12-24;;;
+356_994;§ 20 SächsPolG;NULL;1;0;NULL;;erkennungsdienstliche Maßnahmen;;2019-12-31;;4
+356_995;§ 20 SächsPVDG;NULL;1;0;NULL;;Meldeauflagen;2020-01-01;;;4
+356_996;§ 21 SächsPolG;NULL;1;0;NULL;;Platzverweis, Aufenthaltsverbot, Wohnungsverweisung;;2019-12-31;;4
+356_997;§ 21 SächsPVDG;NULL;1;0;NULL;;Aufenthaltsanordnung und Kontaktverbot;2020-01-01;;;4
+356_998;§ 22 SächsPolG;NULL;1;0;NULL;;Gewahrsam;;2019-12-31;;4
+356_999;§ 22 SächsPVDG;NULL;1;0;NULL;;Gewahrsam;2020-01-01;;;4

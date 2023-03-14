@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+337;Status der Lichtzeichenanlage;Status der Lichtzeichenanlage;ZIR;V1.1;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel
+337_1;in Betrieb;0;1;0;NULL;;Lichtzeichenanlage in Betrieb;;;;8
+337_2;außer Betrieb;0;1;0;NULL;;Lichtzeichenanlage außer Betrieb;;;;9
+337_3;nicht vorhanden;NULL;1;0;NULL;;Lichtzeichenanlage nicht vorhanden;;;;
+337_4;ungeklärt;NULL;1;0;NULL;;ungeklärter Status einer vorhandenen Lichtzeichenanlage;;;;

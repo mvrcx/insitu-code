@@ -1,0 +1,13 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+221;Bearbeitungsstand;Bearbeitungsstand;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+221_1;eingegangen;0;1;0;NULL;;;
+221_2;in Bearbeitung;0;1;0;NULL;;;
+221_3;abgeschlossen;0;1;0;NULL;;;

@@ -1,0 +1,22 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+331;Lagerstatus des Asservats;Lagerstatus des Asservats;ZIR;V1.2;20210220
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+331_1;aufgeteilt;0;1;0;NULL;;Asservat wurde in mindestens 2 oder mehr Unterasservate aufgeteilt;;;
+331_10;versandt;0;1;0;NULL;;Asservat wurde beispielsweise zur KT-Untersuchung versandt;;;
+331_11;zusammengefasst;0;1;0;NULL;;Das Asservat wurde z. B. im Rahmen einer KT-Untersuchung mit einem anderen Asservat zusammengeführt;;;
+331_12;archiviert;NULL;1;0;NULL;;Digitales Asservat wurde archiviert. Es handelt sich hierbei um eine Sonderform der Einlagerung digitaler Asservate;;;
+331_2;ausgehändigt;0;1;0;NULL;;Asservat wurde an einen Berechtigten ausgehändigt - der polizeiliche Gewahrsam ist aufgehoben;;;
+331_3;eingelagert;0;1;0;NULL;;Asservat wurde eingelagert;;;
+331_4;fehlerfasst / gelöscht;0;1;0;NULL;;Asservat wurde als Fehlerfassung markiert bzw. gelöscht;;;
+331_5;in Bearbeitung;0;1;0;NULL;;Asservat wird aktuell bearbeitet. Es ist beispielsweise bei der KT-Untersuchung;;;
+331_6;umgehängt;0;1;0;NULL;;Asservat wird einem neuen Vorgang zugeordnet;;;
+331_7;Verbleib ungeklärt;0;1;0;NULL;;Verbleib eines Asservats kann nicht geklärt werden;;;
+331_8;verbraucht;0;1;0;NULL;;Asservat wurde im Rahmen einer oder mehrerer Untersuchungen verbraucht.;;;
+331_9;vernichtet;0;1;0;NULL;;Asservat wurde vernichtet;;;

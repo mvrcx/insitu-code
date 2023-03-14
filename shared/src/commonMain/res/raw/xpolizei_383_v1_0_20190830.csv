@@ -1,0 +1,32 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+383;Mundart;Mundart;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+383_1;Norddeutsch;0;1;0;NULL;;;;;
+383_10;Ostdeutsch;0;1;0;NULL;;;;;
+383_11;Berlinerisch;0;1;0;NULL;;;;;
+383_12;Sächsisch;0;1;0;NULL;;;;;
+383_13;Thüringisch;0;1;0;NULL;;;;;
+383_14;Süddeutsch;0;1;0;NULL;;;;;
+383_15;Schwäbisch;0;1;0;NULL;;;;;
+383_16;Fränkisch;0;1;0;NULL;;;;;
+383_17;Bayrisch;0;1;0;NULL;;;;;
+383_18;Schweizerdeutsch;0;1;0;NULL;;;;;
+383_19;Österreichisch;0;1;0;NULL;;;;;
+383_2;Ostfriesisch;0;1;0;NULL;;;;;
+383_20;Alemannisch;0;1;0;NULL;;;;;
+383_21;Saarländisch / Pfälzisch;0;1;0;NULL;;;;;
+383_22;Hessisch;0;1;0;NULL;;;;;
+383_3;Holsteinisch;0;1;0;NULL;;;;;
+383_4;Niedersächsisch;0;1;0;NULL;;;;;
+383_5;Mecklenburg-Vorpommerisch;0;1;0;NULL;;;;;
+383_6;Westdeutsch;0;1;0;NULL;;;;;
+383_7;Westfälisch;0;1;0;NULL;;;;;
+383_8;Rheinisch;0;1;0;NULL;;;;;
+383_9;Ruhrgebiet Dialekt;0;1;0;NULL;;;;;

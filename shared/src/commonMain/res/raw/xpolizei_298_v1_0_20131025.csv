@@ -1,0 +1,60 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+298;OK-Indikator;OK-Indikator;ZIR;V1.0;20131025
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular;Nummer;Bereich
+298_1;präzise Planung;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_10;arbeitsteiliges Zusammenwirken;0;1;0;NULL;;;;;Ausführung der Tat
+298_11;Einsatz von polizeilich "unbelasteten" Personen;0;1;0;NULL;;;;;Ausführung der Tat
+298_12;Konstruktion schwer durchschaubarer Firmengeflechte;0;1;0;NULL;;;;;Ausführung der Tat
+298_13;Einsatz von Geldmitteln ungeklärter Herkunft im Zusammenhang mit Investitionen;0;1;0;NULL;;;;;Finanzgebaren
+298_14;Inkaufnahme von Verlusten bei Gewerbebetrieben;0;1;0;NULL;;;;;Finanzgebaren
+298_15;Diskrepanz zwischen dem Einsatz finanzieller Mittel und dem zu erwartenden Gewinn;0;1;0;NULL;;;;;Finanzgebaren
+298_16;Auffälligkeit bei Geldanlagen, z.B. beim Kauf von Immobilien oder sonstigen Sachwerten, die in keinem Verhältnis zum Einkommen stehen;0;1;0;NULL;;;;;Finanzgebaren
+298_17;Rückfluss in den legalen Wirtschaftskreislauf;0;1;0;NULL;;;;;Verwertung der Beute
+298_18;Veräußerung im Rahmen eigener (legaler) Wirtschaftstätigkeiten;0;1;0;NULL;;;;;Verwertung der Beute
+298_19;Maßnahmen der Geldwäsche;0;1;0;NULL;;;;;Verwertung der Beute
+298_2;Anpassung an Markterfordernisse durch Ausnützen von Marktlücken, Erkundungen von Bedürfnissen u.ä.;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_20;Gegenobservation;0;1;0;NULL;;;;;Konspiratives Täterverhalten
+298_21;Abschottung;0;1;0;NULL;;;;;Konspiratives Täterverhalten
+298_22;Decknamen;0;1;0;NULL;;;;;Konspiratives Täterverhalten
+298_23;Codierung in Sprache und Schrift;0;1;0;NULL;;;;;Konspiratives Täterverhalten
+298_24;Verwendung modernster technischer Mittel zur Umgehung polizeilicher Überwachungsmaßnahmen;0;1;0;NULL;;;;;Konspiratives Täterverhalten
+298_25;überregional;0;1;0;NULL;;;;;Täterverbindungen / Tatzusammenhänge
+298_26;national;0;1;0;NULL;;;;;Täterverbindungen / Tatzusammenhänge
+298_27;international;0;1;0;NULL;;;;;Täterverbindungen / Tatzusammenhänge
+298_28;hierarchischer Aufbau;0;1;0;NULL;;;;;Gruppenstruktur
+298_29;ein nicht ohne weiteres erklärbares Abhängigkeits- oder Autoritätsverhältnis zwischen mehreren Tatverdächtigen;0;1;0;NULL;;;;;Gruppenstruktur
+298_3;Arbeit auf Bestellung;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_30;internes Sanktionssystem;0;1;0;NULL;;;;;Gruppenstruktur
+298_31;Fluchtunterstützung;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_32;Beauftragung bestimmter Anwälte und deren Honorierung durch Dritte;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_33;Aufwendung größerer Barmittel im Rahmen der Verteidigung;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_34;hohe Kautionsangebote;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_35;Bedrohung und Einschüchterung von Verfahrensbeteiligten;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_36;Unauffindbarkeit von zuvor verfügbaren Zeugen;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_37;ängstliches Schweigen von Betroffenen;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_38;überraschendes Benennen von Entlastungszeugen;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_39;Betreuung in der Untersuchungshaft / Strafhaft;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_4;hohe Investitionen, z.B. durch Vorfinanzierung aus nicht erkennbaren Quellen;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_40;Versorgung von Angehörigen;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_41;Wiederaufnahme nach der Haftentlassung;0;1;0;NULL;;;;;Hilfe für Gruppenmitglieder
+298_42;Einbeziehung in das soziale Umfeld der Täter;0;1;0;NULL;;;;;Korrumpierung
+298_43;Herbeiführen von Abhängigkeiten (z.B. durch Sex, verbotenes Glücksspiel, Zins- und Kreditwucher);0;1;0;NULL;;;;;Korrumpierung
+298_44;Zahlung von Bestechungsgeldern, Überlassung von Ferienwohnungen, Luxusfahrzeugen usw.;0;1;0;NULL;;;;;Korrumpierung
+298_45;Übernahme von Geschäftsbetrieben und Teilhaberschaften;0;1;0;NULL;;;;;Monopolisierungsbestrebungen
+298_46;Führung von Geschäftsbetrieben durch Strohleute;0;1;0;NULL;;;;;Monopolisierungsbestrebungen
+298_47;Kontrolle bestimmter Geschäftszweige;0;1;0;NULL;;;;;Monopolisierungsbestrebungen
+298_48;Schutzgewährung gegen Entgelt;0;1;0;NULL;;;;;Monopolisierungsbestrebungen
+298_49;gesteuerte oder tendenziöse Veröffentlichungen, die von einem bestimmten Tatverdacht ablenken;0;1;0;NULL;;;;;Öffentlichkeitsarbeit
+298_5;Verschaffung und Nutzung legaler Einfluss-Sphären;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_50;systematischer Versuch der Ausnutzung gesellschaftlicher Einrichtungen (z.B. durch auffälliges Mäzenatentum);0;1;0;NULL;;;;;Öffentlichkeitsarbeit
+298_6;Vorhalten von Ruheräumen im Ausland;0;1;0;NULL;;;;;Vorbereitung und Planung der Tat
+298_7;präzise und qualifizierte Tatdurchführung;0;1;0;NULL;;;;;Ausführung der Tat
+298_8;Verwendung verhältnismäßig teurer oder schwierig einzusetzender wissenschaftlicher Mittel und Erkenntnisse;0;1;0;NULL;;;;;Ausführung der Tat
+298_9;Tätigwerden von Spezialisten (auch aus dem Ausland);0;1;0;NULL;;;;;Ausführung der Tat

@@ -1,0 +1,50 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+101;Art des allgemeinen Ereignisses;Art des allgemeinen Ereignisses;ZIR;V1.7;20210803
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+101_1;Einladung;0;1;0;NULL;;;;;
+101_10;Vorbereitungshandlung;0;1;0;NULL;;;;;
+101_11;Gefährdung;0;1;0;NULL;;;;;
+101_12;Eintreffen;0;1;0;NULL;;;;;
+101_13;Aufenthalt;0;1;0;NULL;;;;;
+101_14;Verlassen;0;1;0;NULL;;;;;
+101_15;Selbsttötung;0;1;0;NULL;;;;;'Suizid; Selbstmord; Freitod'
+101_16;Unfall / Unglück;0;1;0;NULL;;;;;
+101_17;Entweichung / Flucht;0;1;0;NULL;;;;;
+101_18;Politische Veranstaltung;0;1;0;NULL;;;;;
+101_19;Demonstration / Versammlung;0;1;0;NULL;;;;;
+101_2;Fund;0;1;0;NULL;;;;;
+101_20;Wirtschaftliche Veranstaltung;0;1;0;NULL;;;;;
+101_21;Messe / Ausstellung;0;1;0;NULL;;;;;
+101_22;Sportveranstaltung;0;1;0;NULL;;;;;
+101_23;Fußballspiel;0;1;0;NULL;;;;;
+101_24;Fußballspiel (Public Viewing);0;1;0;NULL;;;;;
+101_25;Kulturelle Veranstaltung;0;1;0;NULL;;;;;
+101_26;Volksfest / Jahrmarkt;0;1;0;NULL;;;;;
+101_27;Karnevalsveranstaltung / -umzug;0;1;0;NULL;;;;;Faschingsveranstaltung / -umzug
+101_28;Umzug;0;1;0;NULL;;z. B. CSD;;;
+101_29;Musikveranstaltung;0;1;0;NULL;;;;;
+101_3;Handel;0;1;0;NULL;;;;;
+101_30;Veranstaltung mit religiösem Hintergrund;0;1;0;NULL;;;;;
+101_31;Streik;0;1;0;NULL;;;;;
+101_32;Erstkonsum Drogen;0;1;0;NULL;;Hierunter wird die polizeiliche Feststellung eines im jeweiligen Bundesland erstauffälligen Konsumenten von Drogen verstanden.;;;
+101_33;Todesfall;0;1;0;NULL;;;;;
+101_34;Flug;0;1;0;NULL;;;;;
+101_35;Buchung;0;1;0;NULL;;;;;
+101_36;Reservierung;0;1;0;NULL;;;;;
+101_37;Kauf;0;1;0;NULL;;;;;
+101_38;Proklamation;NULL;1;0;NULL;;Eine Proklamation ist ein öffentlicher Aufruf, eine Bekanntmachung oder eine öffentliche Erklärung.;;;'Aufruf; Bekanntmachung; Erklärung; Verkündung'
+101_39;Eishockeyspiel;NULL;1;0;NULL;;;;;
+101_4;Reise;0;1;0;NULL;;;;;
+101_40;Insolvenz;NULL;1;0;NULL;;Bezeichnet die Situation eines Schuldners, seine Zahlungsverpflichtungen gegenüber dem Gläubiger nicht erfüllen zu können. Die Insolvenz ist gekennzeichnet durch akute Zahlungsunfähigkeit („Illiquidität“ oder mangelnde Liquidität) oder drohende Zahlungsunfähigkeit, die aus Überschuldung abgeleitet werden kann.;;;
+101_5;Transport;0;1;0;NULL;;;;;
+101_6;Treffen;0;1;0;NULL;;;;;
+101_7;Veranstaltung;0;1;0;NULL;;;;;
+101_8;Verlust;0;1;0;NULL;;;;;
+101_9;Versand;0;1;0;NULL;;;;;

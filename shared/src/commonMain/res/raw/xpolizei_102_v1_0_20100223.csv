@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+102;Art der Aufzeichnung;Art der Aufzeichnung;ZIR;V1.0;20100223
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+102_1;Film;0;1;0;NULL;;;
+102_2;Bild;0;1;0;NULL;;;
+102_3;Ton;0;1;0;NULL;;;Audio
+102_4;Text;0;1;0;NULL;;;

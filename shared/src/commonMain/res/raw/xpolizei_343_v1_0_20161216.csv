@@ -1,0 +1,19 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+343;Besonderheit der Unfallstelle;Besonderheit der Unfallstelle;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel
+343_1;Benutzungspflicht der Radverkehrsanlage (RVA);0;1;0;NULL;;;;;;0
+343_2;Schienengleicher Wegübergang;0;1;0;NULL;;;;;;2
+343_3;Fußgängerüberweg (Zebrastreifen);0;1;0;NULL;;;;;;3
+343_4;Fußgängerfurt;0;1;0;NULL;;;;;;4
+343_5;Haltestelle;0;1;0;NULL;;;;;;5
+343_6;Arbeitsstelle;0;1;0;NULL;;;;;;6
+343_7;Verkehrsberuhigter Bereich (Z. 325);0;1;0;NULL;;;;;;7
+343_8;Radverkehrsanlage auf Fahrbahn;0;1;0;NULL;;ggf. nur Markierung;;;;8
+343_9;Radverkehrsanlage von Fahrbahn baulich getrennt;0;1;0;NULL;;;;;;9

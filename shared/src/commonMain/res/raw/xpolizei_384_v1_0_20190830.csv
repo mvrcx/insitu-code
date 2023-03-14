@@ -1,0 +1,35 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+384;auffälliges Verhalten / Gewohnheit;auffälliges Verhalten / Gewohnheit;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+384_1;aufrechter Gang;0;1;0;NULL;;;;;
+384_10;kurze Schritte;0;1;0;NULL;;;;;
+384_11;lange Schritte;0;1;0;NULL;;;;;
+384_12;läuft schlecht;0;1;0;NULL;;;;;
+384_13;Linkshänder;0;1;0;NULL;;;;;
+384_14;Nagelbeißer;0;1;0;NULL;;;;;Nagelkauer
+384_15;nervöses Zwinkern;0;1;0;NULL;;;;;
+384_16;Pfeife;0;1;0;NULL;;;;;
+384_17;Raucher;0;1;0;NULL;;;;;
+384_18;Rechtshänder;0;1;0;NULL;;;;;
+384_19;schaukelnder Gang;0;1;0;NULL;;;;;
+384_2;dreht Zigarette selbst;0;1;0;NULL;;;;;
+384_20;schreibt links;0;1;0;NULL;;;;;
+384_21;schreibt rechts;0;1;0;NULL;;;;;
+384_22;springender Gang;0;1;0;NULL;;;;;
+384_23;stolzieren;0;1;0;NULL;;;;;
+384_24;Zigarre / Zigarillo;0;1;0;NULL;;;;;
+384_25;zucken;0;1;0;NULL;;;;;
+384_3;elektronischer Verdampfer (E-Zigarette);0;1;0;NULL;;;;;
+384_4;filterlose Zigarette;0;1;0;NULL;;;;;
+384_5;Filterzigarette;0;1;0;NULL;;;;;
+384_6;führt Tier mit;0;1;0;NULL;;;;;
+384_7;gebeugter Gang;0;1;0;NULL;;;;;
+384_8;Gehbehinderung;0;1;0;NULL;;;;;
+384_9;krummer Gang;0;1;0;NULL;;;;;

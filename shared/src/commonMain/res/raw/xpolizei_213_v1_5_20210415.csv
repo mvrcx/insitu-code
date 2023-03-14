@@ -1,0 +1,24 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+213;Art der Beteiligung einer Stelle;Art der Beteiligung einer Stelle;ZIR;V1.5;20210415
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+213_1;aufbewahrende Stelle;0;1;0;NULL;;'"Die aufbewahrende Stelle des Vorgangs ist die Ablagedienststelle oder Aktenstelle für den Vorgang. D. h. die Dienststelle, die nach Ende der Sachbearbeitung und Ablage / Archivierung des Vorgangs diesen physikalisch aufbewahrt bzw. für den digital archivierten Vorgang zuständig ist.  Die aufbewahrende Stelle eines Asservats oder eines gepfändeten / beschlagnahmten Gutes ist die Stelle, die für die ordnungsgemäße Verwahrung zuständig ist."';;;
+213_10;kostentragende Stelle;0;1;0;NULL;;;;;
+213_11;ersuchende Stelle;0;1;0;NULL;;;;;
+213_12;ersuchte Stelle;0;1;0;NULL;;;;;
+213_13;anordnende Stelle;NULL;1;0;NULL;;Die anordnende Stelle ist die Stelle, die eine Weisung erteilt, z. B. eine hoheitliche Maßnahme anordnet.;;;
+213_14;aufhebende Stelle;NULL;1;0;NULL;;Die aufhebende Stelle ist die Stelle, die eine Entscheidung rückgängig macht, z. B. über das Ende einer hoheitlichen Maßnahme entscheidet.;;;
+213_2;aufnehmende Stelle;0;1;0;NULL;;;;;
+213_3;durchführende Stelle;0;1;0;NULL;;;;;
+213_4;meldende Stelle;0;1;0;NULL;;;;;
+213_5;nachrichtlich beteiligte Stelle;0;1;0;NULL;;;;;
+213_6;sachbearbeitende Stelle;0;1;0;NULL;;Eine sachbearbeitende Stelle des Vorgangs ist eine Dienststelle, die zur Mitarbeit am Vorgang ersucht wurde oder sich eigeninitiativ daran beteiligt hat. Die Verantwortung für den Vorgang liegt jedoch bei der vorgangsführenden Stelle.;;;
+213_7;steuernde Stelle;0;1;0;NULL;;;;;
+213_8;veranlassende Stelle;0;1;0;NULL;;;;;
+213_9;vorgangsführende Stelle;0;1;0;NULL;;Die vorgangsführende Stelle des Vorgangs ist die Dienststelle, die den Vorgang während der Sachbearbeitung aufbewahrt.;;;

@@ -1,0 +1,13 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+222;Art der Fälschung (Allgemein);Art der Fälschung (Allgemein);ZIR;V1.2;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+222_1;Totalfälschung;0;1;0;NULL;;;;;
+222_2;unbekannte Fälschungsart;0;1;0;NULL;;;;;
+222_3;Verfälschung;0;1;0;NULL;;;;;

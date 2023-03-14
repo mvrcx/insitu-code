@@ -1,0 +1,39 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+249;Ideologie;Ideologie;ZIR;V1.2;20181019
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+249_1;Anarchismus;0;1;0;NULL;;Lehre, die eine Gesellschaftsform ohne Staatsgewalt und gesetzlichen Zwang propagiert.;;;
+249_10;Föderalismus;0;1;0;NULL;;Streben nach Errichtung oder Erhaltung eines Bundesstaates mit weitgehender Eigenständigkeit der Einzelstaaten.;;;
+249_11;Fremdenfeindlichkeit;0;1;0;NULL;;Ablehnung von Menschen fremder Herkunft, Nationalität, Religion oder Hautfarbe.;;;
+249_12;Fundamentalismus;0;1;0;NULL;;Geistige Haltung oder Anschauung, die eine kompromisslose Rückbesinnung auf die jeweiligen Wurzeln einer bestimmten Religion / Ideologie fordert.;;;
+249_13;Grüne Politik;0;1;0;NULL;;Politische Strömung, die eine ökologisch nachhaltige Gesellschaft anstrebt, welche auf Gewaltlosigkeit, sozialer Gerechtigkeit und konsequenter Demokratie beruht.;;;
+249_14;Imperialismus;0;1;0;NULL;;Bestreben einer Großmacht, ihren politischen, militärischen und wirtschaftlichen Macht- und Einflussbereich immer weiter auszudehnen.;;;
+249_15;Islamismus;0;1;0;NULL;;Sammelbezeichnung für alle politischen Auffassungen und Handlungen, die im Namen des Islam die Errichtung einer allein religiös legitimierten Gesellschafts- und Staatsordnung anstreben.;;;
+249_16;Kommunismus;0;1;0;NULL;;Die auf den Sozialismus folgende Entwicklungsstufe, in der alle Produktionsmittel und Erzeugnisse in das gemeinsame Eigentum der Staatsbürger übergehen und alle Klassengegensätze überwunden sind.;;;
+249_17;Konservatismus;0;1;0;NULL;;Der Konservatismus als politische und soziale Philosophie fördert den Erhalt traditioneller sozialer Strukturen im Kontext von Kultur und Zivilisation.;;;
+249_18;Liberalismus;0;1;0;NULL;;Im Individualismus wurzelnde Weltanschauung, die in gesellschaftlicher und politischer Hinsicht die freie Entfaltung und Autonomie des Individuums fordert und staatliche Eingriffe auf ein Minimum beschränkt sehen will.;;;
+249_19;Libertarismus;0;1;0;NULL;;Politische Philosophie, die an einer Idee des Freiseins von äußeren und inneren Zwängen als Leitnorm festhält und deren unterschiedliche Strömungen alle vom Prinzip des Selbsteigentums ausgehen und für eine teilweise bis vollständige Abschaffung oder Beschränkung des Staates sind.;;;
+249_2;Antifaschismus;0;1;0;NULL;;Gesamtheit der Bewegungen und Ideologien, die sich gegen Faschismus und Nationalsozialismus richten.;;;
+249_20;Nationalanarchismus;0;1;0;NULL;;Der Nationale Anarchismus ist eine radikale, antikapitalistische, antimarxistische, antistatische, rechtsgerichtete politische und kulturelle Ideologie, die den ethnischen Tribalismus fördern will.;;;
+249_21;Nationalismus;0;1;0;NULL;;Nationalismus ist eine Ideologie, die eine Identifizierung und Solidarisierung aller Mitglieder einer Nation anstrebt und letztere mit einem souveränen Staat verbinden will.;;;
+249_22;Nationalsozialismus;0;1;0;NULL;;Nach dem Ersten Weltkrieg in Deutschland aufgekommene, extrem nationalistische, imperialistische und rassistische politische Bewegung.;;;
+249_23;Neofaschismus;0;1;0;NULL;;Der Neofaschismus ist eine Ideologie nach dem Zweiten Weltkrieg, die bedeutende Elemente des Faschismus enthält. Neo-Faschismus beinhaltet normalerweise Ultranationalismus, Populismus, Anti-Einwanderungspolitik oder, wo relevant, Nativismus, Antikommunismus, Antisozialismus, Antimarxismus, Anti-Anarchismus und Opposition gegen das parlamentarische System und die liberale Demokratie.;;;
+249_24;Ökologismus;0;1;0;NULL;;Befürwortung und Einsatz für den Schutz der Umwelt vor Zerstörung oder Verschmutzung.;;;
+249_25;Rassismus;0;1;0;NULL;;Meist ideologischen Charakter tragende, zur Rechtfertigung von Rassendiskriminierung, Kolonialismus o. Ä. entwickelte Lehre, nach der Menschen bzw. Bevölkerungsgruppen mit bestimmten biologischen Merkmalen hinsichtlich ihrer kulturellen Leistungsfähigkeit anderen von Natur aus über- bzw. unterlegen sein sollen.;;;
+249_26;Revisionismus;0;1;0;NULL;;Bestreben, eine Änderung eines bestehenden Zustands durch Überprüfung, Infragestellung, Neubewertung oder Umdeutung von allgemein als anerkannt geltenden historischen, politischen oder wissenschaftlichen Erkenntnissen und Positionen herbeizuführen.;;;
+249_27;Separatismus;0;1;0;NULL;;Das Streben nach Separation, besonders nach Gebietsabtrennung, um einen separaten Staat zu gründen.;;;
+249_28;Sozialismus;0;1;0;NULL;;Die dem Kommunismus vorausgehende Entwicklungsstufe, die auf gesellschaftlichen oder staatlichen Besitz der Produktionsmittel und eine gerechte Verteilung der Güter an alle Mitglieder der Gemeinschaft hinzielt.;;;
+249_29;Totalitarismus;0;1;0;NULL;;Totalitarismus ist ein Konzept, in denen der Staat die totale Autorität über die Gesellschaft besitzt und versucht, alle Aspekte des öffentlichen und privaten Lebens zu kontrollieren.;;;
+249_3;Antiimperialismus;0;1;0;NULL;;Ablehnung des Imperialismus.;;;
+249_4;Antiamerikanismus;0;1;0;NULL;;Ablehnende Haltung gegenüber Gesellschaftssystem, Politik und Lebensstil der USA.;;;
+249_5;Antikapitalismus;0;1;0;NULL;;Ablehnung des Kapitalismus.;;;
+249_6;Antirassismus;0;1;0;NULL;;Ablehnung des Rassismus.;;;
+249_7;Antisemitismus;0;1;0;NULL;;Abneigung von oder Feindschaft gegenüber den Juden.;;;
+249_8;Faschismus;0;1;0;NULL;;Nach dem Führerprinzip organisierte, nationalistische, antidemokratische, rechtsradikale Bewegung.;;;
+249_9;Feminismus;0;1;0;NULL;;Richtung der Frauenbewegung, die, von den Bedürfnissen der Frau ausgehend, eine grundlegende Veränderung der gesellschaftlichen Normen (z. B. der traditionellen Rollenverteilung) und der patriarchalisch geprägten Gesellschaft anstrebt.;;;

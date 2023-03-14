@@ -1,0 +1,104 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+243;Art des Merkmals;Art des Merkmals;ZIR;V1.3;20200706
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+243_1;Adamsapfel;0;1;0;NULL;;;;;
+243_10;Doppelkinn;0;1;0;NULL;;;;;
+243_11;Feuermal;0;1;0;NULL;;;;;
+243_12;auswärts;0;1;0;NULL;;;;;
+243_13;einwärts;0;1;0;NULL;;;;;
+243_15;Geschwulst;0;1;0;NULL;;;;;
+243_16;Glasauge;0;1;0;NULL;;;;;
+243_17;Grübchen;0;1;0;NULL;;;;;
+243_18;Hasenscharte;0;1;0;NULL;;;;;
+243_19;Hautekzem;0;1;0;NULL;;;;;
+243_2;Adlernase / Hakennase;0;1;0;NULL;;;;;
+243_20;Hautverfärbung;0;1;0;NULL;;;;;
+243_21;Herzschrittmacher;0;1;0;NULL;;;;;
+243_22;Hörhilfe;0;1;0;NULL;;;;;
+243_23;Knollennase;0;1;0;NULL;;;;;
+243_24;Krampfadern;0;1;0;NULL;;;;;
+243_25;Kropf;0;1;0;NULL;;;;;
+243_26;Längsfalte;0;1;0;NULL;;;;;
+243_27;Leberfleck / Muttermal;0;1;0;NULL;;;;;
+243_28;Leistenbruchnarbe;0;1;0;NULL;;;;;
+243_29;Lidlähmung;0;1;0;NULL;;;;;
+243_3;Amputation;0;1;0;NULL;;;;;
+243_31;Missbildung;0;1;0;NULL;;;;;
+243_33;Narbe;0;1;0;NULL;;;;;
+243_35;Nikotinfinger;0;1;0;NULL;;;;;
+243_36;O-beinig;0;1;0;NULL;;;;;
+243_37;Piercing;0;1;0;NULL;;;;;
+243_38;pockennarbig;0;1;0;NULL;;;;;
+243_39;Prothese;0;1;0;NULL;;;;;
+243_4;Basedowaugen;0;1;0;NULL;;;;;
+243_40;Querfalte;0;1;0;NULL;;;;;
+243_41;Schielen;0;1;0;NULL;;;;;
+243_42;Schuppenflechte;0;1;0;NULL;;;;;
+243_43;schwanger;0;1;0;NULL;;;;;
+243_44;schwerhörig;0;1;0;NULL;;;;;
+243_45;Sommersprossen;0;1;0;NULL;;;;;
+243_46;starke Behaarung;0;1;0;NULL;;;;;
+243_47;Stiernacken;0;1;0;NULL;;;;;
+243_48;Stupsnase;0;1;0;NULL;;;;;
+243_49;taub;0;1;0;NULL;;;;;
+243_5;blind;0;1;0;NULL;;;;;
+243_50;Tränensack;0;1;0;NULL;;;;;
+243_51;Verkrüppelung;0;1;0;NULL;;;;;
+243_52;Versteifung;0;1;0;NULL;;;;;
+243_53;Warze;0;1;0;NULL;;;;;
+243_54;X-beinig;0;1;0;NULL;;;;;
+243_56;abstehend;0;1;0;NULL;;;;;
+243_57;Albinismus;0;1;0;NULL;;;;;
+243_58;angewachsen;0;1;0;NULL;;;;;
+243_59;Behaarung;0;1;0;NULL;;;;;
+243_6;Blinddarmnarbe;0;1;0;NULL;;;;;
+243_60;beschnitten;0;1;0;NULL;;;;;
+243_61;breit;0;1;0;NULL;;;;;
+243_62;breitbeinig;0;1;0;NULL;;;;;
+243_63;buschig;0;1;0;NULL;;;;;
+243_64;dick;0;1;0;NULL;;;;;
+243_65;durchlocht;0;1;0;NULL;;;;;
+243_66;dünn;0;1;0;NULL;;;;;
+243_67;engstehend;0;1;0;NULL;;;;;
+243_68;faltig;0;1;0;NULL;;;;;
+243_69;fliehend;0;1;0;NULL;;;;;
+243_7;Boxernase;0;1;0;NULL;;;;;
+243_70;gebeugt;0;1;0;NULL;;;;;
+243_71;gepflegt;0;1;0;NULL;;;;;
+243_72;gespalten;0;1;0;NULL;;;;;
+243_73;groß;0;1;0;NULL;;;;;
+243_74;Herzschrittmachernarbe;0;1;0;NULL;;;;;
+243_75;hoch;0;1;0;NULL;;;;;
+243_76;Implantat / Modding;0;1;0;NULL;;;;;
+243_77;klein;0;1;0;NULL;;;;;
+243_78;kurz;0;1;0;NULL;;;;;
+243_79;lang;0;1;0;NULL;;;;;
+243_8;Branding;0;1;0;NULL;;;;;
+243_80;Lähmung;0;1;0;NULL;;;;;
+243_81;Schmucknarbe;0;1;0;NULL;;;;;
+243_82;niedrig;0;1;0;NULL;;;;;
+243_83;pickelig;0;1;0;NULL;;;;;
+243_84;Ringerohr / Blumenkohlohr;0;1;0;NULL;;;;;
+243_85;schief;0;1;0;NULL;;;;;
+243_86;Schlitzaugen;0;1;0;NULL;;;;;
+243_87;schmal;0;1;0;NULL;;;;;
+243_88;spitz;0;1;0;NULL;;;;;
+243_89;Talgknoten;0;1;0;NULL;;;;;
+243_9;Buckel;0;1;0;NULL;;;;;
+243_90;tiefliegend;0;1;0;NULL;;;;;
+243_91;ungepflegt;0;1;0;NULL;;;;;
+243_92;vorstehend;0;1;0;NULL;;;;;
+243_93;weitgestellt;0;1;0;NULL;;;;;
+243_94;wulstig;0;1;0;NULL;;;;;
+243_95;zusammengewachsen;0;1;0;NULL;;;;;
+243_96;Dermalanker;0;1;0;NULL;;;;;
+243_97;Langnadelpiercing;0;1;0;NULL;;;;;
+243_98;Tunnelpiercing;0;1;0;NULL;;;;;
+243_99;Plugpiercing;0;1;0;NULL;;;;;

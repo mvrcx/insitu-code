@@ -1,0 +1,18 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+234;Art des Hinweiseingangs;Art des Hinweiseingangs;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+234_1;Brief;0;1;0;NULL;;;
+234_2;E-Mail;0;1;0;NULL;;;
+234_3;Fax;0;1;0;NULL;;;
+234_4;Internetformular;0;1;0;NULL;;;
+234_5;MMS;0;1;0;NULL;;;
+234_6;persönlich;0;1;0;NULL;;;
+234_7;SMS;0;1;0;NULL;;;
+234_8;telefonisch;0;1;0;NULL;;;

@@ -1,0 +1,12 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+325;Verwendungszweck des Arzneimittels;Verwendungszweck des Arzneimittels;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+325_1;Humanarzneimittel;0;1;0;NULL;;;;;
+325_2;Tierarzneimittel;0;1;0;NULL;;;;;

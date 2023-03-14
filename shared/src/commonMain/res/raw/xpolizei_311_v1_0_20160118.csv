@@ -1,0 +1,42 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+311;Zahnnummer;Zahnnummer;ZIR;V1.0;20160118
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+311_1;11-51;0;1;0;NULL;;;;;
+311_10;22-62;0;1;0;NULL;;;;;
+311_11;23-63;0;1;0;NULL;;;;;
+311_12;24-64;0;1;0;NULL;;;;;
+311_13;25-65;0;1;0;NULL;;;;;
+311_14;26;0;1;0;NULL;;;;;
+311_15;27;0;1;0;NULL;;;;;
+311_16;28;0;1;0;NULL;;;;;
+311_17;31-71;0;1;0;NULL;;;;;
+311_18;32-72;0;1;0;NULL;;;;;
+311_19;33-73;0;1;0;NULL;;;;;
+311_2;12-52;0;1;0;NULL;;;;;
+311_20;34-74;0;1;0;NULL;;;;;
+311_21;35-75;0;1;0;NULL;;;;;
+311_22;36;0;1;0;NULL;;;;;
+311_23;37;0;1;0;NULL;;;;;
+311_24;38;0;1;0;NULL;;;;;
+311_25;41-81;0;1;0;NULL;;;;;
+311_26;42-82;0;1;0;NULL;;;;;
+311_27;43-83;0;1;0;NULL;;;;;
+311_28;44-84;0;1;0;NULL;;;;;
+311_29;45-85;0;1;0;NULL;;;;;
+311_3;13-53;0;1;0;NULL;;;;;
+311_30;46;0;1;0;NULL;;;;;
+311_31;47;0;1;0;NULL;;;;;
+311_32;48;0;1;0;NULL;;;;;
+311_4;14-54;0;1;0;NULL;;;;;
+311_5;15-55;0;1;0;NULL;;;;;
+311_6;16;0;1;0;NULL;;;;;
+311_7;17;0;1;0;NULL;;;;;
+311_8;18;0;1;0;NULL;;;;;
+311_9;21-61;0;1;0;NULL;;;;;

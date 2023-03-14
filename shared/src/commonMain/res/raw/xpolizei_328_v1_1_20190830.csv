@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+328;Art des Fahrrads;Art des Fahrrads;ZIR;V1.1;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+328_1;Citybike;0;1;0;NULL;;;;;
+328_10;Rennrad;0;1;0;NULL;;;;;
+328_11;BMX;0;1;0;NULL;;;;;
+328_12;Tandem;0;1;0;NULL;;;;;
+328_13;Trekkingrad;0;1;0;NULL;;;;;
+328_4;Hollandrad;0;1;0;NULL;;;;;
+328_5;Kinderrad;0;1;0;NULL;;;;;
+328_6;Klapprad;0;1;0;NULL;;;;;
+328_7;Liegerad;0;1;0;NULL;;;;;
+328_8;Mountainbike;0;1;0;NULL;;;;;

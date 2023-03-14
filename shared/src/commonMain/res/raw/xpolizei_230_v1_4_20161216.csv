@@ -1,0 +1,216 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+230;Währung;Währung;ZIR;V1.4;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Währungsgruppe;ISO_4217
+230_1;Australischer Dollar;0;1;0;NULL;;;;;;Dollar;AUD
+230_10;Hongkong-Dollar;0;1;0;NULL;;;;;;Dollar;HKD
+230_100;Rumänischer Leu (bis 31.12.2006);0;1;0;NULL;;;;2006-12-31;;Leu;ROL
+230_101;Italienische Lira (bis 28.02.2002);0;1;0;NULL;;;;2002-02-28;;Lira;ITL
+230_102;Maltesische Lira (bis 31.12.2007);0;1;0;NULL;;;;2007-12-31;;Lira;MTL
+230_103;Türkische Lira (bis 31.12.2005);0;1;0;NULL;;;;2005-12-31;;Lira;TRL
+230_104;Loti;0;1;0;NULL;;;;;;;LSL
+230_105;Litas;0;1;0;NULL;;;;;;;LTL
+230_106;Lats;0;1;0;NULL;;;;;;;LVL
+230_107;Konvertible Mark;0;1;0;NULL;;;;;;Mark;BAM
+230_108;Deutsche Mark (bis 31.12.2001);0;1;0;NULL;;;;2001-12-31;;Mark;DEM
+230_109;Finnmark (bis 31.12.2001);0;1;0;NULL;;;;2001-12-31;;Mark;FIM
+230_11;Jamaika-Dollar;0;1;0;NULL;;;;;;Dollar;JMD
+230_110;Kyat;0;1;0;NULL;;;;;;;MMK
+230_111;Tugrik;0;1;0;NULL;;;;;;;MNT
+230_112;Pataca;0;1;0;NULL;;;;;;;MOP
+230_113;Ouguiya;0;1;0;NULL;;;;;;;MRO
+230_114;Rufiyaa;0;1;0;NULL;;;;;;;MVR
+230_115;Ringgit;0;1;0;NULL;;;;;;;MYR
+230_116;Metical (bis 31.12.2006);0;1;0;NULL;;;;2006-12-31;;;MZM
+230_117;Naira;0;1;0;NULL;;;;;;;NGN
+230_118;Córdoba Oro;0;1;0;NULL;;;;;;;NIO
+230_119;Balboa;0;1;0;NULL;;;;;;;PAB
+230_12;Kaiman-Dollar;0;1;0;NULL;;;;;;Dollar;KYD
+230_120;Nuevo Sol;0;1;0;NULL;;;;;;;PEN
+230_121;Argentinischer Peso;0;1;0;NULL;;;;;;Peso;ARS
+230_122;Chilenischer Peso;0;1;0;NULL;;;;;;Peso;CLP
+230_123;Kolumbianischer Peso;0;1;0;NULL;;;;;;Peso;COP
+230_124;Kubanischer Peso;0;1;0;NULL;;;;;;Peso;CUP
+230_125;Dominikanischer Peso;0;1;0;NULL;;;;;;Peso;DOP
+230_126;Mexikanischer Peso;0;1;0;NULL;;;;;;Peso;MXN
+230_127;Philippinischer Peso;0;1;0;NULL;;;;;;Peso;PHP
+230_128;Uruguayischer Peso;0;1;0;NULL;;;;;;Peso;UYU
+230_129;Zypriotisches Pfund (bis 31.12.2007);0;1;0;NULL;;;;2007-12-31;;Pfund;CYP
+230_13;Liberianischer Dollar;0;1;0;NULL;;;;;;Dollar;LRD
+230_130;Ägyptisches Pfund;0;1;0;NULL;;;;;;Pfund;EGP
+230_131;Falkland-Pfund;0;1;0;NULL;;;;;;Pfund;FKP
+230_132;Pfund Sterling;0;1;0;NULL;;;;;;Pfund;GBP
+230_133;Gibraltar-Pfund;0;1;0;NULL;;;;;;Pfund;GIP
+230_134;Irisches Pfund (bis 09.02.2002);0;1;0;NULL;;;;2002-02-09;;Pfund;IEP
+230_135;Libanesisches Pfund;0;1;0;NULL;;;;;;Pfund;LBP
+230_137;Sudanesisches Pfund (bis 1992);0;1;0;NULL;;;;1992-12-31;;Pfund;SDP
+230_138;St.-Helena-Pfund;0;1;0;NULL;;;;;;Pfund;SHP
+230_139;Syrisches Pfund;0;1;0;NULL;;;;;;Pfund;SYP
+230_14;Namibia-Dollar;0;1;0;NULL;;;;;;Dollar;NAD
+230_140;Kina;0;1;0;NULL;;;;;;;PGK
+230_141;Zloty;0;1;0;NULL;;;;;;;PLN
+230_142;Guaraní;0;1;0;NULL;;;;;;;PYG
+230_143;Real;0;1;0;NULL;;;;;;Rial;BRL
+230_144;Iranischer Rial;0;1;0;NULL;;;;;;Rial;IRR
+230_145;Riel;0;1;0;NULL;;;;;;Rial;KHR
+230_146;Rial Omani;0;1;0;NULL;;;;;;Rial;OMR
+230_147;Katar-Riyal;0;1;0;NULL;;;;;;Rial;QAR
+230_148;Saudi-Riyal;0;1;0;NULL;;;;;;Rial;SAR
+230_149;Jemen-Rial;0;1;0;NULL;;;;;;Rial;YER
+230_15;Neuseeland-Dollar;0;1;0;NULL;;;;;;Dollar;NZD
+230_150;Belarus-Rubel (bis 2000);0;1;0;NULL;;;;2000-12-31;;Rubel;BYB
+230_151;Russischer Rubel (bis 31.12.1997);0;1;0;NULL;;;;1997-12-31;;Rubel;RUR
+230_152;Tadschikistan-Rubel (bis 29.10.2000);0;1;0;NULL;;;;2000-10-29;;Rubel;TJR
+230_153;Rupiah;0;1;0;NULL;;;;;;Rupie;IDR
+230_154;Sri-Lanka-Rupie;0;1;0;NULL;;;;;;Rupie;LKR
+230_155;Mauritius-Rupie;0;1;0;NULL;;;;;;Rupie;MUR
+230_156;Nepalesische Rupie;0;1;0;NULL;;;;;;Rupie;NPR
+230_157;Pakistanische Rupie;0;1;0;NULL;;;;;;Rupie;PKR
+230_158;Seychellen-Rupie;0;1;0;NULL;;;;;;Rupie;SCR
+230_159;Österreichischer Schilling (bis 28.02.2002);0;1;0;NULL;;;;2002-02-28;;Schilling;ATS
+230_16;Salomonen-Dollar;0;1;0;NULL;;;;;;Dollar;SBD
+230_160;Kenia-Schilling;0;1;0;NULL;;;;;;Schilling;KES
+230_161;Somalia-Schilling;0;1;0;NULL;;;;;;Schilling;SOS
+230_162;Uganda-Schilling;0;1;0;NULL;;;;;;Schilling;UGX
+230_163;Tolar (bis 14.01.2007);0;1;0;NULL;;;;2007-01-14;;;SIT
+230_164;Leone;0;1;0;NULL;;;;;;;SLL
+230_165;Dobra;0;1;0;NULL;;;;;;;STD
+230_166;Lilangeni;0;1;0;NULL;;;;;;;SZL
+230_167;Baht;0;1;0;NULL;;;;;;;THB
+230_168;Somoni;0;1;0;NULL;;;;;;;TJS
+230_169;Turkmenistan-Manat (bis 31.12.2009);0;1;0;NULL;;;;;;;TMM
+230_17;Singapur-Dollar;0;1;0;NULL;;;;;;Dollar;SGD
+230_170;Pa`anga;0;1;0;NULL;;;;;;;TOP
+230_171;Tansania-Schilling;0;1;0;NULL;;;;;;;TZS
+230_172;Griwna (Hrywnja);0;1;0;NULL;;;;;;;UAH
+230_173;Usbekistan-Sum;0;1;0;NULL;;;;;;;UZS
+230_174;Bolivar (bis 31.12.2008);0;1;0;NULL;;;;2008-12-31;;;VEB
+230_175;Dong;0;1;0;NULL;;;;;;;VND
+230_176;Vatu;0;1;0;NULL;;;;;;;VUV
+230_177;Nordkoreanischer Won;0;1;0;NULL;;;;;;Won;KPW
+230_178;Südkoreanischer Won;0;1;0;NULL;;;;;;Won;KRW
+230_179;Tala;0;1;0;NULL;;;;;;;WST
+230_18;Trinidad-und-Tobago-Dollar;0;1;0;NULL;;;;;;Dollar;TTD
+230_180;Rand;0;1;0;NULL;;;;;;;ZAR
+230_181;Neuer Zaïre (bis 1997);0;1;0;NULL;;;;1997-12-31;;;ZRN
+230_182;Südsudanesisches Pfund;0;1;0;NULL;;;;;;Pfund;SSP
+230_19;Taiwan-Dollar;0;1;0;NULL;;;;;;Dollar;TWD
+230_2;Barbados-Dollar;0;1;0;NULL;;;;;;Dollar;BBD
+230_20;US-Dollar;0;1;0;NULL;;;;;;Dollar;USD
+230_204;Afghani;0;1;0;NULL;;;;;;;AFN
+230_205;Kwanza Readjustado (bis 1999);0;1;0;NULL;;;;1999-12-31;;Kwanza;AOR
+230_206;Aserbaidschan-Manat;0;1;0;NULL;;;;;;;AZN
+230_207;Lew;0;1;0;NULL;;;;;;;BGN
+230_208;Belarus-Rubel;0;1;0;NULL;;;;;;Rubel;BYR
+230_209;Ghana-Cedi;0;1;0;NULL;;;;;;;GHS
+230_21;Ostkaribischer Dollar;0;1;0;NULL;;;;;;Dollar;XCD
+230_210;Ariary;0;1;0;NULL;;;;;;;MGA
+230_211;Metical;0;1;0;NULL;;;;;;;MZN
+230_212;Rumänischer Leu;0;1;0;NULL;;;;;;Leu;RON
+230_213;Russischer Rubel;0;1;0;NULL;;;;;;Rubel;RUB
+230_214;Sudanesisches Pfund;0;1;0;NULL;;;;;;Pfund;SDG
+230_215;Suriname-Dollar;0;1;0;NULL;;;;;;Dollar;SRD
+230_216;Turkmenistan-Manat;0;1;0;NULL;;;;;;;TMT
+230_217;Türkische Lira;0;1;0;NULL;;;;;;Lira;TRY
+230_218;Bolivar;0;1;0;NULL;;;;;;;VEF
+230_219;Serbischer Dinar;0;1;0;NULL;;;;;;Dinar;RSD
+230_22;Simbabwe Dollar (bis 31.07.2006);0;1;0;NULL;;;;2006-07-31;;Dollar;ZWD
+230_220;Sambischer Kwacha;0;1;0;NULL;;;;;;Kwacha;ZMW
+230_221;Simbabwe-Dollar (bis 31.07.2008);0;1;0;NULL;;;;2008-07-31;;Dollar;ZWN
+230_222;Simbabwe-Dollar (bis 01.02.2009);0;1;0;NULL;;;;2009-02-01;;Dollar;ZWR
+230_223;Simbabwe-Dollar;0;1;0;NULL;;;;;;Dollar;ZWL
+230_224;Peso Convertible;0;1;0;NULL;;;;;;Peso;CUC
+230_225;Bitcoin;0;1;0;NULL;;;;;;virtuelle Währung;
+230_226;Litecoin;0;1;0;NULL;;;;;;virtuelle Währung;
+230_227;Second Life Linden Dollar;0;1;0;NULL;;;;;;virtuelle Währung;
+230_228;World of Warcraft Gold;0;1;0;NULL;;;;;;virtuelle Währung;
+230_23;Afghani (bis 31.12.2002);0;1;0;NULL;;;;2002-12-31;;;AFA
+230_24;Lek;0;1;0;NULL;;;;;;;ALL
+230_25;Dram;0;1;0;NULL;;;;;;;AMD
+230_26;Aruba-Florin;0;1;0;NULL;;;;;;Gulden;AWG
+230_27;Aserbaidschan-Manat (bis 31.12.2005);0;1;0;NULL;;;;2005-12-31;;;AZM
+230_28;Taka;0;1;0;NULL;;;;;;;BDT
+230_29;Lew (bis 04.07.1999);0;1;0;NULL;;;;1999-07-04;;;BGL
+230_3;Bermuda-Dollar;0;1;0;NULL;;;;;;Dollar;BMD
+230_30;Boliviano;0;1;0;NULL;;;;;;;BOB
+230_31;Ngultrum;0;1;0;NULL;;;;;;;BTN
+230_32;Pula;0;1;0;NULL;;;;;;;BWP
+230_33;Renminbi Yuan;0;1;0;NULL;;;;;;;CNY
+230_34;Costa-Rica-Colón;0;1;0;NULL;;;;;;Colón;CRC
+230_35;El-Salvador-Colón;0;1;0;NULL;;;;;;Colón;SVC
+230_36;Bosnisch-herzegowinischer Dinar (bis 21.06.1998);0;1;0;NULL;;;;1998-06-21;;Dinar;BAD
+230_37;Bahrain-Dinar;0;1;0;NULL;;;;;;Dinar;BHD
+230_38;Algerischer Dinar;0;1;0;NULL;;;;;;Dinar;DZD
+230_39;Irakischer Dinar;0;1;0;NULL;;;;;;Dinar;IQD
+230_4;Brunei-Dollar;0;1;0;NULL;;;;;;Dollar;BND
+230_40;Jordanischer Dinar;0;1;0;NULL;;;;;;Dinar;JOD
+230_41;Kuwait-Dinar;0;1;0;NULL;;;;;;Dinar;KWD
+230_42;Libyscher Dinar;0;1;0;NULL;;;;;;Dinar;LYD
+230_43;Denar;0;1;0;NULL;;;;;;Dinar;MKD
+230_44;Sudanesischer Dinar (bis 30.06.2007);0;1;0;NULL;;;;2007-06-30;;Dinar;SDD
+230_45;Tunesischer Dinar;0;1;0;NULL;;;;;;Dinar;TND
+230_46;Jugoslawischer Neuer Dinar (bis 2003);0;1;0;NULL;;;;2003-12-31;;Dinar;YUM
+230_47;VAE-Dirham;0;1;0;NULL;;;;;;Dirham;AED
+230_48;Marokkanischer Dirham;0;1;0;NULL;;;;;;Dirham;MAD
+230_49;Sucre (bis 09.09.2000);0;1;0;NULL;;;;2000-09-09;;;ECS
+230_5;Bahama-Dollar;0;1;0;NULL;;;;;;Dollar;BSD
+230_50;Nakfa;0;1;0;NULL;;;;;;;ERN
+230_51;Kap-Verde-Escudo;0;1;0;NULL;;;;;;Escudo;CVE
+230_52;Escudo (bis 31.12.2001);0;1;0;NULL;;;;2001-12-31;;Escudo;PTE
+230_53;Peseta (bis 31.12.2001);0;1;0;NULL;;;;2001-12-31;;;ESP
+230_54;Birr;0;1;0;NULL;;;;;;;ETB
+230_55;Euro;0;1;0;NULL;;;;;;;EUR
+230_56;Belgischer Franc (bis 31.12.2001);0;1;0;NULL;;;;2001-12-21;;Franc;BEF
+230_57;Burundi-Franc;0;1;0;NULL;;;;;;Franc;BIF
+230_58;Kongo-Franc;0;1;0;NULL;;;;;;Franc;CDF
+230_59;Schweizer Franken;0;1;0;NULL;;;;;;Franc;CHF
+230_6;Belize-Dollar;0;1;0;NULL;;;;;;Dollar;BZD
+230_60;Dschibuti Franc;0;1;0;NULL;;;;;;Franc;DJF
+230_61;Französischer Franc (bis 16.02.2002);0;1;0;NULL;;;;2002-02-16;;Franc;FRF
+230_62;Guinea-Franc;0;1;0;NULL;;;;;;Franc;GNF
+230_63;Komoren-Franc;0;1;0;NULL;;;;;;Franc;KMF
+230_64;Luxemburgischer Franc (bis 31.12.2001);0;1;0;NULL;;;;2001-12-31;;Franc;LUF
+230_65;Madagaskar-Franc (bis 31.12.2004);0;1;0;NULL;;;;2004-12-31;;Franc;MGF
+230_66;Ruanda-Franc;0;1;0;NULL;;;;;;Franc;RWF
+230_67;CFA-Franc (BEAC);0;1;0;NULL;;;;;;Franc;XAF
+230_68;CFA-Franc (BCEAO);0;1;0;NULL;;;;;;Franc;XOF
+230_69;CFP-Franc;0;1;0;NULL;;;;;;Franc;XPF
+230_7;Kanadischer Dollar;0;1;0;NULL;;;;;;Dollar;CAD
+230_70;Lari;0;1;0;NULL;;;;;;;GEL
+230_71;Cedi (bis 31.12.2007);0;1;0;NULL;;;;2007-12-31;;;GHC
+230_72;Dalasi;0;1;0;NULL;;;;;;;GMD
+230_73;Drachme (bis 28.02.2002);0;1;0;NULL;;;;2002-02-28;;;GRD
+230_74;Quetzal;0;1;0;NULL;;;;;;;GTQ
+230_75;Antillen-Gulden;0;1;0;NULL;;;;;;Gulden;ANG
+230_76;Niederländischer Gulden (bis 28.01.2002);0;1;0;NULL;;;;2002-01-28;;Gulden;NLG
+230_77;Suriname-Gulden (bis 31.12.2003);0;1;0;NULL;;;;2003-12-31;;Gulden;SRG
+230_78;Lempira;0;1;0;NULL;;;;;;;HNL
+230_79;Kuna;0;1;0;NULL;;;;;;;HRK
+230_8;Fidschi-Dollar;0;1;0;NULL;;;;;;Dollar;FJD
+230_80;Gourde;0;1;0;NULL;;;;;;;HTG
+230_81;Forint;0;1;0;NULL;;;;;;;HUF
+230_82;Neuer israelischer Schekel;0;1;0;NULL;;;;;;;ILS
+230_83;Indische Rupie;0;1;0;NULL;;;;;;;INR
+230_84;Yen;0;1;0;NULL;;;;;;;JPY
+230_85;Som;0;1;0;NULL;;;;;;;KGS
+230_86;Tschechische Krone;0;1;0;NULL;;;;;;Krone;CZK
+230_87;Dänische Krone;0;1;0;NULL;;;;;;Krone;DKK
+230_88;Estnische Krone (bis 15.01.2011);0;1;0;NULL;;;;2011-01-15;;Krone;EEK
+230_89;Isländische Krone;0;1;0;NULL;;;;;;Krone;ISK
+230_9;Guyana-Dollar;0;1;0;NULL;;;;;;Dollar;GYD
+230_90;Norwegische Krone;0;1;0;NULL;;;;;;Krone;NOK
+230_91;Schwedische Krone;0;1;0;NULL;;;;;;Krone;SEK
+230_92;Slowakische Krone (bis 16.01.2009);0;1;0;NULL;;;;2009-01-16;;Krone;SKK
+230_93;Malawi-Kwacha;0;1;0;NULL;;;;;;Kwacha;MWK
+230_94;Sambischer Kwacha (bis 30.06.2013);0;1;0;NULL;;;;2013-06-30;;Kwacha;ZMK
+230_95;Kwanza;0;1;0;NULL;;;;;;Kwanza;AOA
+230_96;Neuer Kwanza (bis 1995);0;1;0;NULL;;;;1995-12-31;;Kwanza;AON
+230_97;Tenge;0;1;0;NULL;;;;;;;KZT
+230_98;Kip;0;1;0;NULL;;;;;;;LAK
+230_99;Moldauischer Leu;0;1;0;NULL;;;;;;Leu;MDL

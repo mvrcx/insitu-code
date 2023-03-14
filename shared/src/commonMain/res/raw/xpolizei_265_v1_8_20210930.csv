@@ -1,0 +1,177 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+265;PMK-politischer Kalender;PMK-politischer Kalender;ZIR;V1.8;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Ereignisdatum;Land_Gebiet
+265_1;iranisches Neujahrsfest;0;1;0;NULL;;;2001-01-01;2016-12-31;;0000-03-26;Iran
+265_10;Beginn der Intifada;0;1;0;NULL;;;2001-01-01;2018-12-31;;1987-12-08;Palästinensische Autonomiegebiete
+265_100;'"Tal El Saatar"';0;1;0;NULL;;Fall des Palästinenserlagers;2001-01-01;2016-12-31;;1976-08-12;Palästinensische Autonomiegebiete
+265_101;Terroranschlag auf die Besucher der Ibrahim-Moschee durch einen israelischen Siedler;0;1;0;NULL;;;2001-01-01;2016-12-31;;1994-02-25;Palästinensische Autonomiegebiete
+265_102;Terroranschlag auf die USA;0;1;0;NULL;;;2002-01-01;;;2001-09-11;Vereinigte Staaten
+265_103;Tod der Conny WESSMANN;0;1;0;NULL;;;2001-01-01;2018-12-31;;1989-11-17;Deutschland
+265_104;Tod des Ayatollah KHOMEINI;0;1;0;NULL;;;2001-01-01;2016-12-31;;1989-06-04;Iran
+265_105;Todestag Michael KÜHNENs;0;1;0;NULL;;;2001-01-01;2016-12-31;;1991-04-25;Deutschland
+265_106;Todestag Rudolf HESS;0;1;0;NULL;;;2001-01-01;;;1987-08-17;Deutschland
+265_107;Todestag von Horst WESSEL;0;1;0;NULL;;Mitglied der NSDAP und SA;2001-01-01;;;1930-02-23;Deutschland
+265_108;Todestag von Ibrahim KAYPAKKAYA, Gründer der TKP/ML;0;1;0;NULL;;;2001-01-01;2018-12-31;;1973-05-18;Türkei
+265_109;Todestag von ZIMMERMANN, KUBIAK und MEHR;0;1;0;NULL;;Aktivisten der "Sauerländer Aktionsfront";2001-01-01;2016-12-31;;1997-11-22;Deutschland
+265_11;Beginn des militärischen Kampfes der PKK;0;1;0;NULL;;;2001-01-01;2016-12-31;;1984-08-15;Türkei
+265_110;Todesurteil (FATWA) gegen Salman RUSHDIE;0;1;0;NULL;;;2001-01-01;2016-12-31;;1989-02-14;Iran
+265_111;Unabhängigkeitstag;0;1;0;NULL;;;2001-01-01;2016-12-31;;1947-08-15;Indien
+265_112;Verbot der "Tudeh-Partei";0;1;0;NULL;;;2001-01-01;2016-12-31;;1983-05-04;Iran
+265_113;Verbot der DHKP-C und der THKP-C-Devrimci Sol;0;1;0;NULL;;;2001-01-01;2016-12-31;;1998-08-13;Türkei
+265_114;Verbot der NSDAP durch den Alliierten Kontrollrat;0;1;0;NULL;;;2001-01-01;2016-12-31;;1945-09-20;Deutschland
+265_115;Verhaftung Ernst RÖHM;0;1;0;NULL;;Stabschef der SA;2001-01-01;2016-12-31;;1934-06-30;Deutschland
+265_116;Verurteilung von Mohamed Ali HAMADEI wegen Mord und Flugzeugentführung;0;1;0;NULL;;;2001-01-01;2016-12-31;;1989-05-17;Libanon
+265_117;Volkstrauertag ("Heldengedenktag");0;1;0;NULL;;;2001-01-01;;Heldengedenktag;2. Sonntag vor dem 1. Advent;Deutschland
+265_118;Vollzug des Verbotes der "Arbeiterpartei Kurdistan" (PKK);0;1;0;NULL;;;2001-01-01;;;1993-11-26;Türkei
+265_119;Walpurgisnacht;0;1;0;NULL;;;2001-01-01;;;0000-04-30;Deutschland
+265_12;Begründung der konstitutionellen Monarchie;0;1;0;NULL;;;2001-01-01;2016-12-31;;1906-08-05;Iran
+265_120;'"Wannsee-Konferenz"';0;1;0;NULL;;organisatorische Festlegung der Massenvernichtung der Juden durch die NS-Führung;2001-01-01;2018-12-31;;1942-01-20;Deutschland
+265_121;Welternährungstag;0;1;0;NULL;;seit 1979;2001-01-01;2016-12-31;'Anti-McDonald''s-Tag';0000-10-16;Deutschland
+265_122;Welttierschutztag;0;1;0;NULL;;seit 1931;2005-01-01;2016-12-31;;0000-10-04;Deutschland
+265_123;'"Werwolf"';0;1;0;NULL;;Schaffung der NS-Untergrundorganisation zur Durchführung von Sabotage- und Terrorakten in den von den alliierten Truppen besetzten Gebieten;2001-01-01;2016-12-31;;1945-04-00;Deutschland
+265_124;Wirtschafts- und Währungsunion;0;1;0;NULL;;;2001-01-01;2018-12-31;;1990-07-01;Deutschland
+265_125;Zerstörung der kurdischen Stadt Lice;0;1;0;NULL;;;2001-01-01;2016-12-31;;1993-10-22;Türkei
+265_126;Todestag Usama BIN LADIN;0;1;0;NULL;;;2012-01-01;2016-12-31;;2011-05-02;Pakistan
+265_127;Todestag Carlo GIULIANI;0;1;0;NULL;;G-8-Gipfel Genua;2013-01-01;2020-12-31;;2001-07-20;Italien
+265_128;Tag der dt. Zukunft;0;1;0;NULL;;;2014-01-01;;;Anfang Juni;Deutschland
+265_129;'"Trauertag in Libyen"';NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1911-10-26;Libyen
+265_13;Belfour-Erklärung;0;1;0;NULL;;;2001-01-01;2016-12-31;;1917-11-02;Palästinensische Autonomiegebiete
+265_130;'"Yserbedevaart"';NULL;1;0;NULL;;;2001-01-01;2009-12-31;;Juli/August;Belgien
+265_131;Abschuss einer libyschen Verkehrsmaschine durch die israelische Luftwaffe;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1973-02-21;Libyen
+265_132;Abzug der amerikanischen Truppen;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1970-06-11;Libyen
+265_133;Abzug der britischen Truppen;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1970-03-28;Libyen
+265_134;Abzug der italienischen Truppen;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1949-10-07;Libyen
+265_135;Aufstand griechischer Studenten;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1973-11-17;Griechenland
+265_136;Ausrufung der "Bundesrepublik Jugoslawien", bestehend aus Serbien und Montenegro;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1992-04-27;Jugoslawien
+265_137;Ausrufung der Republik;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1977-03-02;Libyen
+265_138;Ausrufung der Unabhängigkeit Bosnien-Herzegowinas;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1992-03-03;Jugoslawien
+265_139;Ausrufung der Unabhängigkeit Kroatiens und Sloweniens;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1991-06-25;Jugoslawien
+265_14;Bewaffnete Auseinandersetzung zwischen marxistisch-leninstischen Volksfedajin und Sicherheitskräften in Siahkall;0;1;0;NULL;;;2001-01-01;2016-12-31;;1970-02-08;Iran
+265_140;Besetzung der amerikanischen Botschaft in Teheran;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1979-11-04;Iran
+265_141;Besetzung der großen Moschee von Mekka unter Führung von saudischen Fundamentalisten;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1979-11-20;Saudi Arabien
+265_142;Camp David;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1978-09-17;Palästina
+265_143;Ermordung der Gebrüder GERVALLA;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1982-01-17;Jugoslawien
+265_144;Ermordung SADAT;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1981-10-06;Ägypten
+265_145;Erstürmung der Residenz des japanischen Botschafters in Lima durch peruanische Sicherheitskräfte;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1997-04-22;Peru
+265_146;Gründung der DDR;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1949-10-07;Deutschland
+265_147;Iran und Irak;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1980-09-22;Iran
+265_148;Jahrestag der "Studentenrevolution";NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1976-04-07;Libyen
+265_149;Jahrestag des Alshatt-Feldzuges gegen italienische Truppen;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;0000-12-04;Libyen
+265_15;Bombenanschlag auf das Büro der Islamisch-Republikanischen Partei (IRP);0;1;0;NULL;;;2001-01-01;2016-12-31;;1981-06-28;Iran
+265_150;Luftangriff amerikanischer Streitkräfte auf die libyschen Städte Tripolis und Benghasi;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1986-04-15;Libyen
+265_151;Reise Präsident SADATs nach Jerusalem;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1977-11-19;Ägypten
+265_152;Selbstkrönung Cyrus zum Schah Reza II;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1980-10-31;Iran
+265_153;Selbstmord des Ras-Burka-Touristenmörders Khater;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1986-01-07;Ägypten
+265_154;Selbstverbrennung zweier kurdischer Frauen in Mannheim;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1994-03-21;Türkei
+265_155;Sturz des Staatspräsidenten NUMEIRI;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1985-04-06;Sudan
+265_156;Tag der Ausrufung der Republik;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1950-01-26;Indien
+265_157;Tag der Revolution;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1969-09-01;Libyen
+265_158;Todestag von Rainer SONNTAG;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1991-05-31;Deutschland
+265_159;Todestag von Seyfettin KALAN;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1995-09-03;Türkei
+265_16;Brand des Reichtagsgebäudes in Berlin;0;1;0;NULL;;;2001-01-01;2018-12-31;;1933-02-27;Deutschland
+265_160;Todestag von UHL und WOLFRAM;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1981-10-20;Deutschland
+265_161;Unabhängigkeitstag (Libyen);NULL;1;0;NULL;;;2001-01-01;2009-12-31;;0000-12-24;Libyen
+265_162;Unterzeichnung eines Abkommens über den Staatenbund Ägypten, Syrien und Libyen (09.08.1971);NULL;1;0;NULL;;;2001-01-01;2003-12-31;;1971-08-09;Libyen
+265_163;Unterzeichnung eines Abkommens über den Staatenbund Ägypten, Syrien und Libyen (17.04.1971);NULL;1;0;NULL;;;2005-01-01;2009-12-31;;1971-04-17;Libyen
+265_164;Unterzeichnung eines Abkommens über den Staatenbund Ägypten, Syrien und Libyen (20.08.1971);NULL;1;0;NULL;;;2001-01-01;2003-12-31;;1971-08-20;Libyen
+265_165;US-Bombenangriff auf die Geheimdienstzentrale des Irak;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1993-06-26;Irak
+265_166;Verkündung der Unabhängigkeit Albaniens;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;1912-11-28;Jugoslawien
+265_167;Suizid Gerald HESS;NULL;1;0;NULL;;;2001-01-01;2009-12-31;;000-07-26;Deutschland
+265_168;Sonnenwendfeiern (Frühling);NULL;1;0;NULL;;;2001-01-01;2013-12-31;;0000-03-21;Deutschland
+265_169;Sonnenwendfeiern (Herbst);NULL;1;0;NULL;;;2001-01-01;2013-12-31;;0000-09-21;Deutschland
+265_17;Einmarsch israelischer Truppen in den Westteil von Beirut;0;1;0;NULL;;;2001-01-01;2016-12-31;;1982-09-15;Israel
+265_18;Einmarsch israelischer Truppen in den Libanon;0;1;0;NULL;;;2001-01-01;2016-12-31;;1982-06-06;Palästinensische Autonomiegebiete
+265_19;Einschreiten des chinesischen Militärs auf dem Platz des Himmlischen Friedens;0;1;0;NULL;;;2001-01-01;2018-12-31;;1989-06-03;China
+265_2;Aktionstag für die Freiheit der politischen Gefangenen;0;1;0;NULL;;seit 1996;2001-01-01;2018-12-31;;0000-03-18;Deutschland
+265_20;Ende des 2. Weltkrieges;0;1;0;NULL;;Unterzeichnung der Kapitulationsurkunde im 2. Weltkrieg;2001-01-01;;Tag der Befreiung;1945-05-08;Deutschland
+265_21;Ermordung Ashra RADJAVIS;0;1;0;NULL;;;2001-01-01;2016-12-31;;1982-02-05;Iran
+265_22;Ermordung Ernst RÖHM;0;1;0;NULL;;durch SS-Angehörige wegen angeblichen Putschversuchs;2001-01-01;2016-12-31;;1934-07-01;Deutschland
+265_23;Ermordung RABIN;0;1;0;NULL;;israelischer Premierminister;2001-01-01;2016-12-31;;1995-11-04;Israel
+265_24;Ermordung von Rosa LUXEMBURG und Karl LIEBKNECHT;0;1;0;NULL;;;2001-01-01;;;1919-01-15;Deutschland
+265_25;Erschießung von 5 Mitgliedern der "Dev Sol";0;1;0;NULL;;darunter der bisherige 2. Mann, Bedri YAGAN;2001-01-01;2016-12-31;;1993-03-06;Türkei
+265_26;Exekution Albert Leo SCHLAGETERs;0;1;0;NULL;;durch französisches Militär wegen Beteiligung an Sabotageakten während der französischen Besetzung des Rheinlandes;2001-01-01;2016-12-31;;1925-05-26;Deutschland
+265_27;Festnahme des Abdullah ÖCALAN in Nairobi;0;1;0;NULL;;;2001-01-01;;;1999-02-15;Türkei
+265_28;Feuerbestattung Michael KÜHNEN;0;1;0;NULL;;auf dem Waldfriedhof in Kassel;2001-01-01;2016-12-31;;1992-01-03;Deutschland
+265_29;'"Friedensflug" Rudolf HESS nach Großbritannien';0;1;0;NULL;;;2001-01-01;2018-12-31;;1941-05-10;Deutschland
+265_3;Alljährliche Kundgebung anl. des Todestages von FRANCO in Madrid;0;1;0;NULL;;gest. 20.11.1975;2001-01-01;2016-12-31;;0000-11-20;Spanien
+265_30;Geburtstag Adolf HITLER;0;1;0;NULL;;;2001-01-01;;;1889-04-20;Deutschland
+265_31;Geburtstag Ernst RÖHMs;0;1;0;NULL;;;2001-01-01;2016-12-31;;1889-11-28;Deutschland
+265_32;Geburtstag Horst WESSEL;0;1;0;NULL;;;2001-01-01;2018-12-31;;1907-10-09;Deutschland
+265_33;Geburtstag Michael KÜHNEN;0;1;0;NULL;;;2001-01-01;2016-12-31;;1955-06-21;Deutschland
+265_34;Geburtstag Saddam HUSSEIN;0;1;0;NULL;;;2001-01-01;2016-12-31;;1937-04-28;Irak
+265_35;Geburtstag von Rudolf HESS;0;1;0;NULL;;;2001-01-01;;;1894-04-26;Deutschland
+265_36;GHODS-Tag;0;1;0;NULL;;'Demonstration; 1979 von KHOMEINI initiiert; Aufruf zur Befreiung Jerusalems mit seinen heiligen Stätten des Islam';2001-01-01;2016-12-31;Jerusalem-Tag;letzter Freitag des Ramadan;Iran
+265_37;Giftgaseinsatz gegen Kurden in Halabja;0;1;0;NULL;;;2001-01-01;2016-12-31;;1988-03-16;Irak
+265_38;Grundsatzerklärung von Washington (Oslo I);0;1;0;NULL;;;2001-01-01;2016-12-31;;1993-09-13;Palästinensische Autonomiegebiete
+265_39;Gründung der "Islamischen Widerstandsbewegung" HAMAS;0;1;0;NULL;;;2001-01-01;2016-12-31;;1987-12-14;Palästinensische Autonomiegebiete
+265_4;Angriff der Alliierten auf den Irak;0;1;0;NULL;;;2001-01-01;2016-12-31;;1991-01-17;Irak
+265_40;Gründung der Devrimci Sol;0;1;0;NULL;;;2001-01-01;2016-12-31;Dev Sol;1983-02-09;Türkei
+265_41;Gründung der PLO;0;1;0;NULL;;;2001-01-01;2016-12-31;;1964-05-28;Palästinensische Autonomiegebiete
+265_42;Gründung der SS;0;1;0;NULL;;;2001-01-01;2018-12-31;;1925-11-09;Deutschland
+265_43;Gründung des "Nationalen Widerstandsrates Iran" (NWRI);0;1;0;NULL;;;2001-01-01;2016-12-31;NWRI;1981-07-21;Iran
+265_44;Gründung des II. Deutschen Reiches;0;1;0;NULL;;;2001-01-01;2016-12-31;;1871-01-18;Deutschland
+265_45;Gründungstag der PKK;0;1;0;NULL;;;2001-01-01;;;1978-11-27;Türkei
+265_46;Halim DENER;0;1;0;NULL;;tödliche Verletzung des kurdischen Jugendlichen durch Polizeibeamte in Hannover;2001-01-01;;;1994-06-30;Türkei
+265_47;Hinrichtung von Kriegsverbrechern in Nürnberg;0;1;0;NULL;;;2001-01-01;2018-12-31;;1946-10-16;Deutschland
+265_48;Hiroshima;0;1;0;NULL;;Abwurf einer Atombombe auf die japanische Stadt durch die USA;2001-01-01;2018-12-31;;1945-08-06;Japan
+265_49;HITLER wird Reichskanzler;0;1;0;NULL;;;2001-01-01;2018-12-31;;1933-01-30;Deutschland
+265_5;Anschlag gegen Aleviten in Istanbul;0;1;0;NULL;;;2001-01-01;2018-12-31;;1995-03-13;Türkei
+265_50;Inkrafttreten der Kapitulation für alle deutschen Truppen;0;1;0;NULL;;;2001-01-01;;;1945-05-09;Deutschland
+265_51;'"internationaler Frauenkampftag"';0;1;0;NULL;;;2001-01-01;;;0000-11-25;Deutschland
+265_52;internationaler Frauentag;0;1;0;NULL;;;2001-01-01;;;0000-03-08;Deutschland
+265_53;'"Internationaler Kampftag zur Befreiung der politischen Gefangenen weltweit"';0;1;0;NULL;;seit 1997;2001-01-01;2016-12-31;;0000-12-10;Deutschland
+265_54;Israelischer Angriff auf das PLO-Hauptquartier in Tunis;0;1;0;NULL;;;2001-01-01;2016-12-31;;1985-10-01;Palästinensische Autonomiegebiete
+265_55;Jahrestag der Bombardierung Dresdens;0;1;0;NULL;;;2007-01-01;;;1945-02-13;Deutschland
+265_56;Jahrestag der Revolution;0;1;0;NULL;;;2001-01-01;2016-12-31;;1958-07-14;Irak
+265_57;Jahrestag der Unterzeichnung des ägyptisch-israelischen Friedensvertrages in Washington;0;1;0;NULL;;;2001-01-01;2016-12-31;;1978-03-26;Agypten, Palästinensische Autonomiegebiete
+265_58;Jahrestag der VN-Teilungsresolution;0;1;0;NULL;;;2001-01-01;2016-12-31;;1947-11-29;Palästinensische Autonomiegebiete
+265_59;Judenpogrom ("Reichskristallnacht");0;1;0;NULL;;;2001-01-01;;Judenpogrom;1938-11-09;Deutschland
+265_6;Antikriegstag;0;1;0;NULL;;'seit 1966; anl. des Ausbruchs des 2. Weltkriegs';2001-01-01;2019-12-31;;1939-09-01;Deutschland
+265_60;Kapitulation im 1. Weltkrieg;0;1;0;NULL;;;2001-01-01;2016-12-31;;1918-11-09;Deutschland
+265_61;Marsch auf die Feldherrnhalle;0;1;0;NULL;;Putschversuch Hitlers;2001-01-01;2016-12-31;;1923-11-09;Deutschland
+265_62;Massaker in den Palästinenserlagern "Sabra" und "Shattila" in Beirut;0;1;0;NULL;;;2001-01-01;2016-12-31;;1982-09-16/1982-09-17;Palästinensische Autonomiegebiete
+265_63;Massaker von Deir Yassin;0;1;0;NULL;;;2001-01-01;2016-12-31;;1948-04-09;Palästinensische Autonomiegebiete
+265_64;Massaker von Kafr Kassem;0;1;0;NULL;;;2001-01-01;2016-12-31;;1956-10-28;Palästinensische Autonomiegebiete
+265_65;Militärische Machtübernahme;0;1;0;NULL;;;2001-01-01;2017-12-31;;1980-09-12;Türkei
+265_66;Nagasaki;0;1;0;NULL;;Abwurf einer Atombombe auf die japanische Stadt durch die USA;2001-01-01;2018-12-31;;1945-08-09;Japan
+265_67;Nationalfeiertag;0;1;0;NULL;;;2001-01-01;2016-12-31;;1958-07-17;Irak
+265_68;NEWROZ;0;1;0;NULL;;kurdisches Neujahrsfest;2001-01-01;;;0000-03-20 oder 0000-03-21;Türkei
+265_69;Niederschlagung des Aufstandes der Moslembrüder in Hamar;0;1;0;NULL;;;2001-01-01;2016-12-31;;1982-02-15;Syrien
+265_7;Attentat auf HITLER;0;1;0;NULL;;;2001-01-01;2018-12-31;;1944-07-20;Deutschland
+265_70;NSDAP;0;1;0;NULL;;Umbenennung der 1919 gegründeten "Deutschen Arbeiterpartei" (DAP);2001-01-01;2016-12-31;;1920-02-20;Deutschland
+265_71;Öffnung der "DDR-Grenze";0;1;0;NULL;;;2001-01-01;;;1989-11-09;Deutschland
+265_72;Rückkehr des Ayatollah KHOMEINI;0;1;0;NULL;;;2001-01-01;2016-12-31;;1979-02-01;Iran
+265_73;Sankt-Veits-Tag;0;1;0;NULL;;vernichtende Niederlage der Serben gegen die Türken bei der Schlacht auf dem Amselfeld;2001-01-01;2016-12-31;;1389-06-28;Jugoslawien (ehemalig)
+265_74;Schlacht von Karameh;0;1;0;NULL;;;2001-01-01;2016-12-31;;1968-03-21;Palästinensische Autonomiegebiete
+265_75;'"Schwarzer September" - Massaker in Jordanien';0;1;0;NULL;;;2001-01-01;2016-12-31;;1970-09-17;Palästinensische Autonomiegebiete
+265_76;Silvio MEIER;0;1;0;NULL;;wird bei Auseinandersetzungen zwischen linken und rechten Jugendlichen erstochen;2001-01-01;;;1992-11-21;Deutschland
+265_78;Sonnenwendfeiern (Sommer);0;1;0;NULL;;;2001-01-01;2018-12-31;Sommersonnenwende;0000-06-21;Deutschland
+265_8;Auseinandersetzung zwischen saudischen Sicherheitskräften und iranischen Pilgern in Mekka/Saudi-Arabien;0;1;0;NULL;;;2001-01-01;2016-12-31;;1987-07-31;Iran
+265_80;Sonnenwendfeiern (Winter);0;1;0;NULL;;;2001-01-01;2018-12-31;Wintersonnenwende;0000-12-21;Deutschland
+265_81;Sprengstoffanschlag auf der Theresienwiese in München (Oktoberfest);0;1;0;NULL;;Oktoberfest;2001-01-01;2016-12-31;;1980-09-26;Deutschland
+265_82;srilankisch-indisches Abkommen zur Beendigung des Tamilenkonflikts;0;1;0;NULL;;;2001-01-01;2016-12-31;;1987-07-29;Sri Lanka
+265_83;Staatsgründung Israel;0;1;0;NULL;;'Staatsgründung: 14.05.1948; der Jahrestag richtet sich in Israel nach dem jüdischen Kalender und ist daher variabel';2001-01-01;;;April/Mai;Israel
+265_84;Sturm auf den goldenen Tempel der Sikhs;0;1;0;NULL;;;2001-01-01;2016-12-31;;1984-06-06;Indien
+265_85;Suizid Adolf HITLER;0;1;0;NULL;;;2001-01-01;;;1945-04-30;Deutschland
+265_86;Suizid der Ulrike MEINHOF;0;1;0;NULL;;;2001-01-01;2016-12-31;;1976-05-07;Deutschland
+265_87;Suizid Hermann GÖRING;0;1;0;NULL;;;2001-01-01;2016-12-31;;1946-10-15;Deutschland
+265_88;Suizid Joseph GOEBBELS;0;1;0;NULL;;;2001-01-01;2016-12-31;;1945-05-01;Deutschland
+265_89;Suizid von BAADER, ENSSLIN und RASPE in der JVA Stammheim;0;1;0;NULL;;;2001-01-01;2019-12-31;;1977-10-18;Deutschland
+265_9;Ausrufung des Staates Palästina;0;1;0;NULL;;;2001-01-01;2016-12-31;;1988-11-15;Palästinensische Autonomiegebiete
+265_90;Tag der Arbeit;0;1;0;NULL;;;2001-01-01;;;0000-05-01;Deutschland
+265_91;Tag der Deutschen Einheit;0;1;0;NULL;;;2001-01-01;;;1990-10-03;Deutschland
+265_92;'"Tag der Ehre"';0;1;0;NULL;;Treffen von Rechtsextremisten seit einigen Jahren in Budapest, Club "Wiking";2001-01-01;2018-12-31;;0000-02-13;Deutschland
+265_93;Tag der Hingerichteten und politischen Gefangenen;0;1;0;NULL;;;2001-01-01;2016-12-31;;1981-06-21;Iran
+265_94;Tag der iranischen Revolution;0;1;0;NULL;;;2001-01-01;2018-12-31;;1979-02-11;Iran
+265_95;Tag der islamischen Republik;0;1;0;NULL;;;2001-01-01;2016-12-31;;1979-04-01;Iran
+265_96;Tag der Mahnung und Erinnerung an den antifaschistischen Widerstand;0;1;0;NULL;;seit 1945;2001-01-01;2016-12-31;;zweiter Sonntag im September;Deutschland
+265_97;Tag des Bodens;0;1;0;NULL;;;2001-01-01;2016-12-31;;1976-03-30;Palästinensische Autonomiegebiete
+265_98;Tag des Volksaufstandes im Iran;0;1;0;NULL;;;2001-01-01;2016-12-31;;1963-06-05;Iran
+265_99;Tag des Widerstands;0;1;0;NULL;;;2001-01-01;2016-12-31;Mordanschlag auf KHOMEINI;1981-06-20;Iran

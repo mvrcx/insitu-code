@@ -1,0 +1,63 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+313;Art des Betäubungsmittelgrundstoffs;Art des Betäubungsmittelgrundstoffs;ZIR;V1.1;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;CAS-Nummer
+313_1;1,4-Butandiol;0;1;0;NULL;BDO;Farblose, fast geruchlose Flüssigkeit, in Wasser löslich.;;;'Butan-1,4-diol; 1,4-Butylenglycol; 1,4-Dihydroxybutan; Tetramethylenglycol';110-63-4
+313_10;Ergotamin;0;1;0;NULL;;Farblose, geruchlose Kristalle oder Nadeln, die Feuchtigkeit aus der Luft absorbieren und braun werden und sich zersetzen, wenn sie Luft, Wärme oder Licht ausgesetzt werden.;;;Ergotamintartrat;113-15-5
+313_11;Essigsäureanhydrid;0;1;0;NULL;;Farblose Flüssigkeit mit stark essigartigem, stechendem Geruch. Der Stoff raucht in Kontakt mit feuchter Luft.;;;'Acetanhydrid; Ethansäureanhydrid; Acetic anhydride (eng.); Ethanoic anhydride (eng.); Ethanoyl ethanoate (eng.); Acetic acid anhydride (eng.); Acetic oxide (eng.); Acetyl acetate (eng.); Acetyl oxide (eng.)';108-24-7
+313_12;Formamid;0;1;0;NULL;;Farblose, schwach viskose Flüssigkeit mit schwachem Geruch nach Ammoniak.;;;'Ameisensäureamid; Methanamid; Carbamaldehyde (eng.)';75-12-7
+313_13;Gammabutyrolacton;0;1;0;NULL;GBL;Leichtbewegliche, farblose Flüssigkeit mit unangenehmem Geruch. Mit Wasser, Alkohol und ähnlichen Flüssigkeiten mischbar. Der Stoff liegt meist in flüssiger Form oder als Pulver vor, kann aber auch in Form von Gel oder Tabletten vorkommen.;;;'Oxolan-2-on; Butyro-1,4-lacton; Dihydrofuran-2-on; Butyrolactone (eng.); 1,4-Lactone (eng.); 4-Hydroxybutanoic acid lactone (eng.)';96-48-0
+313_14;Isosafrol;0;1;0;NULL;;'Dichte Flüssigkeit mit anisartigem Geruch; farblos bis blassgelb/gelb.';;;'5-(Prop-1-enyl)benzo[d][1,3]dioxol; 1,2-Methylendioxy-4-propenylbenzol; 5-(1-Propenyl)-1,3-benzodioxole (eng.); 3,4-Methylenedioxyphenyl-1-propene (eng.)';120-58-1
+313_15;Kaliumpermanganat;0;1;0;NULL;;Geruchlose, dunkelviolette Kristalle mit metallisch blauem Glanz.;;;'Hypermangan; Kaliummanganat; Kaliumtetraoxomanganat; Potassium permanganate (eng.); Potassium manganate (eng.); Permanganate of potash (eng.)';7722-64-7
+313_16;Lysergsäure;0;1;0;NULL;;Weiße Kristalle oder kristallines Pulver.;;;Lysergic acid (eng.);82-58-6
+313_17;Methylethylketon;0;1;0;NULL;MEK;Farblose Flüssigkeit mit leicht scharfem Acetongeruch.;;;'Butan-2-on; Butanon; 2-Butanon; Methylaceton; Ethylmethylketon; Methylpropanon';78-93-3
+313_18;N-Acetylanthranilsäure;0;1;0;NULL;;Feines, kristallines Pulver, durchscheinend bis weiß.;;;'N-Acetylanthranilic acid (eng.); 2-Acetamidobenzoic acid (eng.); o-Acetoaminobenzoic acid (eng.); 2-(Acetylamino)benzoic acid (eng.); 2-Carboxyacetanilide (eng.)';89-52-1
+313_19;Norephedrin;0;1;0;NULL;;Weiße Kristalle mit einem Geruch nach Benzoesäure.;;;'Phenylpropanolamin; 2-Amino-1-phenyl¬propan-1-ol; PPA; Naldecon';14838-15-4
+313_2;3,4-Methylendioxyphenylpropan-2-on;0;1;0;NULL;PMK;Farblose oder blassgelbe Flüssigkeit mit anisartigem Geruch.;;;'Piperonylmethylketon; MDP2P; 1-(1,3-Benzodioxol-5-yl)aceton; 3,4-Methylenedioxyphenyl-2-propanone (eng.); 3,4-MDP-2-P (eng.); Methyl piperonyl ketone (eng.); Piperonylacetone (eng.); 3,4-Methylenedioxy-phenylacetone (eng.)';4676-39-5
+313_20;Phenyl-1 Propanon-2;0;1;0;NULL;BMK;Farblose bis blassgelbe, mäßig viskose Flüssigkeit.;;;'Benzylmethylketon; Phenylaceton; 1-Phenyl-2-propanon; 1-Phenylpropan-2-one (eng.); Methyl benzyl ketone (eng.); Phenyl-2-propanone (eng.); P2P (eng.); P-2-P (eng.)';103-79-7
+313_21;Phenylessigsäure;0;1;0;NULL;;Weißes bis gelbliches Pulver mit extrem unangenehmem, säuerlichem Geruch.;;;'alpha-Tolylsäure; Benzolessigsäure; 2-Phenyl-ethansäure; Phenylacetic acid (eng.); Phenylethanoic acid (eng.); PAA (eng.)';103-82-2
+313_22;Piperidin;0;1;0;NULL;;Farblose, brennbare Flüssigkeit mit starkem Geruch nach Pfeffer oder Ammoniak.;;;'Hexahydropyridin; Pentamethylenimin; Azinan; Azacyclohexan; Cyclopentimine (eng.); Cypentil (eng.); Hexazane (eng.); Perhydropyridine (eng.)';110-89-4
+313_23;Piperonal;0;1;0;NULL;;Farblose, glänzende, nadelförmige Kristalle mit Geruch nach Vanille und Kirschen.;;;'Heliotropin; 3,4-(Methylendioxy)-benzaldehyd; Piperonylaldehyd; 1,3-Benzodioxole-5-carbaldehyde (eng.); Protocatechuic aldehyde methylene ether (eng.)';120-57-0
+313_24;Platinoxid;0;1;0;NULL;;Dunkelbraunes bis schwarzes geruchloses Pulver. Es ist unbegrenzt haltbar.;;;;11129-89-8, 1314-15-4, 12035-82-4
+313_25;Pseudoephedrin;0;1;0;NULL;PSE;'Kristalle, Nadeln oder kristallines Pulver; weiß, geruchlos.';;;(1S,2S)-2-Methylamino-1-phenylpropan-1-ol;90-82-4
+313_26;Roter Phosphor;0;1;0;NULL;;Dunkelrotes bis violettes Pulver.;;;red Phosphorus (eng.);7723-14-0
+313_27;Safrol;0;1;0;NULL;;Kristalle oder Flüssigkeit, farblos oder blassgelb, mit Geruch nach kohlensäurehaltigen Getränken.;;;'3,4-Methylendioxy-allylbenzol; 5-Allyl-1,3-benzodioxol; 5-Allyl-benzo[1,3]-dioxol; 5-Prop-2-enyl-1,3-benzodioxol; 5-(2-propen-1-yl)-1,3-Benzodioxole (eng.); 3,4-Methylenedioxyphenyl-2-propene (eng.)';94-59-7
+313_28;Salzsäure;0;1;0;NULL;;Farblose bis hellgelbe Flüssigkeit mit stark beißendem und stechendem Geruch. Der Stoff raucht an der Luft.;;;'Chlorwasserstoffsäure; Hydrochloric acid (eng.); Muriatic acid (eng.); Hydrogen chloride (eng.); Chlorohydric acid (eng.)';7647-01-0
+313_29;Sassafrasöl;0;1;0;NULL;;Sehr hellgelbe, transparente Flüssigkeit.;;;;8006-80-2
+313_3;Aceton;0;1;0;NULL;;Niedrigviskose, farblose Flüssigkeit mit leicht scharfem, schwach aromatischem Geruch.;;;'Dimethylketon; Propan-2-on; Propanon; 2-Propanon; Spiritus pyroaceticus; beta-Ketopropane (eng.); Ketone propane (eng.)';67-64-1
+313_30;Schwefelsäure;0;1;0;NULL;;'Viskose, farb- und geruchlose Flüssigkeit; verschiedene Verunreinigungen können eine bräunlich-gelbe Farbe verursachen.';;;'Dihydrogensulfat; Monothionsäure; Sulfuric/sulphuric acid (eng.); Hydrogen sulfate/sulphate (eng.); oil of vitriol (eng.)';7664-93-9
+313_31;Toluol;0;1;0;NULL;;Farblose Flüssigkeit mit starkem Benzolgeruch.;;;'Toluen; Methylbenzol; Methylbenzen; Phenylmethan; Anisen';108-88-3
+313_32;4-Anilino-N-phenethylpiperidin;NULL;1;0;NULL;ANPP;Cremefarbener Feststoff.;;;'4-ANPP; 4-Aminophenyl-1-phenethylpiperidine (eng.); N-Phenyl-1-(2-phenylethyl)-4-piperidinamine (eng.); N-Phenyl-1-(2-phenylethyl)piperidin-4-amine (eng.)';21409-26-7
+313_33;alpha-Phenylacetoacetamid;NULL;1;0;NULL;APAA;Weißes bis cremefarbenes (kristallines) Pulver.;;;'3-Oxo-2-phenylbutanamid; 2-Phenyl-3-oxobutanamide (eng.)';4433-77-6
+313_34;BMK Glycidsäure;NULL;1;0;NULL;;Weißes grobkörniges (kristallines) Pulver.;;;'2-Methyl-3-phenyl-2-oxirancarbonsäure; BMK glycidic acid (eng.); 2-Methyl-3-phenyloxirane-2-carboxylic acid (eng.)';25547-51-7
+313_35;BMK Methylglycidat;NULL;1;0;NULL;;Weißes (kristallines) Pulver.;;;'BMK Glycidat; Methyl-2-methyl-3-phenyl-2-oxirancarboxylat; Methyl 2-methyl-3-phenyloxirane-2-carboxylate (eng.)';80532-66-7, 41232-97-7
+313_36;Cannabidiol;NULL;1;0;NULL;CBD;Cremefarbener Feststoff.;;;;13956-29-1
+313_37;Chlorephedrin;NULL;1;0;NULL;;Weißes kristallines Pulver.;;;(1R,2S)-1-Chlor-N-methyl-1-phenyl-2-propanamin;110925-64-9, 1384199-95-4
+313_38;Chlorpseudoephedrin;NULL;1;0;NULL;;Weißes kristallines Pulver.;;;(1S,2S)-1-Chlor-N-methyl-1-phenyl-2-propanamin;73393-61-0, 771434-80-1
+313_39;Methyl alpha-phenylacetoacetat;NULL;1;0;NULL;MAPA;Weißes bis cremefarbenes oder gelbliches (kristallines) Pulver.;;;'Methyl alpha-acetylphenylacetate (eng.); Methyl 3-oxo-2-phenyl butanoate (eng.); Methyl 3-oxo-2-phenylbutyrate (eng.); Methyl 2-phenylacetoacetate (eng.); 2-Phenylacetoacetic acid methyl ester (eng.)';16648-44-5
+313_4;Alpha-Phenylacetoacetonitril;0;1;0;NULL;APAAN;Gelblich-weißes Pulver mit stechendem Geruch nach Bittermandel.;;;'3-Oxo-2-phenylbutannitril; 2-Phenylacetoacetonitril; alpha-Acetylphenylacetonitril; 2-Acetyl-benzeneacetonitrile (eng.); 2-Acetyl-2-phenylacetonitrile (eng.)';4468-48-8
+313_40;N-Phenethyl-4-piperidon;NULL;1;0;NULL;NPP;Gelb-braunes kristallines Pulver.;;;'1-(2-Phenylethyl)-4-piperidinon; 1-(2-Phenylethyl)piperidin-4-one (eng.)';39742-60-4
+313_41;PMK Glycidsäure;NULL;1;0;NULL;;Cremefarbener Feststoff.;;;'PMK glycidic acid (eng.); 3,4-MDP-2-P methyl glycidic acid (eng.); 3-(1,3-Benzodioxol-5-yl)-2-methyloxirane-2-carboxylic acid (eng.)';2167189-50-4
+313_42;PMK Methylglycidat;NULL;1;0;NULL;;Cremefarbener Feststoff.;;;'PMK Glycidat; 3,4-MDP-2-P methyl glycidate (eng.); 3,4-MDP-2-P glycidate (eng.); Methyl 3-(1,3-benzodioxol-5-yl)-2-methyloxirane-2-carboxylate (eng.)';13605-48-6
+313_43;Allylbenzol;NULL;1;0;NULL;;Farblose bis leicht gelbliche klare Flüssigkeit.;;;'Allylbenzene (eng.); Phenylpropene (eng.); Prop-2-enylbenzene (eng.); 3-Phenyl-1-propene (eng.); 2-Propenylbenzene (eng.)';300-57-2
+313_44;Benzylchlorid;NULL;1;0;NULL;;'Farblose, klare Flüssigkeit; Dämpfe und Flüssigkeit rufen starke Verätzung der Augen, der Atemwege und der Haut hervor.';;;'(Chlormethyl)benzen; Chlormethylbenzol; alpha-Chlortoluol; alpha-Chlortoluen; Phenylmethylchlorid; Tolylchlorid';100-44-7
+313_45;Benzylcyanid;NULL;1;0;NULL;;'Farblose bis gelbliche Flüssigkeit mit charakteristischem aromatischem Geruch; Dämpfe und Flüssigkeit sind sehr giftig.';;;'Phenylacetonitril; alpha-Tolunitril; 2-Phenylacetonitrile (eng.)';140-29-4
+313_46;Ethyl alpha-phenylacetoacetat;NULL;1;0;NULL;EAPA;Farblose, schwach viskose Flüssigkeit.;;;'Ethyl alpha-acetylphenylacetate (eng.); Ethyl 3-oxo-2-phenylbutanoate (eng.); Ethyl 3-oxo-2-phenylbutyrate (eng.); Ethyl-2-phenylacetoacetat; 2-Phenylacetoacetic acid ethylester (eng.)';5413-05-8
+313_47;Essigsäure (99-100%ig);NULL;1;0;NULL;;Klare, farblose, stechend riechende Flüssigkeit.;;;'Eisessig; Acetoxylsäure; Ethansäure; (Glacial) Acetic acid (eng.); Hydrogen acetate (eng.)';64-19-7
+313_48;Ethylamin;NULL;1;0;NULL;;'Farbloses Gas mit stechendem Ammoniak-ähnlichem Geruch; Gas und Dämpfe reizen die Augen.';;;'Aminoethan; Ethanamin; Monoethylamin';75-04-7
+313_49;Litiumaluminiumhydrid;NULL;1;0;NULL;LAH;'Farbloses Pulver; wird durch Wasser und Luftfeuchtigkeit zersetzt.';;;'Lithiumalanat; Lithiumtetrahydroaluminat; Lithium alumanuide (eng.); Lithal (eng.); Lithium aluminohydride (eng.)';16853-85-3
+313_5;Anthranilsäure;0;1;0;NULL;;Weißes bis blassgelbes, kristallines Pulver.;;;'2-Aminobenzoesäure; Benzolcarbonsäure-2-amin; 2-Carboxyanilin; Anthranilic acid (eng.); 2-Aminobenzoic acid (eng.); 2-Aminobenzenecarboxylic acid (eng.)';118-92-3
+313_50;4-Methoxybenzylmethylketon;NULL;1;0;NULL;;Leicht gelbe bis grüngelbe klare Flüssigkeit.;;;'1-(4-Methoxyphenyl)aceton; 4-Methoxy-BMK; 1-(4-methoxyphenyl)propan-2-one (eng.); 4-methoxyphenylacetone (eng.); 1-(p-methoxyphenyl)-2-propanone (eng.); anisic ketone (eng.)';122-84-9
+313_51;Methylamin;NULL;1;0;NULL;MMA;Farbloses, brennbares, Ammoniak-ähnlich, in verdünnter Form fischartig riechendes Gas.;;;'Monomethylamin; Aminomethan; Methanamin';74-89-5
+313_52;Nitroethan;NULL;1;0;NULL;;'Farblose, leicht brennbare Flüssigkeit; angenehmer Geruch.';;;Nitroetan;79-24-3
+313_53;Weinsäure;NULL;1;0;NULL;;'Weißes kristallines Pulver; geruchlos.';;;'Weinsteinsäure; 2,3-Dihydroxybutandisäure; 2,3-Dihydroxybernsteinsäure; Threarsäure; Tartaric acid (eng.)';87-69-4, 147-71-7
+313_6;Benzaldehyd;0;1;0;NULL;;Farblose, bei Aufbewahrung gelblich werdende Flüssigkeit mit einem Geruch nach Bittermandelöl.;;;'Benzencarbaldehyd; Benzolcarbaldehyd; Phenylmethanal; synth. Bittermandelöl; Benzenecarbonal (eng.); Benzoic aldehyde (eng.)';100-52-7
+313_7;Diethylether;0;1;0;NULL;;Farblose, leichtbewegliche, flüchtige Flüssigkeit mit typisch stechendem, reizendem Geruch.;;;'Ethylether; Ether; Ethoxyethan; 3-Oxapentan; Diethyl oxide (eng.); Ethyl oxide (eng.)';60-29-2
+313_8;Ephedrin;0;1;0;NULL;;Farblose, manchmal weiße oder orange-gelbe Kristalle oder Körnchen, fühlen sich seifig an.;;;'(1R,2S)-2-Methylamino-1-phenylpropan-1-ol; 2-Methylamino-1-phenyl-1-propanol; 1-Phenyl-2-methylaminopropanol';299-42-3
+313_9;Ergometrin;0;1;0;NULL;;Farblose Kristalle oder Nadeln, die braun werden und sich zersetzen, wenn sie dem Licht ausgesetzt werden.;;;'Ergonovin; Ergobasin; Lysergsäure-beta-propanolamid';60-79-7

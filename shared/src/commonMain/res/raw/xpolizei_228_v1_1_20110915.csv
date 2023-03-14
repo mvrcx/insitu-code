@@ -1,0 +1,26 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+228;Farbe;Farbe;ZIR;V1.1;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+228_1;anthrazit;0;1;0;NULL;;;
+228_10;lila/violett;0;1;0;NULL;;;
+228_11;orange;0;1;0;NULL;;;
+228_12;rosa;0;1;0;NULL;;;
+228_13;rot;0;1;0;NULL;;;
+228_14;schwarz;0;1;0;NULL;;;
+228_15;silber;0;1;0;NULL;;;
+228_16;weiß;0;1;0;NULL;;;
+228_2;beige;0;1;0;NULL;;;
+228_3;blau;0;1;0;NULL;;;
+228_4;braun;0;1;0;NULL;;;
+228_5;bunt/mehrfarbig;0;1;0;NULL;;;
+228_6;gelb;0;1;0;NULL;;;
+228_7;gold;0;1;0;NULL;;;
+228_8;grau;0;1;0;NULL;;;
+228_9;grün;0;1;0;NULL;;;

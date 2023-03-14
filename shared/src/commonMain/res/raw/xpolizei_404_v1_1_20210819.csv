@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+404;Spezifikation einer hoheitlichen Maßnahme;Spezifikation einer hoheitlichen Maßnahme;ZIR;V1.1;20210819
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+404_1;Schutzmaßnahme 1;0;1;0;NULL;SM 1;ständiger unmittelbarer Personenschutz für die gefährdete Person [gem. PDV129];;;
+404_10;Fahndungs- und Aufklärungskonzept Staatsschutz;NULL;1;0;NULL;FAKS;;;;
+404_2;Schutzmaßnahme 2;0;1;0;NULL;SM 2;unmittelbarer Personenschutz für die gefährdete Person in besonderen Fällen (zu bestimmten Zeiten / aus besonderem Anlass) [gem. PDV129];;;
+404_3;Schutzmaßnahme 3;0;1;0;NULL;SM 3;ständiger Objektschutz durch Posten oder auch Streife (je nach Lage des Objektes) [gem. PDV129];;;
+404_4;Schutzmaßnahme 4;0;1;0;NULL;SM 4;Objektschutz durch Posten oder auch Streife in besonderen Fällen (zu bestimmten Zeiten / aus besonderem Anlass) [gem. PDV129];;;
+404_5;Schutzmaßnahme 5;0;1;0;NULL;SM 5;mindestens einmalige Bestreifung des Objektes zu unregelmäßigen Zeiten innerhalb einer Stunde [gem. PDV129];;;
+404_6;Schutzmaßnahme 6;0;1;0;NULL;SM 6;Bestreifung des Objektes zu unregelmäßigen Zeiten [gem. PDV129];;;
+404_7;ohne Schutzmaßnahme;0;1;0;NULL;SM ohne;es wurde keine Schutzmaßnahme festgelegt;;;
+404_8;Situationsgefährdung;NULL;1;0;NULL;;;;;
+404_9;Positionsgefährdung;NULL;1;0;NULL;;;;;

@@ -1,0 +1,22 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+116;Art der Organisation;Art der Organisation;ZIR;V1.2;20181019
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+116_1;Behörde;0;1;0;NULL;;;;;
+116_13;Non Governmental Organisation;0;1;0;NULL;;;;;
+116_14;öffentliche Einrichtung;0;1;0;NULL;;;;;
+116_15;Vereinigung;0;1;0;NULL;;Mit Vereinigung sind alle Zusammenschlüsse von natürlichen und / oder juristischen Personen abzubilden, die nicht durch einen spezielleren Eintrag der Codeliste abgedeckt sind (z. B. Vereine).;;;
+116_2;extremistische Vereinigung;0;1;0;NULL;;;;;
+116_3;Unternehmen;0;1;0;NULL;;;;;
+116_4;paramilitärische Vereinigung;0;1;0;NULL;;;;;
+116_5;Partei;0;1;0;NULL;;;;;
+116_6;religiöse / spirituelle Gemeinschaft;0;1;0;NULL;;;;;'Kirche; Okkultismus; Sekte; Kabbala; Voodoo'
+116_7;terroristische Vereinigung;0;1;0;NULL;;;;;
+116_8;kriminelle Vereinigung;0;1;0;NULL;;;;;
+116_9;Gewerkschaft;0;1;0;NULL;;;;;

@@ -1,0 +1,32 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+247;Betätigungsfeld einer Organisation;Betätigungsfeld einer Organisation;ZIR;V1.3;20181019
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+247_1;Waffen / Sprengstoff;0;1;0;NULL;;;;;
+247_10;Rauschgiftkriminalität;0;1;0;NULL;;;;;
+247_11;Sicherheitsdienst / -gewerbe;0;1;0;NULL;;;;;Türsteher
+247_12;Schutzgelderpressung;0;1;0;NULL;;;;;
+247_13;Cybercrime;0;1;0;NULL;;;;;
+247_14;Produktfälschung / Markenpiraterie;0;1;0;NULL;;;;;
+247_15;illegaler Handel mit bedrohten Arten;0;1;0;NULL;;;;;
+247_16;Spionage;0;1;0;NULL;;;;;
+247_17;Wettbetrug und Manipulation;0;1;0;NULL;;;;;
+247_18;sexueller Missbrauch und Ausbeutung von Kindern;0;1;0;NULL;;;;;
+247_19;organisierte Eigentumskriminalität;0;1;0;NULL;;;;;
+247_2;Rekrutierung / Kaderbildung;0;1;0;NULL;;;;;
+247_20;Fälschung und Handel von / mit amtlichen Dokumenten;0;1;0;NULL;;;;;
+247_21;illegaler Handel mit Hormonen und Wachstumsförderern;0;1;0;NULL;;;;;
+247_22;Schleuserkriminalität;0;1;0;NULL;;;;;
+247_3;Finanzierung;0;1;0;NULL;;;;;
+247_4;Propaganda / Missionierung;0;1;0;NULL;;;;;
+247_5;Anschlagsplanung / Terrorakte;0;1;0;NULL;;;;;
+247_6;logistische Unterstützung;0;1;0;NULL;;;;;
+247_7;Geldwäsche;0;1;0;NULL;;;;;
+247_8;Menschenhandel;0;1;0;NULL;;;;;
+247_9;Prostitution;0;1;0;NULL;;;;;

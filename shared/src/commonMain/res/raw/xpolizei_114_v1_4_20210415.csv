@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+114;Art des Luftfahrzeugs;Art des Luftfahrzeugs;ZIR;V1.4;20210415
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+114_1;Flugzeug;0;1;0;NULL;;;;;
+114_10;Luftsportgerät;0;1;0;NULL;;Drachen;;;
+114_11;unbemanntes Luftfahrtsystem / Flugmodell;0;1;0;NULL;;Nutzungszweck gewerblicher Art sowie aller sonstigen Einsatzzwecke inklusive Sport/Freizeit;;;Drohne
+114_12;sonstiges Gerät;NULL;1;0;NULL;;sonstige für die Benutzung des Luftraums bestimmte Geräte, sofern sie in Höhen von mehr als dreißig Metern über Grund oder Wasser betrieben werden können;;;
+114_2;Drehflügler;0;1;0;NULL;;;;;Hubschrauber, Helikopter, Tragschrauber, Gyrokopter, Autogyro
+114_3;Luftschiff;0;1;0;NULL;;;;;
+114_4;Segelflugzeug;0;1;0;NULL;;;;;
+114_5;Motorsegler;0;1;0;NULL;;;;;
+114_6;Frei- / Fesselballon;0;1;0;NULL;;;;;
+114_8;Rettungsfallschirm;0;1;0;NULL;;;;;

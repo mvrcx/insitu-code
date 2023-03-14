@@ -1,0 +1,18 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+261;Gesichtsform;Gesichtsform;ZIR;V2.0;20110915
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular;Bild
+261_11;oval/länglich;0;1;0;NULL;;Bei ovalen/länglichen Gesichtern bilden die Wangen den breitesten Teil, von dem die Konturen zu Stirn und Kinn in einer weichen Rundungen schmal zulaufen. Dabei ist der untere Teil also die Wangen- und Kinnpartie länger als der obere. Bei einem ovalen Gesicht ist die breiteste Stelle im Bereich der Wangenknochen. Diese befinden sich etwa in der Mitte der Gesichtskontur. Nach oben und unten verjüngt sich die Gesichtsform gleichmäßig. Zum Kinn ist das Oval etwas länger als zur Stirn. Die ovale Gesichtsform hat ausgeglichene Proportionen, das Gesicht ist eher lang und schmal. Kinn und Stirn sind schmal, die Wangenereiche breiter.;;link:261_11.jpg
+261_12;rund;0;1;0;NULL;;Runde Gesichter haben als Grundform ein Oval, ein Rechteck oder Dreieck, das durch Fülle überdeckt ist. Bei der runden Gesichtsform sind Wangen und Stirn etwa gleich breit, das Kinn ist rund und weich. Die Wangenpartie wirkt breiter, das Kinn meist wenig ausgeprägt, sodass es insgesamt rund wirkt. Ein rundes Gesicht hat kaum Kanten, dafür vollere Wangen und weichere "Ecken" entlang der Kinnlinie und im Stirnbereich.;;link:261_12.jpg
+261_13;eckig;0;1;0;NULL;;Eckige Gesichter haben nicht nur eine breitere Stirn, sondern auch eine breite Kinnpartie, die mit den Wangenknochen eine Linie bildet. Ein eckiges Gesicht wirkt oft recht markant. Der Haaransatz verläuft fast gerade, die Seitenpartien verlaufen fast gerade hinunter zum Kinn. Es ergeben sich deutlich „Ecken“ an der Stirn und dem Kinn. Dadurch entsteht die deutliche eckige Form.;;link:261_13.jpg
+261_14;kreiselförmig;0;1;0;NULL;;Kreiselförmige Gesichter sind eine ausgeprägte, manchmal fast kastenförmige Stirn mit einem breiten Haaransatz. Die Wangenknochen verlaufen meist in Augenhöhe und sind höher angesetzt als beim Oval, das Kinn ist fein gezeichnet, sodass eine breite obere und eine schmal untere Hälfte entstehen. Charakteristisch besteht eine breite Stirn- und Augenpartie und ein schmales Kinn.;;link:261_14.jpg
+261_15;schmal;0;1;0;NULL;;Schmale Gesichter sind meist verlängerte Ovale, Recht- oder Dreiecke mit hoher Stirn, schmalem Augen-Nasenbereich und längerer Kinnpartie.;;link:261_15.jpg
+261_16;breit;0;1;0;NULL;;Das breite Gesicht hat eine breite Stirn und eine stark ausgeprägte, breite Kinnlinie. Breite Gesichter wirken immer eher quadratisch.;;link:261_16.jpg
+261_17;hager;0;1;0;NULL;;Der hagere Gesichtsausdruck kann in allen Gesichtsformen vorkommen. In der Beschreibung des menschlichen Gesichts werden ausdrucksvolle Augen-/Wangenpartien, die als dürr, mager, sehnig oder knochig erscheinen als hager bezeichnet.;;link:261_17.jpg
+261_18;vorstehende Wangenknochen;0;1;0;NULL;;Vorstehende Wangenknochen sind Gesichtseigenschaften die in der Gesichtsmitte unterhalb der Augen links und rechts der Nase die Gesichtsstruktur erhöht definiert prägen. Hohe vorstehende Wangenknochen sind eine der Gesichtseigenschaften, die am häufigsten mit Schönheit verbunden wird. Deshalb kann heute diese zugrundeliegende Gesichtsstruktur auch mit Implantaten verursacht werden.;;link:261_18.jpg

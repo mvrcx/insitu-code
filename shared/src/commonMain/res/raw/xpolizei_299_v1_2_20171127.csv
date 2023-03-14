@@ -1,0 +1,180 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+299;Art der Massenvernichtungswaffe;Art der Massenvernichtungswaffe;ZIR;V1.2;20171127
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+299_1;atomare Waffe;0;1;0;NULL;;;;;
+299_10;Genetisch modifizierte Mikroorganismen gem. Kriegswaffenliste Teil A 1) II. 3.4;0;1;0;NULL;;;;;
+299_100;QL;0;1;0;NULL;;;;;
+299_101;Einrichtung, Gerät, Baugruppe oder Teil zur Verwendung chem. Kampfstoffe für militärische Zwecke als Waffe;0;1;0;NULL;;;;;
+299_102;toxische Chemikalie;0;1;0;NULL;;;;;
+299_103;BZ;0;1;0;NULL;;;;;
+299_104;Lewisit;0;1;0;NULL;;;;;
+299_105;Lewisit 1;0;1;0;NULL;;;;;
+299_106;Lewisit 2;0;1;0;NULL;;;;;
+299_107;Lewisit 3;0;1;0;NULL;;;;;
+299_108;Sarin;0;1;0;NULL;;;;;
+299_109;Schwefellost;0;1;0;NULL;;;;;
+299_110;Senfgas;0;1;0;NULL;;;;;
+299_111;Sesqui-Yperit (Q);0;1;0;NULL;;;;;
+299_112;O-Lost;0;1;0;NULL;;;;;
+299_113;Soman;0;1;0;NULL;;;;;
+299_114;Sticklost;0;1;0;NULL;;;;;
+299_115;HN1;0;1;0;NULL;;;;;
+299_116;HN2;0;1;0;NULL;;;;;
+299_117;HN3;0;1;0;NULL;;;;;
+299_118;VX;0;1;0;NULL;;;;;
+299_119;Arsenwasserstoff;0;1;0;NULL;;;;;
+299_120;Blausäure (AC);0;1;0;NULL;;;;;
+299_121;Chlorcyan (CK);0;1;0;NULL;;;;;
+299_122;Chlorpikrin;0;1;0;NULL;PS;;;;
+299_123;Diphosgen;0;1;0;NULL;;;;;
+299_124;Phosgen;0;1;0;NULL;CG;;;;
+299_125;Phosgenoxim;0;1;0;NULL;CX;;;;
+299_126;Blutkampfstoff;0;1;0;NULL;;;;;
+299_127;Hautkampfstoff;0;1;0;NULL;;;;;
+299_128;Lungenkampfstoff;0;1;0;NULL;;;;;
+299_129;Nervenkampfstoff;0;1;0;NULL;;;;;
+299_13;Bacillus anthracis;0;1;0;NULL;;;;;
+299_130;Nesselstoff;0;1;0;NULL;;;;;
+299_131;Psychokampfstoff;0;1;0;NULL;;;;;
+299_132;Americium;0;1;0;NULL;;;;;
+299_133;Barium;0;1;0;NULL;;;;;
+299_134;Beryllium;0;1;0;NULL;;;;;
+299_135;Bismut;0;1;0;NULL;;;;;
+299_136;Cadmium;0;1;0;NULL;;;;;
+299_137;Cäsium;0;1;0;NULL;;;;;
+299_138;Eisen 55;0;1;0;NULL;;;;;
+299_139;Europium;0;1;0;NULL;;;;;
+299_14;Brucella abortus;0;1;0;NULL;;;;;
+299_140;Germanium;0;1;0;NULL;;;;;
+299_141;Hafnium;0;1;0;NULL;;;;;
+299_142;Indium;0;1;0;NULL;;;;;
+299_143;Iridium;0;1;0;NULL;;;;;
+299_144;Jod;0;1;0;NULL;;;;;
+299_145;Kobalt;0;1;0;NULL;;;;;
+299_146;Kohlenstoff;0;1;0;NULL;;;;;
+299_147;Krypton;0;1;0;NULL;;;;;
+299_148;Molybdän;0;1;0;NULL;;;;;
+299_149;Natrium;0;1;0;NULL;;;;;
+299_15;Brucella melitensis;0;1;0;NULL;;;;;
+299_150;Nickel;0;1;0;NULL;;;;;
+299_151;Osmium;0;1;0;NULL;;;;;
+299_152;Palladium;0;1;0;NULL;;;;;
+299_153;Phosphor;0;1;0;NULL;;;;;
+299_154;Promethium;0;1;0;NULL;;;;;
+299_155;Quecksilber;0;1;0;NULL;;;;;
+299_156;Radium;0;1;0;NULL;;;;;
+299_157;Rhodium;0;1;0;NULL;;;;;
+299_158;Rubidium;0;1;0;NULL;;;;;
+299_159;Ruthenium;0;1;0;NULL;;;;;
+299_16;Brucella suis;0;1;0;NULL;;;;;
+299_160;Selen;0;1;0;NULL;;;;;
+299_161;Silicium;0;1;0;NULL;;;;;
+299_162;Strontium;0;1;0;NULL;;;;;
+299_163;Tantal;0;1;0;NULL;;;;;
+299_164;Technetium;0;1;0;NULL;;;;;
+299_165;Thalium;0;1;0;NULL;;;;;
+299_166;Thorium;0;1;0;NULL;;;;;
+299_167;Titan;0;1;0;NULL;;;;;
+299_168;Tritum;0;1;0;NULL;;;;;
+299_169;Wolfram 178;0;1;0;NULL;;;;;
+299_17;Burkholderia mallei;0;1;0;NULL;;;;;
+299_170;Ytterbium;0;1;0;NULL;;;;;
+299_171;Yttrium;0;1;0;NULL;;;;;
+299_172;Zink 64;0;1;0;NULL;;;;;
+299_173;Zirkonium;0;1;0;NULL;;;;;
+299_174;Virus;0;1;0;NULL;;;;;
+299_175;Bakterium;0;1;0;NULL;;;;;
+299_176;Toxin;0;1;0;NULL;;;;;
+299_177;Pilz;0;1;0;NULL;;;;;
+299_178;Abrin;0;1;0;NULL;;;;;
+299_179;T2-Mykotoxine;0;1;0;NULL;;;;;
+299_18;Burkholderia pseudomallei;0;1;0;NULL;;;;;
+299_19;Chlamydia psittaci;0;1;0;NULL;;;;;
+299_2;Atomwaffenteil / -vorrichtung / -Baugruppe (ohne waffenfähigen Kernbrennstoff);0;1;0;NULL;;;;;
+299_20;Clostridium botulinum;0;1;0;NULL;;;;;
+299_21;Francisella tularensis;0;1;0;NULL;;;;;
+299_22;Rickettsien;0;1;0;NULL;;;;;
+299_23;Bartonella quintana;0;1;0;NULL;;;;;
+299_24;Coxiella burnetii;0;1;0;NULL;;;;;
+299_25;Rickettsia prowazekii;0;1;0;NULL;;;;;
+299_26;Rickettsia rickettsii;0;1;0;NULL;;;;;
+299_27;Salmonella typhi;0;1;0;NULL;;;;;
+299_28;Shigella dysenteriae;0;1;0;NULL;;;;;
+299_29;Vibrio cholerae;0;1;0;NULL;;;;;
+299_3;Kernbrennstoff (waffenfähig);0;1;0;NULL;;;;;
+299_30;Yersinia pestis;0;1;0;NULL;;;;;
+299_32;Clostridium-botulinum-Toxine;0;1;0;NULL;;;;;
+299_33;Clostridium-perfringens-Toxine;0;1;0;NULL;;;;;
+299_34;Conotoxin;0;1;0;NULL;;;;;
+299_35;Microxystin (Cyanoginosin);0;1;0;NULL;;;;;
+299_36;Ricin;0;1;0;NULL;;;;;
+299_37;Saxitoxin;0;1;0;NULL;;;;;
+299_38;Shiga-Toxin;0;1;0;NULL;;;;;
+299_39;Staphylococcus-aureus-Toxin;0;1;0;NULL;;;;;
+299_4;Plutonium;0;1;0;NULL;;;;;
+299_40;Tetrodotoxin;0;1;0;NULL;;;;;
+299_41;Verotoxin;0;1;0;NULL;;;;;
+299_43;Chikungunya-Virus;0;1;0;NULL;;;;;
+299_44;Dengue-Fiebervirus;0;1;0;NULL;;;;;
+299_45;Eastern Equine Enzephalitis-Virus;0;1;0;NULL;;;;;
+299_46;Ebola-Virus;0;1;0;NULL;;;;;
+299_47;Hantaan-Virus;0;1;0;NULL;;;;;
+299_48;Haemorrhagisches Kongo-Krim-Fieber-Virus;0;1;0;NULL;;;;;
+299_49;Junin-Virus;0;1;0;NULL;;;;;
+299_5;Uran 233;0;1;0;NULL;;;;;
+299_50;Lassa-Virus;0;1;0;NULL;;;;;
+299_51;lymphozytäre Choriomeningitis-Virus;0;1;0;NULL;;;;;
+299_52;Machupo-Virus;0;1;0;NULL;;;;;
+299_53;Marburg-Virus;0;1;0;NULL;;;;;
+299_54;Affenpockenvirus;0;1;0;NULL;;;;;
+299_55;Rift-Valley-Fieber-Virus;0;1;0;NULL;;;;;
+299_56;Zeckenenzephalitis-Virus;0;1;0;NULL;;;;;
+299_57;Variola-Virus;0;1;0;NULL;;;;;
+299_58;Venezuelan Equine Enzephalitis-Virus;0;1;0;NULL;;;;;
+299_59;Western Equine Enzephalitis-Virus;0;1;0;NULL;;;;;
+299_6;Uran 235;0;1;0;NULL;;;;;
+299_60;Whitepox-Virus;0;1;0;NULL;;;;;
+299_61;Gelbfieber-Virus;0;1;0;NULL;;;;;
+299_62;Japan-B-Enzephalitis-Virus;0;1;0;NULL;;;;;
+299_65;Xanthomonas albilineans;0;1;0;NULL;;;;;
+299_66;Xanthomonas campestris pv. Citri;0;1;0;NULL;;einschl. darauf zurückzuführende Stämme;;;
+299_68;Cochliobolus miyabeanus;0;1;0;NULL;;;;;Helminthosporium oryzae
+299_69;Colletotrichum coffeanum var. Virulans;0;1;0;NULL;;;;;Colletotrichum kahawae
+299_7;radioaktives Isotop (waffenfähig);0;1;0;NULL;;;;;
+299_70;Magnaporthe grisea;0;1;0;NULL;;;;;'Pyricularia grisea; Pyricularia oryzae'
+299_71;Micricyclus ulei;0;1;0;NULL;;;;;Dothidella ulei
+299_72;Puccina graminis;0;1;0;NULL;;;;;Puccina graminis f. sp. Tritici
+299_73;Puccina striiformis;0;1;0;NULL;;;;;Puccina glumarum
+299_74;schädliche Insekten und deren toxische Produkte;0;1;0;NULL;;;;;
+299_76;Mycoplasma mycoides;0;1;0;NULL;;;;;
+299_78;Afrikanisches Schweinepest-Virus;0;1;0;NULL;;;;;
+299_79;Aujeszky-Virus;0;1;0;NULL;;;;;
+299_8;biologische Waffe;0;1;0;NULL;;;;;
+299_80;aviäres Influenza-Virus;0;1;0;NULL;;;;;
+299_81;aviäres Influenza-Virus mit hoher Pathogenität (gemäß Richtlinie 92/40/EWG);0;1;0;NULL;;;;;
+299_82;uncharakterisiertes aviäres Influenza-Virus;0;1;0;NULL;;;;;
+299_83;Bluetongue-Virus;0;1;0;NULL;;;;;
+299_84;Lyssa-Virus;0;1;0;NULL;;;;;
+299_85;Maul- und Klauenseuche-Virus;0;1;0;NULL;;;;;
+299_86;Newcastle-Virus;0;1;0;NULL;;;;;
+299_87;Rinderpest-Virus;0;1;0;NULL;;;;;
+299_88;Schafpocken-Virus;0;1;0;NULL;;;;;
+299_89;Schweine-Entero-Virus vom Typ 9;0;1;0;NULL;;Virus der vesikvesikulären Schweinekrankheit;;;
+299_9;Einrichtung, Gerät, Baugruppe oder Teil zur Verwendung biologischer Kampfmittel für militärische Zwecke als Waffe;0;1;0;NULL;;;;;
+299_90;Schweinepest-Virus;0;1;0;NULL;;;;;Hog cholera-Virus
+299_91;Teschen-Virus;0;1;0;NULL;;;;;
+299_92;vesikuläre Stomatitis-Virus;0;1;0;NULL;;;;;
+299_93;Virus der Pest der kleinen Wiederkäuer;0;1;0;NULL;;;;;
+299_94;Ziegenpockenvirus;0;1;0;NULL;;;;;
+299_95;chemische Waffe;0;1;0;NULL;;;;;
+299_96;Ausgangsstoff für chemische Waffen;0;1;0;NULL;;;;;
+299_97;Chlor-Sarin;0;1;0;NULL;;;;;
+299_98;Chlor-Soman;0;1;0;NULL;;;;;
+299_99;DF;0;1;0;NULL;;;;;

@@ -1,0 +1,21 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+401;Maßeinheit der Speichergröße;Maßeinheit der Speichergröße;ZIR;V1.0;20190830
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+401_1;Byte;0;1;0;NULL;B;Entspricht 8 Bit.;;;
+401_10;Tebibyte;0;1;0;NULL;TiB;Entspricht 1024 Gibibyte.;;;
+401_11;Pebibyte;0;1;0;NULL;PiB;Entspricht 1024 Tebibyte.;;;
+401_2;Kilobyte;0;1;0;NULL;KB;Entspricht 1000 Byte.;;;
+401_3;Megabyte;0;1;0;NULL;MB;Entspricht 1000 Kilobyte.;;;
+401_4;Gigabyte;0;1;0;NULL;GB;Entspricht 1000 Megabyte.;;;
+401_5;Terabyte;0;1;0;NULL;TB;Entspricht 1000 Gigabyte.;;;
+401_6;Petabyte;0;1;0;NULL;PB;Entspricht 1000 Terabyte.;;;
+401_7;Kibibyte;0;1;0;NULL;KiB;Entspricht 1024 Byte.;;;
+401_8;Mebibyte;0;1;0;NULL;MiB;Entspricht 1024 Kibibyte.;;;
+401_9;Gibibyte;0;1;0;NULL;GiB;Entspricht 1024 Mebibyte.;;;

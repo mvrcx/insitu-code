@@ -1,0 +1,13 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+316;Tatphase;Tatphase;ZIR;V1.0;20160118
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+316_1;Vortat / Tatvorbereitung;0;1;0;NULL;;;;;
+316_2;Tatdurchführung;0;1;0;NULL;;;;;
+316_3;Nachtat (-verhalten);0;1;0;NULL;;;;;

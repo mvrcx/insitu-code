@@ -1,0 +1,45 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+250;deutsche Rechtsform;deutsche Rechtsform;ZIR;V1.2;20160118
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;Rechtsformgruppe
+250_1;nicht eingetragener Verein;0;1;0;NULL;;;;;;Personenunternehmungen
+250_10;Reederei;0;1;0;NULL;;;;;;Personenunternehmungen
+250_11;eingetragener Verein;0;1;0;NULL;e. V.;;;;;Juristische Person des Privatrechts
+250_12;Versicherungsverein auf Gegenseitigkeit;0;1;0;NULL;VVAG;;;;;Juristische Person des Privatrechts
+250_13;Kapitalgesellschaft;0;1;0;NULL;;;;;;Juristische Person des Privatrechts
+250_14;Gesellschaft mit beschränkter Haftung;0;1;0;NULL;GmbH;;;;;Juristische Person des Privatrechts
+250_15;gemeinnützige Gesellschaft mit beschränkter Haftung;0;1;0;NULL;gGmbH;;;;;Juristische Person des Privatrechts
+250_16;Aktiengesellschaft;0;1;0;NULL;AG;;;;;Juristische Person des Privatrechts
+250_17;gemeinnützige Aktiengesellschaft;0;1;0;NULL;gAG;;;;;Juristische Person des Privatrechts
+250_18;Kommanditgesellschaft auf Aktien;0;1;0;NULL;KGaA;;;;;Juristische Person des Privatrechts
+250_19;eingetragene Genossenschaft;0;1;0;NULL;e. G.;;;;;Juristische Person des Privatrechts
+250_2;Einzelunternehmung;0;1;0;NULL;;;;;;Personenunternehmungen
+250_20;Stiftung des privaten Rechts;0;1;0;NULL;;;;;;Juristische Person des Privatrechts
+250_21;Körperschaft des öffentlichen Rechts;0;1;0;NULL;KdöR;;;;;Juristische Person des öffentlichen Rechts
+250_22;Gebietskörperschaft (Bund, Länder, Gemeinden);0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_23;(staatliche) Universitäten;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_24;berufsständische Körperschaft (Kammern);0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_25;Anstalt des öffentlichen Rechts;0;1;0;NULL;AdöR;;;;;Juristische Person des öffentlichen Rechts
+250_26;Landesrundfunkanstalt;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_27;Sparkasse;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_28;Kommunalunternehmen;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_29;Stiftung des öffentlichen Rechts;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_3;Personengesellschaft national;0;1;0;NULL;;;;;;Personenunternehmungen
+250_30;gemeinnützige Stiftung;0;1;0;NULL;;;;;;Juristische Person des öffentlichen Rechts
+250_31;Regiebetrieb;0;1;0;NULL;;;;;;weitere Rechtsformen des öffentlichen Rechts
+250_32;Eigenbetrieb;0;1;0;NULL;;;;;;weitere Rechtsformen des öffentlichen Rechts
+250_33;Zweckverband;0;1;0;NULL;;;;;;weitere Rechtsformen des öffentlichen Rechts
+250_34;Unternehmergesellschaft (haftungsbeschränkt);0;1;0;NULL;UG (haftungsbeschränkt);;;;;Juristische Person des Privatrechts
+250_35;Unternehmergesellschaft (haftungsbeschränkt) & Co. Kommanditgesellschaft;0;1;0;NULL;UG (haftungsbeschränkt) & Co. KG;;;;;Personenunternehmungen
+250_4;Kommanditgesellschaft;0;1;0;NULL;KG;;;;;Personenunternehmungen
+250_5;Gesellschaft mit beschränkter Haftung und Co.-Kommanditgesellschaft;0;1;0;NULL;GmbH & Co. KG;;;;;Personenunternehmungen
+250_6;Offene Handelsgesellschaft;0;1;0;NULL;OHG;;;;;Personenunternehmungen
+250_7;Partnerschaft;0;1;0;NULL;;;;;;Personenunternehmungen
+250_8;Gesellschaft bürgerlichen Rechts;0;1;0;NULL;GbR;;;;;Personenunternehmungen
+250_9;stille Gesellschaft;0;1;0;NULL;;;;;;Personenunternehmungen

@@ -1,0 +1,196 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+307;Art des explosionsgefährlichen Stoffes;Art des explosionsgefährlichen Stoffes;ZIR;V1.1;20160118
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;UN-Nr.
+307_1;Sprengstoff (BAM-Liste II 3.41 / 5.10.2009, Anlage II);0;1;0;NULL;;;;;;
+307_10;Stoffgruppe B;0;1;0;NULL;;;;;;
+307_100;Sprengniete;0;1;0;NULL;;;;;;0174
+307_101;Sprengschnur, biegsam;0;1;0;NULL;;;;;;0065, 0289
+307_102;Sprengschnur mit geringer Wirkung, mit Metallmantel;0;1;0;NULL;;;;;;0104
+307_103;Sprengschnur mit Metallmantel;0;1;0;NULL;;;;;;0102, 0290
+307_104;Sprengstoff Typ A;0;1;0;NULL;;;;;;0081
+307_105;Sprengstoff Typ B;0;1;0;NULL;;;;;;0082, 0331
+307_106;Sprengstoff Typ C;0;1;0;NULL;;;;;;0083
+307_107;Sprengstoff Typ D;0;1;0;NULL;;;;;;0084
+307_108;Sprengstoff Typ E;0;1;0;NULL;;;;;;0241, 0332
+307_11;1,3-Dimethyl-5-tert. butyl-2,4,6-trinitrobenzol;0;1;0;NULL;;;;;;
+307_110;Tetranitroanilin;0;1;0;NULL;;;;;;0207
+307_111;Treibladungspulver;0;1;0;NULL;;;;;;0160, 0161
+307_112;Treibstoff, flüssig (UN-Nr. 0495);0;1;0;NULL;;;;;;0495
+307_113;Trinitroanilin (Pikramid);0;1;0;NULL;;;;;;0153
+307_114;Trinitroanisol;0;1;0;NULL;;;;;;0213
+307_115;Trinitrobenzoesäure;0;1;0;NULL;;;;;;0215
+307_116;Trinitrobenzol;0;1;0;NULL;;;;;;0214
+307_117;Trinitrobenzolsulfonsäure;0;1;0;NULL;;;;;;0386
+307_118;Trinitrochlorbenzol (Pikrylchlorid);0;1;0;NULL;;;;;;0155
+307_119;Trinitrofluorenon;0;1;0;NULL;;;;;;0387
+307_12;Benzol-1,3-disulfohydrazid;0;1;0;NULL;;;;;;
+307_120;Trinitrometakresol;0;1;0;NULL;;;;;;0216
+307_121;Trinitronaphthalin;0;1;0;NULL;;;;;;0217
+307_122;Trinitrophenetol;0;1;0;NULL;;;;;;0218
+307_123;Trinitrophenol (Pikrinsäure), trocken oder angefeuchtet mit weniger als 30 Masse-% Wasser;0;1;0;NULL;;;;;;0154
+307_124;Trinitrophenylmethylnitramin (Tetryl);0;1;0;NULL;;;;;;0208
+307_125;Trinitroresorcin (Styphninsäure), angefeuchtet;0;1;0;NULL;;;;;;0394
+307_126;Trinitroresorcin (Styphninsäure), trocken;0;1;0;NULL;;;;;;0219
+307_127;Trinitrotoluol (TNT) in Mischung mit Trinitrobenzol oder mit Hexanitrostilben;0;1;0;NULL;;;;;;0388
+307_128;Trinitrotoluol (TNT) in Mischung mit Trinitrobenzol und Hexanitrostilben;0;1;0;NULL;;;;;;0389
+307_129;Trinitrotoluol (TNT), trocken;0;1;0;NULL;;;;;;0209
+307_13;Cyclohexanonperoxid;0;1;0;NULL;;;;;;
+307_130;Tritonal;0;1;0;NULL;;;;;;0390
+307_131;Zirkoniumpikramat;0;1;0;NULL;;;;;;0236
+307_132;Zündeinrichtung für Sprengung, nicht elektrisch;0;1;0;NULL;;;;;;0360, 0361, 0500
+307_133;Sprengstoff nach Richtlinie  93/15/ EWG Art.1 Abs.5 (zu empfindlich für Transport, daher keine UN-Nr.);0;1;0;NULL;;;;;;
+307_134;Acetonperoxide;0;1;0;NULL;;;;;;
+307_135;Bleiazid, trocken oder mit weniger als 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;
+307_136;Bleistyphnat (Bleitrinitroresorcinat), trocken oder mit weniger als 20 Masse-% Wasser oder einer Alkohol/ Wassermischung;0;1;0;NULL;;;;;;
+307_137;Cyclotetramethylentetranitramin (HMX), (Oktogen), trocken oder mit weniger als 15 Masse-% Wasser;0;1;0;NULL;;;;;;
+307_138;Cyclotrimethylentrinitramin (Cyclonit), (Hexogen), (RDX), trocken oder mit weniger als 15 Masse-% Wasser;0;1;0;NULL;;;;;;
+307_139;Cyclotrimethylentrinitramin (Cyclonit), (Hexogen), (RDX), gemischt mit HMX (trocken oder weniger als 15 Masse-% Wasser), oder gemischt mit HMX (nicht desensibilisiert mit weniger als 10 Masse-% Phlegmatisierungsmittel);0;1;0;NULL;;;;;;
+307_14;Di-(2,4-dichlorbenzoyl)-peroxid;0;1;0;NULL;;;;;;
+307_140;Diazodinitrophenol, trocken oder mit weniger als 40 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;
+307_141;Diethylenglykoldinitrat, nicht desensibilisiert oder desensibilisiert mit weniger als 25 Masse-% wasserunlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_142;Diethylenglykoldinitrat, desensibilisiert mit wasserlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_143;Guanyl-Nitrosaminoguanyliden-Hydrazin, trocken oder mit weniger als 30 Masse-% Wasser;0;1;0;NULL;;;;;;
+307_144;Guanyl-Nitrosaminoguanyltetrazen (Tetrazen), trocken oder mit weniger als 30 Masse-% Wasser oder einer Alkohol/ Wasser-Mischung;0;1;0;NULL;;;;;;
+307_145;Mannithexanitrat (Nitromannit), trocken oder mit weniger als 40 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;
+307_146;Nitroglykol, desensibilisiert mit wasserlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_147;Nitroglykol, nicht desensibilisiert oder desensibilisiert mit weniger als 40 Masse-% wasserunlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_148;Nitroglyzerin, desensibilisiert mit wasserlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_149;Nitroglyzerin, nicht desensibilisiert oder desensibilisiert mit weniger als 40 Masse-% wasserunlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_15;Dibenzoylperoxid;0;1;0;NULL;;;;;;
+307_150;Pentaerythrittetranitrat (PETN), mit weniger als 7 Masse-% Wachs;0;1;0;NULL;;;;;;
+307_151;Pentaerythrittetranitrat (PETN), trocken oder mit weniger als 25 Masse-% Wasser, nicht desensibilisiert oder desensibilisiert mit weniger als 15 Masse-% Phlegmatisierungsmittel;0;1;0;NULL;;;;;;
+307_152;Pulverrohmasse, trocken oder mit weniger als 17 Masse-% Alkohol;0;1;0;NULL;;;;;;
+307_153;Pulverrohmasse, trocken oder mit weniger als 25 Masse-% Wasser;0;1;0;NULL;;;;;;
+307_154;Quecksilberfulminat, trocken oder mit weniger als 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;
+307_155;Sprengstoff / Gegenstand nach SprengG § 3 Abs. 1. Nr.1 (nicht ausschließlich für militärische Verwendung bestimmt);0;1;0;NULL;;;;;;
+307_156;Auslösevorrichtung mit Explosivstoff;0;1;0;NULL;;;;;;0173
+307_157;Bestandteile, Zündkette, n. a. g.;0;1;0;NULL;;;;;;0382, 0383, 0384, 0461
+307_158;Explosiver Stoff  n. a. g.;0;1;0;NULL;;;;;;0357, 0358, 0359, 0473, 0474, 0475, 0476, 0477, 0478, 0479, 0480, 0481, 0485
+307_159;Falllot mit Explosivstoff;0;1;0;NULL;;;;;;0204, 0296, 0374, 0375
+307_16;Diisopropylperoxydicarbonat;0;1;0;NULL;;;;;;
+307_160;Gegenstand mit Explosivstoff, extrem unempfindlich (Gegenstände, EEI);0;1;0;NULL;;;;;;0486
+307_161;Gegenstand mit Explosivstoff, n. a. g.;0;1;0;NULL;;;;;;0350, 0351, 0352, 0354, 0355, 0356, 0462, 0463, 0464 ,0465 ,0466 ,0467 ,0468 ,0469, 0470, 0471, 0472
+307_162;Rakete mit Ausstoßladung;0;1;0;NULL;;;;;;0436, 0437, 0438
+307_163;Rakete mit inertem Kopf;0;1;0;NULL;;;;;;0502
+307_164;Raketenmotor;0;1;0;NULL;;;;;;0186, 0280, 0281
+307_165;Raketenmotor, Flüssigtreibstoff;0;1;0;NULL;;;;;;0395, 0396
+307_166;Sprengkörper;0;1;0;NULL;;;;;;0048
+307_167;Sprengladung, kunststoffgebunden;0;1;0;NULL;;;;;;0457, 0458, 0459, 0460
+307_168;Treibsatz;0;1;0;NULL;;;;;;0271, 0272, 0415, 0491
+307_169;Treibstoff, fest;0;1;0;NULL;;;;;;0498, 0499, 0501
+307_17;Disuccinoylmonoperoxid;0;1;0;NULL;;;;;;
+307_170;Treibstoff, flüssig (UN-Nr. 0497);0;1;0;NULL;;;;;;0497
+307_171;Vorrichtung, durch Wasser aktivierbar, mit Zerleger, Ausstoß- oder Treibladung;0;1;0;NULL;;;;;;0248, 0249
+307_172;Zerleger mit Explosivstoff;0;1;0;NULL;;;;;;0043
+307_173;Zündverstärker mit Detonator;0;1;0;NULL;;;;;;0225, 0268
+307_174;Zündverstärker ohne Detonator;0;1;0;NULL;;;;;;0042, 0283
+307_175;Sprengstoff / Gegenstand nach SprengG § 3 Abs.1 Nr.1 (nur  für militärische Verwendung bestimmt) für die das SprengG bei Tätigkeiten nach § 1 Abs.4 Nr.4 Anwendung findet;0;1;0;NULL;;;;;;
+307_176;Detonator für Munition;0;1;0;NULL;;;;;;0073, 0364, 0365, 0366
+307_177;Füllsprengkörper;0;1;0;NULL;;;;;;0060
+307_178;Gefechtskopf, Rakete, mit Sprengladung;0;1;0;NULL;;;;;;0286, 0287, 0369
+307_179;Gefechtskopf, Rakete, mit Zerleger- oder Ausstoßladung;0;1;0;NULL;;;;;;0370, 0371
+307_18;tert. Butylperoxypivalat;0;1;0;NULL;;;;;;
+307_180;Gefechtskopf, Torpedo mit Sprengladung;0;1;0;NULL;;;;;;0221
+307_181;Geschoss, inert, mit Leuchtspurmitteln;0;1;0;NULL;;;;;;0345
+307_182;Geschoss mit Sprengladung;0;1;0;NULL;;;;;;0167, 0168, 0169, 0324, 0344
+307_183;Geschoss mit Zerleger oder Ausstoßladung;0;1;0;NULL;;;;;;0346, 0347, 0426, 0427
+307_184;Raketentriebwerke mit Hypergolen, mit oder ohne Ausstoßladung Treibladungen für Geschütze;0;1;0;NULL;;;;;;0250, 0322, 0242, 0279, 0414
+307_185;Treibladungshülse, verbrennlich, leer, ohne Treibladungsanzünder;0;1;0;NULL;;;;;;0446, 0447
+307_186;Zünder, sprengkräftig;0;1;0;NULL;;;;;;0106, 0107, 0257, 0367
+307_187;Zünder, sprengkräftig, mit Sicherungsvorrichtungen;0;1;0;NULL;;;;;;0408, 0409, 0410
+307_19;Stoffgruppe C;0;1;0;NULL;;;;;;
+307_2;Stoffgruppe A;0;1;0;NULL;;;;;;
+307_20;1,4-Dinitrosobenzol;0;1;0;NULL;;;;;;
+307_21;2-Diazo-1-naphthol-4-sulfochlorid;0;1;0;NULL;;;;;;
+307_22;5-Nitrobenztriazol;0;1;0;NULL;;;;;;
+307_23;Azodiisobutyronitril;0;1;0;NULL;;;;;;
+307_24;Dinitroanthrachinon;0;1;0;NULL;;;;;;
+307_25;n-Butyl-4,4-di-(tert. butylperoxy)-valerat;0;1;0;NULL;;;;;;
+307_26;tert. Butylperoxy-(2-ethyl)-hexanoat;0;1;0;NULL;;;;;;
+307_27;tert. Butylperoxybenzoat;0;1;0;NULL;;;;;;
+307_28;Tetrazol-1-essigsäure;0;1;0;NULL;;;;;;0407
+307_29;Sprengstoff / Gegenstand nach Richtlinie 93/15/ EWG Art.1 Abs.1 und 3 / UN-Liste ST/SG/AC. 10/1/ Rev.8);0;1;0;NULL;;;;;;
+307_3;Erythrittetranitrat;0;1;0;NULL;;;;;;
+307_30;1H-Tetrazol;0;1;0;NULL;;;;;;0504
+307_31;5-Mercaptotetrazol-1-essigsäure;0;1;0;NULL;;;;;;0448
+307_32;5-Nitrobenzotriazol;0;1;0;NULL;;;;;;0385
+307_33;Ammoniumnitrat;0;1;0;NULL;;;;;;0222
+307_34;Ammoniumnitrat-Düngemittel;0;1;0;NULL;;;;;;0223
+307_35;Ammoniumperchlorat;0;1;0;NULL;;;;;;0402
+307_36;Ammoniumpikrat;0;1;0;NULL;;;;;;0004
+307_37;Anzündschnur;0;1;0;NULL;;;;;;0105
+307_38;Anzündhütchen;0;1;0;NULL;;;;;;0044, 0377, 0378
+307_39;Bariumazid;0;1;0;NULL;;;;;;0224
+307_4;Glycerintrinitrat (Nitroglycerin);0;1;0;NULL;;;;;;
+307_40;Bleiazid, angefeuchtet mit mindestens 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;0129
+307_41;Bleistyphnat (Bleitrinitroresorcinat)), angefeuchtet, mit mindestens 20 Masse-%;0;1;0;NULL;;;;;;0130
+307_42;Blitzlichtpulver;0;1;0;NULL;;;;;;0094, 0305
+307_43;Cyclotetramethylentetranitramin (HMX), (Oktogen), angefeuchtet mit mindestens 15 Masse-% Wasser;0;1;0;NULL;;;;;;0226
+307_44;Cyclotetramethylentetranitramin (Oktogen), (HMX), desensibilisiert;0;1;0;NULL;;;;;;0484
+307_45;Cyclotrimethylentrinitramin(Cyclonit), (Hexogen), (RDX), angefeuchtet, mit mindestens 15 Masse-% Wasser;0;1;0;NULL;;;;;;0072
+307_46;Cyclotrimethylentrinitramin (Cyclonit), (Hexogen), (RDX) gemischt mit HMX (angefeuchtet, mit mindestens 15 Masse-% Wasser) oder HMX desensibilisiert, mit mindestens 10 Masse-% Phlegmatisierungsmittel;0;1;0;NULL;;;;;;0391
+307_47;Cyclotrimethylentrinitramin (Cyclonit), (Hexogen), (RDX), desensibilisiert;0;1;0;NULL;;;;;;0483
+307_48;Deflagrierende Metallsalze aromatischer Nitroverbindungen;0;1;0;NULL;;;;;;0132
+307_49;Diazodinitrophenol angefeuchtet, mit mindestens 40 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;0074
+307_5;Hexanitrodiphenylamin (Hexyl);0;1;0;NULL;;;;;;
+307_50;Diethylenglykoldinitrat desensibilisiert, mit mindestens 25 Masse-% nicht flüchtigem, wasserunlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;0075
+307_51;Dinitroglycoluril (DINGU);0;1;0;NULL;;;;;;0489
+307_52;Dinitrophenol;0;1;0;NULL;;;;;;0076
+307_53;Dinitrophenolate der Alkalimetalle;0;1;0;NULL;;;;;;0077
+307_54;Dinitroresorcin;0;1;0;NULL;;;;;;0078
+307_55;Dinitrosobenzol;0;1;0;NULL;;;;;;0406
+307_56;Dipikrylsulfid;0;1;0;NULL;;;;;;0401
+307_57;Guanyl-Nitrosaminoguanyliden-Hydrazin, angefeuchtet, mit mindestens 30 Masse-% Wasser;0;1;0;NULL;;;;;;0113
+307_58;Guanyl-Nitrosaminoguanyltetrazen angefeuchtet, mit mindestens 30 Masse-% Wasser oder einer Alkohol/ Wasser-Mischung (Tetrazen);0;1;0;NULL;;;;;;0114
+307_59;Harnstoffnitrat;0;1;0;NULL;;;;;;0220
+307_6;Isosorbid-2,5-dinitrat (ISDN);0;1;0;NULL;;;;;;
+307_60;Hexanitrodiphenylamin (Dipikrylamin), (Hexyl);0;1;0;NULL;;;;;;0079
+307_61;Hexanitrostilben;0;1;0;NULL;;;;;;0392
+307_62;Hexolit (Hexotol);0;1;0;NULL;;;;;;0118
+307_63;Hexotonal;0;1;0;NULL;;;;;;0393
+307_64;Hohlladung (gewerblich ohne Zündmittel);0;1;0;NULL;;;;;;0059, 0439, 0440, 0441
+307_65;Kaliumsalz aromatischer Nitroverbindungen, explosiv;0;1;0;NULL;;;;;;0158
+307_66;Kartusche für technische Zwecke;0;1;0;NULL;;;;;;0275, 0276, 0323, 0381
+307_67;Kartusche, Erdölbohrloch;0;1;0;NULL;;;;;;0277, 0278
+307_68;Lockerungssprenggerät (mit Explosivstoff für Erdölbohrung, ohne Zündmittel;0;1;0;NULL;;;;;;0099
+307_69;Mannithexanitrat (Nitromannit) angefeuchtet, mit mindestens 40 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;0133
+307_7;'N,N''-Dinitroso-N,N''-dimethyloxamid';0;1;0;NULL;;;;;;
+307_70;Natrium-dinitro-ortho-kresolat;0;1;0;NULL;;;;;;0234
+307_71;Natriumpikramat;0;1;0;NULL;;;;;;0235
+307_72;Natriumsalze aromatischer Nitroverbindungen;0;1;0;NULL;;;;;;0203
+307_73;Nitroglyzerin, desensibilisiert , mit mindestens 40 Masse-% nicht flüchtigem, wasserunlöslichem Phlegmatisierungsmittel;0;1;0;NULL;;;;;;0143
+307_74;Nitroglyzerin, in alkoholischer Lösung mit mehr als 1 %, aber nicht mehr als 10 % Nitroglycerol;0;1;0;NULL;;;;;;0144
+307_75;Nitroguanidin (Picrit);0;1;0;NULL;;;;;;0282
+307_76;Nitroharnstoff;0;1;0;NULL;;;;;;0147
+307_77;Nitrostärke;0;1;0;NULL;;;;;;0146
+307_78;Nitrozellulose, angefeuchtet;0;1;0;NULL;;;;;;0342
+307_79;Nitrozellulose, nicht behandelt oder plastifiziert;0;1;0;NULL;;;;;;0341
+307_8;Pentaerythrittetranitrat (Nitropenta, PETN, Pentrit);0;1;0;NULL;;;;;;
+307_80;Nitrozellulose, plastifiziert;0;1;0;NULL;;;;;;0343
+307_81;Nitrozellulose, trocken oder mit weniger als 25 Masse-% Wasser (oder Alkohol);0;1;0;NULL;;;;;;0340
+307_82;Octonal;0;1;0;NULL;;;;;;0496
+307_83;Oktolit (Octol);0;1;0;NULL;;;;;;0266
+307_84;Oxynitrotriazol (ONTA);0;1;0;NULL;;;;;;0490
+307_85;Pentaerythrittetranitrat (PETN), angefeuchtet mit mindestens 25 Masse-% Wasser, oder PETN desensibilisiert, mit mindestens 15 Masse-% Phlegmatisierungsmittel;0;1;0;NULL;;;;;;0150
+307_86;Pentaerythrittetranitrat (PETN), mit nicht weniger als 7 Masse-% Wachs;0;1;0;NULL;;;;;;0411
+307_87;Pentolit;0;1;0;NULL;;;;;;0151
+307_88;Perforationshohlladungsträger, geladen, für Erdölbohrlöcher, ohne Zündmittel;0;1;0;NULL;;;;;;0124, 0494
+307_89;Pulverrohmasse, angefeuchtet, mit mindestens 25 Masse-% Wasser;0;1;0;NULL;;;;;;0159
+307_9;Trinitrophenol (Pikrinsäure);0;1;0;NULL;;;;;;
+307_90;Pulverrohmasse, angefeuchtet, mit nicht weniger als 17 Masse-% Alkohol;0;1;0;NULL;;;;;;0433
+307_91;Quecksilberfulminat angefeuchtet, mit mindestens 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung;0;1;0;NULL;;;;;;0135
+307_92;Rakete für Leinenwurf;0;1;0;NULL;;;;;;0238, 0240, 0453
+307_93;Schneidladung, biegsam, gestreckt;0;1;0;NULL;;;;;;0237, 0288
+307_94;Schneidvorrichtung, Kabel, mit Explosivstoff;0;1;0;NULL;;;;;;0070
+307_95;Schwarzpulver, gekörnt oder in Mehlform;0;1;0;NULL;;;;;;0027
+307_96;Schwarzpulver, gepresst oder als Pellets;0;1;0;NULL;;;;;;0028
+307_97;Sprengkapsel, elektrisch;0;1;0;NULL;;;;;;0030, 0255, 0456
+307_98;Sprengkapsel, nicht elektrisch;0;1;0;NULL;;;;;;0029, 0267, 0455
+307_99;Sprengladungen, gewerbliche, ohne Zündmittel;0;1;0;NULL;;;;;;0442, 0443, 0444, 0445

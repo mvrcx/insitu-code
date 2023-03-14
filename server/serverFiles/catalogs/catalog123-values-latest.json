@@ -1,0 +1,153 @@
+[
+  {
+    "id": 2012854,
+    "schluessel": "123_5",
+    "bezeichnung": "Registervorgang",
+    "loeschstatus": "0",
+    "auswahlerlaubt": "1",
+    "anzeigereihenfolge": null,
+    "externalPk": null,
+    "katalog": {
+      "id": 3634,
+      "katalogStatus": "FREIGEGEBEN",
+      "schluessel": "123",
+      "gueltigAb": 1627992656000,
+      "name": "Art des Vorgangs",
+      "bezeichnung": "Art des Vorgangs",
+      "version": "V1.2",
+      "externalSource": "ZIR",
+      "anwendung": {
+        "id": 441,
+        "name": "XPOLIZEI",
+        "bezeichnung": "XPolizei",
+        "externalPk": null
+      }
+    },
+    "oberwerte": [],
+    "unterwerte": [],
+    "zusatzwerte": [
+      {
+        "data_number": null,
+        "data_string": "Vorgang zur Abbildung von Registern, die keine personenbezogene Daten enthalten und damit keiner direkten polizeilichen Sachbearbeitung unterliegen (z. B. Registervorgang für das Urkundenzentralregister, EuFID oder das LUNA-Register).",
+        "data_char": null,
+        "data_date": null,
+        "zusatzMeta": {
+          "name": "Beschreibung",
+          "excelName": "Beschreibung"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2012850,
+    "schluessel": "123_3",
+    "bezeichnung": "Sammelvorgang",
+    "loeschstatus": "0",
+    "auswahlerlaubt": "1",
+    "anzeigereihenfolge": 0,
+    "externalPk": null,
+    "katalog": {
+      "id": 3634,
+      "katalogStatus": "FREIGEGEBEN",
+      "schluessel": "123",
+      "gueltigAb": 1627992656000,
+      "name": "Art des Vorgangs",
+      "bezeichnung": "Art des Vorgangs",
+      "version": "V1.2",
+      "externalSource": "ZIR",
+      "anwendung": {
+        "id": 441,
+        "name": "XPOLIZEI",
+        "bezeichnung": "XPolizei",
+        "externalPk": null
+      }
+    },
+    "oberwerte": [],
+    "unterwerte": [],
+    "zusatzwerte": []
+  },
+  {
+    "id": 2012851,
+    "schluessel": "123_4",
+    "bezeichnung": "Sonstiger polizeilicher Vorgang",
+    "loeschstatus": "0",
+    "auswahlerlaubt": "1",
+    "anzeigereihenfolge": 0,
+    "externalPk": null,
+    "katalog": {
+      "id": 3634,
+      "katalogStatus": "FREIGEGEBEN",
+      "schluessel": "123",
+      "gueltigAb": 1627992656000,
+      "name": "Art des Vorgangs",
+      "bezeichnung": "Art des Vorgangs",
+      "version": "V1.2",
+      "externalSource": "ZIR",
+      "anwendung": {
+        "id": 441,
+        "name": "XPOLIZEI",
+        "bezeichnung": "XPolizei",
+        "externalPk": null
+      }
+    },
+    "oberwerte": [],
+    "unterwerte": [],
+    "zusatzwerte": []
+  },
+  {
+    "id": 2012852,
+    "schluessel": "123_1",
+    "bezeichnung": "Vorgang zur Gefahrenabwehr",
+    "loeschstatus": "0",
+    "auswahlerlaubt": "1",
+    "anzeigereihenfolge": 0,
+    "externalPk": null,
+    "katalog": {
+      "id": 3634,
+      "katalogStatus": "FREIGEGEBEN",
+      "schluessel": "123",
+      "gueltigAb": 1627992656000,
+      "name": "Art des Vorgangs",
+      "bezeichnung": "Art des Vorgangs",
+      "version": "V1.2",
+      "externalSource": "ZIR",
+      "anwendung": {
+        "id": 441,
+        "name": "XPOLIZEI",
+        "bezeichnung": "XPolizei",
+        "externalPk": null
+      }
+    },
+    "oberwerte": [],
+    "unterwerte": [],
+    "zusatzwerte": []
+  },
+  {
+    "id": 2012853,
+    "schluessel": "123_2",
+    "bezeichnung": "Vorgang zur Strafverfolgung",
+    "loeschstatus": "0",
+    "auswahlerlaubt": "1",
+    "anzeigereihenfolge": 0,
+    "externalPk": null,
+    "katalog": {
+      "id": 3634,
+      "katalogStatus": "FREIGEGEBEN",
+      "schluessel": "123",
+      "gueltigAb": 1627992656000,
+      "name": "Art des Vorgangs",
+      "bezeichnung": "Art des Vorgangs",
+      "version": "V1.2",
+      "externalSource": "ZIR",
+      "anwendung": {
+        "id": 441,
+        "name": "XPOLIZEI",
+        "bezeichnung": "XPolizei",
+        "externalPk": null
+      }
+    },
+    "oberwerte": [],
+    "unterwerte": [],
+    "zusatzwerte": []
+  }
+]

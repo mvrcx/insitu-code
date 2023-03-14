@@ -1,0 +1,104 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+122;Art der Urkunde;Art der Urkunde;ZIR;V2.2;20210803
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+122_1;amtliche Unterlage;0;1;0;NULL;;;;;
+122_10;Personalausweis;0;1;0;NULL;;;;;
+122_100;Anmeldebescheinigung gem. § 3 ProstSchG;NULL;1;0;NULL;;;;;
+122_12;vorläufiger Personalausweis;0;1;0;NULL;;;;;
+122_13;Reisepass;0;1;0;NULL;;;;;
+122_15;vorläufiger Reisepass;0;1;0;NULL;;;;;
+122_16;Passersatz;0;1;0;NULL;;;;;
+122_17;Fremdenpass;0;1;0;NULL;;;;;
+122_18;Reiseausweis;0;1;0;NULL;;;;;
+122_2;ärztliches Rezept;0;1;0;NULL;;;;;
+122_20;Presseausweis;0;1;0;NULL;;;;;
+122_21;Seefahrtbuch;0;1;0;NULL;;;;;
+122_22;Schwerbehindertenausweis;0;1;0;NULL;;;;;
+122_23;Studentenausweis;0;1;0;NULL;;;;;
+122_24;Bescheinigung / Berechtigungsnachweis;0;1;0;NULL;;;;;
+122_25;Aufenthaltstitel;0;1;0;NULL;;;;;
+122_27;Aufenthaltsgestattung;0;1;0;NULL;;;;;
+122_28;Duldung / Aussetzung der Abschiebung;0;1;0;NULL;;;;;
+122_29;Verpflichtungserklärung;0;1;0;NULL;;;;;
+122_3;Ausweis;0;1;0;NULL;;;;;
+122_30;Führerschein;0;1;0;NULL;;;;;
+122_31;Fahrzeugschein;0;1;0;NULL;;;;;
+122_32;Fahrzeugbrief;0;1;0;NULL;;;;;
+122_33;Zulassungsbescheinigung I;0;1;0;NULL;;;;;
+122_34;Zulassungsbescheinigung II;0;1;0;NULL;;;;;
+122_35;Bahncard;0;1;0;NULL;;;;;
+122_36;Eintrittskarte;0;1;0;NULL;;;;;
+122_37;Fahrkarte;0;1;0;NULL;;;;;
+122_38;Flugticket;0;1;0;NULL;;;;;
+122_39;Gewinnschein;0;1;0;NULL;;;;;
+122_4;Dienstausweis;0;1;0;NULL;;;;;
+122_40;Jagdschein;0;1;0;NULL;;;;;
+122_41;Lizenz;0;1;0;NULL;;;;;
+122_42;Los;0;1;0;NULL;;;;;
+122_43;Lottoschein;0;1;0;NULL;;;;;
+122_44;Mitglieds- / Kundenkarte;0;1;0;NULL;;;;;
+122_45;Personenbeförderungsschein;0;1;0;NULL;;;;;
+122_46;Pilotenlizenz;0;1;0;NULL;;Berechtigung zum Fliegen;;;Fluglizenz, Pilotenschein
+122_47;Reisegewerbekarte;0;1;0;NULL;;;;;
+122_48;Rentenschein;0;1;0;NULL;;;;;
+122_49;seemännisches Patent;0;1;0;NULL;;;;;
+122_5;Dienstmarke;0;1;0;NULL;;;;;
+122_50;Versicherungskarte;0;1;0;NULL;;;;;
+122_51;Versicherungsschein;0;1;0;NULL;;;;;
+122_52;Waffenschein;0;1;0;NULL;;;;;
+122_53;Waffenerwerbsschein;0;1;0;NULL;;;;;
+122_54;Waffenbesitzkarte;0;1;0;NULL;;;;;
+122_55;Buchführungs- / Zahlungsunterlage;0;1;0;NULL;;;;;
+122_56;Bankauszug;0;1;0;NULL;;;;;
+122_57;Quittung;0;1;0;NULL;;;;;
+122_58;Rechnung;0;1;0;NULL;;;;;
+122_6;Dienstpass;0;1;0;NULL;;;;;
+122_60;Fahrtenschreiberkarte;0;1;0;NULL;;;;;
+122_61;kaufmännische Urkunde;0;1;0;NULL;;;;;
+122_62;Frachtbrief;0;1;0;NULL;;;;;
+122_63;Personenstandsurkunde;0;1;0;NULL;;;;;
+122_64;Geburtsurkunde;0;1;0;NULL;;;;;
+122_65;Eheurkunde;0;1;0;NULL;;;;;
+122_66;Visum;0;1;0;NULL;;;;;Visa
+122_67;Sparbuch;0;1;0;NULL;;;;;
+122_68;Stempelabdruck;0;1;0;NULL;;auch Dienst- / Amtssiegel;;;
+122_69;Prüfplakette;0;1;0;NULL;;;;;
+122_7;Diplomatenpass;0;1;0;NULL;;;;;
+122_70;Typenschild;0;1;0;NULL;;;;;
+122_71;Vertrag;0;1;0;NULL;;;;;
+122_72;Wertpapier;0;1;0;NULL;;;;;
+122_73;Scheck;0;1;0;NULL;;;;;
+122_74;Warenwertpapier;0;1;0;NULL;;;;;
+122_75;Wertzeichen;0;1;0;NULL;;;;;
+122_76;Zertifikat;0;1;0;NULL;;;;;
+122_77;Zeugnis;0;1;0;NULL;;;;;
+122_78;Zollpapier;0;1;0;NULL;;;;;
+122_79;sprengstoffrechtliche Erlaubnis;0;1;0;NULL;;;;;
+122_8;Kinderausweis;0;1;0;NULL;;;;;
+122_80;Ersatz-Personalausweis;0;1;0;NULL;;;;;
+122_81;Ankunftsnachweis;0;1;0;NULL;AKN;;;;
+122_83;Voucher;0;1;0;NULL;;;;;Gutschein
+122_84;Lieferschein;0;1;0;NULL;;;;;
+122_85;Aufenthaltserlaubnis;0;1;0;NULL;;;;;
+122_86;Blaue Karte EU;0;1;0;NULL;;;;;
+122_87;Erlaubnis zum Daueraufenthalt EG;0;1;0;NULL;;;;;
+122_88;Niederlassungserlaubnis;0;1;0;NULL;;;;;
+122_89;Aufenthaltskarte;0;1;0;NULL;;;;;
+122_9;Kinderreisepass;0;1;0;NULL;;;;;
+122_90;Daueraufenthaltskarte;0;1;0;NULL;;;;;
+122_91;Testament;0;1;0;NULL;;;;;
+122_92;Bürgschaft;0;1;0;NULL;;;;;
+122_93;Überweisungsbeleg;0;1;0;NULL;;;;;
+122_94;europäischer Feuerwaffenpass;0;1;0;NULL;;;;;
+122_95;Krankenversicherungskarte;0;1;0;NULL;;;;;
+122_96;ICT-Karte;0;1;0;NULL;;;;;
+122_97;Mobiler-ICT-Karte;0;1;0;NULL;;;;;
+122_98;Schengen-Visum;0;1;0;NULL;;;;;
+122_99;Staatsangehörigkeitsausweis;NULL;1;0;NULL;;;;;

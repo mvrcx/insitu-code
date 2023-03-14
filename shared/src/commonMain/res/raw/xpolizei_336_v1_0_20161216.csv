@@ -1,0 +1,31 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+336;Allgemeine Verkehrsunfallursachen;Allgemeine Verkehrsunfallursachen;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel;Kategorie
+336_1;Verunreinigung durch ausgeflossenes Öl;0;1;0;NULL;;;;;;70;Glätte oder Schlüpfrigkeit der Fahrbahn
+336_10;Mangelhafte Sicherung von Bahnübergängen;0;1;0;NULL;;;;;;79;Mangelhafte Sicherung von Bahnübergängen
+336_11;Nebel;0;1;0;NULL;;;;;;80;Witterungseinflüsse - Sichtbehinderung durch:
+336_12;Starken Regen, Hagel, Schneegestöber usw.;0;1;0;NULL;;;;;;81;Witterungseinflüsse - Sichtbehinderung durch:
+336_13;Blendende Sonne;0;1;0;NULL;;;;;;82;Witterungseinflüsse - Sichtbehinderung durch:
+336_14;Seitenwind;0;1;0;NULL;;;;;;83;Seitenwind
+336_15;Unwetter oder sonstige Witterungseinflüsse;0;1;0;NULL;;;;;;84;Unwetter oder sonstige Witterungseinflüsse
+336_16;Nicht oder unzureichend gesicherte Arbeitsstelle auf der Fahrbahn;0;1;0;NULL;;;;;;85;Hindernisse
+336_17;Wild auf der Fahrbahn;0;1;0;NULL;;;;;;86;Hindernisse
+336_18;Anderes Tier auf der Fahrbahn;0;1;0;NULL;;;;;;87;Hindernisse
+336_19;Sonstiges Hindernis auf der Fahrbahn (ausgenommen Pos. 43, 44);0;1;0;NULL;;;;;;88;Hindernisse
+336_2;Andere Verunreinigungen durch Straßenbenutzer;0;1;0;NULL;;;;;;71;Glätte oder Schlüpfrigkeit der Fahrbahn
+336_20;Sonstige Ursachen;0;1;0;NULL;;;;;;89;Sonstige Ursachen
+336_21;Schädigung der Fahrbahnoberfläche;0;1;0;NULL;;;;;;90;Zustand der Straße
+336_3;Schnee, Eis;0;1;0;NULL;;;;;;72;Glätte oder Schlüpfrigkeit der Fahrbahn
+336_4;Regen;0;1;0;NULL;;;;;;73;Glätte oder Schlüpfrigkeit der Fahrbahn
+336_5;Andere Einflüsse (u.a. Laub, angeschwemmter Lehm);0;1;0;NULL;;;;;;74;Glätte oder Schlüpfrigkeit der Fahrbahn
+336_6;Spurrillen, im Zusammenhang mit Regen, Schnee oder Eis;0;1;0;NULL;;;;;;75;Zustand der Straße
+336_7;Anderer Zustand der Straße;0;1;0;NULL;;;;;;76;Zustand der Straße
+336_8;Nicht ordnungsgemäßer Zustand der Verkehrszeichen oder -einrichtungen;0;1;0;NULL;;;;;;77;Nicht ordnungsgemäßer Zustand der Verkehrszeichen oder -einrichtungen
+336_9;Mangelhafte Beleuchtung der Straße;0;1;0;NULL;;;;;;78;Mangelhafte Beleuchtung der Straße

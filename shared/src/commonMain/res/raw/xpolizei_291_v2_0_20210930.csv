@@ -1,0 +1,41 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+291;Art der Schusswaffe;Art der Schusswaffe;ZIR;V2.0;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+291_113;Repetierflinte;0;1;0;NULL;;;;;'Vorderschaftrepetierflinte; Unterhebelrepetierflinte; Repetierflinte mit Kammerstängel; Revolverflinte'
+291_120;Selbstladeflinte;0;1;0;NULL;;;;;'vollautomatische Flinte; halbautomatische Flinte'
+291_127;kombinierte Waffe;0;1;0;NULL;;;;;'Vierling; T-Vierling; Doppelbüchs-Vierling; Fünfling; Drilling; Waldläuferdrilling; Normaldrilling; Doppelbüchsdrilling; Büchsenflintendrilling; Bockdrilling; Bockbüchsdrilling; Büchsflinte; Bockbüchsflinte'
+291_149;Granatwaffe;0;1;0;NULL;;;;;'Granatpistole; Granatmaschinenwaffe; Granatgewehr'
+291_154;Maschinengewehr;0;1;0;NULL;;;;;
+291_162;Maschinenpistole;0;1;0;NULL;;;;;
+291_173;Schlachtschussapparat;0;1;0;NULL;;;;;
+291_174;Selbstschussgerät;0;1;0;NULL;;;;;
+291_178;Druckluft- / Federdruck- / Kaltgaswaffe - Langwaffe;NULL;1;0;NULL;;;;;
+291_179;Druckluft- / Federdruck- / Kaltgaswaffe - Kurzwaffe;NULL;1;0;NULL;;;;;
+291_180;Schreckschuss- / Reizstoff- / Signalwaffe (SRS);NULL;1;0;NULL;;;;;
+291_181;SRS-Langwaffe;NULL;1;0;NULL;;;;;
+291_182;SRS-Kurzwaffe;NULL;1;0;NULL;;;;;
+291_183;SRS-Pistole;NULL;1;0;NULL;;;;;
+291_184;SRS-Revolver;NULL;1;0;NULL;;;;;
+291_185;Signalgeber / Munitionsabschussgerät;NULL;1;0;NULL;;;;;
+291_186;Salutböller;NULL;1;0;NULL;;;;;'Handböller; Modellkanone; Schaftböller; Standböller'
+291_187;unbekannt;NULL;1;0;NULL;;;;;
+291_2;Druckluft- / Federdruck- / Kaltgaswaffe;0;1;0;NULL;;;;;'Betäubungswaffe; Softairwaffe; Paintballwaffe'
+291_26;Handfeuerwaffe;0;1;0;NULL;;;;;
+291_27;Faustfeuerwaffe;0;1;0;NULL;;;;;
+291_28;Pistole;0;1;0;NULL;;;;;'Signalpistole; Selbstladepistole; Repetierpistole; Reihenfeuerpistole; Einzellader-Pistole'
+291_41;Revolver;0;1;0;NULL;;;;;
+291_46;getarnte Handfeuerwaffe;0;1;0;NULL;;;;;'Taschenlampenpistole; Stockgewehr; Schießtabakspfeife; Schießmobiltelefon; Schießkugelschreiber; Schießfüller; Koffergriff mit Schussfunktion; Gürtelschlosspistole'
+291_55;Gewehr;0;1;0;NULL;;;;;
+291_56;Büchse;0;1;0;NULL;;;;;
+291_57;Einzelladerbüchse;0;1;0;NULL;;;;;'Safarivierling; einschüssige Büchse; Doppelbüchse; Büchsdrilling; Bockbüchse'
+291_80;Repetierbüchse;0;1;0;NULL;;;;;'Vorderschaftrepetierbüchse; Unterhebelrepetierbüchse; Revolverbüchse'
+291_85;Selbstladebüchse;0;1;0;NULL;;;;;
+291_94;Flinte;0;1;0;NULL;;;;;
+291_95;Einzelladerflinte;0;1;0;NULL;;;;;'einschüssige Flinte; Doppelflinte; Bockflinte'

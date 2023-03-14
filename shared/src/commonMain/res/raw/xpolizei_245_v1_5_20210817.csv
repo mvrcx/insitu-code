@@ -1,0 +1,226 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+245;Modus Operandi;Modus Operandi;ZIR;V1.5;20210817
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;AMK;Cybercrime;Eigentum;Rauschgift;Sexualdelikte;Tötungs-_Gewaltdelikte;Falschgeld;Schleusung_Menschenhandel;Urkundenkriminalität;Wirtschaftskriminalität
+245_1;(D)Dos-Attacke;0;1;0;NULL;;Durch einen (verteilten, "distributed") Denial-of-Service Angriff wird ein Dienst in einem Datennetz (z. B. Webseite, E-Mail, Cloud-Services), der eigentlich verfügbar sein sollte, lahmgelegt bzw. seine Erreichbarkeit stark eingeschränkt.;;;;;J;;;;;;;;
+245_10;Ausbaldowern / Organisieren;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_100;Funkstreckenverlängerung;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_101;Veränderung der Kontodaten / -verbindung;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_102;Veränderung der E-Mail-Adresse;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_103;Nutzung ähnlicher E-Mail-Adressen im Schriftverkehr;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_104;Doping im Sport;0;1;0;NULL;;;;;;J;;;;;;;;;
+245_105;Einsperren;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_106;Einwirken mit physischer Gewalt;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_107;Einwirken mit psychischer Gewalt;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_108;Firmen / Lagerhalle Einbruchdiebstahl;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_109;Geschäftseinbruchdiebstahl;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_11;Aussetzen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_110;Aufhebeln;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_111;Einrammen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_112;Mauerdurchbruch;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_113;Zielrichtung Tresor;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_114;Dacheinstieg;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_115;Einwerfen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_116;Infektion von Systemen;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_118;E-Mail-Spam;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_119;Drive-by;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_12;Bedrohen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_120;SMS-Nachricht;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_121;Ladendiebstahl;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_122;Ladungsdiebstahl;0;1;0;NULL;;Ladungsdiebstahl umfasst auch den Transportgutdiebstahl im Güterkraftverkehr gem. § 1 GüKG, im Werkverkehr und im Güterverkehr auf der Schiene gem. § 18 EBO sowie im Schiffs- und Luftverkehr.;;;;;;J;;;;;;;
+245_123;Diebesschürze;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_124;Planenschlitzer;0;1;0;NULL;;Planenschlitzer wird nur dann erfasst, wenn keine Anhaltspunkte dafür vorliegen, dass die Tat in der Erlangung des Fahrzeuges bzw. in der Sachbeschädigung begründet war.;;;;;;J;;;;;;;
+245_125;Komplettentwendung LKW / Auflieger;0;1;0;NULL;;Komplettentwendung LKW / Auflieger wird nur dann erfasst, wenn keine Anhaltspunkte dafür vorliegen, dass die Tat in der Erlangung des Fahrzeuges bzw. in der Sachbeschädigung begründet war.;;;;;;J;;;;;;;
+245_126;Internet-Frachtbörse;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_127;Nutzung von Packstationen;0;1;0;NULL;;;;;;J;J;;J;;;J;;;
+245_128;Nutzung von Post- und Kurierdiensten mittels Brief;0;1;0;NULL;;;;;;J;J;;J;;;J;;;
+245_129;Nutzung von Post- und Kurierdiensten mittels Paket;0;1;0;NULL;;;;;;J;J;;J;;;J;;;
+245_13;Beibringen von Stoffen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_130;Zahlung per Voucher;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_131;Zahlung mit virtueller Währung;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_132;Sperrbildschirm;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_133;Verschlüsselung von Dateien;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_134;Skimming;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_135;Taschendiebstahl;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_136;Antanzen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_137;Ausnutzen von Gedränge;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_138;Kettentrick;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_139;Trickdiebstahl in Wohnung;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_14;Beleidigen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_140;Verbauen / Verstecken im Körper;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_141;Verbauen / Verstecken am Körper;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_142;Rip-Off;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_143;Kofferschmuggel;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_144;Verschiebung von Kfz;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_145;Kurierfahrer;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_146;falsche / gefälschte Dokumente;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_147;Verkauf im Internet;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_148;Kfz-Zulassung gestohlener ausländischer Kfz in D;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_149;Kfz-Zulassung gestohlener deutscher Kfz im Ausland;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_15;Berauben;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_150;Kfz-Zulassung gestohlener deutscher Kfz in D;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_151;Dublette;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_152;Schrottfrisierung;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_153;Verwendung von Anonymisierungstechniken;0;1;0;NULL;;;;;;;J;;;;;J;;;
+245_154;Wiederholte oder lang anhaltende Einwirkung (> 24 Std.);0;1;0;NULL;;;;;;;;;;J;;;;;
+245_155;Wohnungseinbruchdiebstahl;0;1;0;NULL;WED;;;;;;;J;;;;;;;
+245_156;Fensterbohren;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_157;Einstieg Kellerfenster;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_158;Ausnutzen Feier / Veranstaltung;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_159;gestohlene Dokumente;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_160;gestohlene Kreditkarten;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_161;Spoofing;0;1;0;NULL;;Verschleierung der tatsächlichen Identität, z. B.: wenn bei Call-ID Spoofing der Anrufer beim Angerufenen eine falsche Identität vortäuschen will, indem die Caller-ID nicht übermittelt bzw. verschleiert wird.;;;;J;J;J;J;J;J;J;J;J;J
+245_162;CEO-Fraud;0;1;0;NULL;;;;;;;J;J;;;;;;;
+245_163;Enkeltrick;0;1;0;NULL;;Unter Vorspiegelung vorhandener Verwandtschaftsverhältnisse wird der Geschädigte dazu veranlasst, einen bestimmten Geldbetrag an den Tatverdächtigen zu zahlen.;;;;;;J;;;;;;;
+245_164;Schockanruf;0;1;0;NULL;;Unter Vorspiegelung eines Unfalls / einer Notsituation einer nahestehenden Person wird der Geschädigte dazu veranlasst, einen bestimmten Geldbetrag an den Tatverdächtigen zu zahlen.;;;;;;J;;;;;;;
+245_165;falscher Amtsträger;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_166;Messerangriff;0;1;0;NULL;;Messerangriffe im Sinne der Erfassung von Straftaten sind solche Tathandlungen, bei denen der Angriff mit einem Messer unmittelbar gegen eine Person angedroht oder ausgeführt wird. Das bloße Mitführen eines Messers, reicht hingegen für eine Erfassung als Messerangriff nicht aus.;;;;;;;;;J;;;;
+245_167;ab- / reißen;NULL;1;0;NULL;;z. B. von Sicherungstechnik und Schutzvorrichtungen;;;;;;J;;;;;;;
+245_168;Abrechnungsbetrug;NULL;1;0;NULL;;Betrügerische Abrechnung von Leistungen durch Berufe, die nach einer Gebührenordnung abrechnen, wie Rechtsanwälte, Rechtsbeistände, Notare, Steuerberater (in der Regel sog. Freiberufler). (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_169;Abrechnungsbetrug im Gesundheitswesen;NULL;1;0;NULL;;Der Abrechnungsbetrug im Gesundheitswesen besteht in der betrügerischen Erlangung von Geldleistungen von Selbstzahlern, Krankenkassen, Krankenversicherungen und Beihilfestellen durch Angehörige medizinischer oder pharmazeutischer Berufe sowie Krankenhäusern und Sanatorien. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_170;an- / übermalen;NULL;1;0;NULL;;Mit Farbe an- / übermalen z. B. Überwachungskamera;;;;;;J;;;J;;;;
+245_171;anbieten;NULL;1;0;NULL;;von etwas Nichtvorhandenem oder Gefälschtem;;;;;;J;;;;;;;
+245_172;Anlagebetrug;NULL;1;0;NULL;;Der Tatverdächtige veranlasst die Opfer (i. d. R. über eine Anlagevermittlungsfirma) mit Versprechen hoher Renditen, hoher Kursgewinne oder anderer attraktiver Gewinnmöglichkeiten zur Hergabe von Anlagegeldern, verwendet diese aber ganz oder teilweise zweckwidrig oder täuscht anderweitig über wesentliche Merkmale der Geldanlage (z. B. Risiko, Aufschläge, Provisionsanteile usw.). (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_173;be- / versprühen;NULL;1;0;NULL;;Besprühen von Überwachungsgeräten / Spurenvernichtung;;;sprayen;;;J;;;J;;;;
+245_174;Behältnisschleusung;NULL;1;0;NULL;;Wenn Personen in sogenannten Behältnissen aufgefunden werden – etwa auf Ladeflächen von Lastwagen oder Kleintransportern, manchmal auf engstem Raum hinter Holzverschlägen zusammengepfercht, spricht man von Behältnisschleusung. Eine Behältnisschleusung ist ein unwürdiger Transport von Personen in einem nicht für den Personenverkehr vorgesehenen Behältnis oder Transportmittel, einhergehend mit einer über das allgemeine Lebensrisiko hinausgehenden Gefahr für Leib und Leben der Geschleusten, beispielsweise durch Sauerstoffmangel, Dehydrierung, Unterkühlung oder erhöhter Unfallgefahr.;;;;;;;;;;;J;;
+245_175;Beteiligungsbetrug;NULL;1;0;NULL;;Geschädigte werden gegen Zahlung einer Geschäftseinlage in ein nicht bestehendes, erst zu gründendes oder „faules“ Unternehmen unter arglistiger Vorspiegelung hoher Gewinnausschüttung bzw. einer sonstigen lukrativen Teilhaberschaft an diesem Unternehmen beteiligt.;;;;;;;;;;;;;J
+245_176;Betrug mittels rechtswidrig erlangter Daten von Zahlungskarten;NULL;1;0;NULL;;;;;;;;J;;;;;;;
+245_177;Betrug mittels rechtswidrig erlangter sonstiger unbarer Zahlungsmittel;NULL;1;0;NULL;;;;;;;;J;;;;;;;
+245_178;Betrug mittels rechtswidrig erlangter Zahlungskarten ohne PIN (Lastschriftverfahren);NULL;1;0;NULL;;;;;;;;J;;;;;;;
+245_179;blitzartiges / schnelles Vorgehen;NULL;1;0;NULL;;'z. B. Blitz-ED, Juwelierraub; sehr kurzer Tatzeitraum; innerhalb weniger Minuten';;;;;;J;;;;;;;
+245_180;Börsenspekulationsbetrug;NULL;1;0;NULL;;Täter veranlasst die Opfer (i. d. R. über eine Kapitalanlage- oder Vermittlungsfirma) unter Vortäuschung hoher Kursgewinne und dem Verschweigen des Verlustrisikos zur Herausgabe von Geldern zwecks Anlage in regulären Wertpapier-, Devisen-, Waren- oder Terminbörsen.;;;;;;;;;;;;;J
+245_181;Cold Calling;NULL;1;0;NULL;;Der Geschädigte erhält unaufgefordert telefonische Angebote zu Anlagemöglichkeiten in Finanzwerte. Durch Täuschen sowohl über die Beschaffenheit des Wertes, der Renditen als auch zur Handelbarkeit wird der Geschädigte zum Erwerb animiert.;;;;;;;;;;;;;J
+245_182;demontieren;NULL;1;0;NULL;;Zerlegen / Abbauen von etwas z. B. zum Abtransport;;;;;;J;;;;;;;
+245_183;Erwerb über Darknet-Handelsplattform;NULL;1;0;NULL;;z. B.: Empire Market;;;;;;;;;;J;;;
+245_184;Erwerb über Internet-Handelsplattform;NULL;1;0;NULL;;z. B.: Ebay-Kleinanzeigen;;;;;;;;;;J;;;
+245_185;Erwerb über Messengerdienst / soziales Netzwerk;NULL;1;0;NULL;;z. B.: Facebook, Telegram;;;;;;;;;;J;;;
+245_188;Fake Shop;NULL;1;0;NULL;;Geschädigte werden im Internet mit äußerst günstigen Angeboten auf Seiten gelockt, die denen seriöser Online-Shops täuschend ähnlich sind, da sie Bilder seriöser Shops kopieren und benutzen. Die Lieferung der bestellten Ware bleibt aus oder es wird minderwertige Ware geliefert.;;;;;;J;;;;;;;J
+245_189;flexen;NULL;1;0;NULL;;Trennen oder Aufschneiden mittels Flex / Winkelschleifer;;;;;;J;;;;;;;
+245_19;Betäuben;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_190;Inkassoschreiben;NULL;1;0;NULL;;Der Geschädigte wird durch zumeist elektronisch versandte Inkassoschreiben mit Zahlungsaufforderungen über angeblich offene Rechnungen getäuscht. Inhalt der Zahlungsforderungen sind am Telefon untergeschobene Verträge, Abofallen im Internet oder Gewinnspielwerbung.;;;;;;J;;;;;;;J
+245_191;Internetauktion;NULL;1;0;NULL;;Dem Geschädigten werden bei einer Auktion (Versteigerung), welche im Internet stattfindet, Produkte oder Dienstleistungen angeboten. Der Täter täuscht dabei über seine Absicht, den zum Ende der Auktion geschlossenen Kaufvertrag nach § 433 BGB erfüllen zu wollen.;;;;;;J;;;;;;;J
+245_192;Jackpotting;NULL;1;0;NULL;;;;;;;J;;;;;;;;
+245_193;Jackpotting mit Blackbox;NULL;1;0;NULL;;;;;;;J;;;;;;;;
+245_194;Jackpotting mit Malware;NULL;1;0;NULL;;;;;;;J;;;;;;;;
+245_195;Krediterlangungsbetrug;NULL;1;0;NULL;;Der Tatverdächtige erschleicht durch unrichtige Angaben über seine wirtschaftlichen Verhältnisse Kreditleistungen in Form von Darlehen oder Kreditkarten. Es muss sich also um Kredite im kaufmännischen Sinne handeln oder zumindest um den vertragsmäßigen Empfang von Geld, das nach einer Frist als Geld zurückgezahlt werden soll. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_196;Kreditvermittlungsbetrug;NULL;1;0;NULL;;Täter bietet in betrügerischer Absicht die Vermittlung von Krediten an und verlangt hierfür rechtswidrig Gebühren, Provisionen oder sonstige Vorauskosten, ohne willens oder in der Lage zu sein, die versprochenen Kredite tatsächlich zu vermitteln.;;;;;;;;;;;;;J
+245_197;Kurier;NULL;1;0;NULL;;Falschgeld-Transporteur;;;;;;;;;;J;;;
+245_198;Leistungskreditbetrug;NULL;1;0;NULL;;Der Verkäufer erbringt im Voraus eine Leistung und akzeptiert eine spätere Zahlung bzw. Restzahlung, die der in betrügerischer Absicht handelnde Tatverdächtige von vornherein nicht leisten wollte oder konnte. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_199;Look-alike;NULL;1;0;NULL;;Unter dem Modus Operandi „Look-alike“ / „Impostor“ versteht man die betrügerische Absicht der Nutzung eines vornehmlich authentischen Identitätsnachweises / -dokumentes durch eine Person, die eine starke physische Ähnlichkeit zum Lichtbild des rechtmäßigen Inhabers aufweist.;;;Impostor;;;;;;;;J;J;
+245_2;abartige Begehungsweise;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_20;Brief / Annonce / Internet;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_200;Loverboy;NULL;1;0;NULL;;Bei der Loverboy-Methode werden weibliche Minderjährige und junge Frauen unter Vorspiegelung einer Liebesbeziehung in ein emotionales Abhängigkeitsverhältnis gebracht, um sie in der Folge an die Prostitution heranzuführen und auszubeuten.;;;;;;;;J;;;;;
+245_201;NFC-Manipulation;NULL;1;0;NULL;;Manipulation der Near Field Communication (NFC). NFC ist ein Übertragungsstandard, der u. a. an Kassenterminals des Handels die kontaktlose Bezahlung mit oder ohne PIN ermöglicht.;;;;;;J;;;;;;;
+245_202;NFC-Manipulation mit PIN;NULL;1;0;NULL;;Manipulation der Near Field Communication (NFC) mit PIN.;;;;;;J;;;;;;;
+245_203;NFC-Manipulation ohne PIN;NULL;1;0;NULL;;Manipulation der Near Field Communication (NFC) ohne PIN.;;;;;;J;;;;;;;
+245_204;Offerte;NULL;1;0;NULL;;Der Geschädigte wird durch ein Angebotsschreiben, das wie eine amtliche Rechnung aufgemacht ist, über eine nicht bestehende Forderung getäuscht.;;;;;;J;;;;;;;J
+245_205;Provisionsbetrug;NULL;1;0;NULL;;Betrügerisches Erlangen von Provisionen für gefälschte Aufträge, für arglistig erlangte Unterschriften auf zu stornierende Aufträge oder für die arglistige Unterbringung von Aufträgen bei zahlungsunfähigen Kunden.;;;;;;J;;;;;;;J
+245_206;Romance-Scam;NULL;1;0;NULL;;Gefälschte Profile in Singlebörsen werden dazu genutzt, dem Opfer Verliebtheit vorzugaukeln, mit dem Ziel, eine finanzielle Zuwendung zu erschleichen.;;;;;;J;;;;;;;J
+245_207;Sextortion;NULL;1;0;NULL;;Der Begriff „Sextortion“ setzt sich aus den englischen Wörtern Sex und Extortion (Erpressung) zusammen. Bei Sextortion geht es um sexuelle  Erpressung. Was wie ein harmloser Flirt beginnt, endet mit hohen Geldforderungen. Die Betrüger bringen ihre Opfer dazu, sich vor der Webcam auszuziehen und sexuelle Handlungen an sich selbst vorzunehmen. Anschließend erpressen sie ihre gutgläubigen Chatpartner.;;;;;J;;;;;;;;
+245_208;Stoßbetrug;NULL;1;0;NULL;;Geschädigte werden im Vertrauen auf Zahlungswillig- und Zahlungsfähigkeit zur Lieferung von Waren auf Ziel - meist auf Wechsel - veranlasst. Die gelieferten Waren werden zu Schleuderpreisen sofort abgestoßen, so dass bei Eintritt der Zahlungsverpflichtung keine Waren mehr vorhanden sind bzw. die Firma sich bis dahin aufgelöst hat und die Initiatoren sich abgesetzt haben.;;;;;;J;;;;;;;J
+245_209;Umschuldungsbetrug;NULL;1;0;NULL;;Ablösung aller bestehenden Verbindlichkeiten in der Weise, dass nur noch eine Verbindlichkeit gegenüber einem Unternehmen besteht, welches einen überhöhten Zinssatz zugrunde legt, die Zinsen immer aus der ursprünglichen Gesamtkreditsumme berechnet und / oder gestaffelt nach Laufzeit lediglich eine prozentuale Auszahlung des Kredites vornimmt.;;;;;;;;;;;;;J
+245_21;Digitaler Identitätsdiebstahl / Accountübernahme;0;1;0;NULL;;Einerseits wird darunter die widerrechtliche Erlangung des Zugangs zu einer digitalen Identität oder das Anlegen einer Identität durch unbefugte Nutzung fremder Daten verstanden und umfasst auch entsprechende Vorbereitungshandlungen. Andererseits wird darunter die unbefugte / missbräuchliche Verwendung dieser Identitäten erfasst. Eine digitale Identität kann beispielsweise in einem  Nutzerkonto (z. B. Zugangsname und Passwort) bei einem Diensteanbieter bestehen, umfasst aber auch personenbezogene Daten, Konto- oder Zahlungskartendaten (Kartennummer, Gültigkeitsdatum, CVV, Name des Inhabers, etc.). Für die oben genannten Begehungsweisen kommen oftmals auch die Begriffe "ID-Theft", "Faking", "Accounttakeover", aber auch als Spezialfall "Carding" zur Anwendung. Die Vorbereitungshandlung kann beispielsweise durch "Phishing" oder "Malware" erfolgen.;;;;;J;;;;;;;;
+245_210;Untreue bei Kapitalanlagegeschäften;NULL;1;0;NULL;;Der Täter verwendet ihm für Anlagegeschäfte (z. B. Immobilienkauf, Vermögensverwaltung, Anlage in Wertpapieren und Beteiligungen) treuhänderisch / übergebene Gelder zweckwidrig und fügt dem Anleger dadurch einen Vermögensnachteil zu.;;;;;;J;;;;;;;J
+245_211;ver- / ausschütten;NULL;1;0;NULL;;z. B. von Flüssigkeiten (Chlor o. ä.) zur Beseitigung von Spuren;;;;;;J;;;J;;;;
+245_212;Verkauf über Darknet-Handelsplattform;NULL;1;0;NULL;;z. B.: Empire Market;;;;;;;;;;J;;;
+245_213;Verkauf über Internet-Handelsplattform;NULL;1;0;NULL;;z. B.: Ebay-Kleinanzeigen;;;;;;;;;;J;;;
+245_214;Verkauf über Messengerdienst / soziales Netzwerk;NULL;1;0;NULL;;z. B.: Facebook, Telegram;;;;;;;;;;J;;;
+245_215;Voodoo;NULL;1;0;NULL;;Nigerianische Opfer des Menschenhandels werden oft in ländlichen Dörfern Westafrikas angeworben und ihnen wird in Europa eine gut bezahlte Arbeit versprochen. Voodoo / Juju Rituale werden in Vorbereitung auf die Reise und Abhängigkeit auf die Menschhändler eingesetzt, um die ausbeuterische Beziehung emotionell zu verfestigen.  Die Opfer werden dazu gebracht, den Menschenhändlern Treue, Geheimhaltung und Diskretion zu schwören, wodurch sie psychologisch unter Druck gesetzt werden und oftmals keine Aussagen gegenüber der Polizei machen.;;;Juju;;;;;J;;;;;
+245_216;Warenkreditbetrug;NULL;1;0;NULL;;Beim Warenkreditbetrug steht die betrügerische Erlangung von Waren ohne Gegenleistung oder durch Anzahlung im Vordergrund. Der Verkäufer liefert im Voraus eine Ware und akzeptiert eine spätere Zahlung bzw. Restzahlung, die der in betrügerischer Absicht handelnde Tatverdächtige von vornherein nicht leisten wollte oder konnte. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;J
+245_217;Wertpapierbetrug;NULL;1;0;NULL;;Beim Wertpapierbetrug werden entweder ge- / verfälschte Wertpapiere verwendet oder echten wertlosen Papieren wird ein bestimmter, nicht zutreffender Wert zugeordnet.;;;;;;;;;;;;;J
+245_218;Zwischenhändler, Mittelsmann;NULL;1;0;NULL;;Ankauf und Verkauf von Falschgeld zwecks Gewinnerzielung;;;;;;;;;;J;;;
+245_219;Betrug zum Nachteil von Versicherungen;NULL;1;0;NULL;;Ungerechtfertigte Inanspruchnahme von Versicherungsleistungen. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_22;Einbrechen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_220;Einmietbetrug;NULL;1;0;NULL;;Unter diesem Begriff ist sowohl der Betrug z. N. von Beherbergungsstätten als auch z. N. von Privatpersonen zu verstehen, die einen in der Regel kurz- bis mittelfristigen Beherbergungsvertrag mit dem Einmietbetrüger eingegangen sind. Der Einmietbetrüger gibt vor, er sei willens und in der Lage, für die Überlassung von Räumlichkeiten einschließlich entstehender Nebenkosten den vereinbarten Mietzins zu entrichten. Der kurz- bis mittelfristig eingegangene Beherbergungsvertrag ist nicht gleichzusetzen mit einem auf Dauer angelegten Wohnmietverhältnis, das insbesondere dadurch gekennzeichnet ist, dass die im Eigentum des Mieters stehenden Wohngegenstände (wie Möbel, Teppiche, Bilder, Wert- und Küchengegenstände) in die Wohnung dauerhaft eingebracht werden. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_221;Sozialleistungsbetrug;NULL;1;0;NULL;;Alle durch Täuschung der vergebenden öffentlichen Stellen betrügerisch erlangten Geld- oder Sachleistungen von Sozialleistungsträgern (z. B. Wohngeld, Kindergeld). (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_222;Tankbetrug;NULL;1;0;NULL;;Der Tankstellenkunde tankt und fährt entsprechend vorgefasster Absicht weg, ohne die Tankrechnung zu begleichen. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_223;Überweisungsbetrug;NULL;1;0;NULL;;Betrug mittels ge- oder verfälschter Überweisungsträger oder Zahlungsaufträge, sowie die missbräuchliche Verwendung von Daten im online-Banking, die geeignet sind, bei Banken Überweisungen zu veranlassen. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_224;Warenbetrug;NULL;1;0;NULL;;Beim Warenbetrug verspricht der Tatverdächtige Ware zu liefern, was er jedoch nicht oder nur in minderwertiger Qualität tut, oder er behauptet, Ware geliefert zu haben, obwohl das nicht der Fall war. Die Ware stellt gewissermaßen das Mittel zum Betrug dar, während das Ziel des Betrügers die Erlangung der Bezahlung ist. (Quelle: PKS-Richtlinie vom 01.01.2020, Definitionskatalog mit Stand 10.10.2019);;;;;;J;;;;;;;
+245_23;Datendiebstahl bei nicht natürlichen Personen / Eindringen in Datennetze / Datenveränderung;0;1;0;NULL;;Es findet ein unbefugter Zugang zu einem Datennetz statt. In der Folge ist ein Missbrauch des Datennetzes oder daran angeschlossener IT-Systeme (z. B. Computer) möglich. Ebenso kommt ein missbräuchlicher Zugriff (z. B. lesen, kopieren, löschen, verändern) auf Daten in Betracht. Die Tat kann nicht nur durch das Eindringen in ein Datennetz, sondern auch durch einen sogenannten Innentäter begangen werden. Darunter fallen auch das "Hacking" von Servern, die für die Bereitstellung von Webseiten, Online-Shops oder anderen Diensten genutzt werden. Auch "Defacements" oder die nicht autorisierte Veränderung von Softwarekonfigurationen (z. B. Installation eines Proxys) sind hierunter ebenso wie auch die Industriespionage erfasst. Nicht natürliche Personen sind juristische Personen des Privatrechts (z. B. GmbH, AG, e. V.), juristische Personen des öffentlichen Rechts (z. B. Körperschaften, Anstalten) aber auch Personengesellschaften (GbR, OHG, KG) sowie Einzelkaufleute im geschäftlichen Verkehr.;;;;;J;;;;;;;;
+245_25;Entführen / als Geisel nehmen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_26;Erfrierung / Unterkühlung zufügen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_27;Erpressen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_28;Freisetzen von Gasen, biologischen Stoffen oder Strahlung;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_29;Gewalt mit Schusswaffe;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_3;Abofalle;0;1;0;NULL;;Im Rahmen einer zusammenhangsfremden Handlung (z. B. Teilnahme an einem Gewinnspiel oder Download einer Datei)  wird dem Geschädigten ein Abonnement untergeschoben, ohne dass diesem der Vertragsabschluss bewusst sein konnte.;;;Betrug bei Vertragsabschlüssen;;;J;;;;;;;
+245_30;Gewinnversprechen;0;1;0;NULL;;Dem Geschädigten wird ein Gewinn in Aussicht gestellt. Um diesen zu erhalten, wird er aufgefordert, im Vorfeld eine Zahlung zu leisten. Der Gewinn wird nie ausgezahlt.;;;Gewinnbenachrichtigung;;;J;;;;;;;J
+245_31;gezieltes Anfreunden mit Opfer;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_32;Herbeiführen einer Explosion;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_33;Herstellen von Nähe als Trainer / Übungsleiter;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_34;Hilflosigkeit herbeiführen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_35;Kraftfahrzeug-Jacking;0;1;0;NULL;;Diebstahl (einfach und schwer) aus Wohnungen und Verkaufsräumen zur Erlangung der Fahrzeugschlüssel, um das dazugehörige Fahrzeug zu entwenden.;;;;;;J;;;;;;;
+245_36;Internethandel / Darknethandel;0;1;0;NULL;;;;;;J;;;J;;;J;;;
+245_37;Kneifen / Ziehen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_38;Kontaktaufnahme;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_39;Nutzung von legalen Lieferschienen;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_4;andere Gewalt;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_40;Nutzung von legalen Storageangeboten;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_41;Nutzung von Post- und Kurierdiensten;0;1;0;NULL;;;;;;J;J;;J;;;J;;;
+245_42;Nutzung von Trägerstoffen;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_43;Opfer fixieren / fesseln;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_44;Ransomware;0;1;0;NULL;;Durch das Einbringen einer spezifischen Malware (Schadsoftware) wird bewirkt, dass der berechtigte Nutzer eines IT-Systems (z. B. Computer) dieses ganz oder teilweise nicht mehr nutzen und / oder auf die darauf gespeicherten Daten nicht mehr zugreifen kann. Für die (vermeintliche) Freigabe des IT-Systems oder der Daten wird ein Anspruch auf Zahlung ("ransom", Lösegeld) erhoben.;;;;;J;;;;;;;;
+245_45;Rip-Deal;0;1;0;NULL;;Der Geschädigte wird unter Vortäuschung eines beabsichtigten Kaufgeschäftes zu einem Treffen bewegt. Hierzu soll er eine bestimmte Menge Bargeld mitbringen. Dieses wird ihm am Treffpunkt gewaltsam entwendet (Raub). Wenn das Geld nicht geraubt, sondern dem Geschädigten Falschgeld oder wertloses Papier übergeben wird, dann liegt ein Betrug vor.;;;;;;J;;;;;;;
+245_46;Sammlungs- / Spendenbetrug;0;1;0;NULL;;Unter Vortäuschung eines bestimmten Sammel- / Spendenzwecks oder einer Bedürftigkeit  werden Geldsummen eingesammelt / erbettelt und im Anschluss für private Zwecke genutzt.;;;Prospektbetrug;;;J;;;;;;;
+245_47;scharfe Gewalt;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_48;Schlagen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_49;Schütteln;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_5;Angriff auf das Online-Banking;0;1;0;NULL;;Der Angriff auf das Online-Banking stellt einen Spezialfall des Digitalen Identitätsdiebstahls / der Accountübernahme dar. Die Tat zielt auf den unbefugten Zugang zu einem Online-Banking Angebot einer Bank und dessen Missbrauch. Zu den Online-Banking Angeboten zählen Zugangsberechtigungen zu Girokonten, Sparkonten, Wertpapierdepots, etc. mittels Computer oder Sprachcomputer. Die Angriffshandlungen umfassen auch entsprechende Vorbereitungshandlungen ("Phishing", "Malware", etc.).;;;;;J;;;;;;;;
+245_50;sexuell belästigen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_51;Stalken / Verfolgen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_52;Stoßen / Schubsen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_53;Streit anfangen (Angriff auf das Opfer);0;1;0;NULL;;;;;;;;;;;J;;;;
+245_54;Streit anfangen (Kontaktaufnahme);0;1;0;NULL;;;;;;;;;;;J;;;;
+245_55;Strom zufügen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_56;stumpfe Gewalt mit Werkzeug;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_57;Tarnen als Legalsubstanz;0;1;0;NULL;;;;;;J;;;J;;;;;;
+245_58;täterspezifische Verhaltensweise;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_59;Tathergang verschleiern;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_6;Angriff auf das Opfer;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_60;Tatörtlichkeit verschleiern;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_61;Treten;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_62;Trickdiebstahl;0;1;0;NULL;;Trickdiebstahl liegt vor, wenn der Täter durch Täuschung / Irrtumserregung ein (kurzfristiges) Vertrauensverhältnis zum Geschädigten aufbaut (z. B. durch Vorgabe einer Dienstleister-, Behörden- oder Amtseigenschaft) oder durch Ablenkung (z. B. durch Anrempeln, Beschmutzen der Kleidung) die verminderte Wahrnehmungs- bzw. Reaktionsfähigkeit des Geschädigten nutzt, um (zunächst unbemerkt) den Gewahrsam über eine fremde Sache zu erlangen.;;;;;;J;;;;;;;
+245_63;um Hilfe / Information bitten;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_64;Unterlassen von Hilfe;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_65;Verbauen / Verstecken;0;1;0;NULL;;;;;;J;;;J;;;J;;;
+245_66;Verbrennen / Verbrühen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_67;Vergewaltigen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_68;Verlegen der Atemwege;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_69;Verletzen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_7;Ansprechen unter Legende;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_70;Vernachlässigen;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_71;Zusendung von Lösegeldforderung;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_72;Androhung weiterer Angriffe;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_73;Abgriff von Zahlungskartendaten bei im Zahlungsprozess beteiligten Insituten;0;1;0;NULL;;Processor / Aquirer / Payment Service Provider / Vertragsunternehmen;;;;;J;;;;;;;;
+245_74;Telefonkontakt;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_75;Rücküberweisung;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_76;Rufnummer für mTAN geändert;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_77;Angriff auf Geldautomat;0;1;0;NULL;GA;;;;;;;J;;;;;;;
+245_78;Komplettentwendung;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_79;Aufsprengen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_8;Anwendung berauschender Mittel;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_80;Aufspreizen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_81;Aufschneiden;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_82;Anwendung von List;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_83;Arzneimittel in der illegalen Verteilerkette;0;1;0;NULL;;;;;;J;;;;;;;;;
+245_84;aus einer Gruppe heraus begangen;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_85;Ausnutzen der Hilfslosigkeit;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_86;Ausnutzen einer Zwangslage;0;1;0;NULL;;;;;;;;;;J;;;;;
+245_87;Besonderheit / neuer Modus Operandi;0;1;0;NULL;;;;;;J;J;J;J;J;J;J;;;
+245_88;betrügerisches Erlangen;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_9;Auflauern;0;1;0;NULL;;;;;;;;;;;J;;;;
+245_90;falsche / gefälschte Kreditkarten;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_91;Schlüsseltausch;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_92;Bewegungsmelder manipulieren;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_93;Cash trapping;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_94;card not present fraud;0;1;0;NULL;;;;;;;J;;;;;;;;
+245_95;Diebstahl aus Automaten;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_96;Diebstahl von Kfz;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_97;illegale Arzneimittel in der legalen Verteilerkette;0;1;0;NULL;;;;;;J;;;;;;;;;
+245_98;Schlüsselangeln;0;1;0;NULL;;;;;;;;J;;;;;;;
+245_99;Blech aufschneiden;0;1;0;NULL;;;;;;;;J;;;;;;;

@@ -1,0 +1,14 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+280;Grund der Priorität;Grund der Priorität;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+280_1;Haftsache;0;1;0;NULL;;;
+280_2;schwerwiegende Gefahr für wichtige Rechtsgüter;0;1;0;NULL;;;
+280_3;drohender Informationsverlust;0;1;0;NULL;;;
+280_4;laufender oder unmittelbar bevorstehender operativer Einsatz;0;1;0;NULL;;;

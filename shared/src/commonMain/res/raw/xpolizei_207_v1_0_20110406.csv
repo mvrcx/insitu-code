@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+207;Maßeinheit des Ausmaßes;Maßeinheit des Ausmaßes;ZIR;V1.0;20110406
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+207_1;Kilometer;0;1;0;NULL;km;;
+207_10;Seemeile;0;1;0;NULL;sm;;
+207_2;Meter;0;1;0;NULL;m;;
+207_3;Dezimeter;0;1;0;NULL;dm;;
+207_4;Zentimeter;0;1;0;NULL;cm;;
+207_5;Millimeter;0;1;0;NULL;mm;;
+207_6;Fuß;0;1;0;NULL;ft;;
+207_7;Meile;0;1;0;NULL;mile;;
+207_8;Yard;0;1;0;NULL;yd;;
+207_9;Inch;0;1;0;NULL;in;;

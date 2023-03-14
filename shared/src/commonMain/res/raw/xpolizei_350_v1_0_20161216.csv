@@ -1,0 +1,38 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+350;Gefahrgut-Ausnahmeverordnung;Gefahrgut-Ausnahmeverordnung;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+350_1;Tanks aus glasfaserverstärktem Kunststoff;0;1;0;NULL;GGAV 9;;;;
+350_10;Zusammenladung von Automobilteilen der Klassifizierung 1.4G mit gefährlichen Gütern;0;1;0;NULL;GGAV 28;;;;
+350_11;Prüfungsfahrten bei technischen Untersuchungen;0;1;0;NULL;GGAV 31;;;;
+350_12;Beförderung durch zivile Unternehmen im Auftrag und unter der Verantwortung der Bundeswehr;0;1;0;NULL;GGAV 32;;;;
+350_13;Beförderung von Heizöl, schwer und Rückstandsheizöl;0;1;0;NULL;M253;;;;
+350_14;Beförderung von explosiven Stoffen und Gegenständen mit Explosivstoff der Streitkräfte, die zur Vernichtung vorgesehen sind;0;1;0;NULL;M266;;;;
+350_15;Kennzeichnung von Flaschen für Gase;0;1;0;NULL;M273;;;;
+350_16;Beförderung von Abfall der mit hämorrhagisches Fieber auslösenden Viren verunreinigt ist;0;1;0;NULL;M281;;;;
+350_17;Beförderung von viskosen flüssigen Stoffen, die ebenfalls umweltgefährdend sind, wenn sie in Gefäßen mit einem Fassungsraum von nicht mehr als 5 Litern befördert werden;0;1;0;NULL;M284;;;;
+350_18;Beförderung von Ausrüstungen mit Lithium-Zellen und –Batterien;0;1;0;NULL;M285;;;;
+350_19;Durchfahrtsbeschränkung in Straßentunnel;0;1;0;NULL;M286;;;;
+350_2;Beförderung von Gasen der Klasse 2, Klassifizierungscode 3F in Tanks ohne Anwendung des § 35 GGVSEB;0;1;0;NULL;GGAV 13;;;;
+350_20;Carriage of elevated temperature substances for the purpose of applying road markings;0;1;0;NULL;M289;;;;
+350_21;Beförderung infizierter Tiere;0;1;0;NULL;M290;;;;
+350_22;Beförderung von beschädigten Lithium-Batterien, die unter den gemäß Sondervorschrift 376 von der zuständigen Behörde genehmigten Bedingungen befördert werden;0;1;0;NULL;M292;;;;
+350_23;Verwendung von verflüssigtem Erdgas (JNG), verdichtetes Erdgase (CNG), und Flüssiggas (LPG) als Treibstoff für Fahrzeuge, die gefährliche Güter befördern;0;1;0;NULL;M293;;;;
+350_24;Beförderung von Prototypen großer Lithium-Ionen-Batterie-Baugruppen (UN 3480);0;1;0;NULL;M294;;;;
+350_25;Beförderung von Lithiumzellen und -batterien aus Produktionsserien von höchstens 100 Zellen und Batterien oder Vorproduktionsprototypen von Zellen und Batterien, sofern diese Prototypen für die Prüfung befördert werden (UN 3090 - 3091 - 3480 -3481);0;1;0;NULL;M295;;;;
+350_26;Beförderung von hybriden Lithiumbatterien, die sowohl primäre Lithium-Metall-Zellen als auch wiederaufladbare Lithium-Ionen-Zellen enthalten;0;1;0;NULL;M296;;;;
+350_27;Beförderung genetisch veränderter lebender Tiere;0;1;0;NULL;M297;;;;
+350_28;Beförderung verschiedener Gase der Klasse 2 in Gasflaschen des US Department of Transportation im Rahmen von Unterabschnitt 1.1.4.2;0;1;0;NULL;M299;;;;
+350_3;Beförderung von bestimmten Stoffen der Klasse 3 in Tanks ohne Anwendung des § 35 GGVSEB;0;1;0;NULL;GGAV 14;;;;
+350_4;Beförderungspapier;0;1;0;NULL;GGAV 18;;;;
+350_5;Beförderung von Stoffen mit polyhalogenierten Dibenzodioxinen und –furanen;0;1;0;NULL;GGAV 19;;;;
+350_6;Beförderung verpackter gefährlicher Abfälle;0;1;0;NULL;GGAV 20;;;;
+350_7;Zusammenpacken von Patronen mit Waffenpflegemitteln;0;1;0;NULL;GGAV 21;;;;
+350_8;Saug-Druck-Tanks;0;1;0;NULL;GGAV 22;;;;
+350_9;Beförderung von ungereinigten leeren Eichnormalen;0;1;0;NULL;GGAV 24;;;;

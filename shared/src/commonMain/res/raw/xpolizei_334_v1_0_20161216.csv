@@ -1,0 +1,16 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+334;Verkehrsunfallkategorie;Verkehrsunfallkategorie;ZIR;V1.0;20161216
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular;DESTATIS-Schlüssel;Schwerste_Unfallfolge;Kategorie
+334_1;Unfall mit Getöteten;0;1;0;NULL;;;;;;1;mindestens ein getöteter Verkehrsteilnehmer;Unfall mit Personenschaden
+334_2;Unfall mit Schwerverletzten;0;1;0;NULL;;;;;;2;mindestens ein schwerverletzter Verkehrsteilnehmer, aber keine Getöteten;Unfall mit Personenschaden
+334_3;Unfall mit Leichtverletzten;0;1;0;NULL;;;;;;3;mindestens ein leichtverletzter Verkehrsteilnehmer, aber keine Getöteten und keine Schwerverletzten;Unfall mit Personenschaden
+334_4;Schwerwiegender Unfall mit Sachschaden im engeren Sinne (Kriterium Fahrbereitschaft);0;1;0;NULL;;;;;;4;Unfallursache ist ein Straftatbestand (auch Einwirkung von Alkohol oder anderen berauschenden Mitteln);Schwerwiegender Unfall mit Sachschaden
+334_5;Sonstiger Sachschadensunfall;0;1;0;NULL;;;;;;5;alle sonstigen Sachschadensunfälle - die im Verwarngeldverfahren abgeschlossen werden können, unabhängig von der Fahrbereitschaft beteiligter Kraftfahrzeuge - mit Straftatbestand (ohne Einwirkung von Alkohol oder anderen berauschenden Mitteln) und alle beteiligten Kfz waren fahrbereit - Ordnungswidrigkeiten, für die die Ahndung mit einem Bußgeld vorgesehen ist und alle beteiligten Kfz fahrbereit waren.;Unfall mit Sachschaden ohne Einfluss von Alkohol oder anderen berauschenden Mitteln
+334_6;Sonstiger Sachschadensunfall unter Einfluss berauschender Mittel;0;1;0;NULL;;;;;;6;Unfallbeteiligter stand unter dem Einfluss von Alkohol oder anderen berauschenden Mitteln und falls Kfz beteiligt waren, waren diese alle noch fahrbereit.;Schwerwiegender Unfall mit Sachschaden

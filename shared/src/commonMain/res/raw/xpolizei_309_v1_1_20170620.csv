@@ -1,0 +1,44 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+309;Europol Mandatsbereich;Europol Mandatsbereich;ZIR;V1.1;20170620
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+309_1;Betrugsdelikte;0;1;0;NULL;;;;;
+309_10;Geldwäschehandlungen;0;1;0;NULL;;;;;
+309_11;Illegaler Handel mit bedrohten Arten;0;1;0;NULL;;;;;
+309_12;Kraftfahrzeugkriminalität;0;1;0;NULL;;;;;
+309_13;Illegaler Handel mit Hormonen und Wachstumsförderern;0;1;0;NULL;;;;;
+309_14;Illegaler Handel mit Organen und menschlichem Gewebe;0;1;0;NULL;;;;;
+309_15;Darstellungen von Kindesmissbrauch;0;1;0;NULL;;;;;
+309_16;Sexueller Missbrauch und sexuelle Ausbeutung von Kindern;0;1;0;NULL;;;;;
+309_17;Schwere Körperverletzung;0;1;0;NULL;;;;;
+309_18;Korruption;0;1;0;NULL;;;;;
+309_19;Illegaler Handel mit Kulturgütern, einschließlich Antiquitäten und Kunstgegenständen;0;1;0;NULL;;;;;
+309_2;Computerkriminalität;0;1;0;NULL;;;;;
+309_20;Menschenhandel;0;1;0;NULL;;;;;
+309_21;Nachahmung und Produktpiraterie;0;1;0;NULL;;;;;
+309_22;Rassismus und Fremdenfeindlichkeit;0;1;0;NULL;;;;;
+309_23;Raub und schwerer Diebstahl;0;1;0;NULL;;;;;
+309_24;Schleuserkriminalität;0;1;0;NULL;;;;;
+309_25;Kriminalität i.Z.m. nuklearen und radioaktiven Substanzen;0;1;0;NULL;;;;;
+309_26;Organisierte Kriminalität (EU-Definition);0;1;0;NULL;;;;;
+309_27;Terrorismus;0;1;0;NULL;;;;;
+309_28;Umweltkriminalität, einschließlich der Meeresverschmutzung durch Schiffe;0;1;0;NULL;;;;;
+309_29;Vorsätzliche Tötung;0;1;0;NULL;;;;;
+309_3;Drogenhandel;0;1;0;NULL;;;;;
+309_30;Illegaler Handel mit Waffen, Munition und Sprengstoffen;0;1;0;NULL;;;;;
+309_31;Anderer sexueller Missbrauch und sexuelle Ausbeutung;0;1;0;NULL;;;;;
+309_32;Gegen die finanziellen Interessen der Union gerichtete Straftaten;0;1;0;NULL;;;;;
+309_33;Insidergeschäfte und Finanzmarktmanipulation;0;1;0;NULL;;;;;
+309_34;Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen;0;1;0;NULL;;;;;
+309_4;Entführung, Freiheitsberaubung und Geiselnahme;0;1;0;NULL;;;;;
+309_5;Erpressung und Schutzgelderpressung;0;1;0;NULL;;;;;
+309_6;Fälschung anderer als geldlicher Zahlungsmittel;0;1;0;NULL;;;;;
+309_7;Fälschung von amtlichen Dokumenten und Handel damit;0;1;0;NULL;;;;;
+309_8;Finanzdelikt;0;1;0;NULL;;;;;
+309_9;Geldfälschung;0;1;0;NULL;;;;;

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test_string2">INSITU2</string>
+
+    <string name="app_name">INSITU</string>
+
+    <string name="start">INSITU</string>
+    <string name="ar_test">AR Test</string>
+    <string name="quick_select">Tatort auswählen:</string>
+    <string name="scan_qr_code">QR Code scannen</string>
+    <string name="close_docu_mode_with_back_button">Nochmaliges Tippen beendet die Tatortbefundaufnahme</string>
+
+    <string name="button_add_address">Adresse hinzufügen</string>
+    <string name="button_add_address_disabled">Adresse wird abgerufen…</string>
+
+    <string name="button_wifi_signals">WLAN Signale</string>
+    <string name="button_bluetooth_signals">Bluetooth Signale</string>
+    <string name="button_scan">Scan</string>
+
+
+    /** Metadata */
+    <string name="base_entity_creation_person">Dokumentierende Person:</string>
+    <string name="base_entity_creation_date">Dokumentationszeitpunkt:</string>
+    <string name="base_entity_last_changing_person">Geändert von:</string>
+    <string name="base_entity_last_change_date">Letzte Änderung:</string>
+
+    /** CrimeSceneFragment */
+    <string name="crime_scene">Tatort</string>
+    <string name="crime_scenes">Tatorte</string>
+    <string name="crime_scene_type">Art der Örtlichkeit:</string>
+    <string name="crime_scene_address">Adresse:</string>
+    <string name="crime_scene_address_state">Staat:</string>
+    <string name="crime_scene_comment">Bemerkung:</string>
+    <string name="crime_scene_name">Bezeichnung:</string>
+    <string name="crime_scene_special_features">Besondere Merkmale:</string>
+    <string name="crime_scene_add">Neuen Tatort anlegen</string>
+    <string name="crime_scene_select">Tatort auswählen</string>
+    <string name="crime_scene_details">Angaben zum Tatort:</string>
+
+    /** CrimeSceneSite */
+    <string name="crime_scene_site">Lage</string>
+    <string name="crime_scene_sites">Lagen</string>
+    <string name="crime_scene_site_type">Art der Örtlichkeit:</string>
+    <string name="crime_scene_site_comment">Bemerkung:</string>
+    <string name="crime_scene_site_name">Bezeichnung:</string>
+    <string name="crime_scene_site_special_features">Besondere Merkmale:</string>
+    <string name="crime_scene_site_add">Neue Lage anlegen</string>
+    <string name="crime_scene_site_representation_context">Repräsentationskontext auswählen:</string>
+    <string name="crime_scene_site_select">Lage auswählen</string>
+    <string name="crime_scene_site_details">Angaben zur Lage:</string>
+
+    /** Address */
+    <string name="address">Adresse</string>
+
+    /** Weather */
+    <string name="weather_details">Angaben zum Wetter:</string>
+    <string name="weather_condition">Bedingungen:</string>
+    <string name="weather_temperature">Temperatur [°C]:</string>
+    <string name="weather_air_pressure">Luftdruck [hPa]:</string>
+    <string name="weather_moisture">Luftfeuchtigkeit [%]:</string>
+
+    /** Radio Signals */
+    <string name="radio_signals_details">Angaben zu Funksignalen:</string>
+    <string name="title_wifi_signals">WLAN Signale</string>
+    <string name="title_bluetooth_devices">Bluetooth Geräte</string>
+
+    /** Person */
+    <string name="person">Person</string>
+    <string name="persons">Personen</string>
+    <string name="person_select">Person auswählen</string>
+
+
+    /** Corpse */
+    <string name="corpse">Leiche</string>
+
+    /** Vehicle */
+    <string name="vehicle">Fahrzeug</string>
+    <string name="vehicle_site_details">Angaben zum Fahrzeug:</string>
+    <string name="vehicles">Fahrzeuge</string>
+    <string name="vehicle_select">Fahrzeug auswählen</string>
+    <string name="address_no">Nr.:</string>
+    <string name="address_plz">PLZ:</string>
+
+
+    /** Tabs */
+    <string name="tab_participants">Beteiligte</string>
+    <string name="tab_crime_scenes">Tatorte</string>
+    <string name="btn_add_criminal_offense">Straftat hinzufügen</string>
+
+    <string name="fragment_investigation">Vorgang</string>
+
+    /** Investigation */
+    <string name="investigations">Vorgänge</string>
+    <string name="investigation">Vorgang</string>
+    <string name="investigation_number">Vorgangsnummer:</string>
+    <string name="investigation_name">Bezeichnung:</string>
+    <string name="investigation_type">Art des Vorgangs:</string>
+    <string name="investigation_add">Neuen Vorgang anlegen</string>
+    <string name="investigation_select">Vorgang auswählen</string>
+    <string name="investigation_comment">Bemerkung:</string>
+    <string name="investigation_keywords">Schlagworte:</string>
+    <string name="investigation_start">Beginnzeitpunkt:</string>
+    <string name="investigation_status">Bearbeitungsstand:</string>
+    <string name="investigation_btn_start">Bearbeitung beginnen</string>
+    <string name="investigation_criminal_offenses">Straftat(en):</string>
+
+    /** CriminalOffense */
+    <string name="criminal_offenses">Straftaten</string>
+    <string name="criminal_offense">Straftat</string>
+    <string name="criminal_offense_summary">Kurzdarstellung:</string>
+    <string name="criminal_offense_type">Delikt:</string>
+    <string name="criminal_offense_attempt">Versuch</string>
+    <string name="criminal_offense_finding_time">Feststellungszeit:</string>
+    <string name="criminal_offense_select">Straftat auswählen</string>
+    <string name="no_investigations_available">Kein Vorgang verfügbar</string>
+    <string name="criminal_offense_details">Angaben zur Straftat:</string>
+
+    /** NavigationBar */
+    <string name="title_nav_home">Start</string>
+    <string name="title_nav_rc_plan">Plan</string>
+    <string name="title_nav_rc_schema">Schema</string>
+    <string name="title_nav_rc_photo">Foto</string>
+    <string name="title_nav_rc_sketch">Skizze</string>
+    <string name="title_nav_rc_map">Karte</string>
+    <string name="title_nav_rc_ar">AR</string>
+    <string name="title_nav_representation_context">Darstellung</string>
+    <string name="title_nav_evidence_list">Doku</string>
+    <string name="title_nav_rc_view">Ansicht</string>
+    <string name="title_nav_annotations">Medien</string>
+    <string name="title_nav_details">Details</string>
+    <string name="label_quick_select_fragment">Schnellauswahl</string>
+    <string name="btn_emergency_securing">Notsicherung</string>
+
+    /** RepCtx Messages */
+    //val rep_ctx_place: (selectedSSO: String, selectedSSOParent: String) -"> String =
+    //{ selectedSSO: String, selectedSSOParent: String -"> "Möchten Sie $selectedSSO jetzt in $selectedSSOParent platzieren?" }
+    //val rep_ctx_na: (selectedSSO: String) -"> String = { "$it ist in diesem Modus nicht platziert!" }
+    <string name="rep_ctx_for_sites_na">Die Darstellung der Lage in Bezug auf den Tatort ist in diesem Modus noch nicht verfügbar!</string>
+    //val rep_ctx_na_with_doc_number: (selectedSSO: String, selectedSSONumber: String) -"> String =
+    //{ selectedSSO: String, selectedSSONumber: String -"> "$selectedSSONumber $selectedSSO ist in diesem Modus nicht platziert!" }
+    //val rep_ctx_photo_missing_photo: (selectedSSO: String, selectedSSOParent: String) -"> String =
+    //{ selectedSSO: String, selectedSSOParent: String -"> "Foto von $selectedSSOParent nötig, um $selectedSSO platzieren zu können!" }
+
+    /** Fragments */
+    /** Home */
+    <string name="button_show_hide_criminal_offenses">Straftaten</string>
+
+    /** Evidence */
+    <string name="fragment_evidencelist">Asservatenliste</string>
+
+    /** SomeObject */
+    <string name="fragment_some_object">Objekt</string>
+    <string name="view_some_object_type">Art des Gegenstands:</string>
+    <string name="view_some_object_name">Bezeichnung:</string>
+    <string name="view_some_object_count">Stückzahl:</string>
+
+    <string name="fragment_weapon">Waffe</string>
+
+    /** Space */
+    <string name="fragment_space">Raum</string>
+    <string name="fragment_space_type">Art:</string>
+    <string name="fragment_space_comment">Bemerkung:</string>
+    <string name="fragment_space_name">Bezeichnung:</string>
+    <string name="fragment_space_evidence_area">Asservierungsbereich</string>
+    <string name="fragment_space_special_features">Besondere Merkmale:</string>
+    <string name="fragment_space_object_add">Neuen Raum anlegen</string>
+
+    /** TraceMarker */
+    <string name="fragment_trace_marker">Spur</string>
+    <string name="fragment_trace_marker_name">Bezeichnung:</string>
+    <string name="fragment_trace_marker_type">Art der Spur:</string>
+    <string name="fragment_trace_marker_comment">Bemerkung:</string>
+    <string name="purpose_of_asservation">Zweck der Asservierung:</string>
+    <string name="fragment_dna_trace_marker">DNA-Spur</string>
+    <string name="fragment_dna_trace_classification">Klassifizieren</string>
+    <string name="dna_classification_rating">DNA Spur Klassifizierung:</string>
+
+    <string name="info_crime_scene">Tatort:</string>
+    <string name="info_documentation_site">Lage:</string>
+
+    /** Prefab */
+    <string name="prefab_type">Vorlage:</string>
+    <string name="viewer_tools_measurement_value">Wert [m]</string>
+    <string name="menu_scan_barcode">Scan Barcode</string>
+    <string name="menu_create_barcode">Erzeuge Barcode</string>
+
+    /** Scaled Drawing */
+    <string name="scaled_drawing_top">Oben</string>
+    <string name="scaled_drawing_bottom">Unten</string>
+    <string name="scaled_drawing_front">Vorne</string>
+    <string name="scaled_drawing_back">Hinten</string>
+    <string name="scaled_drawing_left">Links</string>
+    <string name="scaled_drawing_right">Rechts</string>
+
+
+    <string name="viewer_ar_menu_pose_info">Pose Info ein/aus</string>
+    <string name="viewer_map_menu_gnss">GNSS ein/aus</string>
+    <string name="viewer_map_menu_crime_scene_location">Zentriere Tatort</string>
+
+    /** Annotations */
+    <string name="annotations">Annotationen</string>
+    <string name="default_image_annotation">Kamera</string>
+    <string name="default_audio_annotation">Tonaufnahmen</string>
+    <string name="default_video_annotation">Videos</string>
+    <string name="default_note_annotation">Notizen</string>
+    <string name="default_sketch_annotation">Skizzen</string>
+    <string name="default_point_cloud_annotation">3D Objekte</string>
+    <string name="default_document_annotation">Dokumente</string>
+    <string name="default_report_annotation">Berichte</string>
+
+    /**  */
+    <string name="annotation_name">Bezeichnung:</string>
+    <string name="annotation_creator">Autor: </string>
+    <string name="annotation_count">Anzahl: %s</string>
+    <string name="annotation_creation_date">Erstellungszeitpunkt:</string>
+
+    <string name="kitranscription">Offline KI-Transkription:</string>
+    <string name="transcription">Transkription:</string>
+
+    /** Editor Messages */
+    /** Infos / Warnings */
+    <string name="viewer_editor_message_owner_invalid">Achtung! Das Objekt muss im angezeigten Bereich platziert werden.</string>
+    <string name="viewer_editor_message_delete_only">Achtung! Das Objekt kann nicht bearbeitet werden. Sie können das Objekt Löschen oder Abbrechen.</string>
+
+    /** SimpleSSO */
+    <string name="viewer_editor_message_create_polygonal_object">%s zeichnen oder mit AR vermessen.</string>
+    <string name="viewer_editor_message_place_object">%s durch Tippen platzieren.</string>
+    <string name="viewer_editor_message_edit_object">%s verschieben oder drehen.</string>
+    <string name="viewer_editor_message_edit_polygonal_object">%s verschieben oder drehen. Polygonpunkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_rectangular_object">%s verschieben oder drehen. Eckpunkte per Touch verschieben.</string>
+
+    /** Door */
+    <string name="viewer_editor_message_place_door">Tür durch Tippen auf Wand platzieren.</string>
+    <string name="viewer_editor_message_edit_door">Tür per Touch verschieben.</string>
+
+    /** Space */
+    <string name="viewer_editor_message_create_polygonal_space">Wände einzeln zeichnen oder mit AR vermessen um Raum zu erzeugen.</string>
+    <string name="viewer_editor_message_place_space">Raum durch Tippen platzieren.</string>
+    <string name="viewer_editor_message_edit_space">Raum verschieben oder drehen.</string>
+    <string name="viewer_editor_message_edit_space_wall">Wandposition bearbeiten oder Wandstärke festlegen.</string>
+    <string name="viewer_editor_message_edit_space_walls_1">Wände antippen um sie zu bearbeiten.</string>
+    <string name="viewer_editor_message_edit_space_walls_2">Wände antippen um sie zu bearbeiten. Raum verschieben oder drehen.</string>
+
+    /** TraceMarker */
+    <string name="viewer_editor_message_edit_trace_marker">Spur verschieben.</string>
+
+    /** Wall */
+    <string name="viewer_editor_message_place_wall_start">Wand-Beginn durch Tippen festlegen.</string>
+    <string name="viewer_editor_message_place_wall_end">Wand-Ende durch Tippen festlegen.</string>
+    <string name="viewer_editor_message_edit_wall">Start und Endpunkt der Wand per Touch manipulieren. Wand per Touch verschieben.</string>
+
+    /** Window */
+    <string name="viewer_editor_message_place_window">Fenster durch Tippen auf Wand platzieren.</string>
+    <string name="viewer_editor_message_edit_window">Fenster per Touch verschieben.</string>
+
+    /** Line Measurements */
+    <string name="viewer_editor_message_place_line_measurement_start">Start-Messpunkt durch Tippen festlegen.</string>
+    <string name="viewer_editor_message_place_line_measurement_end">End-Messpunkt durch Tippen festlegen.</string>
+
+    /** PhotoMarker */
+    <string name="viewer_editor_message_edit_photo_marker">Markierung verschieben oder drehen.</string>
+    <string name="viewer_editor_message_edit_polygonal_photo_marker">Markierung verschieben oder drehen. Polygonpunkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_rectangular_photo_marker">Markierung verschieben oder drehen. Eckpunkte per Touch verschieben.</string>
+
+    /** Custom Shapes */
+    <string name="viewer_editor_message_create_custom_shape">Wählen Sie eine Form / Zeichenmethode.</string>
+    <string name="viewer_editor_message_create_line_string_shape">Linenpunkte der Reihe nach durch Tippen platzieren. Bestehende Punkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_create_circle_shape">Tippen um Kreis zu platzieren.</string>
+    <string name="viewer_editor_message_create_free_drawing_shape">Freies Zeichnen mit Stift / Finger.</string>
+    <string name="viewer_editor_message_create_free_drawing_closed_shape">Freiform zeichnen mit Stift / Finger.</string>
+    <string name="viewer_editor_message_create_rectangular_shape">Diagonale Rechteckpunkte durch Tippen platzieren.</string>
+    <string name="viewer_editor_message_create_and_edit_polygonal_shape">Polygonpunkte der Reihe nach durch Tippen platzieren. Bestehende Punkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_create_position_marker_shape">Positions-Marker durch Tippen platzieren.</string>
+    <string name="viewer_editor_message_edit_custom_shape">Form zum Bearbeiten antippen.</string>
+    <string name="viewer_editor_message_edit_line_string_shape">Linenpunkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_circular_shape">Position und Radius per Touch verändern.</string>
+    <string name="viewer_editor_message_edit_free_drawing_shape">Form drehen oder per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_rectangular_shape">Form verschieben oder drehen. Eckpunkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_polygonal_shape">Form verschieben oder drehen. Polygonpunkte per Touch verschieben.</string>
+    <string name="viewer_editor_message_edit_position_marker_shape">Positions-Marker per Touch verschieben.</string>
+
+    <string name="na">n/a</string>
+    <string name="not_yet_implemented">Noch nicht implementiert</string>
+
+    /** RepresentationContext */
+    <string name="representation_context_sketch">Skizze</string>
+    <string name="representation_context_plan">Plan</string>
+    <string name="representation_context_map">Karte</string>
+    <string name="representation_context_ar">AR</string>
+    <string name="representation_context_photo">Foto</string>
+    <string name="representation_context_schema">Schema</string>
+    <string name="representation_context_view">Ansicht</string>
+    <string name="representation_context_change">Ansichtswechsel</string>
+
+    /** Evidence */
+    <string name="evidence_object_number">Asservatennummer:</string>
+    <string name="evidence_area_number">Leitzahl:</string>
+    <string name="evidence_object_number_missing">Asservatennummer fehlt!</string>
+    <string name="evidence_area">Asservierungsbereich</string>
+    <string name="evidence_original_trace_carrier">Originalspurenträger</string>
+    <string name="evidence_object">Asservat</string>
+    <string name="evidence_trace">Spur</string>
+    <string name="evidence_trace_carrier">Spurenträger</string>
+    <string name="evidence_details">Angaben zur Asservierung:</string>
+    <string name="evidence_sovereign_act">Hoheitliche Maßnahme:</string>
+    <string name="evidence_purpose_of_asservation">Zweck der Asservierung:</string>
+    <string name="button_evidence">Asservierung vornehmen</string>
+    <string name="button_evidence_area">Als Asservierungsbereich festlegen</string>
+    <string name="button_evidence_change_area_to_object">In Asservat umwandeln</string>
+
+    /** Person Corpse */
+    <string name="person_details">Angaben zur Person:</string>
+    <string name="person_unknown_person">Unbekannte Person</string>
+    <string name="person_child">Kind</string>
+    <string name="corpse_identification_number">Identifizierungsnummer:</string>
+    <string name="corpse_recovery_number">Bergungsnummer:</string>
+
+    /** Objects */
+    <string name="object_details">Angaben zum Objekt:</string>
+    /** Weapons */
+    <string name="weapon_details">Angaben zur Waffe:</string>
+    /** Traces */
+    <string name="trace_details">Angaben zur Spur:</string>
+
+    /** Spaces */
+    <string name="space_details">Angaben zum Raum:</string>
+    <string name="area_details">Angaben zum Bereich:</string>
+
+    /** Common */
+    <string name="common_designation">Bezeichnung:</string>
+    <string name="common_type">Art:</string>
+    <string name="common_comment">Bemerkung:</string>
+    <string name="common_special_features">Besondere Merkmale:</string>
+    <string name="common_more_info">Weitere Angaben:</string>
+
+    /** Tabs */
+    <string name="tab_details_base">Info</string>
+    <string name="tab_details_evidence">Asservierung</string>
+    <string name="tab_details_specific">Spezifisch</string>
+    <string name="tab_annotation">Medien</string>
+    <string name="tab_environment">Umgebung</string>
+    <string name="tab_location">Lokalisierung</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_documentation_sites">Lagen</string>
+
+    /** Debug */
+    <string name="debug_reset_preferences">Einstellungen zurücksetzen</string>
+    <string name="debug_reset_database">Datenbank zurücksetzen</string>
+    <string name="debug_users">Nutzer</string>
+    <string name="debug_devices">Geräte</string>
+    <string name="fragment_debug">Debug</string>
+
+    /** NOTIFICATION */
+    <string name="notification_channel_name">INSITU</string>
+    <string name="notification_channel_description">INSITU-Benachrichtigungen</string>
+
+    <string name="barcode">Barcode:</string>
+    <string name="button_add_barcode">Barcode hinzufügen</string>
+    <string name="button_add_barcode_disabled">Barcode wird abgerufen…</string>
+
+    /** MISC */
+    <string name="value_automatically_assigned">Automatisch gesetzter Wert</string>
+    <string name="value_must_not_be_empty">Feld darf nicht leer sein!</string>
+    <string name="value_mandatory">Pflichtfeld</string>
+    <string name="value_invalid">Falscher Wert</string>
+    <string name="value_non_catalog">Kein Katalogwert</string>
+    <string name="value_invalid_decimal">Wert muss folgendes Format haben: 1,0</string>
+    <string name="value_must_not_be_negative">Wert muss positiv sein</string>
+    <string name="value_must_not_be_zero">Wert darf nicht 0 sein</string>
+    <string name="value_exceeds_max">Wert ist zu groß (max: %.2f[%s])</string>
+    <string name="value_to_small">Wert ist zu klein (min: %.2f[%s])</string>
+
+    <string name="value_chosen">Ausgewählt</string>
+    <string name="value_set_later">Wert wird nach dem Speichern gesetzt</string>
+
+    /** Button */
+    <string name="button_save">Speichern</string>
+    <string name="button_discard">Verwerfen</string>
+    <string name="button_details">Details</string>
+    <string name="button_select">Auswählen</string>
+    <string name="button_place">Platzieren</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_close">Schließen</string>
+    <string name="button_more">Weitere Informationen</string>
+    <string name="button_less">Weniger Informationen</string>
+    <string name="button_beginning">Anfang</string>
+    <string name="button_back">Zurück</string>
+    <string name="button_next">Weiter</string>
+    <string name="button_finish">Fertig</string>
+    <string name="button_summary">Zusammenfassung</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nein</string>
+
+    /** Content Description */
+    <string name="cd_logo">INSITU Logo</string>
+    <string name="cd_user_image">Benutzerfoto</string>
+    <string name="cd_btn_settings">Gehe zu Einstellungen</string>
+    <string name="cd_btn_logout">Ausloggen</string>
+
+    /** Toast / Snackbar Messages*/
+    <string name="message_empty_fields">Folgende Felder dürfen nicht leer sein: \n</string>
+    <string name="message_invalid_fields">Falscher Wert in: \n</string>
+    <string name="message_wrong_value">Falscher Wert: \n</string>
+    <string name="message_no_changes">Keine Änderungen vorgenommen</string>
+    <string name="message_remote_changes">Der akutelle Datensatz wurde von einer anderen Stelle geändert!</string>
+    <string name="message_automatically_assigned">Wert automatisch vom System gesetzt</string>
+    <string name="message_select_crime_scene">Wählen Sie zunächst einen Tatort aus</string>
+    <string name="message_not_yet_implemented">Noch nicht implementiert</string>
+    <string name="message_temp_deactivated">Aktuell nicht verfügbar</string>
+    <string name="message_user_is_inactive">Nutzer ist inaktiv!</string>
+    <string name="message_annotations_not_yet_available">Annotationen sind nach dem Speichern verfügbar!</string>
+    <string name="message_documentation_sites_not_yet_available">Tatortlagen sind nach dem Speichern verfügbar!</string>
+    <string name="message_list_not_yet_available">Liste ist nach dem Speichern verfügbar!</string>
+    <string name="message_chat_not_yet_available">Chat ist nach dem Speichern verfügbar!</string>
+    <string name="message_insufficient_rights">Notwendige Rechte fehlen!</string>
+    <string name="message_not_possible_while_in_edit_mode">Funktion steht im Bearbeitungsmodus nicht zur Verfügung</string>
+    <string name="message_image_in_use_can_not_be_deleted">Foto wird verwendet und kann nicht gelöscht werden</string>
+    <string name="message_not_possible_while_audio_playing">Funktion steht während Audiowiedergabe nicht zur Verfügung</string>
+    <string name="message_no_object_selected">Es ist kein Objekt ausgewählt</string>
+    <string name="message_thumbnail_set">Thumbnail gesetzt</string>
+    <string name="message_thumbnail_removed">Thumbnail entfernt</string>
+
+
+    /** USB log Menu */
+    <string name="usb_log_menu_refresh">Aktualisieren</string>
+    <string name="usb_log_menu_clear">Löschen</string>
+
+    /** Edit Menu */
+    <string name="edit_menu_save">Speichern</string>
+    <string name="edit_menu_delete">Löschen</string>
+    <string name="edit_menu_delete_rep_ctx">Repräsentationskontext Löschen</string>
+    <string name="edit_menu_set_thumbnail">Thumbnail setzen</string>
+
+    /** Core Menu */
+    <string name="main_menu_debug">DEBUG</string>
+    <string name="main_menu_logout">Logout</string>
+    <string name="main_menu_lock">Sperren</string>
+    <string name="main_menu_settings">Einstellungen</string>
+    <string name="main_menu_help">Hilfe</string>
+    <string name="menu_edit">Bearbeiten</string>
+    <string name="menu_filter">Filter</string>
+
+    /** Dialogs  */
+    <string name="dialog_unsafed_changes">Änderungen vewerfen?</string>
+    <string name="dialog_investigation_list">Liste der Vorgänge</string>
+    <string name="no_import_data">Keine Daten verfügbar!</string>
+    <string name="export_successful">Export erfolgreich!</string>
+    <string name="import_successful">Import erfolgreich!</string>
+
+    /** Preferences */
+    <string name="preferences_cat_sync">Sync</string>
+    <string name="preferences_sync">Synchronisation</string>
+    <string name="preferences_sync_on">Aktiv</string>
+    <string name="preferences_sync_off">Inaktiv</string>
+    <string name="preferences_offline_login_cache">Offline Login-Cache</string>
+    <string name="preferences_cache_valid_duration">Gültigkeitsdauer [Tage]</string>
+    <string name="preferences_offline_login_cache_on">Letzter online Login:</string>
+    <string name="preferences_offline_login_cache_off">Inaktiv</string>
+    <string name="preferences_encryption">Dateiverschlüsselung</string>
+    <string name="preferences_encryption_on">Aktiv</string>
+    <string name="preferences_encryption_off">Inaktiv</string>
+    <string name="preferences_cloud_on">Cloud-Verbindung</string>
+    <string name="preferences_cloud_off">Ad-hoc-Verbindung</string>
+    <string name="preferences_clear_biometric_login">Biometrische Authentifizierung entfernen</string>
+    <string name="preferences_biometric_login">Biometrische Authentifizierung</string>
+    <string name="preferences_biometric_login_enabled">Biometriedaten nicht registriert</string>
+    <string name="preferences_biometric_login_enabled_initialized">Aktiv</string>
+    <string name="preferences_biometric_login_disabled">Deaktiviert</string>
+    <string name="preferences_sync_on_summary">Online</string>
+    <string name="preferences_sync_off_summary">Das System ist offline</string>
+    <string name="preferences_sync_cloud_summary">Daten werden mit der INSITU-Cloud synchronisiert</string>
+    <string name="preferences_sync_p2p_summary">Daten werden mit Geräten in Reichweite direkt synchronisiert</string>
+    <string name="preferences_build_version">Build Version</string>
+    <string name="preferences_go_to_biometric_settings">Biometrische Authentifizierung einrichten</string>
+    <string name="preferences_cat_encryption">Sicherheit</string>
+    <string name="preferences_auto_lock">Automatische Sperre</string>
+    <string name="preferences_auto_lock_title">Sperrzeitpunkt festlegen</string>
+    //val preferences_auto_lock_entries = arrayOf("Deaktiviert", "Verlassen der App", "5 Minuten Inaktivität", "10 Minuten Inaktivität")
+    //val preferences_auto_lock_entryvalues = arrayOf(-1, 0, 5, 10)
+    <string name="preferences_cat_about">Über</string>
+    <string name="preferences_info">Informationen über diese App</string>
+    <string name="preferences_licenses">Open Source Lizenzen</string>
+    <string name="preferences_cat_misc">Verschiedenes</string>
+    <string name="preferences_theme">Design</string>
+    <string name="preferences_theme_title">Design auswählen</string>
+    //val preferences_theme_entries = arrayOf("Systemeinstellung", "Hell", "Dunkel")
+    //val preferences_theme_entryvalues = arrayOf("default", "light", "dark")
+
+    /** AR Preferences */
+    <string name="preferences_cat_ar">Augmented Reality</string>
+    <string name="preferences_ar_settings">AR-Einstellungen</string>
+    <string name="preferences_ar_default_measure_mode">Messmodus</string>
+    <string name="preferences_ar_default_measure_mode_title">Messmodus auswählen</string>
+    //val preferences_ar_default_measure_mode_entries = arrayOf("Ebene", "Tippen")
+    //val preferences_ar_default_measure_mode_entryvalues = arrayOf("PLANE", "TAP")
+
+    /** Map Preferences */
+    <string name="preferences_cat_map">Geodaten</string>
+    <string name="preferences_map_settings">Geodaten</string>
+    <string name="preferences_map_offline">Offline-Karte</string>
+
+    /** Map Preferences */
+    <string name="map_view_no_gnss_location">Noch kein GNSS Signal gefunden!</string>
+
+    /** External devices Preferences */
+    <string name="preferences_cat_ed">Externe Geräte</string>
+    <string name="preferences_ed_settings">Externe Geräte Einstellungen</string>
+    <string name="preferences_ed_usb_log">USB-Log</string>
+    <string name="preferences_usb_log_title">USB-Log</string>
+
+    /** Admin Preferences */
+    <string name="preferences_admin_settings">Admin-Einstellungen</string>
+    <string name="preferences_cat_admin_media">Dateien</string>
+    <string name="preferences_cat_admin_cache">Caches</string>
+    <string name="preferences_cat_admin_database">Datenbank</string>
+    <string name="preferences_cat_export_import">Export / Import</string>
+    <string name="preferences_cat_admin_settings">Einstellungen</string>
+    <string name="preferences_admin_reset_settings">Einstellungen zurücksetzen</string>
+    <string name="preferences_delete_database">Datenbank löschen</string>
+    <string name="preferences_delete_login_credentials_cache">Biometrischen Login-Cache löschen</string>
+    <string name="preferences_delete_offline_login_cache">Offline Login-Cache löschen</string>
+    <string name="preferences_delete_map_cache">Karten-Cache löschen</string>
+    <string name="preferences_delete_data_cache">Daten-Cache löschen</string>
+    <string name="preferences_export_investigation_data">Vorgangsdaten exportieren</string>
+    <string name="preferences_import_investigation_data">Vorgangsdaten importieren</string>
+    <string name="preferences_delete_annotations">Alle lokalen Mediendaten löschen</string>
+    <string name="btn_documentation_mode">Tatortbefundaufnahme</string>
+    <string name="documentation_mode_change_site">Lage wechseln</string>
+
+
+    <string name="evidence_leading_number">Leitzahl:</string>
+    <string name="evidence_securing_person">Sichernde Person:</string>
+    <string name="evidence_securing_method">Die Sicherung erfolgt:</string>
+    <string name="evidence_securing_method_done">Die Sicherung erfolgte:</string>
+    <string name="evidence_is_suspected_trace_carrier">Potentieller Spurenträger</string>
+
+
+    /** Units */
+    <string name="unit">Einheit:</string>
+    <string name="unit_mm">mm</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_dm">dm</string>
+    <string name="unit_m">m</string>
+    <string name="unit_km">km</string>
+    <string name="unit_m2">m²</string>
+    <string name="unit_m3">m³</string>
+    <string name="message_content_description_not_available">Icon</string>
+
+
+    <string name="message_barcode_error_reading">Barcode kann nicht gelesen werden</string>
+    <string name="message_barcode_unknown_format">Barcodeformat nicht erkannt</string>
+    <string name="message_barcode_object_not_found">Objekt in lokaler Datenbank nicht gefunden</string>
+    <string name="message_barcode_site_not_found">Lage in lokaler Datenbank nicht gefunden</string>
+    <string name="message_barcode_crime_scene_not_found">Tatort in lokaler Datenbank nicht gefunden</string>
+    <string name="message_barcode_investigation_not_found">Vorgang in lokaler Datenbank nicht gefunden</string>
+
+</resources>

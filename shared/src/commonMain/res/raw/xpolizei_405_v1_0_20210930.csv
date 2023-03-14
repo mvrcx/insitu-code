@@ -1,0 +1,19 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+405;Sicherungsart;Sicherungsart;ZIR;V1.0;20210930
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Gültig_ab;Gültig_bis;Zugangsvokabular
+405_1;Abformung;NULL;1;0;NULL;;;;;
+405_2;Abrieb;NULL;1;0;NULL;;;;;
+405_3;chemische Behandlung;NULL;1;0;NULL;;;;;
+405_4;Datensicherung;NULL;1;0;NULL;;Es handelt sich um die Sicherung der ursprünglichen digitalen Daten. D. h. das Medium, auf das die Daten vom Spurenträger kopiert wurden. Daten sind ganze Abbilder (Images) von Datenträgern als auch einzelne Dateien (z. B. Videoaufzeichnungen von Überwachungskameras oder Bilder einer Digitalkamera oder eines Mobiltelefons).;;;
+405_5;Adhäsionsverfahren;NULL;1;0;NULL;;;;;
+405_6;Folienabzug;NULL;1;0;NULL;;;;;
+405_7;fotografisch;NULL;1;0;NULL;;Es handelt sich um die Fotografie einer Spur. Das Foto an sich kann als analoger Abzug (nicht mehr aktuell) oder digitale Datei vorliegen. Wird das Foto als digitale Datei von einem Mitteiler zur Verfügung gestellt, wird statt „fotografisch“ die Sicherungsart „Datensicherung“ verwendet. Wird eine im Original asservierte Urkunde abfotografiert oder gescannt, so ist die Sicherungsart des entstehenden Asservats „fotografisch“.;;;
+405_8;im Original;NULL;1;0;NULL;;Es handelt sich um den Originalgegenstand, z. B. die gefälschte Banknote, Urkunde oder auch die aus dem Fahrzeug herausgeschnittene FIN eines Fahrzeugs.;;;
+405_9;Kopie / Duplikat;NULL;1;0;NULL;;Es handelt sich um eine von der Ermittlungsbehörde gefertigte Kopie eines Asservats. D. h. wird ein Asservat mit Sicherungsart „Datensicherung“ kopiert, um an eine Auswertestelle gegeben zu werden, ist die Sicherungsart der Kopie „Kopie / Duplikat“. Eine Fotokopie oder Scan eines fotografisch erstellten Asservats ist eine „Kopie / Duplikat“.;;;

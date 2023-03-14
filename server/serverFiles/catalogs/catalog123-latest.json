@@ -1,0 +1,16 @@
+{
+  "id": 3634,
+  "katalogStatus": "FREIGEGEBEN",
+  "schluessel": "123",
+  "gueltigAb": 1627992656000,
+  "name": "Art des Vorgangs",
+  "bezeichnung": "Art des Vorgangs",
+  "version": "V1.2",
+  "externalSource": "ZIR",
+  "anwendung": {
+    "id": 441,
+    "name": "XPOLIZEI",
+    "bezeichnung": "XPolizei",
+    "externalPk": null
+  }
+}

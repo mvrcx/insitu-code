@@ -1,0 +1,20 @@
+# Anwendung
+name;bezeichnung
+XPOLIZEI;XPolizei
+
+# Katalog
+schluessel;name;bezeichnung;herkunft;version;gueltigAb
+254;Familienstand;Familienstand;ZIR;V1.1;20210803
+
+# Katalogwerte
+schluessel;bezeichnung;anzeigeReihenfolge;auswahlerlaubt;loeschstatus;extId;Abkürzung;Beschreibung;Zugangsvokabular
+254_1;aufgehobene Lebenspartnerschaft;0;1;0;NULL;LA;;
+254_10;nicht bekannt;0;1;0;NULL;NB;;
+254_2;durch Tod aufgelöste Lebenspartnerschaft;0;1;0;NULL;LV;;
+254_3;durch Todeserklärung aufgelöste Lebenspartnerschaft;0;1;0;NULL;LE;;
+254_4;Ehe aufgehoben;0;1;0;NULL;EA;;
+254_5;geschieden;0;1;0;NULL;GS;;
+254_6;in eingetragener Lebenspartnerschaft;0;1;0;NULL;LP;;
+254_7;ledig;0;1;0;NULL;LD;;
+254_8;verheiratet;0;1;0;NULL;VH;;
+254_9;verwitwet;0;1;0;NULL;VW;;
