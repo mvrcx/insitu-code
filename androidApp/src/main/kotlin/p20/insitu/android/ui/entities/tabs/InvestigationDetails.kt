@@ -104,10 +104,32 @@ fun InvestigationDetails(
                 Text(text = TextFieldStrings.typeOfProcess(language.value))
                 //Text(text = typeOfProcess.value.toString())
 
+                // Type of process Dropdown
+                if (editMode.value) {
+                    DropdownField.CatalogList(
+                        label = TextFieldStrings.typeOfProcess(language.value),
+                        value = typeOfProcess.value,
+                        list = catalogTypeOfProcess.value,
+                        enabled = editMode.value,
+                        language = language.value
+                    ) {
+                        viewModel.setTypeOfProcess(it as? CatalogCodeFixed<KatalogCode123>)
+                    }
+                } else {
+                    TextField(
+                        value = typeOfProcess.value.toString() ?: "",
+                        enabled = false,
+                        onValueChange = {},
+                        label = { Text.Label(text = TextFieldStrings.typeOfProcess(language.value)) },
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                }
+
+
                 // ExposedDropdownMenu
                 /* MISSING FEATURE
                 - Art des Vorgangs muss nach dem Speichern stehen bleiben
-                */
+
                 val options = listOf("Vorgang zur Gefahrenabwehr", "Vorgang zur Strafverfolgung", "Sammelvorgang", "Registervorgang", "Vorgang zur OWi-Verfolgung")
                 var expanded by remember { mutableStateOf(false) }
                 var selectedOptionText by remember { mutableStateOf(options[0]) }
@@ -152,7 +174,7 @@ fun InvestigationDetails(
                             }
                         }
                     }
-                }
+                }*/
 
 
 
