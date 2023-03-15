@@ -58,7 +58,7 @@ fun Help(
                 if (Random.nextBoolean()) {
                     Text("DON'T PANIC")
                 } else {
-                    Text("42")
+                    Text("422")
                 }
 
                 //Text(text = "Hallo ${sessionHandler.userInfo.collectAsState().value?.firstName}! Hier wird dir geholfen")

@@ -102,7 +102,7 @@ fun InvestigationDetails(
 
                 // Type of process
                 Text(text = TextFieldStrings.typeOfProcess(language.value))
-                Text(text = typeOfProcess.value.toString())
+                //Text(text = typeOfProcess.value.toString())
 
                 // ExposedDropdownMenu
                 /* MISSING FEATURE
