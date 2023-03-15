@@ -105,6 +105,9 @@ fun InvestigationDetails(
                 Text(text = typeOfProcess.value.toString())
 
                 // ExposedDropdownMenu
+                /* MISSING FEATURE
+                - Art des Vorgangs muss nach dem Speichern stehen bleiben
+                */
                 val options = listOf("Vorgang zur Gefahrenabwehr", "Vorgang zur Strafverfolgung", "Sammelvorgang", "Registervorgang", "Vorgang zur OWi-Verfolgung")
                 var expanded by remember { mutableStateOf(false) }
                 var selectedOptionText by remember { mutableStateOf(options[0]) }
