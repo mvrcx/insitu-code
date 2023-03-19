@@ -17,6 +17,28 @@ import p20.insitu.resources.strings.IconContentDescriptions
 object MenuButtons {
 
     @Composable
+    fun Delete(
+        language: Language,
+        onClickAction: () -> Unit
+    ) {
+        TextButton(
+            onClick = { onClickAction() }
+        ) {
+            Icon(
+                imageVector = Icons.Filled.Logout,
+                contentDescription = IconContentDescriptions.logout(language),
+                modifier = Modifier.padding(end = 8.dp),
+                tint = MaterialTheme.colors.onSurface
+            )
+            Text(
+                text = ButtonStrings.exitDocuMode(language),
+                style = TextStyle(color = MaterialTheme.colors.onSurface)
+            )
+            Spacer(modifier = Modifier.fillMaxWidth())
+        }
+    }
+
+    @Composable
     fun Settings(
         language: Language,
         onClickAction: () -> Unit

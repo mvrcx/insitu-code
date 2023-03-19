@@ -41,6 +41,24 @@ fun TopBarDropDownMenu(
         )
     }
 
+    // Manage delete dialog visibility
+    /*
+    val showDeleteDialog = uiStateHandler.showDelete.collectAsState(false)
+    //val showDeleteDialog = uiStateHandler.showLeaveDocuModeDialog.collectAsState(false)
+    if (showDeleteDialog.value) {
+        AlertDialogs.Delete(
+            onDismiss = {
+                uiStateHandler.showDeleteDialog(false)
+            },
+            onConfirm = {
+                uiStateHandler.deactivateDocuMode()
+                navigationState.value = NavDestination.Start.popUpTo(inclusive = false)
+            },
+            language = language.value
+        )
+    }
+    */
+
     Box {
         IconButtons.Menu(language.value) {
             expanded.value = true

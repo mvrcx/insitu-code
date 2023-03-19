@@ -28,6 +28,50 @@ import p20.insitu.android.util.drawableResource
 object AlertDialogs {
 
     @Composable
+    fun Delete(
+        onDismiss: () -> Unit,
+        onConfirm: () -> Unit,
+        language: Language
+    ) {
+        AlertDialog(
+            properties = DialogProperties(
+                dismissOnClickOutside = false,
+                dismissOnBackPress = true,
+            ),
+            onDismissRequest = { onDismiss() },
+            title = {
+                Text(
+                    //text = TitleStrings.leaveDocuMode(language),
+                    text = TitleStrings.unsavedChanges(language),
+                    style = MaterialTheme.typography.h5
+                )
+            },
+            text = {
+                Text(
+                    text = "Sind sie sicher?",
+                    //text = MessageStrings.leaveDocuMode(language),
+                    style = MaterialTheme.typography.body1
+                )
+            },
+            buttons = {
+                Column(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .padding(all = 8.dp),
+                    horizontalAlignment = Alignment.End
+                ) {
+                    Button(onClick = onConfirm) {
+                        Text(ButtonStrings.leaveDocuMode(language))
+                    }
+                    Button(onClick = onDismiss) {
+                        Text(ButtonStrings.cancel(language))
+                    }
+                }
+            }
+        )
+    }
+
+    @Composable
     fun PendingChanges(
         onDismiss: () -> Unit,
         onConfirm: () -> Unit,
