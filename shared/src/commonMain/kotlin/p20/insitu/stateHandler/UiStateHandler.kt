@@ -86,15 +86,6 @@ class UiStateHandler(
         _pendingChanges.value = value
     }
 
-    // Delete Dialog
-    private val _showDeleteDialog = MutableStateFlow<Boolean>(
-        false
-    )
-    val showDelete: StateFlow<Boolean> = _showDeleteDialog
-    fun showDeleteDialog(value: Boolean) {
-        _showDeleteDialog.value = value
-    }
-
     private val _remotePendingChanges = MutableStateFlow<Boolean>(
         false
     )
@@ -137,6 +128,15 @@ class UiStateHandler(
     val showPendingChangesDialog: StateFlow<Boolean> = _showPendingChangesDialog
     fun showPendingChangesDialog(value: Boolean) {
         _showPendingChangesDialog.value = value
+    }
+
+    // Delete Dialog
+    private val _showDeleteDialog = MutableStateFlow<Boolean>(
+        false
+    )
+    val showDeleteDialog: StateFlow<Boolean> = _showDeleteDialog
+    fun showDeleteDialog(value: Boolean) {
+        _showDeleteDialog.value = value
     }
 
     private val _showLeaveDocuModeDialog = MutableStateFlow<Boolean>(

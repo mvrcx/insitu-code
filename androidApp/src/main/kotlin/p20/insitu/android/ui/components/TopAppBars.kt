@@ -167,13 +167,15 @@ object TopAppBars {
             val newEntity = uiStateHandler.newEntity.collectAsState()
             val missingMandatoryValues = uiStateHandler.missingMandatoryValues.collectAsState()
             val docuObject = sessionHandler.docuHandler.docuObject.collectAsState()
+            val onDeleteBtnClick: () -> Unit
 
             TopAppBar(
                 backgroundColor = MaterialTheme.colors.primaryVariant,
                 contentColor = MaterialTheme.colors.onPrimary,
             ) {
                 // Manage visibility of pending changes dialog
-                val showPendingChangesDialog = uiStateHandler.showPendingChangesDialog.collectAsState(false)
+                val showPendingChangesDialog =
+                    uiStateHandler.showPendingChangesDialog.collectAsState(false)
                 if (showPendingChangesDialog.value) {
                     AlertDialogs.PendingChanges(
                         onDismiss = {
@@ -182,6 +184,22 @@ object TopAppBars {
                         onConfirm = {
                             uiStateHandler.deactivateEditMode()
                             viewModel.discardChangesAndResetEntity()
+                        },
+                        language = language.value
+                    )
+                }
+
+                // Manage visibility delete dialog
+                val showDeleteDialog =
+                    uiStateHandler.showDeleteDialog.collectAsState(false)
+                if (showDeleteDialog.value) {
+                    AlertDialogs.Delete(
+                        onDismiss = {
+                            uiStateHandler.showDeleteDialog(false)
+                        },
+                        onConfirm = {
+                            uiStateHandler.deactivateEditMode()
+                            viewModel.delete()
                         },
                         language = language.value
                     )
@@ -205,14 +223,16 @@ object TopAppBars {
                     // Right buttons
                     if (!newEntity.value) {
                         IconButtons.Delete(language.value) {
-                            viewModel.delete()
+                            //uiStateHandler.showPendingChangesDialog(true)
+                            uiStateHandler.showDeleteDialog(true)
+                            //viewModel.delete()
                         }
-                    }
-                    IconButtons.Save(
-                        language = language.value,
-                        enabled = !missingMandatoryValues.value
-                    ) {
-                        viewModel.save()
+                        IconButtons.Save(
+                            language = language.value,
+                            enabled = !missingMandatoryValues.value
+                        ) {
+                            viewModel.save()
+                        }
                     }
                 }
             }

@@ -35,7 +35,7 @@ object AlertDialogs {
     ) {
         AlertDialog(
             properties = DialogProperties(
-                dismissOnClickOutside = false,
+                dismissOnClickOutside = true,
                 dismissOnBackPress = true,
             ),
             onDismissRequest = { onDismiss() },
@@ -61,7 +61,7 @@ object AlertDialogs {
                     horizontalAlignment = Alignment.End
                 ) {
                     Button(onClick = onConfirm) {
-                        Text(ButtonStrings.leaveDocuMode(language))
+                        Text(ButtonStrings.delete(language))
                     }
                     Button(onClick = onDismiss) {
                         Text(ButtonStrings.cancel(language))
