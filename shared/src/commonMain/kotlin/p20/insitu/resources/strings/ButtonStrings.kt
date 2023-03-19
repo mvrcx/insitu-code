@@ -5,6 +5,16 @@ import p20.insitu.resources.Language
 
 object ButtonStrings {
 
+    private const val delete_DE = "Löschen"
+    private const val delete_EN = "Delete"
+
+    fun delete(language: Language): String {
+        return when (language) {
+            Language.DE -> delete_DE
+            Language.EN -> delete_EN
+        }
+    }
+
     private const val add_address_DE = "Adresse hinzufügen"
     private const val add_address_EN = "Add address"
     fun addAddress(language: Language): String {

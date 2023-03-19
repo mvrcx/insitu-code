@@ -26,12 +26,12 @@ object MenuButtons {
         ) {
             Icon(
                 imageVector = Icons.Filled.Logout,
-                contentDescription = IconContentDescriptions.logout(language),
+                contentDescription = IconContentDescriptions.delete(language),
                 modifier = Modifier.padding(end = 8.dp),
                 tint = MaterialTheme.colors.onSurface
             )
             Text(
-                text = ButtonStrings.exitDocuMode(language),
+                text = ButtonStrings.delete(language),
                 style = TextStyle(color = MaterialTheme.colors.onSurface)
             )
             Spacer(modifier = Modifier.fillMaxWidth())
