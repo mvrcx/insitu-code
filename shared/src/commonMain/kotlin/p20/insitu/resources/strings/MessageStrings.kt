@@ -4,6 +4,16 @@ import p20.insitu.resources.Language
 
 object MessageStrings {
 
+    private const val delete_dialog_DE = "Ausgewaehlter Eintrag wird geloescht. Sind Sie sicher?"
+    private const val delete_dialog_EN = "Deleting selected entry. Are you sure?"
+
+    fun delete(language: Language): String {
+        return when (language) {
+            Language.DE -> delete_dialog_DE
+            Language.EN -> delete_dialog_EN
+        }
+    }
+
     private const val discard_changes_dialog_DE =
         "Nicht gespeicherte Änderungern gehen verloren. Möchten Sie fortfahren?"
     private const val discard_changes_dialog_EN =

@@ -14,6 +14,16 @@ object TitleStrings {
         }
     }
 
+    private const val delete_DE = "Loeschen?"
+    private const val delete_EN = "Delete?"
+
+    fun delete(language: Language):String {
+        return when (language) {
+            Language.DE -> delete_DE
+            Language.EN -> delete_EN
+        }
+    }
+
     private const val active_crime_scene_DE = "Aktiver Tatort"
     private const val active_crime_scene_EN = "Active crime scene"
     fun activeCrimeScene(language: Language): String {

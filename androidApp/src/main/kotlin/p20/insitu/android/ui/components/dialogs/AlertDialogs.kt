@@ -41,15 +41,13 @@ object AlertDialogs {
             onDismissRequest = { onDismiss() },
             title = {
                 Text(
-                    //text = TitleStrings.leaveDocuMode(language),
-                    text = TitleStrings.unsavedChanges(language),
+                    text = TitleStrings.delete(language),
                     style = MaterialTheme.typography.h5
                 )
             },
             text = {
                 Text(
-                    text = "Sind sie sicher?",
-                    //text = MessageStrings.leaveDocuMode(language),
+                    text = MessageStrings.delete(language),
                     style = MaterialTheme.typography.body1
                 )
             },
