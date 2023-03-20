@@ -272,9 +272,6 @@ object IconButtons {
         modifier: Modifier = Modifier,
         onClickAction: () -> Unit
     ) {
-        val scaffoldState = rememberScaffoldState()
-        val scope = rememberCoroutineScope()
-        //val context = LocalContext.current
         IconButton(
             onClick = {
                 onClickAction()

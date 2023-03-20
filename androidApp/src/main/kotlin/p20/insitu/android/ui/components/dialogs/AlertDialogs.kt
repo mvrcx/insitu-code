@@ -11,8 +11,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.DialogProperties
 import p20.insitu.android.BuildConfig
-import p20.insitu.android.ui.components.DeleteSnackBar
-
+import p20.insitu.android.ui.components.SnackBars
 import p20.insitu.android.ui.components.dialogs.AlertDialogs.InsituInfo
 import p20.insitu.db.settings.SettingValueState
 import p20.insitu.resources.Language
@@ -57,8 +56,8 @@ object AlertDialogs {
                         .padding(all = 8.dp),
                     horizontalAlignment = Alignment.End
                 ) {
+                    //SnackBars.DeleteSnackBar(language = language)
                     Button(onClick = onConfirm) {
-                        //CustomSnackBar()
                         Text(ButtonStrings.delete(language))
 
                         // TODO Toast wird aktuell beim druecken des Icons "Loeschen" angezeigt.
@@ -69,10 +68,10 @@ object AlertDialogs {
 
                     //CustomSnackBar()
                     Button(onClick = onDismiss) {
-                        DeleteSnackBar(language)
+                        //DeleteSnackBar(language)
                         Text(ButtonStrings.cancel(language))
                     }
-                    DeleteSnackBar(language)
+                    SnackBars.DeleteSnackBar(language = language)
                 }
             }
         )
