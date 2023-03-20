@@ -1,9 +1,6 @@
 package p20.insitu.android.ui.components.dialogs
 
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.material.*
 import androidx.compose.runtime.*
@@ -14,6 +11,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.DialogProperties
 import p20.insitu.android.BuildConfig
+import p20.insitu.android.ui.components.DeleteSnackBar
+
 import p20.insitu.android.ui.components.dialogs.AlertDialogs.InsituInfo
 import p20.insitu.db.settings.SettingValueState
 import p20.insitu.resources.Language
@@ -31,7 +30,7 @@ object AlertDialogs {
     fun Delete(
         onDismiss: () -> Unit,
         onConfirm: () -> Unit,
-        language: Language
+        language: Language,
     ) {
         AlertDialog(
             properties = DialogProperties(
@@ -59,16 +58,25 @@ object AlertDialogs {
                     horizontalAlignment = Alignment.End
                 ) {
                     Button(onClick = onConfirm) {
+                        //CustomSnackBar()
                         Text(ButtonStrings.delete(language))
+
+                        // TODO Toast wird aktuell beim druecken des Icons "Loeschen" angezeigt.
+                        //  Sollte angezeigt werden, nachdem man im DeleteDialog auf "Loeschen"
+                        //  gedrueckt hat.
+                        //Toast.makeText(LocalContext.current, "Toast", Toast.LENGTH_SHORT).show()
                     }
+
+                    //CustomSnackBar()
                     Button(onClick = onDismiss) {
+                        DeleteSnackBar(language)
                         Text(ButtonStrings.cancel(language))
                     }
+                    DeleteSnackBar(language)
                 }
             }
         )
     }
-
     @Composable
     fun PendingChanges(
         onDismiss: () -> Unit,

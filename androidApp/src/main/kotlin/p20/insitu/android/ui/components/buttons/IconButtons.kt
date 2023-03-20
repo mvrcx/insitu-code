@@ -1,14 +1,14 @@
 package p20.insitu.android.ui.components.buttons
 
+import android.widget.Toast
 import androidx.compose.foundation.layout.size
-import androidx.compose.material.Icon
-import androidx.compose.material.IconButton
-import androidx.compose.material.MaterialTheme
+import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import kotlinx.coroutines.launch
 import p20.insitu.com.authApi.AuthService
 import p20.insitu.resources.Language
@@ -272,16 +272,24 @@ object IconButtons {
         modifier: Modifier = Modifier,
         onClickAction: () -> Unit
     ) {
+        val scaffoldState = rememberScaffoldState()
+        val scope = rememberCoroutineScope()
+        //val context = LocalContext.current
         IconButton(
-            onClick = { onClickAction() },
+            onClick = {
+                onClickAction()
+                },
             modifier = modifier
         ) {
             Icon(
                 imageVector = Icons.Filled.Delete,
                 contentDescription = IconContentDescriptions.delete(language)
             )
+            //Text("Show Toast")
         }
     }
+
+
 
     @Composable
     fun QrCodeScanner(

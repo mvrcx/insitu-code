@@ -2,22 +2,18 @@ package p20.insitu.android.ui.components
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.MutableState
-import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextOverflow
 import p20.insitu.android.ui.components.buttons.IconButtons
 import p20.insitu.android.ui.components.dialogs.AlertDialogs
-import p20.insitu.model.entities.DocNumberObject
 import p20.insitu.nav.NavAction
 import p20.insitu.nav.NavDestination
 import p20.insitu.resources.strings.TitleStrings
 import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.viewmodels.entities.EntityViewModel
 import p20.insitu.android.ui.components.dimen.FontSize
-import p20.insitu.android.ui.components.dimen.Padding
 import p20.insitu.stateHandler.SessionHandler
 
 object TopAppBars {
@@ -167,7 +163,6 @@ object TopAppBars {
             val newEntity = uiStateHandler.newEntity.collectAsState()
             val missingMandatoryValues = uiStateHandler.missingMandatoryValues.collectAsState()
             val docuObject = sessionHandler.docuHandler.docuObject.collectAsState()
-            val onDeleteBtnClick: () -> Unit
 
             TopAppBar(
                 backgroundColor = MaterialTheme.colors.primaryVariant,
@@ -200,6 +195,7 @@ object TopAppBars {
                         onConfirm = {
                             uiStateHandler.deactivateEditMode()
                             viewModel.delete()
+
                         },
                         language = language.value
                     )
@@ -223,20 +219,39 @@ object TopAppBars {
                     // Right buttons
                     if (!newEntity.value) {
                         IconButtons.Delete(language.value) {
-                            //uiStateHandler.showPendingChangesDialog(true)
                             uiStateHandler.showDeleteDialog(true)
-                            //viewModel.delete()
                         }
+
                         IconButtons.Save(
                             language = language.value,
                             enabled = !missingMandatoryValues.value
                         ) {
                             viewModel.save()
                         }
+                        //IconButtons.Save(language = language.value, enabled = ) {
+
+                        }
                     }
                 }
             }
+
+    @Composable
+    fun MySnackbar(
+        message: String, actionLabel: String, duration: SnackbarDuration = SnackbarDuration.Short
+    ) {
+        val snackbarHostState = remember { SnackbarHostState() }
+
+        LaunchedEffect(snackbarHostState) {
+            snackbarHostState.showSnackbar(message, actionLabel, duration = duration)
         }
+        Box(
+            Modifier.fillMaxSize(), contentAlignment = Alignment.BottomCenter
+        ) {
+            SnackbarHost(
+                hostState = snackbarHostState
+            )
+        }
+    }
 
     @Composable
     fun DocuModeDefault(

@@ -5,6 +5,7 @@ import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import p20.insitu.android.ui.components.buttons.Buttons
 import p20.insitu.android.ui.components.buttons.IconButtons
 import p20.insitu.android.ui.components.buttons.MenuButtons
 import p20.insitu.android.ui.components.dialogs.AlertDialogs
@@ -96,9 +97,12 @@ fun TopBarDropDownMenu(
                     MenuButtons.Logout(language.value) {
                         expanded.value = false
                         navigationState.value = NavDestination.Logout.navigate()
+                        
                     }
                 }
             }
+            
+
 
             // Debugging view ------------------------------------------------
             /*
