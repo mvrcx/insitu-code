@@ -1,5 +1,6 @@
 package p20.insitu.stateHandler
 
+import androidx.compose.material.Snackbar
 import co.touchlab.kermit.Logger
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -70,6 +71,10 @@ class UiStateHandler(
         _missingMandatoryValues.value = false
     }
 
+    fun deletedEntry() {
+
+    }
+
     // TODO this needs refactoring, we are using two different ways to determine if we are in the
     //  process of creating a new entity: see entity screens -> most of them check if
     //  constructor parameter entityId == null -> entityCreation = true
@@ -130,6 +135,14 @@ class UiStateHandler(
         _showPendingChangesDialog.value = value
     }
 
+    //Displaz SnackBar
+    private val _showSnackBar = MutableStateFlow<Boolean>(false)
+    val showSnackBar: StateFlow<Boolean> = _showSnackBar
+    fun showSnackBar(value: Boolean) {
+        _showSnackBar.value = value
+    }
+
+
     // Delete Dialog
     private val _showDeleteDialog = MutableStateFlow<Boolean>(
         false
@@ -139,6 +152,7 @@ class UiStateHandler(
         _showDeleteDialog.value = value
     }
 
+    // Leave Dialog
     private val _showLeaveDocuModeDialog = MutableStateFlow<Boolean>(
         false
     )

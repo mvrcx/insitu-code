@@ -1,17 +1,22 @@
 package p20.insitu.android.ui.components.dialogs
 
+import android.content.Context
+import android.widget.Toast
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.DialogProperties
+import kotlinx.coroutines.launch
 import p20.insitu.android.BuildConfig
-import p20.insitu.android.ui.components.SnackBars
+import p20.insitu.android.ui.components.TopAppBars
 import p20.insitu.android.ui.components.dialogs.AlertDialogs.InsituInfo
 import p20.insitu.db.settings.SettingValueState
 import p20.insitu.resources.Language
@@ -22,16 +27,30 @@ import p20.insitu.resources.strings.TitleStrings
 import p20.insitu.resources.strings.de.Strings
 import p20.insitu.theme.InsituTheme
 import p20.insitu.android.util.drawableResource
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.wrapContentSize
+import androidx.compose.material.ExtendedFloatingActionButton
+import androidx.compose.material.Scaffold
+import androidx.compose.material.Text
+import androidx.compose.material.rememberScaffoldState
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.tooling.preview.PreviewParameter
+
 
 object AlertDialogs {
 
     @Composable
-    fun Delete(
+    fun DeleteDialog(
         onDismiss: () -> Unit,
         onConfirm: () -> Unit,
         language: Language,
     ) {
+
         AlertDialog(
+
             properties = DialogProperties(
                 dismissOnClickOutside = true,
                 dismissOnBackPress = true,
@@ -50,6 +69,34 @@ object AlertDialogs {
                 )
             },
             buttons = {
+                Row(
+                    modifier = Modifier.padding(all = 8.dp),
+                    horizontalArrangement = Arrangement.Center
+                ) {
+                    Button(
+                        //modifier = Modifier.fillMaxWidth(),
+                        onClick = {
+                            onConfirm()
+                            //uiStateHandler.showSnackbar(true)
+                        }
+                    ) {
+                        Text(ButtonStrings.delete(language))
+                    }
+                    Button(
+                        //modifier = Modifier.fillMaxWidth(),
+                        onClick = {
+                            onDismiss() }
+                    ) {
+                        Text(ButtonStrings.cancel(language))
+                    }
+                }
+                }
+
+
+
+
+
+            /*{
                 Column(
                     modifier = Modifier
                         .fillMaxWidth()
@@ -73,9 +120,22 @@ object AlertDialogs {
                     }
                     SnackBars.DeleteSnackBar(language = language)
                 }
-            }
+            }*/
         )
     }
+
+
+    @Composable
+    fun ShowSnackbar(context: Context, message:String) {
+        val snackState = remember { SnackbarHostState()}
+        val scope = rememberCoroutineScope()
+        fun launchSnackbar(message: String, actionLabel : String?=null, duration: SnackbarDuration = SnackbarDuration.Short){
+            scope.launch {
+                snackState.showSnackbar(message = message,actionLabel=actionLabel, duration=duration)
+            }
+        //Toast.makeText(context, message, Toast.LENGTH_SHORT).show()
+    }}
+
     @Composable
     fun PendingChanges(
         onDismiss: () -> Unit,
@@ -126,7 +186,7 @@ object AlertDialogs {
     ) {
         AlertDialog(
             properties = DialogProperties(
-                dismissOnClickOutside = false,
+                dismissOnClickOutside = true,
                 dismissOnBackPress = true,
             ),
             onDismissRequest = { onDismiss() },

@@ -2,6 +2,8 @@
 
 package p20.insitu.viewmodels.entities
 
+import android.widget.Toast
+import androidx.compose.material.Snackbar
 import androidx.compose.runtime.MutableState
 import co.touchlab.kermit.Logger
 import kotlinx.coroutines.*
@@ -320,6 +322,8 @@ abstract class EntityViewModel<T : DocumentationObject>(
                     userId = userInfo.id
                 )
             }
+
+
             if (uiStateHandler.docuMode.value) {
                 // If we are in docu mode, we now have to reset the documentation object
                 when (baseEntity) {
@@ -367,5 +371,8 @@ abstract class EntityViewModel<T : DocumentationObject>(
                 navigationState.value = NavDestination.BACK.navigate()
             }
         }
+        //Toast.makeText("", "Hallo")
+
+
     }
 }

@@ -1,11 +1,17 @@
 package p20.insitu.android.ui.components
 
+//import android.annotation.SuppressLint
+import android.widget.Toast
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.debugInspectorInfo
 import androidx.compose.ui.text.style.TextOverflow
+import kotlinx.coroutines.launch
 import p20.insitu.android.ui.components.buttons.IconButtons
 import p20.insitu.android.ui.components.dialogs.AlertDialogs
 import p20.insitu.nav.NavAction
@@ -168,6 +174,7 @@ object TopAppBars {
                 backgroundColor = MaterialTheme.colors.primaryVariant,
                 contentColor = MaterialTheme.colors.onPrimary,
             ) {
+
                 // Manage visibility of pending changes dialog
                 val showPendingChangesDialog =
                     uiStateHandler.showPendingChangesDialog.collectAsState(false)
@@ -184,22 +191,25 @@ object TopAppBars {
                     )
                 }
 
-                // Manage visibility delete dialog
-                val showDeleteDialog =
+                // Manage visibility of delete dialog
+                var showDeleteDialog =
                     uiStateHandler.showDeleteDialog.collectAsState(false)
+
                 if (showDeleteDialog.value) {
-                    AlertDialogs.Delete(
+                    AlertDialogs.DeleteDialog(
                         onDismiss = {
-                            uiStateHandler.showDeleteDialog(false)
-                        },
+                            uiStateHandler.showDeleteDialog(false)},
                         onConfirm = {
-                            uiStateHandler.deactivateEditMode()
-                            viewModel.delete()
+                            uiStateHandler.showSnackBar(true)
+                            //MoviesScreen(snackbarHostState = )
+                            //viewModel.delete()
 
                         },
                         language = language.value
                     )
+                    //uiStateHandler.showSnackBar(true)
                 }
+
 
                 Row(
                     modifier = Modifier.fillMaxWidth(),
@@ -220,38 +230,17 @@ object TopAppBars {
                     if (!newEntity.value) {
                         IconButtons.Delete(language.value) {
                             uiStateHandler.showDeleteDialog(true)
+
                         }
 
                         IconButtons.Save(
                             language = language.value,
                             enabled = !missingMandatoryValues.value
-                        ) {
-                            viewModel.save()
-                        }
-                        //IconButtons.Save(language = language.value, enabled = ) {
-
+                        ) { viewModel.save() }
                         }
                     }
                 }
             }
-
-    @Composable
-    fun MySnackbar(
-        message: String, actionLabel: String, duration: SnackbarDuration = SnackbarDuration.Short
-    ) {
-        val snackbarHostState = remember { SnackbarHostState() }
-
-        LaunchedEffect(snackbarHostState) {
-            snackbarHostState.showSnackbar(message, actionLabel, duration = duration)
-        }
-        Box(
-            Modifier.fillMaxSize(), contentAlignment = Alignment.BottomCenter
-        ) {
-            SnackbarHost(
-                hostState = snackbarHostState
-            )
-        }
-    }
 
     @Composable
     fun DocuModeDefault(

@@ -1,6 +1,5 @@
 package p20.insitu.android
 
-
 import android.content.pm.ActivityInfo
 import android.os.Build
 import android.os.Bundle
@@ -10,10 +9,12 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.isSystemInDarkTheme
-import androidx.compose.material.ScaffoldState
-import androidx.compose.material.rememberScaffoldState
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.ExperimentalComposeUiApi
+import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.navigation.compose.rememberNavController
@@ -59,6 +60,7 @@ class MainActivity : ComponentActivity() {
             val scaffoldState: ScaffoldState = rememberScaffoldState()
             val coroutineScope = rememberCoroutineScope()
 
+
             LaunchedEffect(Unit) {
                 // Init catalog database
                 coroutineScope.launch {
@@ -98,6 +100,34 @@ class MainActivity : ComponentActivity() {
                 }
                 window.navigationBarColor = systemUiColor.toArgb()
                 window.statusBarColor = systemUiColor.toArgb()
+
+                // If the UI state demands for snackbar, show it
+                if (uiStateHandler.showSnackBar.collectAsState().value) {
+
+                    val scaffoldState = rememberScaffoldState()
+                    LaunchedEffect(Unit) {
+                        scaffoldState.snackbarHostState.showSnackbar("Hello, Jetpack Compose!")
+                    }
+                    Scaffold(
+                        scaffoldState = scaffoldState,
+                        content = { padding ->
+                            Column(
+                                modifier = Modifier
+                                    .padding(padding)
+                            ) {}
+                        },
+                        //backgroundColor = color.transparent
+                        //contentColor = Color.Transparent
+                    )
+
+                    Toast.makeText(
+                        applicationContext,
+                        uiStateHandler.userMessage.value?.message ?: "TEST",
+                        Toast.LENGTH_SHORT
+                    ).show()
+                    uiStateHandler.showSnackBar(false)
+                }
+
 
                 // If the UI state contains an error, show snackbar
                 if (uiStateHandler.userMessage.collectAsState().value != null) {

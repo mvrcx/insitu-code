@@ -1,15 +1,20 @@
 package p20.insitu.android.ui.components.buttons
 
 import android.widget.Toast
+import androidx.camera.core.impl.utils.ContextUtil.getApplicationContext
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import kotlinx.coroutines.launch
+
+import p20.insitu.android.ui.components.dialogs.AlertDialogs
 import p20.insitu.com.authApi.AuthService
 import p20.insitu.resources.Language
 import p20.insitu.resources.strings.IconContentDescriptions
@@ -266,6 +271,7 @@ object IconButtons {
         }
     }
 
+
     @Composable
     fun Delete(
         language: Language,
@@ -273,16 +279,13 @@ object IconButtons {
         onClickAction: () -> Unit
     ) {
         IconButton(
-            onClick = {
-                onClickAction()
-                },
+            onClick = { onClickAction() },
             modifier = modifier
         ) {
             Icon(
                 imageVector = Icons.Filled.Delete,
                 contentDescription = IconContentDescriptions.delete(language)
             )
-            //Text("Show Toast")
         }
     }
 

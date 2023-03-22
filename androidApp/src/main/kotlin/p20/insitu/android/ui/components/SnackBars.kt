@@ -1,36 +1,34 @@
 package p20.insitu.android.ui.components
 
-import android.annotation.SuppressLint
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.padding
 import androidx.compose.material.*
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.rememberCoroutineScope
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.launch
-import p20.insitu.resources.Language
-import p20.insitu.resources.strings.ButtonStrings
+import androidx.compose.runtime.*
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.tooling.preview.Preview
 
-object SnackBars {
-    @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
-    @Composable
-    fun DeleteSnackBar(language: Language) {
-        val scaffoldState: ScaffoldState = rememberScaffoldState()
-        val coroutineScope: CoroutineScope = rememberCoroutineScope()
-
-        Scaffold(scaffoldState = scaffoldState) {
-            Button(onClick = {
-                coroutineScope.launch {
-                    val snackbarResult = scaffoldState.snackbarHostState.showSnackbar(
-                        message = "This is your message",
-                        actionLabel = "Do something"
-                    )
-                    when (snackbarResult) {
-                        SnackbarResult.Dismissed -> TODO()
-                        SnackbarResult.ActionPerformed -> TODO()
-                    }
-                }
-            }) {
-                Text(ButtonStrings.delete(language))
-            }
-        }
+@Preview
+@Composable
+fun ShowSnackbar() {
+    val scaffoldState = rememberScaffoldState()
+    LaunchedEffect(Unit) {
+        scaffoldState.snackbarHostState.showSnackbar("Hello, Jetpack Compose!")
     }
+    Scaffold(
+        scaffoldState = scaffoldState,
+        content = { padding ->
+            Column(
+                modifier = Modifier
+                    .padding(padding)
+            ) {}
+        },
+        contentColor = Color.Transparent,
+        backgroundColor = Color.Transparent,
+        //contentColor = Color.Transparent
+    )
 }
+
+
+
