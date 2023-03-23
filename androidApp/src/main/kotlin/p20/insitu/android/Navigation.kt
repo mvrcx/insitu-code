@@ -85,7 +85,7 @@ fun InitNavigationGraph(scaffoldState: ScaffoldState) =
 
         // DocuMode
         composable(route = NavDestination.DocuMode.Home.baseRoute.toString()) { DocuModeHome() }
-        composable(route = NavDestination.DocuMode.List.baseRoute.toString()) { DocuModeList() }
+        composable(route = NavDestination.DocuMode.List.baseRoute.toString()) { DocuModeList(scaffoldState = scaffoldState) }
         composable(route = NavDestination.DocuMode.Details.baseRoute.toString() +
                 "?${NavArg.INITIAL_TAB.argName}={${NavArg.INITIAL_TAB.argName}}",
             arguments = listOf(

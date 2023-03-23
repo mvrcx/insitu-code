@@ -11,6 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.debugInspectorInfo
 import androidx.compose.ui.text.style.TextOverflow
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 import p20.insitu.android.ui.components.buttons.IconButtons
 import p20.insitu.android.ui.components.dialogs.AlertDialogs
@@ -201,15 +202,14 @@ object TopAppBars {
                             uiStateHandler.showDeleteDialog(false)},
                         onConfirm = {
                             uiStateHandler.showSnackBar(true)
-                            //MoviesScreen(snackbarHostState = )
-                            //viewModel.delete()
+                            viewModel.delete()
+                            uiStateHandler.showDeleteDialog(false)
 
                         },
                         language = language.value
                     )
                     //uiStateHandler.showSnackBar(true)
                 }
-
 
                 Row(
                     modifier = Modifier.fillMaxWidth(),
@@ -230,7 +230,10 @@ object TopAppBars {
                     if (!newEntity.value) {
                         IconButtons.Delete(language.value) {
                             uiStateHandler.showDeleteDialog(true)
-
+                            var showSnackbar = uiStateHandler.showSnackBar.value
+                            if (showSnackbar) {
+                                var showSnackbar = true
+                            }
                         }
 
                         IconButtons.Save(
@@ -573,6 +576,22 @@ object TopAppBars {
                 )
             }
 
+            // Manage visibility of delete dialog
+            var showDeleteDialog =
+                uiStateHandler.showDeleteDialog.collectAsState(false)
+
+            if (showDeleteDialog.value) {
+                AlertDialogs.DeleteDialog(
+                    onDismiss = {
+                        uiStateHandler.showDeleteDialog(false)},
+                    onConfirm = {
+                        uiStateHandler.showSnackBar(true)
+                        viewModel.delete()
+                    },
+                    language = language.value
+                )
+            }
+
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 verticalAlignment = Alignment.CenterVertically
@@ -608,4 +627,5 @@ object TopAppBars {
                 }
             }
         }
+
 }
