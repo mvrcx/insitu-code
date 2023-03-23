@@ -34,6 +34,7 @@ import p20.insitu.resources.strings.MessageStrings
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter", "StateFlowValueCalledInComposition")
 @Composable
 fun DocuModeList(
+    scaffoldState: ScaffoldState,
     sessionHandler: SessionHandler = get(),
     uiStateHandler: UiStateHandler = get(),
     viewModel: DocuListViewModel = get()
@@ -157,6 +158,7 @@ fun DocuModeList(
                 }
             }
         },
+        snackbarHost = { SnackbarHost(hostState = scaffoldState.snackbarHostState) },
         content = {
             Column(
                 modifier = Modifier
