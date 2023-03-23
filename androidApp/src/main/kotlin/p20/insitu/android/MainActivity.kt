@@ -1,5 +1,6 @@
 package p20.insitu.android
 
+import android.annotation.SuppressLint
 import android.content.pm.ActivityInfo
 import android.os.Build
 import android.os.Bundle
@@ -8,15 +9,17 @@ import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.annotation.RequiresApi
+import androidx.compose.foundation.background
 import androidx.compose.foundation.isSystemInDarkTheme
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalFocusManager
+import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.rememberNavController
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import kotlinx.coroutines.launch
@@ -50,16 +53,15 @@ class MainActivity : ComponentActivity() {
      *
      * @param savedInstanceState
      */
+    @SuppressLint("CoroutineCreationDuringComposition")
     @RequiresApi(Build.VERSION_CODES.S)
     @OptIn(ExperimentalPermissionsApi::class, ExperimentalComposeUiApi::class)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         setContent {
             val uiStateHandler: UiStateHandler = get()
             val scaffoldState: ScaffoldState = rememberScaffoldState()
             val coroutineScope = rememberCoroutineScope()
-
 
             LaunchedEffect(Unit) {
                 // Init catalog database
@@ -101,33 +103,28 @@ class MainActivity : ComponentActivity() {
                 window.navigationBarColor = systemUiColor.toArgb()
                 window.statusBarColor = systemUiColor.toArgb()
 
-                // If the UI state demands for snackbar, show it
-                if (uiStateHandler.showSnackBar.collectAsState().value) {
 
-                    val scaffoldState = rememberScaffoldState()
-                    LaunchedEffect(Unit) {
-                        scaffoldState.snackbarHostState.showSnackbar("Hello, Jetpack Compose!")
-                    }
+                // If the UI state demands for a snackbar, display it. The snackbarHostState is
+                // attached to the scaffold. In this way, the scaffold is displayed even if the
+                // view is destroyed (e.g  leaving the DocuMode after deletion of an entry.
+                if (uiStateHandler.showSnackBar.collectAsState().value) {
                     Scaffold(
                         scaffoldState = scaffoldState,
-                        content = { padding ->
-                            Column(
-                                modifier = Modifier
-                                    .padding(padding)
-                            ) {}
-                        },
-                        //backgroundColor = color.transparent
-                        //contentColor = Color.Transparent
-                    )
-
-                    Toast.makeText(
-                        applicationContext,
-                        uiStateHandler.userMessage.value?.message ?: "TEST",
-                        Toast.LENGTH_SHORT
-                    ).show()
+                        snackbarHost = { scaffoldState.snackbarHostState })
+                    { innerPadding ->
+                        Box(modifier = Modifier.padding(innerPadding)) {
+                            coroutineScope.launch {
+                                scaffoldState.snackbarHostState.showSnackbar(
+                                    message = "Geloescht" ,//uiStateHandler.userMessage.value?.message ?: "error",
+                                    actionLabel = "Aktion" ,//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
+                                    duration = SnackbarDuration.Short
+                                )
+                            }
+                        }
+                    }
                     uiStateHandler.showSnackBar(false)
+                    uiStateHandler.clearUserMessage()
                 }
-
 
                 // If the UI state contains an error, show snackbar
                 if (uiStateHandler.userMessage.collectAsState().value != null) {
