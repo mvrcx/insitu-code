@@ -48,7 +48,6 @@ object AlertDialogs {
         onConfirm: () -> Unit,
         language: Language,
     ) {
-
         AlertDialog(
 
             properties = DialogProperties(
@@ -70,12 +69,14 @@ object AlertDialogs {
             },
             buttons = {
                 Row(
-                    modifier = Modifier.padding(all = 8.dp),
+                    modifier = Modifier
+                        .padding(all = 8.dp),
                     horizontalArrangement = Arrangement.Center
                 ) {
                     Button(
                         //modifier = Modifier.fillMaxWidth(),
                         onClick = {
+
                             onConfirm()
                             //uiStateHandler.showSnackbar(true)
                         }
@@ -90,7 +91,7 @@ object AlertDialogs {
                         Text(ButtonStrings.cancel(language))
                     }
                 }
-                }
+            }
 
 
 

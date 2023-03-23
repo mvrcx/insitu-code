@@ -135,7 +135,7 @@ class UiStateHandler(
         _showPendingChangesDialog.value = value
     }
 
-    //Displaz SnackBar
+    //Display SnackBar
     private val _showSnackBar = MutableStateFlow<Boolean>(false)
     val showSnackBar: StateFlow<Boolean> = _showSnackBar
     fun showSnackBar(value: Boolean) {
