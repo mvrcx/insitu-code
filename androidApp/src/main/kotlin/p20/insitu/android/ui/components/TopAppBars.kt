@@ -201,9 +201,9 @@ object TopAppBars {
                         onDismiss = {
                             uiStateHandler.showDeleteDialog(false)},
                         onConfirm = {
-                            uiStateHandler.showSnackBar(true)
-                            viewModel.delete()
                             uiStateHandler.showDeleteDialog(false)
+                            viewModel.delete()
+                            uiStateHandler.showSnackBar(true)
 
                         },
                         language = language.value
