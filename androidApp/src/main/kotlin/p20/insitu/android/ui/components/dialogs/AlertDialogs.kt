@@ -67,75 +67,20 @@ object AlertDialogs {
                     style = MaterialTheme.typography.body1
                 )
             },
-            buttons = {
-                Row(
-                    modifier = Modifier
-                        .padding(all = 8.dp),
-                    horizontalArrangement = Arrangement.Center
+            confirmButton = {
+                TextButton(onClick = { onConfirm() }
                 ) {
-                    Button(
-                        //modifier = Modifier.fillMaxWidth(),
-                        onClick = {
-
-                            onConfirm()
-                            //uiStateHandler.showSnackbar(true)
-                        }
-                    ) {
-                        Text(ButtonStrings.delete(language))
-                    }
-                    Button(
-                        //modifier = Modifier.fillMaxWidth(),
-                        onClick = {
-                            onDismiss() }
-                    ) {
-                        Text(ButtonStrings.cancel(language))
-                    }
+                    Text(ButtonStrings.delete(language))
+                }
+            },
+            dismissButton = {
+                TextButton(onClick = { onDismiss() }
+                ) {
+                    Text(ButtonStrings.cancel(language))
                 }
             }
-
-
-
-
-
-            /*{
-                Column(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(all = 8.dp),
-                    horizontalAlignment = Alignment.End
-                ) {
-                    //SnackBars.DeleteSnackBar(language = language)
-                    Button(onClick = onConfirm) {
-                        Text(ButtonStrings.delete(language))
-
-                        // TODO Toast wird aktuell beim druecken des Icons "Loeschen" angezeigt.
-                        //  Sollte angezeigt werden, nachdem man im DeleteDialog auf "Loeschen"
-                        //  gedrueckt hat.
-                        //Toast.makeText(LocalContext.current, "Toast", Toast.LENGTH_SHORT).show()
-                    }
-
-                    //CustomSnackBar()
-                    Button(onClick = onDismiss) {
-                        //DeleteSnackBar(language)
-                        Text(ButtonStrings.cancel(language))
-                    }
-                    SnackBars.DeleteSnackBar(language = language)
-                }
-            }*/
         )
     }
-
-
-    @Composable
-    fun ShowSnackbar(context: Context, message:String) {
-        val snackState = remember { SnackbarHostState()}
-        val scope = rememberCoroutineScope()
-        fun launchSnackbar(message: String, actionLabel : String?=null, duration: SnackbarDuration = SnackbarDuration.Short){
-            scope.launch {
-                snackState.showSnackbar(message = message,actionLabel=actionLabel, duration=duration)
-            }
-        //Toast.makeText(context, message, Toast.LENGTH_SHORT).show()
-    }}
 
     @Composable
     fun PendingChanges(
@@ -161,21 +106,18 @@ object AlertDialogs {
                     style = MaterialTheme.typography.body1
                 )
             },
-            buttons = {
-                Column(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(all = 8.dp),
-                    horizontalAlignment = Alignment.End
+            confirmButton = {
+                TextButton(onClick = { onConfirm() }
                 ) {
-                    Button(onClick = onConfirm) {
-                        Text(ButtonStrings.discardChanges(language))
-                    }
-                    Button(onClick = onDismiss) {
-                        Text(ButtonStrings.cancel(language))
-                    }
+                    Text(ButtonStrings.discardChanges(language))
                 }
-            }
+            },
+            dismissButton = {
+                TextButton(onClick = { onDismiss() }
+                ) {
+                    Text(ButtonStrings.cancel(language))
+                }
+            },
         )
     }
 
@@ -203,21 +145,18 @@ object AlertDialogs {
                     style = MaterialTheme.typography.body1
                 )
             },
-            buttons = {
-                Column(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(all = 8.dp),
-                    horizontalAlignment = Alignment.End
+            confirmButton = {
+                TextButton(onClick = { onConfirm() }
                 ) {
-                    Button(onClick = onConfirm) {
-                        Text(ButtonStrings.leaveDocuMode(language))
-                    }
-                    Button(onClick = onDismiss) {
-                        Text(ButtonStrings.cancel(language))
-                    }
+                    Text(ButtonStrings.leaveDocuMode(language))
                 }
-            }
+            },
+            dismissButton = {
+                TextButton(onClick = { onDismiss() }
+                ) {
+                    Text(ButtonStrings.cancel(language))
+                }
+            },
         )
     }
 
@@ -245,21 +184,18 @@ object AlertDialogs {
                     style = MaterialTheme.typography.body1
                 )
             },
-            buttons = {
-                Column(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .padding(all = 8.dp),
-                    horizontalAlignment = Alignment.End
+            confirmButton = {
+                TextButton(onClick = { onConfirm() }
                 ) {
-                    Button(onClick = onConfirm) {
-                        Text(ButtonStrings.leaveDocuMode(language))
-                    }
-                    Button(onClick = onDismiss) {
-                        Text(ButtonStrings.cancel(language))
-                    }
+                    Text(ButtonStrings.leaveDocuMode(language))
                 }
-            }
+            },
+            dismissButton = {
+                TextButton(onClick = { onDismiss() }
+                ) {
+                    Text(ButtonStrings.cancel(language))
+                }
+            },
         )
     }
 
