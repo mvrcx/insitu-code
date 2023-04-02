@@ -265,7 +265,7 @@ object IconButtons {
             modifier = modifier
         ) {
             Icon(
-                imageVector = Icons.Filled.Save,
+                imageVector = Icons.Filled.Done,
                 contentDescription = IconContentDescriptions.save(language)
             )
         }
