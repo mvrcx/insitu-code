@@ -50,6 +50,29 @@ fun RoomDetails(
         Containers.SimpleAttributeGroup(
             title = TitleStrings.description(language.value)
         ) {
+            // Room type
+            if (editMode.value) {
+                DropdownField.StringList(
+                    label = TextFieldStrings.roomType(language.value),
+                    value = roomType.value?.designation,
+                    list = RoomType.values().map { it.designation },
+                    enabled = editMode.value,
+                    language = language.value
+                ) {
+                    viewModel.setRoomType(RoomType.getRoomTypeByDesignation(it))
+                }
+            } else {
+                TextField(
+                    value = roomType.value?.designation ?: "",
+                    enabled = false,
+                    onValueChange = {},
+                    label = { Label(text = TextFieldStrings.roomType(language.value)) },
+                    modifier = Modifier.fillMaxWidth()
+                )
+            }
+
+            SpacersAndDividers.VerticalSpacer()
+
             // Designation
             TextFields.SingleLineString(
                 value = designation.value,
@@ -72,26 +95,6 @@ fun RoomDetails(
 
             SpacersAndDividers.VerticalSpacer()
 
-            // Room type
-            if (editMode.value) {
-                DropdownField.StringList(
-                    label = TextFieldStrings.roomType(language.value),
-                    value = roomType.value?.designation,
-                    list = RoomType.values().map { it.designation },
-                    enabled = editMode.value,
-                    language = language.value
-                ) {
-                    viewModel.setRoomType(RoomType.getRoomTypeByDesignation(it))
-                }
-            } else {
-                TextField(
-                    value = roomType.value?.designation ?: "",
-                    enabled = false,
-                    onValueChange = {},
-                    label = { Label(text = TextFieldStrings.roomType(language.value)) },
-                    modifier = Modifier.fillMaxWidth()
-                )
-            }
         }
 
         Containers.SimpleAttributeGroup(
