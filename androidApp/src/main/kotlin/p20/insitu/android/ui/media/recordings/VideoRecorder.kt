@@ -3,17 +3,25 @@
 package p20.insitu.android.ui.media.recordings
 
 import android.annotation.SuppressLint
+import android.graphics.Color.*
 import androidx.camera.core.CameraSelector
 import androidx.camera.video.*
 import androidx.camera.view.PreviewView
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
+import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalLifecycleOwner
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
 import androidx.lifecycle.lifecycleScope
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import org.koin.androidx.compose.get
 import p20.insitu.android.rememberNavigationState
@@ -25,6 +33,7 @@ import p20.insitu.model.entities.Video
 import p20.insitu.resources.FileType
 import p20.insitu.stateHandler.SessionHandler
 import p20.insitu.stateHandler.UiStateHandler
+import java.util.*
 
 @SuppressLint("MissingPermission")
 @Composable
@@ -47,6 +56,19 @@ fun VideoRecorder(
     }
     val videoAnnotation = remember { mutableStateOf<Video?>(null) }
 
+    var elapsedTime by remember { mutableStateOf(0L) }
+
+    LaunchedEffect(isRecording.value) {
+        if (isRecording.value) {
+            val startTime = System.currentTimeMillis()
+            while (isRecording.value) {
+                elapsedTime = System.currentTimeMillis() - startTime
+                delay(1000)
+            }
+        } else {
+            elapsedTime = 0L
+        }
+    }
     LaunchedEffect(previewView) {
         videoCapture.value = context.createVideoCaptureUseCase(
             lifecycleOwner = lifecycleOwner,
@@ -57,6 +79,23 @@ fun VideoRecorder(
 
     Box(modifier = Modifier.fillMaxSize()) {
         AndroidView({ previewView }, modifier = Modifier.fillMaxSize()) {}
+        if (isRecording.value) {
+        Box(
+            modifier = Modifier
+                .align(Alignment.TopCenter)
+                .padding(top = 16.dp, start = 16.dp, end = 16.dp)
+                .background(Color.Red),
+
+            contentAlignment = Alignment.TopCenter
+        ) {
+            Text(
+                text = formatElapsedTime(elapsedTime),
+                color = Color.White,
+                style = MaterialTheme.typography.h6,
+                modifier = Modifier.background(Color.Red, RectangleShape).padding(5.dp)
+            )
+            }
+        }
         Column(
             modifier = Modifier.align(Alignment.BottomCenter),
             verticalArrangement = Arrangement.Bottom
@@ -127,4 +166,12 @@ fun VideoRecorder(
             }
         }
     }
+}
+
+@Composable
+private fun formatElapsedTime(timeMs: Long): String {
+    val seconds = (timeMs / 1000) % 60
+    val minutes = (timeMs / (1000 * 60)) % 60
+    val hours = timeMs / (1000 * 60 * 60)
+    return String.format("%02d:%02d:%02d", hours, minutes, seconds)
 }
