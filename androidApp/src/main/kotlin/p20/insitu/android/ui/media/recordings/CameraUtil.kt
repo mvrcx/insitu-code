@@ -2,6 +2,7 @@ package p20.insitu.android.ui.media.recordings
 
 import android.annotation.SuppressLint
 import android.content.Context
+import android.media.MediaActionSound
 import android.net.Uri
 import androidx.camera.core.CameraSelector
 import androidx.camera.core.ImageCapture
@@ -14,7 +15,6 @@ import androidx.core.util.Consumer
 import androidx.lifecycle.LifecycleOwner
 import p20.insitu.resources.FileHandler
 import java.io.File
-import java.lang.IllegalStateException
 import java.util.concurrent.Executor
 import java.util.concurrent.Executors
 import kotlin.coroutines.resume
@@ -44,6 +44,10 @@ fun ImageCapture.takePicture(
                 override fun onImageSaved(output: ImageCapture.OutputFileResults) {
                     val savedUri = output.savedUri ?: Uri.fromFile(photoFile)
                     onImageCaptured(savedUri)
+
+                    // shutter sound
+                    val sound = MediaActionSound()
+                    sound.play(MediaActionSound.SHUTTER_CLICK)
                 }
                 override fun onError(exception: ImageCaptureException) {
                     onError(exception)
