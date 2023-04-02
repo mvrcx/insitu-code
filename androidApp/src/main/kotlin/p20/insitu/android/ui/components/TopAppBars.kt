@@ -208,7 +208,6 @@ object TopAppBars {
                         },
                         language = language.value
                     )
-                    //uiStateHandler.showSnackBar(true)
                 }
 
                 Row(
