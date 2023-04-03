@@ -96,7 +96,7 @@ fun InitNavigationGraph(scaffoldState: ScaffoldState) =
                 }
             )
         ) {
-            DocuModeDetails(initialTab = it.arguments?.getString(NavArg.INITIAL_TAB.argName))
+            DocuModeDetails(initialTab = it.arguments?.getString(NavArg.INITIAL_TAB.argName), scaffoldState = scaffoldState)
         }
 
         // Image pager

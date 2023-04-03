@@ -3,9 +3,7 @@ package p20.insitu.android.ui.documode
 import android.annotation.SuppressLint
 import android.content.pm.ActivityInfo
 import androidx.compose.foundation.layout.*
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Scaffold
-import androidx.compose.material.Text
+import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -31,6 +29,7 @@ import p20.insitu.util.TabType
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter", "StateFlowValueCalledInComposition")
 @Composable
 fun DocuModeDetails(
+    scaffoldState: ScaffoldState,
     sessionHandler: SessionHandler = get(),
     uiStateHandler: UiStateHandler = get(),
     initialTab: String? = null
@@ -186,6 +185,7 @@ fun DocuModeDetails(
                 else -> {}
             }
         },
+        snackbarHost = { SnackbarHost(hostState = scaffoldState.snackbarHostState) },
         content = {
             Column(
                 modifier = Modifier.fillMaxSize(),

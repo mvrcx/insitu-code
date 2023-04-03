@@ -238,7 +238,10 @@ object TopAppBars {
                         IconButtons.Save(
                             language = language.value,
                             enabled = !missingMandatoryValues.value
-                        ) { viewModel.save() }
+                        ) {
+                            viewModel.save()
+                            uiStateHandler.showSnackBar(true)
+                        }
                         }
                     }
                 }
