@@ -164,7 +164,6 @@ object TopAppBars {
         navigationState: MutableState<NavAction?>,
         sessionHandler: SessionHandler,
         uiStateHandler: UiStateHandler,
-        //snackbarType: SnackbarType,
         viewModel: EntityViewModel<*>
     ) =
         Column {
@@ -221,7 +220,6 @@ object TopAppBars {
                         } else {
                             navigationState.value = NavDestination.BACK.navigate()
                             uiStateHandler.deactivateEditMode()
-
                         }
                     }
                     // Spacer fills up remaining space
