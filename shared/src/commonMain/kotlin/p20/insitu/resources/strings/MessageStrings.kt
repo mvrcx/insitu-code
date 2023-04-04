@@ -4,8 +4,6 @@ import p20.insitu.resources.Language
 
 object MessageStrings {
 
-
-
     private const val deleted_successfully_DE = "Eintrag erfolgreich gelöscht"
     private const val deleted_successfully_EN = "Entry deleted successfully"
 
@@ -16,13 +14,13 @@ object MessageStrings {
         }
     }
 
-    private const val edited_successfully_DE = "Eintrag erfolgreich bearbeitet"
-    private const val edited_successfully_EN = "Entry edited successfully"
+    private const val saved_successfully_DE = "Eintrag erfolgreich gespeichert"
+    private const val saved_successfully_EN = "Entry saved successfully"
 
     fun edited_successfully(language: Language): String {
         return when (language) {
-            Language.DE -> edited_successfully_DE
-            Language.EN -> edited_successfully_EN
+            Language.DE -> saved_successfully_DE
+            Language.EN -> saved_successfully_EN
         }
     }
 
