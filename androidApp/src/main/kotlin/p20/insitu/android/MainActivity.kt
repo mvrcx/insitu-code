@@ -126,7 +126,7 @@ class MainActivity : ComponentActivity() {
                                 when (currentSnackbarType) {
                                     SnackbarType.DELETED -> {
                                         run {scaffoldState.snackbarHostState.showSnackbar(
-                                            message =  "DELETED",//MessageStrings.deleted_successfully(language.value),
+                                            message =  MessageStrings.deleted_successfully(language.value),
                                             actionLabel = "Rückgängig",//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
                                             duration = SnackbarDuration.Short )}
                                     }
