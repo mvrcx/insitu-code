@@ -164,6 +164,7 @@ object TopAppBars {
         navigationState: MutableState<NavAction?>,
         sessionHandler: SessionHandler,
         uiStateHandler: UiStateHandler,
+        //snackbarType: SnackbarType,
         viewModel: EntityViewModel<*>
     ) =
         Column {
@@ -194,12 +195,7 @@ object TopAppBars {
                 }
 
                 // Manage visibility of delete dialog
-                var showDeleteDialog =
-                    uiStateHandler.showDeleteDialog.collectAsState(false)
-
-                val snackbarTypeState = remember { mutableStateOf(SnackbarType.NONE) }
-                val currentSnackbarType = snackbarTypeState.value
-
+                var showDeleteDialog = uiStateHandler.showDeleteDialog.collectAsState(false)
                 if (showDeleteDialog.value) {
                     AlertDialogs.DeleteDialog(
                         onDismiss = {
@@ -208,7 +204,7 @@ object TopAppBars {
                             uiStateHandler.showDeleteDialog(false)
                             viewModel.delete()
                             uiStateHandler.showSnackBar(true)
-
+                            uiStateHandler.snackbarType(SnackbarType.DELETED)
                         },
                         language = language.value
                     )
@@ -225,6 +221,7 @@ object TopAppBars {
                         } else {
                             navigationState.value = NavDestination.BACK.navigate()
                             uiStateHandler.deactivateEditMode()
+
                         }
                     }
                     // Spacer fills up remaining space
@@ -241,6 +238,7 @@ object TopAppBars {
                         ) {
                             viewModel.save()
                             uiStateHandler.showSnackBar(true)
+                            uiStateHandler.snackbarType(SnackbarType.EDITED)
                         }
                         }
                     }

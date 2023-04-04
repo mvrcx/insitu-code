@@ -1,5 +1,6 @@
 package p20.insitu.stateHandler
 
+import androidx.compose.runtime.RememberObserver
 import co.touchlab.kermit.Logger
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -7,6 +8,7 @@ import org.koin.core.component.KoinComponent
 import p20.insitu.nav.NavAction
 import p20.insitu.resources.Language
 import p20.insitu.util.ListSortStyle
+import p20.insitu.util.SnackbarType
 import p20.insitu.util.TabType
 import p20.insitu.util.userMessages.UserMessage
 
@@ -141,6 +143,11 @@ class UiStateHandler(
         _showSnackBar.value = value
     }
 
+    private val _snackbarType =MutableStateFlow<SnackbarType>(SnackbarType.NONE)
+    val snackbarType: StateFlow<SnackbarType> = _snackbarType
+    fun snackbarType(value: SnackbarType) {
+        _snackbarType.value = value
+    }
 
     // Delete Dialog
     private val _showDeleteDialog = MutableStateFlow<Boolean>(
