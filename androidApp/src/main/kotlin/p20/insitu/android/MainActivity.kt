@@ -111,7 +111,7 @@ class MainActivity : ComponentActivity() {
                 window.navigationBarColor = systemUiColor.toArgb()
                 window.statusBarColor = systemUiColor.toArgb()
 
-                snackbarTypeState.value = SnackbarType.DELETED
+                snackbarTypeState.value = SnackbarType.ADDED
                 // If the UI state demands for a snackbar, display it. The snackbarHostState is
                 // attached to the scaffold. In this way, the scaffold is displayed even if the
                 // view is destroyed (e.g  leaving the DocuMode after deletion of an entry.)
@@ -132,13 +132,13 @@ class MainActivity : ComponentActivity() {
                                     }
                                     SnackbarType.ADDED -> {
                                         run {scaffoldState.snackbarHostState.showSnackbar(
-                                            message = "Added",
+                                            message = MessageStrings.added_successfully(language.value),
                                             actionLabel = "Wiederholen",//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
                                             duration = SnackbarDuration.Short )}
                                     }
                                     SnackbarType.EDITED -> {
                                         run{scaffoldState.snackbarHostState.showSnackbar(
-                                            message = "Edited",
+                                            message = MessageStrings.edited_successfully(language.value),
                                             duration = SnackbarDuration.Short )}
                                     }
                                 }
