@@ -22,6 +22,7 @@ import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.viewmodels.entities.EntityViewModel
 import p20.insitu.android.ui.components.dimen.FontSize
 import p20.insitu.stateHandler.SessionHandler
+import p20.insitu.util.SnackbarType
 
 object TopAppBars {
 
@@ -196,6 +197,9 @@ object TopAppBars {
                 var showDeleteDialog =
                     uiStateHandler.showDeleteDialog.collectAsState(false)
 
+                val snackbarTypeState = remember { mutableStateOf(SnackbarType.NONE) }
+                val currentSnackbarType = snackbarTypeState.value
+
                 if (showDeleteDialog.value) {
                     AlertDialogs.DeleteDialog(
                         onDismiss = {
@@ -229,10 +233,6 @@ object TopAppBars {
                     if (!newEntity.value) {
                         IconButtons.Delete(language.value) {
                             uiStateHandler.showDeleteDialog(true)
-                            var showSnackbar = uiStateHandler.showSnackBar.value
-                            if (showSnackbar) {
-                                var showSnackbar = true
-                            }
                         }
 
                         IconButtons.Save(

@@ -28,10 +28,13 @@ import p20.insitu.android.util.KeyEventHandler
 import p20.insitu.android.util.LockScreenOrientation
 import p20.insitu.db.catalogs.CatalogCsvImporter
 import p20.insitu.nav.NavDestination
+import p20.insitu.resources.strings.MessageStrings
 import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.theme.InsituTheme
 import p20.insitu.theme.colors.SystemUIDark
 import p20.insitu.theme.colors.SystemUILight
+import p20.insitu.util.SnackbarType
+import p20.insitu.util.userMessages.PredefinedErrorMessages
 import p20.insitu.util.userMessages.UserAction
 import p20.insitu.util.userMessages.UserMessage
 
@@ -95,6 +98,11 @@ class MainActivity : ComponentActivity() {
                 // Lock the screen orientation in portrait mode
                 LockScreenOrientation(orientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT)
 
+
+                // Create a mutable state to hold the current SnackbarType
+                val snackbarTypeState = remember { mutableStateOf(SnackbarType.NONE) }
+                val currentSnackbarType = snackbarTypeState.value
+
                 val systemUiColor = if (isSystemInDarkTheme()) {
                     SystemUIDark
                 } else {
@@ -103,28 +111,45 @@ class MainActivity : ComponentActivity() {
                 window.navigationBarColor = systemUiColor.toArgb()
                 window.statusBarColor = systemUiColor.toArgb()
 
-
+                snackbarTypeState.value = SnackbarType.DELETED
                 // If the UI state demands for a snackbar, display it. The snackbarHostState is
                 // attached to the scaffold. In this way, the scaffold is displayed even if the
-                // view is destroyed (e.g  leaving the DocuMode after deletion of an entry.
+                // view is destroyed (e.g  leaving the DocuMode after deletion of an entry.)
                 if (uiStateHandler.showSnackBar.collectAsState().value) {
+                    val language = uiStateHandler.language.collectAsState()
                     Scaffold(
                         scaffoldState = scaffoldState,
-                        snackbarHost = { scaffoldState.snackbarHostState })
+                        snackbarHost = {scaffoldState.snackbarHostState})
                     { innerPadding ->
                         Box(modifier = Modifier.padding(innerPadding)) {
                             coroutineScope.launch {
-                                scaffoldState.snackbarHostState.showSnackbar(
-                                    message = "Geloescht" ,//uiStateHandler.userMessage.value?.message ?: "error",
-                                    actionLabel = "Aktion" ,//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
-                                    duration = SnackbarDuration.Short
-                                )
+                                when (currentSnackbarType) {
+                                    SnackbarType.DELETED -> {
+                                        run {scaffoldState.snackbarHostState.showSnackbar(
+                                            message =  "DELETED",//MessageStrings.deleted_successfully(language.value),
+                                            actionLabel = "Rückgängig",//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
+                                            duration = SnackbarDuration.Short )}
+                                    }
+                                    SnackbarType.ADDED -> {
+                                        run {scaffoldState.snackbarHostState.showSnackbar(
+                                            message = "Added",
+                                            actionLabel = "Wiederholen",//uiStateHandler.userMessage.value?.relatedUserAction?.actionLabel,
+                                            duration = SnackbarDuration.Short )}
+                                    }
+                                    SnackbarType.EDITED -> {
+                                        run{scaffoldState.snackbarHostState.showSnackbar(
+                                            message = "Edited",
+                                            duration = SnackbarDuration.Short )}
+                                    }
+                                }
+
                             }
                         }
-                    }
-                    uiStateHandler.showSnackBar(false)
-                    uiStateHandler.clearUserMessage()
+
                 }
+                uiStateHandler.showSnackBar(false)
+                uiStateHandler.clearUserMessage()
+            }
 
                 // If the UI state contains an error, show snackbar
                 if (uiStateHandler.userMessage.collectAsState().value != null) {
@@ -176,6 +201,8 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+
 
     /*
     override fun onKeyDown(keyCode: Int, keyEvent: KeyEvent): Boolean {

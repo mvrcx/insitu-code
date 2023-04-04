@@ -4,7 +4,19 @@ import p20.insitu.resources.Language
 
 object MessageStrings {
 
-    private const val delete_dialog_DE = "Ausgewaehlter Eintrag wird geloescht. Sind Sie sicher?"
+
+
+    private const val deleted_successfully_DE = "Eintrag gelöscht"
+    private const val deleted_successfully_EN = "Entry deleted"
+
+    fun deleted_successfully(language: Language): String {
+        return when (language) {
+            Language.DE -> deleted_successfully_DE
+            Language.EN -> deleted_successfully_EN
+        }
+    }
+
+    private const val delete_dialog_DE = "Ausgewaehlter Eintrag wird gelöscht. Möchten Sie fortfahren?"
     private const val delete_dialog_EN = "Deleting selected entry. Are you sure?"
 
     fun delete(language: Language): String {

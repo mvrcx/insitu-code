@@ -38,6 +38,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.tooling.preview.PreviewParameter
+import p20.insitu.util.SnackbarType
 
 
 object AlertDialogs {
@@ -48,6 +49,8 @@ object AlertDialogs {
         onConfirm: () -> Unit,
         language: Language,
     ) {
+        val snackbarTypeState = remember { mutableStateOf(SnackbarType.NONE) }
+        val currentSnackbarType = snackbarTypeState.value
         AlertDialog(
 
             properties = DialogProperties(
@@ -68,7 +71,7 @@ object AlertDialogs {
                 )
             },
             confirmButton = {
-                TextButton(onClick = { onConfirm() }
+                TextButton(onClick = { onConfirm()}
                 ) {
                     Text(ButtonStrings.delete(language))
                 }
