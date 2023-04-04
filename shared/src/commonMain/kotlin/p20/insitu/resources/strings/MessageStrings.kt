@@ -17,7 +17,7 @@ object MessageStrings {
     private const val saved_successfully_DE = "Eintrag erfolgreich gespeichert"
     private const val saved_successfully_EN = "Entry saved successfully"
 
-    fun edited_successfully(language: Language): String {
+    fun saved_successfully(language: Language): String {
         return when (language) {
             Language.DE -> saved_successfully_DE
             Language.EN -> saved_successfully_EN

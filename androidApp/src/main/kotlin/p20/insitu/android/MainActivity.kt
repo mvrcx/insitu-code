@@ -139,7 +139,7 @@ class MainActivity : ComponentActivity() {
                                     }
                                     SnackbarType.EDITED -> {
                                         run{scaffoldState.snackbarHostState.showSnackbar(
-                                            message = MessageStrings.edited_successfully(language.value),
+                                            message = MessageStrings.saved_successfully(language.value),
                                             duration = SnackbarDuration.Short )}
                                     }
                                 }
