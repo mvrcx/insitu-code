@@ -6,13 +6,33 @@ object MessageStrings {
 
 
 
-    private const val deleted_successfully_DE = "Eintrag gelöscht"
-    private const val deleted_successfully_EN = "Entry deleted"
+    private const val deleted_successfully_DE = "Eintrag erfolgreich gelöscht"
+    private const val deleted_successfully_EN = "Entry deleted successfully"
 
     fun deleted_successfully(language: Language): String {
         return when (language) {
             Language.DE -> deleted_successfully_DE
             Language.EN -> deleted_successfully_EN
+        }
+    }
+
+    private const val edited_successfully_DE = "Eintrag erfolgreich bearbeitet"
+    private const val edited_successfully_EN = "Entry edited successfully"
+
+    fun edited_successfully(language: Language): String {
+        return when (language) {
+            Language.DE -> edited_successfully_DE
+            Language.EN -> edited_successfully_EN
+        }
+    }
+
+    private const val added_successfully_DE = "Eintrag erfolgreich hinzugefuegt"
+    private const val added_successfully_EN = "Entry added successfully"
+
+    fun added_successfully(language: Language): String{
+        return when (language) {
+            Language.DE -> added_successfully_DE
+            Language.EN -> added_successfully_EN
         }
     }
 
