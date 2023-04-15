@@ -1,6 +1,8 @@
 package p20.insitu.android.ui.entities.tabs
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.material.Text
+import androidx.compose.material.TextButton
 import androidx.compose.material.TextField
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -97,38 +99,53 @@ fun RoomDetails(
 
         }
 
-        Containers.SimpleAttributeGroup(
-            title = TitleStrings.dimensions(language.value)
+        var isExpanded = remember { mutableStateOf(false) }
+        // Show more button
+        TextButton(
+            onClick = { isExpanded.value = !isExpanded.value },
         ) {
-            // Width
-            TextFields.FloatValue(
-                initialValue = width.value?.toString(),
-                label = TextFieldStrings.widthInMeter(language.value),
-                enabled = editMode.value
-            ) {
-                viewModel.setWidth(it)
+            Text( text = if (isExpanded.value) {
+                "Ausblenden"
+            } else {
+                "Weitere Angaben"
             }
+            )
+        }
 
-            SpacersAndDividers.VerticalSpacer()
-
-            // Length
-            TextFields.FloatValue(
-                initialValue = length.value?.toString(),
-                label = TextFieldStrings.lengthInMeter(language.value),
-                enabled = editMode.value
+        if (isExpanded.value) {
+            Containers.SimpleAttributeGroup(
+                title = TitleStrings.dimensions(language.value)
             ) {
-                viewModel.setLength(it)
-            }
+                // Width
+                TextFields.FloatValue(
+                    initialValue = width.value?.toString(),
+                    label = TextFieldStrings.widthInMeter(language.value),
+                    enabled = editMode.value
+                ) {
+                    viewModel.setWidth(it)
+                }
 
-            SpacersAndDividers.VerticalSpacer()
+                SpacersAndDividers.VerticalSpacer()
 
-            // Height
-            TextFields.FloatValue(
-                initialValue = height.value?.toString(),
-                label = TextFieldStrings.heightInMeter(language.value),
-                enabled = editMode.value
-            ) {
-                viewModel.setHeight(it)
+                // Length
+                TextFields.FloatValue(
+                    initialValue = length.value?.toString(),
+                    label = TextFieldStrings.lengthInMeter(language.value),
+                    enabled = editMode.value
+                ) {
+                    viewModel.setLength(it)
+                }
+
+                SpacersAndDividers.VerticalSpacer()
+
+                // Height
+                TextFields.FloatValue(
+                    initialValue = height.value?.toString(),
+                    label = TextFieldStrings.heightInMeter(language.value),
+                    enabled = editMode.value
+                ) {
+                    viewModel.setHeight(it)
+                }
             }
         }
     }

@@ -415,4 +415,22 @@ object MessageStrings {
             Language.EN -> server_na_EN
         }
     }
+
+    private const val hideFields_DE = "Verbergen"
+    private const val hideFields_EN = "Hide"
+    fun hideFields(language: Language): String {
+        return when (language) {
+            Language.DE -> hideFields_DE
+            Language.EN -> hideFields_EN
+        }
+    }
+
+    private const val showFields_DE = "Mehr"
+    private const val showFields_EN = "More"
+    fun showFields(language: Language): String {
+        return when (language) {
+            Language.DE -> hideFields_DE
+            Language.EN -> hideFields_EN
+        }
+    }
 }

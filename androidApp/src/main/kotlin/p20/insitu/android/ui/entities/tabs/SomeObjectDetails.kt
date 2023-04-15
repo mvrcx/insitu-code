@@ -1,7 +1,11 @@
 package p20.insitu.android.ui.entities.tabs
 
-import androidx.compose.runtime.Composable
-import androidx.compose.runtime.collectAsState
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.material.TextButton
+import androidx.compose.material.Text
+import androidx.compose.runtime.*
 import p20.insitu.android.ui.components.Containers
 import p20.insitu.android.ui.components.SpacersAndDividers
 import p20.insitu.android.ui.components.TextFields
@@ -11,17 +15,24 @@ import p20.insitu.resources.strings.TextFieldStrings
 import p20.insitu.resources.strings.TitleStrings
 import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.viewmodels.entities.SomeObjectViewModel
+import androidx.compose.runtime.Composable
+import androidx.compose.material.*
+import androidx.compose.material.icons.filled.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Alignment.Companion.End
+import androidx.compose.ui.Modifier
 
 
 @Composable
 fun SomeObjectDetails(
     uiStateHandler: UiStateHandler,
     catalogRepo: CatalogRepo,
-    viewModel: SomeObjectViewModel
+    viewModel: SomeObjectViewModel,
 ) {
     // UiStateHandler states
     val editMode = uiStateHandler.editMode.collectAsState()
     val language = uiStateHandler.language.collectAsState()
+
 
     // PhysicalTrace fields
     val docNumber = viewModel.docNumber.collectAsState()
@@ -133,6 +144,24 @@ fun SomeObjectDetails(
         }
          */
 
+        var isExpanded = remember { mutableStateOf(false) }
+        val more = MessageStrings.showFields(language.value)
+        val less = MessageStrings.hideFields(language.value)
+        // Show more button
+        TextButton(
+            onClick = { isExpanded.value = !isExpanded.value },
+        ) {
+            Text( text = if (isExpanded.value) {
+                    "Ausblenden"
+                } else {
+                    "Weitere Angaben"
+                }
+            )
+        }
+
+
+
+        if (isExpanded.value) {
         Containers.SimpleAttributeGroup(
             title = TitleStrings.size(language.value)
         ) {
@@ -207,6 +236,7 @@ fun SomeObjectDetails(
                     viewModel.setHeight(it)
                 }
             )
+        }
         }
     }
 }

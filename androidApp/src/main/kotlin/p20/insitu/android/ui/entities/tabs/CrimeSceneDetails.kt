@@ -3,6 +3,7 @@ package p20.insitu.android.ui.entities.tabs
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.Button
 import androidx.compose.material.Text
 import androidx.compose.material.TextField
 import androidx.compose.runtime.*
@@ -28,6 +29,8 @@ import p20.insitu.resources.strings.TitleStrings
 import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.util.toZonedDateTime
 import p20.insitu.viewmodels.entities.CrimeSceneViewModel
+import java.time.format.DateTimeFormatter
+import java.time.format.FormatStyle
 
 @Composable
 fun CrimeSceneDetails(
@@ -159,7 +162,8 @@ fun CrimeSceneDetails(
                                 value = timeOfArrival.value?.getFormattedTimeString() ?: "",
                                 label = { Label(text = TextFieldStrings.time(language.value)) },
                                 enabled = false,
-                                onValueChange = { }
+                                onValueChange = { },
+                                modifier = Modifier.weight(1f)
                             )
                         }
                     }

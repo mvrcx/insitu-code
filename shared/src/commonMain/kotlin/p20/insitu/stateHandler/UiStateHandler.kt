@@ -1,6 +1,8 @@
 package p20.insitu.stateHandler
 
+import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.RememberObserver
+import androidx.compose.runtime.mutableStateOf
 import co.touchlab.kermit.Logger
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -15,6 +17,14 @@ import p20.insitu.util.userMessages.UserMessage
 class UiStateHandler(
     private val log: Logger
 ) : KoinComponent {
+
+    private val _isExpanded = MutableStateFlow<Boolean>(
+        false
+    )
+    val isExpanded: StateFlow<Boolean> = _isExpanded
+    fun isExpanded(value: Boolean) {
+        _isExpanded.value = value
+    }
 
     var specificBackNavDestination: NavAction? = null
 
