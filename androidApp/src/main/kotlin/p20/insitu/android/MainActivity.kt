@@ -111,7 +111,6 @@ class MainActivity : ComponentActivity() {
                 window.navigationBarColor = systemUiColor.toArgb()
                 window.statusBarColor = systemUiColor.toArgb()
 
-                //snackbarTypeState.value = SnackbarType.ADDED
                 // If the UI state demands for a snackbar, display it. The snackbarHostState is
                 // attached to the scaffold. In this way, the scaffold is displayed even if the
                 // view is destroyed (e.g  leaving the DocuMode after deletion of an entry.)
