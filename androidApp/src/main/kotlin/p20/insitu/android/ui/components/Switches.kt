@@ -11,6 +11,8 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
+import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -98,9 +100,14 @@ object Switches {
                     modifier = Modifier.size(64.dp),
                     contentAlignment = Alignment.Center,
                 ) {
+                    //val haptic = LocalHapticFeedback.current
                     Switch(
                         checked = switch.value,
-                        onCheckedChange = update
+                        onCheckedChange =
+                            update
+                            //haptic.performHapticFeedback(HapticFeedbackType.LongPress)
+
+
                     )
                 }
             }
