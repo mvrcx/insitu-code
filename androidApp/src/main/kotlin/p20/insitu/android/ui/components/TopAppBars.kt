@@ -1,28 +1,40 @@
 package p20.insitu.android.ui.components
 
 //import android.annotation.SuppressLint
+import android.content.Context
+import android.os.Build
+import android.os.VibrationEffect
+import android.os.Vibrator
 import android.widget.Toast
-import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.material.*
-import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.material.MaterialTheme
+import androidx.compose.material.Text
+import androidx.compose.material.TopAppBar
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.MutableState
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.platform.debugInspectorInfo
+import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.text.style.TextOverflow
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.launch
+import androidx.core.content.ContextCompat.getSystemService
 import p20.insitu.android.ui.components.buttons.IconButtons
 import p20.insitu.android.ui.components.dialogs.AlertDialogs
+import p20.insitu.android.ui.components.dimen.FontSize
 import p20.insitu.nav.NavAction
 import p20.insitu.nav.NavDestination
 import p20.insitu.resources.strings.TitleStrings
-import p20.insitu.stateHandler.UiStateHandler
-import p20.insitu.viewmodels.entities.EntityViewModel
-import p20.insitu.android.ui.components.dimen.FontSize
 import p20.insitu.stateHandler.SessionHandler
+import p20.insitu.stateHandler.UiStateHandler
 import p20.insitu.util.SnackbarType
+import p20.insitu.viewmodels.entities.EntityViewModel
+
 
 object TopAppBars {
 
@@ -195,11 +207,13 @@ object TopAppBars {
 
                 // Manage visibility of delete dialog
                 var showDeleteDialog = uiStateHandler.showDeleteDialog.collectAsState(false)
+                val haptic = LocalHapticFeedback.current
                 if (showDeleteDialog.value) {
                     AlertDialogs.DeleteDialog(
                         onDismiss = {
                             uiStateHandler.showDeleteDialog(false)},
                         onConfirm = {
+                            haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                             uiStateHandler.showDeleteDialog(false)
                             viewModel.delete()
                             uiStateHandler.showSnackBar(true)
@@ -229,19 +243,20 @@ object TopAppBars {
                         IconButtons.Delete(language.value) {
                             uiStateHandler.showDeleteDialog(true)
                         }
-
+                        val coroutineScope = rememberCoroutineScope()
                         IconButtons.Save(
                             language = language.value,
-                            enabled = !missingMandatoryValues.value
+                            enabled = !missingMandatoryValues.value,
                         ) {
+                            haptic.performHapticFeedback(HapticFeedbackType.LongPress)
                             viewModel.save()
                             uiStateHandler.showSnackBar(true)
                             uiStateHandler.snackbarType(SnackbarType.EDITED)
                         }
-                        }
                     }
                 }
             }
+        }
 
     @Composable
     fun DocuModeDefault(
@@ -625,5 +640,4 @@ object TopAppBars {
                 }
             }
         }
-
 }
