@@ -106,8 +106,6 @@ object Switches {
                         onCheckedChange =
                             update
                             //haptic.performHapticFeedback(HapticFeedbackType.LongPress)
-
-
                     )
                 }
             }
