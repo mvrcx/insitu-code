@@ -14,8 +14,8 @@ object TitleStrings {
         }
     }
 
-    private const val delete_DE = "Loeschen?"
-    private const val delete_EN = "Delete?"
+    private const val delete_DE = "Eintrag löschen"
+    private const val delete_EN = "Delete entry"
 
     fun delete(language: Language):String {
         return when (language) {
