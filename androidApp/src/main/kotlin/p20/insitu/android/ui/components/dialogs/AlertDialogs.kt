@@ -49,8 +49,7 @@ object AlertDialogs {
         onConfirm: () -> Unit,
         language: Language,
     ) {
-        //val snackbarTypeState = remember { mutableStateOf(SnackbarType.NONE) }
-        //val currentSnackbarType = snackbarTypeState.value
+
         AlertDialog(
 
             properties = DialogProperties(
